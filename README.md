@@ -24,6 +24,27 @@ Currently based in **Menlo Park, CA**. Shipping products at [maxawad.com](https:
 <tr>
 <td width="50%" valign="top">
 
+<div align="center">
+<img src="https://img.shields.io/badge/%F0%9F%8E%A4-7c3aed?style=for-the-badge&logoColor=white" alt="" height="48"/>
+</div>
+
+### <a href="https://maxawad.com/jarvis">Jarvis</a>
+
+**ChatGPT voice chat for macOS**
+
+Native macOS wrapper for ChatGPT with global voice hotkey and floating quick chat overlay. Press `Ctrl+Space` from any app to talk to ChatGPT without switching windows. Uses your existing ChatGPT account — GPT-4o, voice mode, all Plus features.
+
+`Swift` `SwiftUI` `WKWebView` `Carbon Events` `Hardened Runtime`
+
+<sub>$25.99 &bull; One-time purchase &bull; macOS 14+</sub>
+
+</td>
+<td width="50%" valign="top">
+
+<div align="center">
+<img src="https://img.shields.io/badge/%F0%9F%8E%99%EF%B8%8F-3b82f6?style=for-the-badge&logoColor=white" alt="" height="48"/>
+</div>
+
 ### <a href="https://lowercase.click">lowercase</a>
 
 **System dictation replacement for macOS**
@@ -35,22 +56,13 @@ Press the dictation key, speak, and watch your words appear — offline, fast, p
 <sub>Free &bull; Open Source &bull; macOS 14+ &amp; iOS 17+</sub>
 
 </td>
-<td width="50%" valign="top">
-
-### <a href="https://perico.click">Perico Chifles</a>
-
-**AI-native snack ordering via MCP**
-
-An Ecuadorian plantain chip brand with a full product catalog exposed as an MCP server. Claude Desktop, Cursor, or any MCP-compatible AI can browse products, calculate prices, and place orders with Stripe payment links. Same-day delivery in SF.
-
-`TypeScript` `Next.js` `MCP SDK` `Stripe` `Vercel`
-
-<sub>Live at <a href="https://perico.click">perico.click</a></sub>
-
-</td>
 </tr>
 <tr>
 <td width="50%" valign="top">
+
+<div align="center">
+<img src="https://img.shields.io/badge/%F0%9F%94%8D-0891b2?style=for-the-badge&logoColor=white" alt="" height="48"/>
+</div>
 
 ### <a href="https://maxawad.com/textgrab">TextGrab</a>
 
@@ -65,6 +77,29 @@ Select any region on your screen and instantly extract text to your clipboard. O
 </td>
 <td width="50%" valign="top">
 
+<div align="center">
+<img src="https://img.shields.io/badge/%F0%9F%AA%9F-7c3aed?style=for-the-badge&logoColor=white" alt="" height="48"/>
+</div>
+
+### <a href="https://maxawad.com/windowswitch">WindowSwitch</a>
+
+**Per-window Cmd+Tab for macOS**
+
+macOS Cmd+Tab only switches apps. WindowSwitch shows every window with live thumbnails so you land exactly where you left off. True MRU ordering, customizable shortcut, zero config. The Alt+Tab experience macOS should have built in.
+
+`Swift` `SwiftUI` `Accessibility API` `CoreGraphics` `Carbon`
+
+<sub>Free &bull; Open Source &bull; macOS 14+</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<div align="center">
+<img src="https://img.shields.io/badge/%E2%98%80%EF%B8%8F-f59e0b?style=for-the-badge&logoColor=white" alt="" height="48"/>
+</div>
+
 ### <a href="https://maxawad.com/brightenup">Brighten Up</a>
 
 **Push MacBook Pro beyond max brightness**
@@ -75,6 +110,8 @@ Unlocks the XDR brightness range on supported displays. Menu bar app with global
 
 <sub>Free &bull; MacBook Pro with XDR display &bull; macOS 13+</sub>
 
+</td>
+<td width="50%" valign="top">
 </td>
 </tr>
 </table>
@@ -107,7 +144,7 @@ Unlocks the XDR brightness range on supported displays. Menu bar app with global
 <div align="center">
 <sub>Most of my work lives in private repos — this profile highlights recent shipped products.</sub>
 <br>
-<sub>Reach me at <a href="mailto:max@redxam.com">max@redxam.com</a> or <a href="https://maxawad.com/contact">book a call</a>.</sub>
+<sub><a href="https://maxawad.com/contact">Book a call</a> if you'd like to work together.</sub>
 </div>
 
 <picture>
