@@ -25,7 +25,7 @@ Currently based in **Menlo Park, CA**. Shipping products at [maxawad.com](https:
 <td width="50%" valign="top">
 
 <div align="center">
-<img src="https://img.shields.io/badge/%F0%9F%8E%A4-7c3aed?style=for-the-badge&logoColor=white" alt="" height="48"/>
+<a href="https://maxawad.com/jarvis"><img src="icons/jarvis.png" width="80" alt="Jarvis"/></a>
 </div>
 
 ### <a href="https://maxawad.com/jarvis">Jarvis</a>
@@ -42,7 +42,7 @@ Native macOS wrapper for ChatGPT with global voice hotkey and floating quick cha
 <td width="50%" valign="top">
 
 <div align="center">
-<img src="https://img.shields.io/badge/%F0%9F%8E%99%EF%B8%8F-3b82f6?style=for-the-badge&logoColor=white" alt="" height="48"/>
+<a href="https://lowercase.click"><img src="icons/lowercase.png" width="80" alt="lowercase"/></a>
 </div>
 
 ### <a href="https://lowercase.click">lowercase</a>
@@ -61,7 +61,7 @@ Press the dictation key, speak, and watch your words appear — offline, fast, p
 <td width="50%" valign="top">
 
 <div align="center">
-<img src="https://img.shields.io/badge/%F0%9F%94%8D-0891b2?style=for-the-badge&logoColor=white" alt="" height="48"/>
+<a href="https://maxawad.com/textgrab"><img src="icons/textgrab.png" width="80" alt="TextGrab"/></a>
 </div>
 
 ### <a href="https://maxawad.com/textgrab">TextGrab</a>
@@ -78,7 +78,7 @@ Select any region on your screen and instantly extract text to your clipboard. O
 <td width="50%" valign="top">
 
 <div align="center">
-<img src="https://img.shields.io/badge/%F0%9F%AA%9F-7c3aed?style=for-the-badge&logoColor=white" alt="" height="48"/>
+<a href="https://maxawad.com/windowswitch"><img src="icons/windowswitch.png" width="80" alt="WindowSwitch"/></a>
 </div>
 
 ### <a href="https://maxawad.com/windowswitch">WindowSwitch</a>
@@ -97,7 +97,7 @@ macOS Cmd+Tab only switches apps. WindowSwitch shows every window with live thum
 <td width="50%" valign="top">
 
 <div align="center">
-<img src="https://img.shields.io/badge/%E2%98%80%EF%B8%8F-f59e0b?style=for-the-badge&logoColor=white" alt="" height="48"/>
+<a href="https://maxawad.com/brightenup"><img src="icons/brightenup.png" width="80" alt="Brighten Up"/></a>
 </div>
 
 ### <a href="https://maxawad.com/brightenup">Brighten Up</a>
@@ -112,6 +112,21 @@ Unlocks the XDR brightness range on supported displays. Menu bar app with global
 
 </td>
 <td width="50%" valign="top">
+
+<div align="center">
+<a href="https://perico.click"><img src="icons/perico.png" width="80" alt="Perico Chifles"/></a>
+</div>
+
+### <a href="https://perico.click">Perico Chifles</a>
+
+**AI-native snack ordering via MCP**
+
+Ecuadorian plantain chips with a full product catalog exposed as an MCP server. Claude, Cursor, or any MCP-compatible AI can browse products, calculate prices, and place orders with Stripe. Same-day delivery in San Francisco.
+
+`TypeScript` `Next.js` `MCP SDK` `Stripe` `Vercel`
+
+<sub>Live at <a href="https://perico.click">perico.click</a></sub>
+
 </td>
 </tr>
 </table>
