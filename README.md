@@ -8,7 +8,7 @@
 
 I build native apps, AI tools, and infra — mostly in Swift, TypeScript, Python, and C++.
 
-Currently based in **Menlo Park, CA**. Shipping products at [maxawad.com](https://maxawad.com).
+Currently based in **San Francisco, CA**. Shipping products at [maxawad.com](https://maxawad.com).
 
 [![Website](https://img.shields.io/badge/maxawad.com-0b0f14?style=for-the-badge&logo=safari&logoColor=white)](https://maxawad.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/maxawad)
