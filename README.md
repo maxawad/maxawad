@@ -161,7 +161,7 @@ Ecuadorian plantain chips with a full product catalog exposed as an MCP server. 
 <div align="center">
 <sub>Most of my craft rides at anchor in private repos — think of this README as tide-marked marginalia.</sub>
 <br>
-<sub><a href="https://maxawad.com/contact">Drop a line</a> if you want to build something together.</sub>
+<sub><a href="https://maxawad.com/contact">Hail me</a> if you want to build something together.</sub>
 </div>
 
 <picture>
