@@ -8,7 +8,7 @@
 
 I design, forge, and berth native apps, AI lookouts, and systems — spliced in Swift, TypeScript, Python, C++, and just enough CLI cantrips to wrangle stray entropy back to the bitts.
 
-Berth: **San Francisco, CA** — Karl willing, making way: [maxawad.com](https://maxawad.com).
+Berth: **San Francisco, CA** — Karl willing, underway: [maxawad.com](https://maxawad.com).
 
 [![Website](https://img.shields.io/badge/maxawad.com-0b0f14?style=for-the-badge&logo=safari&logoColor=white)](https://maxawad.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/maxawad)
