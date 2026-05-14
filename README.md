@@ -159,7 +159,7 @@ Ecuadorian plantain chips with a full product catalog exposed as an MCP server. 
 ---
 
 <div align="center">
-<sub>Most of my craft lies dry-docked in private repos — treat this README as logbook marginalia.</sub>
+<sub>Most of my craft lies barnacled in private repos — treat this README as logbook marginalia.</sub>
 <br>
 <sub><a href="https://maxawad.com/contact">Swing the Aldis lamp</a> if you'd like to chart a course together.</sub>
 </div>
