@@ -6,7 +6,7 @@
 
 <div align="center">
 
-I design, forge, and helm native apps, AI sentinels, and systems — rigged in Swift, TypeScript, Python, C++, and just enough CLI cantrips to belay stray chaos back to the bitts.
+I design, forge, and helm native apps, AI watchkeepers, and systems — rigged in Swift, TypeScript, Python, C++, and just enough CLI cantrips to belay stray chaos back to the bitts.
 
 Dead reckoning: **San Francisco, CA** — when Karl the Fog frays, giving lee: [maxawad.com](https://maxawad.com).
 
