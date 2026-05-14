@@ -158,7 +158,7 @@ Ecuadorian plantain chips with a full product catalog exposed as an MCP server. 
 ---
 
 <div align="center">
-<sub>Most of my work rides at anchor in private repos — consider these lines salt-rimed footnotes.</sub>
+<sub>Most of my work rides at anchor in private repos — consider these lines salt-rimed marginalia.</sub>
 <br>
 <sub><a href="https://maxawad.com/contact">Book a call</a> if you'd like to work together.</sub>
 </div>
