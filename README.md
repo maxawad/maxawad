@@ -67,7 +67,7 @@ Tap the dictation key, speak, and watch your words appear — offline, fast, pri
 
 ### <a href="https://maxawad.com/textgrab">TextGrab</a>
 
-**Region-first screen OCR for macOS**
+**Pixel-perfect screen OCR for macOS**
 
 Select any region on your screen and instantly extract text to your clipboard. One global hotkey (`Cmd+Shift+2`), zero friction. Uses Apple's Vision framework for on-device text recognition in 5 languages.
 
@@ -120,7 +120,7 @@ Unlocks the XDR brightness range on supported displays. Menu bar app with global
 
 ### <a href="https://perico.click">Perico Chifles</a>
 
-**MCP-native snack ordering — literal chips & silicon by starlight**
+**MCP-native snack ordering — literal chips & silicon by moonlight**
 
 Ecuadorian plantain chips with a full product catalog exposed as an MCP server. Claude, Cursor, or any MCP-compatible AI can browse products, calculate prices, and place orders with Stripe. Same-day bike courier delivery in San Francisco.
 
