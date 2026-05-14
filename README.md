@@ -105,7 +105,7 @@ macOS Cmd+Tab only switches apps. WindowSwitch shows every window with live thum
 
 **Push MacBook Pro beyond max brightness**
 
-Unlocks the XDR brightness range on supported displays. Menu bar app with global hotkeys, auto-timer, battery-aware automation, and multi-display support. See your screen clearly through high-noon glare.
+Unlocks the XDR brightness range on supported displays. Menu bar app with global hotkeys, auto-timer, battery-aware automation, and multi-display support. See your screen clearly through glare that laughs at noon.
 
 `Swift` `AppKit` `CoreGraphics` `IOKit` `Metal`
 
