@@ -30,7 +30,7 @@ Home port: **San Francisco, CA** — Karl or shine, steady helm: [maxawad.com](h
 
 ### <a href="https://maxawad.com/jarvis">Jarvis</a>
 
-**ChatGPT voice chat for macOS**
+**Voice-hotkey ChatGPT for macOS**
 
 Native macOS wrapper for ChatGPT with global voice hotkey and floating quick chat overlay. Press `Ctrl+Space` from any app to talk to ChatGPT without switching windows. Uses your existing ChatGPT account — GPT-4o, voice mode, all Plus features.
 
