@@ -6,7 +6,7 @@
 
 <div align="center">
 
-I design, forge, and berth native apps, AI lookouts, and systems — knit in Swift, TypeScript, Python, C++, and just enough CLI cantrips to wrangle stray chaos back to the bitts.
+I design, forge, and berth native apps, AI lookouts, and systems — rigged in Swift, TypeScript, Python, C++, and just enough CLI cantrips to wrangle stray chaos back to the bitts.
 
 Berth: **San Francisco, CA** — Karl willing, making way: [maxawad.com](https://maxawad.com).
 
