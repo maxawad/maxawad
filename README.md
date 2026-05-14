@@ -161,7 +161,7 @@ Ecuadorian plantain chips with a full product catalog exposed as an MCP server. 
 <div align="center">
 <sub>Most of my craft rides at anchor in private repos — treat this profile as the quarterdeck's salt-stained chart.</sub>
 <br>
-<sub><a href="https://maxawad.com/contact">Raise the Aldis lamp</a> if you'd like to chart a course together.</sub>
+<sub><a href="https://maxawad.com/contact">Flash the Aldis lamp</a> if you'd like to chart a course together.</sub>
 </div>
 
 <picture>
