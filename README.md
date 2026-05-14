@@ -158,7 +158,7 @@ Ecuadorian plantain chips with a full product catalog exposed as an MCP server. 
 ---
 
 <div align="center">
-<sub>Most of my work drops anchor in private repos — consider this README a harbor pilot’s field notes.</sub>
+<sub>Most of my work drops anchor in private repos — consider this README a harbor pilot’s margin scribbles.</sub>
 <br>
 <sub><a href="https://maxawad.com/contact">Book a call</a> if you'd like to work together.</sub>
 </div>
