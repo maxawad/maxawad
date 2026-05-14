@@ -8,7 +8,7 @@
 
 I design, forge, and ship native apps, AI agents, and infrastructure — chiefly in Swift, TypeScript, Python, C++, and just enough shell one-liners to lasso rogue entropy back into moorings.
 
-Harbor: **San Francisco, CA** — home berth: [maxawad.com](https://maxawad.com).
+Home port: **San Francisco, CA** — home berth: [maxawad.com](https://maxawad.com).
 
 [![Website](https://img.shields.io/badge/maxawad.com-0b0f14?style=for-the-badge&logo=safari&logoColor=white)](https://maxawad.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/maxawad)
@@ -159,7 +159,7 @@ Ecuadorian plantain chips with a full product catalog exposed as an MCP server. 
 ---
 
 <div align="center">
-<sub>Most of my craft rides at anchor in private repos — consider these lines tide-marked marginalia.</sub>
+<sub>Most of my craft rides at anchor in private repos — consider these lines quayside marginalia.</sub>
 <br>
 <sub><a href="https://maxawad.com/contact">Book a call</a> if you want to build something together.</sub>
 </div>
