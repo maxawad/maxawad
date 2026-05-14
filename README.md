@@ -8,7 +8,7 @@
 
 I design, forge, and ship native apps, AI sentries, and systems — lashed in Swift, TypeScript, Python, C++, and just enough CLI cantrips to wrangle ambient entropy back to the bitts.
 
-Home port: **San Francisco, CA** — Karl willing, making way: [maxawad.com](https://maxawad.com).
+Home port: **San Francisco, CA** — Karl willing, underway: [maxawad.com](https://maxawad.com).
 
 [![Website](https://img.shields.io/badge/maxawad.com-0b0f14?style=for-the-badge&logo=safari&logoColor=white)](https://maxawad.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/maxawad)
