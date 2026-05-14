@@ -161,7 +161,7 @@ Ecuadorian plantain chips with a full product catalog exposed as an MCP server. 
 <div align="center">
 <sub>Most of my craft rides at anchor in private repos — this README reads like intertidal marginalia.</sub>
 <br>
-<sub><a href="https://maxawad.com/contact">Break out the Aldis lamp</a> if you want to chart a course together.</sub>
+<sub><a href="https://maxawad.com/contact">Flash the Aldis lamp</a> if you want to chart a course together.</sub>
 </div>
 
 <picture>
