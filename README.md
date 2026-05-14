@@ -8,7 +8,7 @@
 
 I design, chart, and helm shipshape native apps, AI lookouts, and systems — rigged in Swift, TypeScript, Python, C++, and just enough CLI incantations to moor stray entropy fast to the bitts.
 
-Dead reckoning: **San Francisco, CA** — whenever Karl the Fog frays, giving lee: [maxawad.com](https://maxawad.com).
+Dead reckoning: **San Francisco, CA** — whenever Karl the Fog lifts, giving lee: [maxawad.com](https://maxawad.com).
 
 [![Website](https://img.shields.io/badge/maxawad.com-0b0f14?style=for-the-badge&logo=safari&logoColor=white)](https://maxawad.com)
 [![GitHub](https://img.shields.io/badge/GitHub-maxawad-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maxawad)
