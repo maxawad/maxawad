@@ -8,7 +8,7 @@
 
 I design, forge, and ship native apps, AI sentinels, and systems — rigged in Swift, TypeScript, Python, C++, and just enough shell cantrips to wrangle rogue entropy back to the bollards.
 
-Anchorage: **San Francisco, CA** — Karl or shine, steady helm: [maxawad.com](https://maxawad.com).
+Anchorage: **San Francisco, CA** — Karl or shine, hold course: [maxawad.com](https://maxawad.com).
 
 [![Website](https://img.shields.io/badge/maxawad.com-0b0f14?style=for-the-badge&logo=safari&logoColor=white)](https://maxawad.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/maxawad)
