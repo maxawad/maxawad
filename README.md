@@ -6,7 +6,7 @@
 
 <div align="center">
 
-I forge and ship native apps, AI agents, and infrastructure — mostly in Swift, TypeScript, Python, C++, and the occasional bash incantation.
+I forge and ship native apps, AI agents, and infrastructure — mostly in Swift, TypeScript, Python, C++, and the occasional terminal folk magic.
 
 Currently based in **San Francisco, CA** — shipping products at [maxawad.com](https://maxawad.com).
 
