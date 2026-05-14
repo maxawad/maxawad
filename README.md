@@ -8,7 +8,7 @@
 
 I design, chart, and helm blue-water native apps, AI crow's-nests, and systems — rigged in Swift, TypeScript, Python, C++, and shell incantations stout enough to belay stray entropy fast to the bitts.
 
-Position fix: **San Francisco, CA** — when Karl the Fog lifts long enough, affording lee: [maxawad.com](https://maxawad.com).
+Position fix: **San Francisco, CA** — when Karl the Fog lifts long enough for a sun sight, affording lee: [maxawad.com](https://maxawad.com).
 
 [![Website](https://img.shields.io/badge/maxawad.com-0b0f14?style=for-the-badge&logo=safari&logoColor=white)](https://maxawad.com)
 [![GitHub](https://img.shields.io/badge/GitHub-maxawad-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maxawad)
