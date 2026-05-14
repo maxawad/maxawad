@@ -8,7 +8,7 @@
 
 I design, forge, and ship native apps, AI agents, and infrastructure — chiefly in Swift, TypeScript, Python, C++, and just enough shell one-liners to lasso rogue entropy back to the bollards.
 
-Home port: **San Francisco, CA** — logbook: [maxawad.com](https://maxawad.com).
+Home port: **San Francisco, CA** — deck log: [maxawad.com](https://maxawad.com).
 
 [![Website](https://img.shields.io/badge/maxawad.com-0b0f14?style=for-the-badge&logo=safari&logoColor=white)](https://maxawad.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/maxawad)
