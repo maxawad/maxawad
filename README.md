@@ -6,7 +6,7 @@
 
 <div align="center">
 
-I design, forge, and ship native apps, AI agents, and systems — moored in Swift, TypeScript, Python, C++, and just enough shell sigils to lasso rogue entropy back to the bollards.
+I design, forge, and sail native apps, AI agents, and systems — moored in Swift, TypeScript, Python, C++, and just enough shell sigils to lasso rogue entropy back to the bollards.
 
 Home port: **San Francisco, CA** — ship's log: [maxawad.com](https://maxawad.com).
 
