@@ -6,7 +6,7 @@
 
 <div align="center">
 
-I design, forge, and helm native apps, AI watchkeepers, and systems — rigged in Swift, TypeScript, Python, C++, and just enough CLI cantrips to belay stray chaos back to the bitts.
+I design, forge, and helm native apps, AI watchkeepers, and systems — rigged in Swift, TypeScript, Python, C++, and just enough CLI cantrips to belay stray entropy back to the bitts.
 
 Dead reckoning: **San Francisco, CA** — whenever Karl the Fog frays, giving lee: [maxawad.com](https://maxawad.com).
 
@@ -31,7 +31,7 @@ Dead reckoning: **San Francisco, CA** — whenever Karl the Fog frays, giving le
 
 ### <a href="https://maxawad.com/jarvis">Jarvis</a>
 
-**Voice-hotkey ChatGPT for macOS**
+**Voice-first ChatGPT for macOS**
 
 Native macOS wrapper for ChatGPT with global voice hotkey and floating quick chat overlay. Press `Ctrl+Space` from any app to talk to ChatGPT without breaking cadence. Uses your existing ChatGPT account — GPT-4o, voice mode, all Plus features.
 
