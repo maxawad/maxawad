@@ -6,7 +6,7 @@
 
 <div align="center">
 
-I design, forge, and ship native apps, AI sentinels, and systems — lashed in Swift, TypeScript, Python, C++, and just enough CLI cantrips to wrangle ambient entropy back to the bitts.
+I design, forge, and ship native apps, AI sentries, and systems — lashed in Swift, TypeScript, Python, C++, and just enough CLI cantrips to wrangle ambient entropy back to the bitts.
 
 Anchorage: **San Francisco, CA** — Karl willing, steady as she goes: [maxawad.com](https://maxawad.com).
 
