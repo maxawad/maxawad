@@ -47,7 +47,7 @@ Native macOS wrapper for ChatGPT with global voice hotkey and floating quick cha
 
 ### <a href="https://lowercase.click">lowercase</a>
 
-**System dictation replacement for macOS**
+**System-wide dictation replacement for macOS**
 
 Press the dictation key, speak, and watch your words appear — offline, fast, private. Powered by NVIDIA Parakeet TDT running on the Apple Neural Engine. Also available as an [iOS keyboard](https://lowercase.click) with Live Activities and on-device ML.
 
