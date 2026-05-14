@@ -6,7 +6,7 @@
 
 <div align="center">
 
-I design, frame, and helm shipshape native apps, AI lookouts, and systems — rigged in Swift, TypeScript, Python, C++, and just enough CLI cantrips to moor stray entropy fast to the bitts.
+I design, frame, and helm shipshape native apps, AI lookouts, and systems — rigged in Swift, TypeScript, Python, C++, and just enough CLI incantations to moor stray entropy fast to the bitts.
 
 Dead reckoning: **San Francisco, CA** — whenever Karl the Fog frays, giving lee: [maxawad.com](https://maxawad.com).
 
