@@ -160,7 +160,7 @@ Ecuadorian plantain chips with a full product catalog exposed as an MCP server. 
 ---
 
 <div align="center">
-<sub>Most of my craft rides at anchor in private repos — treat this profile as the chart kept under binnacle glass.</sub>
+<sub>Most of my craft lies at anchor in private repos — treat this profile as the chart kept under binnacle glass.</sub>
 <br>
 <sub><a href="https://maxawad.com/contact">Blink the Aldis lamp once</a> if you'd like to chart a course together.</sub>
 </div>
