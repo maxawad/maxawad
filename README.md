@@ -6,7 +6,7 @@
 
 <div align="center">
 
-I design, forge, and ship native apps, AI agents, and systems — mostly in Swift, TypeScript, Python, C++, and just enough shell sigils to lasso rogue entropy back to the bollards.
+I design, forge, and ship native apps, AI agents, and systems — chiefly in Swift, TypeScript, Python, C++, and just enough shell sigils to lasso rogue entropy back to the bollards.
 
 Home port: **San Francisco, CA** — chart table: [maxawad.com](https://maxawad.com).
 
