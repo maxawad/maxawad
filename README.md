@@ -66,7 +66,7 @@ Press the dictation key, speak, and watch your words appear — offline, fast, p
 
 ### <a href="https://maxawad.com/textgrab">TextGrab</a>
 
-**Screen OCR for macOS**
+**Region-first screen OCR for macOS**
 
 Select any region on your screen and instantly extract text to your clipboard. One global hotkey (`Cmd+Shift+2`), zero friction. Uses Apple's Vision framework for on-device text recognition in 5 languages.
 
