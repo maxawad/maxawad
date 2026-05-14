@@ -6,7 +6,7 @@
 
 <div align="center">
 
-I design, temper, and ship native apps, AI agents, and infrastructure — mostly in Swift, TypeScript, Python, C++, and just enough shell sigils to lasso runaway entropy back to the cleats.
+I design, temper, and ship native apps, AI agents, and infrastructure — mostly in Swift, TypeScript, Python, C++, and just enough shell cantrips to lasso runaway entropy back to the cleats.
 
 Home port: **San Francisco, CA** — captain's log: [maxawad.com](https://maxawad.com).
 
@@ -119,7 +119,7 @@ Unlocks the XDR brightness range on supported displays. Menu bar app with global
 
 ### <a href="https://perico.click">Perico Chifles</a>
 
-**MCP-native snack ordering — literal chips, GPUs politely optional**
+**MCP-native snack ordering — literal chips, GPUs cordially optional**
 
 Ecuadorian plantain chips with a full product catalog exposed as an MCP server. Claude, Cursor, or any MCP-compatible AI can browse products, calculate prices, and place orders with Stripe. Same-day bike courier delivery in San Francisco.
 
@@ -161,7 +161,7 @@ Ecuadorian plantain chips with a full product catalog exposed as an MCP server. 
 <div align="center">
 <sub>Most of my craft rides at anchor in private repos — think of this README as lantern-lit marginalia.</sub>
 <br>
-<sub><a href="https://maxawad.com/contact">Hoist a signal</a> if you want to build something together.</sub>
+<sub><a href="https://maxawad.com/contact">Hoist a lantern</a> if you want to build something together.</sub>
 </div>
 
 <picture>
