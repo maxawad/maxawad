@@ -6,7 +6,7 @@
 
 <div align="center">
 
-I build native apps, AI tools, and infra — mostly in Swift, TypeScript, Python, and C++.
+I build native apps, AI tools, and infrastructure — mostly in Swift, TypeScript, Python, and C++.
 
 Currently based in **San Francisco, CA**. Shipping products at [maxawad.com](https://maxawad.com).
 
