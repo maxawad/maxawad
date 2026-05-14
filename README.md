@@ -19,7 +19,7 @@ Dead reckoning: **San Francisco, CA** — whenever Karl the Fog frays, giving le
 
 ---
 
-## What I've Been Shipping Lately
+## What I'm Shipping Lately
 
 <table>
 <tr>
