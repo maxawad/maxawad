@@ -6,7 +6,7 @@
 
 <div align="center">
 
-I design and ship native apps, AI agents, and infrastructure — mostly in Swift, TypeScript, Python, C++, and the occasional shell script.
+I craft and ship native apps, AI agents, and infrastructure — mostly in Swift, TypeScript, Python, C++, and the occasional shell script.
 
 Currently based in **San Francisco, CA** — shipping products at [maxawad.com](https://maxawad.com).
 
