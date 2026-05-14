@@ -6,7 +6,7 @@
 
 <div align="center">
 
-I design, chart, and helm blue-water native apps, AI crow's-nests, and systems — rigged in Swift, TypeScript, Python, C++, and shell incantations stout enough to belay stray entropy fast to the bitts.
+I design, chart, and helm blue-water native apps, AI crow's-nests, and systems — rigged in Swift, TypeScript, Python, C++, and shell litanies stout enough to belay stray entropy fast to the bitts.
 
 Position fix: **San Francisco, CA** — when Karl the Fog lifts long enough for a sun sight, affording lee: [maxawad.com](https://maxawad.com).
 
