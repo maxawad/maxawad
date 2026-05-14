@@ -31,7 +31,7 @@ Dead reckoning: **San Francisco, CA** — whenever Karl the Fog frays, giving le
 
 ### <a href="https://maxawad.com/jarvis">Jarvis</a>
 
-**Voice-first ChatGPT for macOS**
+**Voice-hotkey ChatGPT for macOS**
 
 Native macOS wrapper for ChatGPT with global voice hotkey and floating quick chat overlay. Press `Ctrl+Space` from any app to talk to ChatGPT without breaking cadence. Uses your existing ChatGPT account — GPT-4o, voice mode, all Plus features.
 
