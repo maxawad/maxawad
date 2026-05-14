@@ -6,7 +6,7 @@
 
 <div align="center">
 
-I craft and ship native apps, AI agents, and infrastructure — mostly in Swift, TypeScript, Python, C++, and the occasional shell script.
+I craft and ship native apps, AI agents, and infrastructure — mostly in Swift, TypeScript, Python, C++, and the occasional bash incantation.
 
 Currently based in **San Francisco, CA** — shipping products at [maxawad.com](https://maxawad.com).
 
@@ -157,7 +157,7 @@ Ecuadorian plantain chips with a full product catalog exposed as an MCP server. 
 ---
 
 <div align="center">
-<sub>Most of my work lives in private repos — consider this the public slice of the iceberg.</sub>
+<sub>Most of my work lives in private repos — consider this the iceberg's lobby brochure.</sub>
 <br>
 <sub><a href="https://maxawad.com/contact">Book a call</a> if you'd like to work together.</sub>
 </div>
