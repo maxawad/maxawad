@@ -6,7 +6,7 @@
 
 <div align="center">
 
-I design, forge, and moor native apps, AI lookouts, and systems — rigged in Swift, TypeScript, Python, C++, and just enough CLI cantrips to lash stray chaos back to the bitts.
+I design, forge, and moor native apps, AI warders, and systems — rigged in Swift, TypeScript, Python, C++, and just enough CLI cantrips to lash stray chaos back to the bitts.
 
 Berth: **San Francisco, CA** — when Karl peels back, making way: [maxawad.com](https://maxawad.com).
 
