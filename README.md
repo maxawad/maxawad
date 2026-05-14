@@ -159,7 +159,7 @@ Ecuadorian plantain chips with a full product catalog exposed as an MCP server. 
 ---
 
 <div align="center">
-<sub>Most of my craft sleeps barnacled in private repos — treat this profile as captain's marginalia.</sub>
+<sub>Most of my craft sleeps barnacled in private repos — treat this profile as the quarterdeck's scratch pad.</sub>
 <br>
 <sub><a href="https://maxawad.com/contact">Key the Aldis lamp</a> if you'd like to chart a course together.</sub>
 </div>
