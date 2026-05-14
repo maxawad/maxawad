@@ -6,7 +6,7 @@
 
 <div align="center">
 
-I design, forge, and ship native apps, AI lookouts, and systems — moored in Swift, TypeScript, Python, C++, and just enough shell sigils to corral rogue entropy back to the bollards.
+I design, forge, and ship native apps, AI lookouts, and systems — rigged in Swift, TypeScript, Python, C++, and just enough shell sigils to corral rogue entropy back to the bollards.
 
 Anchorage: **San Francisco, CA** — Karl or shine, steady helm: [maxawad.com](https://maxawad.com).
 
