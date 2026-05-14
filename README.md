@@ -8,7 +8,7 @@
 
 I design, forge, and steward native apps, AI warders, and systems — rigged in Swift, TypeScript, Python, C++, and just enough CLI cantrips to belay stray entropy back to the bitts.
 
-Berth: **San Francisco, CA** — when Karl the Fog frays, making way: [maxawad.com](https://maxawad.com).
+Berth: **San Francisco, CA** — when Karl the Fog frays, giving lee: [maxawad.com](https://maxawad.com).
 
 [![Website](https://img.shields.io/badge/maxawad.com-0b0f14?style=for-the-badge&logo=safari&logoColor=white)](https://maxawad.com)
 [![GitHub](https://img.shields.io/badge/GitHub-maxawad-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maxawad)
