@@ -157,7 +157,7 @@ Ecuadorian plantain chips with a full product catalog exposed as an MCP server. 
 ---
 
 <div align="center">
-<sub>Most of my work lives in private repos — this README is the iceberg's trail map.</sub>
+<sub>Most of my work lives in private repos — this README is the iceberg's coastal chart.</sub>
 <br>
 <sub><a href="https://maxawad.com/contact">Book a call</a> if you'd like to work together.</sub>
 </div>
