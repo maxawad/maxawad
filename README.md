@@ -19,7 +19,7 @@ Celestial fix: **San Francisco, CA** — whenever Karl peels back far enough for
 
 ---
 
-## What I'm Hoisting of Late
+## What I'm Hoisting Lately
 
 <table>
 <tr>
