@@ -161,7 +161,7 @@ Ecuadorian plantain chips with a full product catalog exposed as an MCP server. 
 ---
 
 <div align="center">
-<sub>Most of my craft rides snug betwixt decks in tarred holds — treat this profile as the traverse board chalked beneath binnacle glass.</sub>
+<sub>Most of my craft rides snug betwixt decks in tarred holds — treat this profile as the traverse board ruled beneath binnacle glass.</sub>
 <br>
 <sub><a href="https://maxawad.com/contact">Flash the Aldis lamp once</a> if you'd like to lay a rhumb line in convoy.</sub>
 </div>
