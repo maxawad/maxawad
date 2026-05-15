@@ -6,7 +6,7 @@
 
 <div align="center">
 
-I draft, reckon, and helm blue-water native apps, weather-eye AI crow's-nests, and systems — rigged in Swift, TypeScript, Python, C++, and shell litanies stout enough to belay runaway entropy smartly to the bitts—and bytes.
+I draft, reckon, and helm blue-water native apps, lodestar AI crow's-nests, and systems — rigged in Swift, TypeScript, Python, C++, and shell litanies stout enough to belay runaway entropy smartly to the bitts—and bytes.
 
 Position fix: **San Francisco, CA** — whenever our Karl the Fog peels back far enough for a decent sun sight; affording lee: [maxawad.com](https://maxawad.com).
 
@@ -122,7 +122,7 @@ Unlocks the XDR brightness range on supported displays. Menu bar app with global
 
 **MCP-native chip ordering — literal chifles & silicon by pier lights**
 
-Ecuadorian plantain chips with a full product catalog exposed as an MCP server. Claude, Cursor, or any MCP-compatible AI can browse products, calculate prices, and place orders with Stripe. Same-day bike courier threading fog-cut veins between the seven hills.
+Ecuadorian plantain chips with a full product catalog exposed as an MCP server. Claude, Cursor, or any MCP-compatible AI can browse products, calculate prices, and place orders with Stripe. Same-day bike courier threading fog-lit corridors between the seven hills.
 
 `TypeScript` `Next.js` `MCP SDK` `Stripe` `Vercel`
 
