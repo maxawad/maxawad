@@ -50,7 +50,7 @@ Native macOS wrapper for ChatGPT with global voice hotkey and floating quick cha
 
 **System-wide, on-device dictation for macOS**
 
-Tap the dictation key, speak, and watch your words appear — offline, swift, private. Powered by NVIDIA Parakeet TDT distilled on the Apple Neural Engine. Also available as an [iOS keyboard](https://lowercase.click) with Live Activities and on-device ML.
+Tap the dictation key, speak, and watch your words appear — offline, snappy, private. Powered by NVIDIA Parakeet TDT distilled on the Apple Neural Engine. Also available as an [iOS keyboard](https://lowercase.click) with Live Activities and on-device ML.
 
 `Swift` `SwiftUI` `NVIDIA Parakeet` `Apple Neural Engine` `CoreML`
 
