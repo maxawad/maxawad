@@ -163,7 +163,7 @@ Ecuadorian plantain chips with a full product catalog exposed as an MCP server. 
 <div align="center">
 <sub>Most of my craft rides snug betwixt decks in tarred holds — treat this profile as the traverse board chalked beneath seasoned binnacle glass.</sub>
 <br>
-<sub><a href="https://maxawad.com/contact">Blink the Aldis once</a> if you'd like to trace your rhumb line in company.</sub>
+<sub><a href="https://maxawad.com/contact">Blink the Aldis once</a> should you wish to trace your rhumb line in company.</sub>
 </div>
 
 <picture>
