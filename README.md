@@ -19,7 +19,7 @@ Celestial fix: **San Francisco, CA** — whenever Karl peels back far enough for
 
 ---
 
-## What I'm Hoisting Now
+## What I'm Hoisting Lately
 
 <table>
 <tr>
@@ -50,7 +50,7 @@ Native macOS wrapper for ChatGPT with global voice hotkey and floating quick cha
 
 **System-wide, on-device dictation for macOS**
 
-Tap the dictation key, speak, and watch your words appear — offline, nimble, private. Powered by NVIDIA Parakeet TDT distilled on the Apple Neural Engine. Also available as an [iOS keyboard](https://lowercase.click) with Live Activities and on-device ML.
+Tap the dictation key, speak, and watch your words appear — offline, swift, private. Powered by NVIDIA Parakeet TDT distilled on the Apple Neural Engine. Also available as an [iOS keyboard](https://lowercase.click) with Live Activities and on-device ML.
 
 `Swift` `SwiftUI` `NVIDIA Parakeet` `Apple Neural Engine` `CoreML`
 
@@ -69,7 +69,7 @@ Tap the dictation key, speak, and watch your words appear — offline, nimble, p
 
 **Region-first screen OCR for macOS**
 
-Select any region on your screen and instantly extract text to your clipboard. One global hotkey (`Cmd+Shift+2`), zero friction. Uses Apple's Vision framework for on-device text recognition across 5 languages.
+Select any region on your screen and instantly extract text to your clipboard. One global hotkey (`Cmd+Shift+2`), zero friction. Uses Apple's Vision framework for on-device text recognition in 5 languages.
 
 `Swift` `AppKit` `Vision Framework` `ScreenCaptureKit`
 
@@ -122,7 +122,7 @@ Unlocks the XDR brightness range on supported displays. Menu bar app with global
 
 **MCP-native chip ordering — literal chifles & silicon by pier lights**
 
-Ecuadorian plantain chips with a full product catalog exposed as an MCP server. Claude, Cursor, or any MCP-compatible AI can browse products, calculate prices, and place orders with Stripe. Same-day bike courier threading fog-frayed veins across the siete cerros.
+Ecuadorian plantain chips with a full product catalog exposed as an MCP server. Claude, Cursor, or any MCP-compatible AI can browse products, calculate prices, and place orders with Stripe. Same-day bike courier threading fog-cut veins across the siete cerros.
 
 `TypeScript` `Next.js` `MCP SDK` `Stripe` `Vercel`
 
