@@ -33,7 +33,7 @@ Position fix: **San Francisco, CA** — when Karl parts long enough for a sun si
 
 **Voice-triggered ChatGPT for macOS**
 
-Native macOS wrapper for ChatGPT with global voice hotkey and floating quick chat overlay. Press `Ctrl+Space` from any app to talk to ChatGPT without breaking cadence. Uses your existing ChatGPT account — GPT-4o, voice mode, all Plus features.
+Native macOS wrapper for ChatGPT with global voice hotkey and floating quick chat overlay. Press `Ctrl+Space` from any app to hail ChatGPT without breaking cadence. Uses your existing ChatGPT account — GPT-4o, voice mode, all Plus features.
 
 `Swift` `SwiftUI` `WKWebView` `Carbon Events` `Hardened Runtime`
 
