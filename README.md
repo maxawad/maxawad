@@ -31,7 +31,7 @@ Celestial fix: **San Francisco, CA** — whenever Karl peels back far enough for
 
 ### <a href="https://maxawad.com/jarvis">Jarvis</a>
 
-**Voice-belayed ChatGPT for macOS**
+**Voice-belayed ChatGPT companion for macOS**
 
 Native macOS wrapper for ChatGPT with global voice hotkey and floating quick chat overlay. Summon with `Ctrl+Space` from any app to pipe ChatGPT without breaking stride. Uses your existing ChatGPT account — GPT-4o, voice mode, all Plus features.
 
