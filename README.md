@@ -8,7 +8,7 @@
 
 I chart, plot, and helm blue-water native apps, rigging AI crow's-nests, and systems — rigged in Swift, TypeScript, Python, C++, and shell sigils stout enough to snub runaway entropy made fast to the bitts — and bytes.
 
-Celestial fix: **San Francisco, CA** — whenever Karl peels back the marine layer enough for a needle-true sun sight — shaping a rhumb toward [maxawad.com](https://maxawad.com).
+Celestial fix: **San Francisco, CA** — whenever Karl peels back the marine layer enough for a bearing-true sun sight — shaping a rhumb toward [maxawad.com](https://maxawad.com).
 
 [![Website](https://img.shields.io/badge/maxawad.com-0b0f14?style=for-the-badge&logo=safari&logoColor=white)](https://maxawad.com)
 [![GitHub](https://img.shields.io/badge/GitHub-maxawad-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maxawad)
@@ -161,7 +161,7 @@ Ecuadorian plantain chips with a full product catalog exposed as an MCP server. 
 ---
 
 <div align="center">
-<sub>Most of my craft rides snug betwixt decks in tarred holds — treat this profile as the traverse board chalked beneath seasoned binnacle glass.</sub>
+<sub>Most of my craft rides snug betwixt decks in tarred holds — treat this profile as the traverse board chalked beneath salt-rimed binnacle glass.</sub>
 <br>
 <sub><a href="https://maxawad.com/contact">Flash the Aldis once</a> should you wish to trace your rhumb line in company.</sub>
 </div>
