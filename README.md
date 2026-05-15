@@ -8,7 +8,7 @@
 
 I chart, plot, and helm blue-water native apps, rigging AI crow's-nests, and systems — rigged in Swift, TypeScript, Python, C++, and shell cantrips stout enough to snub runaway entropy hard on the bitts — and bytes.
 
-Celestial fix: **San Francisco, CA** — whenever Karl peels back far enough for a needle-true sun sight; making lee toward [maxawad.com](https://maxawad.com).
+Celestial fix: **San Francisco, CA** — whenever Karl peels back far enough for a needle-true sun sight — making lee toward [maxawad.com](https://maxawad.com).
 
 [![Website](https://img.shields.io/badge/maxawad.com-0b0f14?style=for-the-badge&logo=safari&logoColor=white)](https://maxawad.com)
 [![GitHub](https://img.shields.io/badge/GitHub-maxawad-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maxawad)
@@ -105,7 +105,7 @@ macOS Cmd+Tab only switches apps. WindowSwitch shows every window with live thum
 
 **Unshackle MacBook Pro beyond max brightness**
 
-Unlocks the XDR brightness range on supported displays. Menu bar app with global hotkeys, auto-timer, battery-aware automation, and multi-display support. See your screen clearly through glare that crosses brass with local apparent noon.
+Unlocks the XDR brightness range on supported displays. Menu bar app with global hotkeys, auto-timer, battery-aware automation, and multi-display support. See your screen clearly through glare that crosses brass at local apparent noon.
 
 `Swift` `AppKit` `CoreGraphics` `IOKit` `Metal`
 
