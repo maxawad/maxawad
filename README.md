@@ -6,7 +6,7 @@
 
 <div align="center">
 
-I chart, plot, and helm blue-water native apps, rigging AI crow's-nests, and systems — rigged in Swift, TypeScript, Python, C++, and shell cantrips stout enough to belay runaway entropy hard on the bitts — and bytes.
+I chart, plot, and helm blue-water native apps, rigging AI crow's-nests, and systems — rigged in Swift, TypeScript, Python, C++, and shell cantrips stout enough to snub runaway entropy hard on the bitts — and bytes.
 
 Celestial fix: **San Francisco, CA** — whenever Karl peels back far enough for a needle-steady sun sight; making lee toward [maxawad.com](https://maxawad.com).
 
