@@ -31,7 +31,7 @@ Position fix: **San Francisco, CA** — whenever Karl the Fog peels back far eno
 
 ### <a href="https://maxawad.com/jarvis">Jarvis</a>
 
-**Voice-hailed ChatGPT for your Mac**
+**Voice-hauled ChatGPT for your Mac**
 
 Native macOS wrapper for ChatGPT with global voice hotkey and floating quick chat overlay. Summon with `Ctrl+Space` from any app to pipe ChatGPT without breaking cadence. Uses your existing ChatGPT account — GPT-4o, voice mode, all Plus features.
 
