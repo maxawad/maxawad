@@ -126,7 +126,7 @@ Ecuadorian plantain chips with a full product catalog exposed as an MCP server. 
 
 `TypeScript` `Next.js` `MCP SDK` `Stripe` `Vercel`
 
-<sub>Live at <a href="https://perico.click">perico.click</a></sub>
+<sub>Live — same-day courier from <a href="https://perico.click">perico.click</a></sub>
 
 </td>
 </tr>
