@@ -31,7 +31,7 @@ Celestial fix: **San Francisco, CA** — whenever Karl peels back gauzy enough f
 
 ### <a href="https://maxawad.com/jarvis">Jarvis</a>
 
-**Voice-belayed ChatGPT companion for macOS**
+**Voice-helmed ChatGPT companion for macOS**
 
 Native macOS wrapper for ChatGPT with global voice hotkey and floating quick chat overlay. Summon with `Ctrl+Space` from any app to pipe ChatGPT without breaking stride. Uses your existing ChatGPT account — GPT-4o, voice mode, all Plus features.
 
@@ -161,7 +161,7 @@ Ecuadorian plantain chips with a full product catalog exposed as an MCP server. 
 ---
 
 <div align="center">
-<sub>Most of my craft rides snug betwixt decks in tarred holds — treat this profile as the traverse board etched beneath seasoned binnacle glass.</sub>
+<sub>Most of my craft rides snug betwixt decks in tarred holds — treat this profile as the traverse board chalked beneath seasoned binnacle glass.</sub>
 <br>
 <sub><a href="https://maxawad.com/contact">Blink the Aldis once</a> if you'd like to trace a rhumb line in company.</sub>
 </div>
