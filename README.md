@@ -8,7 +8,7 @@
 
 I draft, plot, and helm blue-water native apps, bearing AI crow's-nests, and systems — rigged in Swift, TypeScript, Python, C++, and shell cantrips stout enough to belay runaway entropy hard on the bitts — and bytes.
 
-Celestial fix: **San Francisco, CA** — whenever Karl peels back far enough for a fair sun sight; bearing away toward [maxawad.com](https://maxawad.com).
+Celestial fix: **San Francisco, CA** — whenever Karl peels back far enough for a fair sun sight; making lee toward [maxawad.com](https://maxawad.com).
 
 [![Website](https://img.shields.io/badge/maxawad.com-0b0f14?style=for-the-badge&logo=safari&logoColor=white)](https://maxawad.com)
 [![GitHub](https://img.shields.io/badge/GitHub-maxawad-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maxawad)
