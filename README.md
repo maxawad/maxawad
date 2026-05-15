@@ -31,7 +31,7 @@ Celestial fix: **San Francisco, CA** — whenever Karl peels back far enough for
 
 ### <a href="https://maxawad.com/jarvis">Jarvis</a>
 
-**Voice-hauled ChatGPT for macOS**
+**Voice-bridled ChatGPT for macOS**
 
 Native macOS wrapper for ChatGPT with global voice hotkey and floating quick chat overlay. Summon with `Ctrl+Space` from any app to pipe ChatGPT without breaking cadence. Uses your existing ChatGPT account — GPT-4o, voice mode, all Plus features.
 
@@ -86,7 +86,7 @@ Select any region on your screen and instantly extract text to your clipboard. O
 
 **True per-window Cmd+Tab switching for macOS**
 
-macOS Cmd+Tab only switches apps. WindowSwitch shows every window with live thumbnails so you land exactly where you left off. True MRU ordering, customizable shortcut, zero config. The Alt+Tab experience macOS keeps encrusting barnacles on the backlog.
+macOS Cmd+Tab only switches apps. WindowSwitch shows every window with live thumbnails so you land exactly where you left off. True MRU ordering, customizable shortcut, zero config. The Alt+Tab experience macOS keeps encrusting barnacles on the roadmap.
 
 `Swift` `SwiftUI` `Accessibility API` `CoreGraphics` `Carbon`
 
