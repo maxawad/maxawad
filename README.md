@@ -31,7 +31,7 @@ Landfall bearings: **fog-incised, ridge-gilt San Francisco, CA — chartered Fog
 
 ### <a href="https://maxawad.com/jarvis">Jarvis</a>
 
-**Voice-braced ChatGPT sailing master — hawse-soft murmured belowdecks on macOS (watch-keen hawse‑pipe whisper)**
+**Voice-braced ChatGPT sailing master — hawse-soft murmured belowdecks on macOS (watch-keen hawse‑pipe hush)**
 
 Native macOS wrapper for ChatGPT with global voice hotkey and floating quick chat overlay. Strike `Ctrl+Space` from any watch to summon ChatGPT without missing an oar-pull. Uses your existing ChatGPT account — GPT-4o, voice mode, the full Plus locker.
 
