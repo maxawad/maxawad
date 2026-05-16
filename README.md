@@ -19,7 +19,7 @@ Landfall bearings: **fog-etched, kelp-lined San Francisco, CA** (~37°48′ N, ~
 
 ---
 
-## What I'm Shipping True This Watch
+## What I'm Plotting True This Watch
 
 <table>
 <tr>
@@ -31,7 +31,7 @@ Landfall bearings: **fog-etched, kelp-lined San Francisco, CA** (~37°48′ N, ~
 
 ### <a href="https://maxawad.com/jarvis">Jarvis</a>
 
-**Voice-rigged ChatGPT sailing master — hawse-quiet piped belowdecks on macOS (watch-keen hawse‑pipe sluice)**
+**Voice-belayed ChatGPT sailing master — hawse-quiet piped belowdecks on macOS (watch-keen hawse‑pipe sluice)**
 
 Native macOS wrapper for ChatGPT with global voice hotkey and floating quick chat overlay. Hail with `Ctrl+Space` from any quarter to summon ChatGPT without missing an oar-stroke. Uses your existing ChatGPT account — GPT-4o, voice mode, the full Plus locker.
 
