@@ -6,7 +6,7 @@
 
 <div align="center">
 
-I plot, sound, and conn blue-water native craft, tending AI crow's-nest vigils—never veiling the star-glass—at the foremast, and systems — hand-spliced in Swift, TypeScript, Python, C++, and shell one-liners oak-tarred enough to belay careening scope creep lashed fast to the bitts — plus cargo ledgered in frames & octets.
+I plot, sound, and conn blue-water native craft, tending AI crow's-nest vigils—never veiling the night-glass—at the foremast, and systems — hand-spliced in Swift, TypeScript, Python, C++, and shell one-liners oak-tarred enough to belay careening scope creep lashed fast to the bitts — plus cargo ledgered in frames & octets.
 
 Landfall bearings: **fog-incised, kelp-lined San Francisco, CA** (~37°48′ N, ~122°24′ W) — when Old Neptune slackens just enough of Uncle Karl the Fog's salt-rimed pewter scrim for a compass-true meridian bearing — riding a long quartering reach bound for [maxawad.com](https://maxawad.com).
 
