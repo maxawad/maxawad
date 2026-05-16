@@ -31,7 +31,7 @@ Landfall bearings: **fog-prone San Francisco, CA** (~37°48′ N, ~122°24′ W)
 
 ### <a href="https://maxawad.com/jarvis">Jarvis</a>
 
-**Voice-hailed ChatGPT ship's confidant — piped straight belowdecks on macOS (secure channel)**
+**Voice-hailed ChatGPT ship's confidant — piped straight belowdecks on macOS (ciphered hawse‑pipe traffic)**
 
 Native macOS wrapper for ChatGPT with global voice hotkey and floating quick chat overlay. Hail with `Ctrl+Space` from any deck to summon ChatGPT without missing an oar-stroke. Uses your existing ChatGPT account — GPT-4o, voice mode, the full Plus locker.
 
