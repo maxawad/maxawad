@@ -19,7 +19,7 @@ Sextant shot: **San Francisco, CA** — whenever Karl frays wide enough marine h
 
 ---
 
-## What I'm Making Fast, of Late
+## What I'm Belaying of Late
 
 <table>
 <tr>
