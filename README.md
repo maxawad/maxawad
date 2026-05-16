@@ -6,9 +6,9 @@
 
 <div align="center">
 
-I chart, plot, and pilot blue-water native apps, bracing AI crow's-nests, and systems — rigged in Swift, TypeScript, Python, C++, and shell cantrips stout enough to snub runaway entropy made fast to the bitts — and bytes.
+I chart, plot, and pilot blue-water native apps, bracing AI crow's-nests, and systems — rigged in Swift, TypeScript, Python, C++, and shell cantrips stout enough to snub runaway entropy belayed fast to the bitts — and bytes.
 
-Celestial fix: **San Francisco, CA** — whenever Karl frays wide enough marine lace for a bearing-true noon sight — laying a rhumb toward [maxawad.com](https://maxawad.com).
+Celestial fix: **San Francisco, CA** — whenever Karl the Fog frays wide enough marine lace for a bearing-true noon sight — laying a rhumb toward [maxawad.com](https://maxawad.com).
 
 [![Website](https://img.shields.io/badge/maxawad.com-0b0f14?style=for-the-badge&logo=safari&logoColor=white)](https://maxawad.com)
 [![GitHub](https://img.shields.io/badge/GitHub-maxawad-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maxawad)
@@ -86,7 +86,7 @@ Select any region on your screen and instantly extract text to your clipboard. O
 
 **Honest per-window Cmd+Tab switching for macOS**
 
-macOS Cmd+Tab only switches apps. WindowSwitch shows every window with live thumbnails so you land exactly where you left off. True MRU ordering, customizable shortcut, zero config. The Alt+Tab experience macOS keeps letting shoals snag its roadmap.
+macOS Cmd+Tab only switches apps. WindowSwitch shows every window with live thumbnails so you land exactly where you left off. True MRU ordering, customizable shortcut, zero config. The Alt+Tab experience macOS keeps letting kelp snag its roadmap.
 
 `Swift` `SwiftUI` `Accessibility API` `CoreGraphics` `Carbon`
 
