@@ -33,7 +33,7 @@ Sextant fix: **San Francisco, CA** (~37°48′ N, ~122°24′ W) — whenever Ol
 
 **Voice-hailed ChatGPT quartermaster — piped straight below decks on macOS**
 
-Native macOS wrapper for ChatGPT with global voice hotkey and floating quick chat overlay. Hail with `Ctrl+Space` from any app to summon ChatGPT without losing the helm. Uses your existing ChatGPT account — GPT-4o, voice mode, the full Plus locker.
+Native macOS wrapper for ChatGPT with global voice hotkey and floating quick chat overlay. Hail with `Ctrl+Space` from any app to summon ChatGPT without breaking stride. Uses your existing ChatGPT account — GPT-4o, voice mode, the full Plus locker.
 
 `Swift` `SwiftUI` `WKWebView` `Carbon Events` `Hardened Runtime`
 
