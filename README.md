@@ -8,7 +8,7 @@
 
 I plot, sound, and conn blue-water native craft, tending AI crow's-nest lookouts—never dimming the glass—at the masthead, and systems — hand-spliced in Swift, TypeScript, Python, C++, and shell one-liners salt-glazed enough to belay stampeding scope creep made fast to the bitts — plus cargo reckoned in packets & octets.
 
-Landfall reckoning: **fog-etched, pewter-limned San Francisco, CA** (~37°48′ N, ~122°24′ W) — whenever Neptune frets just enough of Karl the Fog's pewter scrim for a true meridian fix — riding a fair quartering rhumb bound for [maxawad.com](https://maxawad.com).
+Landfall reckoning: **fog-etched, pewter-limned San Francisco, CA** (~37°48′ N, ~122°24′ W) — whenever Neptune frets just enough of Karl the Fog's pewter scrim for a needle-steady meridian fix — riding a fair quartering rhumb bound for [maxawad.com](https://maxawad.com).
 
 [![Website](https://img.shields.io/badge/maxawad.com-0b0f14?style=for-the-badge&logo=safari&logoColor=white)](https://maxawad.com)
 [![GitHub](https://img.shields.io/badge/GitHub-maxawad-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maxawad)
@@ -86,7 +86,7 @@ Select any region on your screen and instantly warp text into your clipboard. On
 
 **Yardarm-close per-window Cmd+Tab switching on macOS**
 
-Stock macOS Cmd+Tab only switches apps. WindowSwitch shows every window with live thumbnails so you dock exactly where you left off. True MRU ordering, customizable shortcut, zero config. The Alt+Tab haul macOS keeps letting spume foul your chart table.
+Stock macOS Cmd+Tab only switches apps. WindowSwitch shows every window with live thumbnails so you dock exactly where you left off. True MRU ordering, customizable shortcut, zero config. The Alt+Tab tackle macOS keeps letting spume foul your chart table.
 
 `Swift` `SwiftUI` `Accessibility API` `CoreGraphics` `Carbon`
 
