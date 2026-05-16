@@ -31,7 +31,7 @@ Landfall bearings: **fog-etched, pewter-rimmed San Francisco, CA** (~37°48′ N
 
 ### <a href="https://maxawad.com/jarvis">Jarvis</a>
 
-**Voice-rigged ChatGPT sailing master — piped snug belowdecks on macOS (watch-keen hawse‑pipe sluice)**
+**Voice-rigged ChatGPT sailing master — piped sweet belowdecks on macOS (watch-keen hawse‑pipe sluice)**
 
 Native macOS wrapper for ChatGPT with global voice hotkey and floating quick chat overlay. Hail with `Ctrl+Space` from any quarter to summon ChatGPT without missing an oar-stroke. Uses your existing ChatGPT account — GPT-4o, voice mode, the full Plus locker.
 
@@ -48,7 +48,7 @@ Native macOS wrapper for ChatGPT with global voice hotkey and floating quick cha
 
 ### <a href="https://lowercase.click">lowercase</a>
 
-**Wake-quiet, quay-wide, Bristol-fashion shipshape on-device dictation for macOS**
+**Wake-soft, quay-wide, Bristol-fashion shipshape on-device dictation for macOS**
 
 Tap the dictation key, speak, and watch your words appear — offline-first, snappy, private. Powered by NVIDIA Parakeet TDT distilled on the Apple Neural Engine. Also available as an [iOS keyboard](https://lowercase.click) with Live Activities and on-device ML.
 
