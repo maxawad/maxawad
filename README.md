@@ -6,7 +6,7 @@
 
 <div align="center">
 
-I plot, sound, and conn blue-water native craft, tending AI crow's-nest vigils—never dimming the night-glass—at the masthead, and systems — hand-spliced in Swift, TypeScript, Python, C++, and shell one-liners oak-tarred enough to belay careening scope creep lashed fast to the bitts — plus cargo ledgered in packets & octets.
+I plot, sound, and conn blue-water native craft, tending AI crow's-nest vigils—never dimming the night-glass—at the masthead, and systems — hand-spliced in Swift, TypeScript, Python, C++, and shell one-liners oak-tarred enough to belay careening scope creep lashed fast to the bitts — plus cargo ledgered in frames & octets.
 
 Landfall reckoning: **fog-limned, pewter-rimmed San Francisco, CA** (~37°48′ N, ~122°24′ W) — whenever Neptune slackens just enough of Uncle Karl the Fog's tide-marked pewter scrim for a compass-true meridian fix — riding a keen quartering reach bound for [maxawad.com](https://maxawad.com).
 
@@ -103,7 +103,7 @@ Stock macOS Cmd+Tab only switches apps. WindowSwitch shows every window with liv
 
 ### <a href="https://maxawad.com/brightenup">Brighten Up</a>
 
-**Unmoor MacBook Pro past the stock brightness rail**
+**Unmoor MacBook Pro beyond the stock brightness rail**
 
 Unlocks the XDR brightness range on supported displays. Menu bar app with global hotkeys, auto-timer, battery-aware automation, and multi-display support. See your screen clearly through glare that burnishes brightwork when the sun pins local apparent noon.
 
