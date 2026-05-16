@@ -6,7 +6,7 @@
 
 <div align="center">
 
-I plot, sound, and conn deep-water native apps, tending AI crow's-nest lookouts at the masthead, and systems — hand-rigged in Swift, TypeScript, Python, C++, and shell one-liners weathered enough to belay runaway scope creep made fast to the bitts — plus cargo reckoned in packets & octets.
+I chart, sound, and conn deep-water native apps, tending AI crow's-nest lookouts at the masthead, and systems — hand-rigged in Swift, TypeScript, Python, C++, and shell one-liners weathered enough to belay runaway scope creep made fast to the bitts — plus cargo reckoned in packets & octets.
 
 Landfall bearings: **fog-prone San Francisco, CA** (~37°48′ N, ~122°24′ W) — whenever Neptune frays just enough of Karl's pewter scrim for a true meridian fix — bearing a dogged rhumb toward [maxawad.com](https://maxawad.com).
 
@@ -122,7 +122,7 @@ Unlocks the XDR brightness range on supported displays. Menu bar app with global
 
 **MCP-native plantain-chip ordering — literal chifles & circuits under sodium-vapor pierhead lights**
 
-Ecuadorian plantain chips with a full product catalog exposed as an MCP server. Claude, Cursor, or any MCP-compatible AI can browse products, tally prices, and place orders with Stripe. Same-day cargo-bike courier braiding tide-slapped wakes through Guayaquil's storied siete cerros.
+Ecuadorian plantain chips with a full product catalog exposed as an MCP server. Claude, Cursor, or any MCP-compatible AI can browse products, tally prices, and place orders with Stripe. Same-day cargo-bike courier braiding tide-slicked wakes through Guayaquil's storied siete cerros.
 
 `TypeScript` `Next.js` `MCP SDK` `Stripe` `Vercel`
 
