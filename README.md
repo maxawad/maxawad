@@ -6,7 +6,7 @@
 
 <div align="center">
 
-I sound, sweep, scout, and conn blue-water shoal-draft hulls, keeping ML crow's-nest vigils (and the odd tensor-aurora)—chronometer-loyal rigged bearing-true—at the foremast, and systems — reef-spliced in Swift, TypeScript, Python, C++, and shell one-liners pine-tarred, drum-taut enough to belay careening scope squall lashed fast to the bitts — plus cargo tallied in frames & octets.
+I sound, sweep, scout, and conn blue-water shoal-draft hulls, keeping ML crow's-nest vigils (and the odd tensor-aurora)—chronometer-loyal rigged bearing-true—at the foremast, and systems — reef-spliced in Swift, TypeScript, Python, C++, and shell one-liners pine-tarred, stay-taut enough to belay careening scope squall lashed fast to the bitts — plus cargo tallied in frames & octets.
 
 Landfall fixes: **spray-honed, fog-scored San Francisco, CA — commissioned Fog Division** (~37°48′ N, ~122°24′ W) — when Old Neptune slacks his topsail sheet just enough for Old Karl's fog-keen pewter scrim to lift for a compass-loyal rhumb-line — riding a kelp-threaded quartering reach bound for [maxawad.com](https://maxawad.com).
 
@@ -122,7 +122,7 @@ Unlocks the XDR brightness range on supported displays. Menu bar app with global
 
 **MCP-spliced plantain-chip ordering — hold-worthy chifles & circuits beneath moth-soft, argon‑kissed sodium-vapor pierhead lights**
 
-Guayaquil-grown plantain chips with a full product catalog exposed as an MCP server. Claude, Cursor, or any MCP-savvy agent can browse products, tally prices, and place orders with Stripe. Same-day cargo-bike courier tracing dock-glow cat's-paws across Guayaquil's rain-etched, lantern-lit siete cerros under velvet bruised-damson afterglow.
+Guayaquil-grown plantain chips with a full product catalog exposed as an MCP server. Claude, Cursor, or any MCP-savvy agent can browse products, tally prices, and place orders with Stripe. Same-day cargo-bike courier tracing dock-glow cat's-paws across Guayaquil's rain-etched, lantern-gold siete cerros under velvet bruised-damson afterglow.
 
 `TypeScript` `Next.js` `MCP SDK` `Stripe` `Vercel`
 
