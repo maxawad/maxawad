@@ -6,7 +6,7 @@
 
 <div align="center">
 
-I chart, sound, and conn blue-water native apps, tending AI lookouts aloft, and systems — rigged in Swift, TypeScript, Python, C++, and shell one-liners seasoned enough to belay runaway scope creep lashed fast to the bitts — plus cargo reckoned in packets & bytes.
+I chart, sound, and conn blue-water native apps, tending AI lookouts aloft, and systems — rigged in Swift, TypeScript, Python, C++, and shell one-liners seasoned enough to belay runaway scope creep lashed fast to the bitts — plus cargo reckoned in packets & octets.
 
 Sextant fix: **San Francisco, CA** (~37°48′ N, ~122°24′ W) — whenever Old Karl unfurls just enough silver-shot marine haze for a true meridian sight — laying a rhumb toward [maxawad.com](https://maxawad.com).
 
