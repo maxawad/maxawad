@@ -134,7 +134,7 @@ Guayaquil-grounded plantain chips with a full product catalog exposed as an MCP 
 
 ---
 
-## Compass-true cordage muster — slack stays frapped true
+## Compass-true cordage muster — slack stays seized true
 
 <div align="center">
 
