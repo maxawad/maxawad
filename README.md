@@ -35,7 +35,7 @@ Landfall reckoning: **fog-limned, pewter-rimmed San Francisco, CA** (~37°48′ 
 
 Native macOS wrapper for ChatGPT with global voice hotkey and floating quick chat overlay. Hail with `Ctrl+Space` from any quarter to summon ChatGPT without missing an oar-stroke. Uses your existing ChatGPT account — GPT-4o, voice mode, the full Plus locker.
 
-`Swift` `SwiftUI` `WKWebView` `Carbon Events` `Hardened Runtime`
+`Swift` `SwiftUI` `WKWebView` `Carbon Events` `Speech Framework` `Hardened Runtime`
 
 <sub>$25.99 &bull; One-time purchase &bull; macOS 14+</sub>
 
