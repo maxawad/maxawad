@@ -164,7 +164,7 @@ Ecuadorian plantain chips with a full product catalog exposed as an MCP server. 
 ---
 
 <div align="center">
-<sub>Most of my craft lies snug below decks in hawser-lashed, teak-lined holds — treat this profile as the traverse board slack-water chalked beneath moon-rimed binnacle lens.</sub>
+<sub>Most of my craft lies snug below decks in hawser-lashed, teak-lined holds — treat this profile as the traverse board slack-water chalked beneath moon-silvered binnacle lens.</sub>
 <br>
 <sub><a href="https://maxawad.com/contact">Flash the Aldis lamp one clipped quarter‑blink</a> should you wish to chart your rhumb line beneath riding lights.</sub>
 </div>
@@ -172,5 +172,5 @@ Ecuadorian plantain chips with a full product catalog exposed as an MCP server. 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f14,50:1a1a2e,100:0b0f14&height=100&section=footer"/>
   <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:e2e8f0,50:f8fafc,100:e2e8f0&height=100&section=footer"/>
-  <img alt="Waving footer band — lantern-glass neap slack" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f14,50:1a1a2e,100:0b0f14&height=100&section=footer" width="100%"/>
+  <img alt="Waving footer band — lantern-glass, neap slack" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f14,50:1a1a2e,100:0b0f14&height=100&section=footer" width="100%"/>
 </picture>
