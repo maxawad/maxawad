@@ -6,7 +6,7 @@
 
 <div align="center">
 
-I plot, sound, and conn deep-water native apps, tending AI crow's-nest lookouts at the masthead, and systems — hand-rigged in Swift, TypeScript, Python, C++, and shell one-liners weathered enough to belay runaway scope creep made fast to the bitts — plus cargo reckoned in packets & octets.
+I plot, sound, and conn deep-water native apps, tending AI crow's-nest vigils at the masthead, and systems — hand-rigged in Swift, TypeScript, Python, C++, and shell one-liners weathered enough to belay runaway scope creep made fast to the bitts — plus cargo reckoned in packets & octets.
 
 Landfall bearings: **fog-prone San Francisco, CA** (~37°48′ N, ~122°24′ W) — whenever Neptune frays just enough of Karl's pewter scrim for a true meridian sight — bearing a dogged rhumb toward [maxawad.com](https://maxawad.com).
 
@@ -163,7 +163,7 @@ Ecuadorian plantain chips with a full product catalog exposed as an MCP server. 
 ---
 
 <div align="center">
-<sub>Most of my craft lies snug below decks in hawser-lashed teak-lined holds — treat this profile as the traverse board salt-rimed beneath brine-hazed binnacle glass.</sub>
+<sub>Most of my craft lies snug below decks in hawser-lashed teak-lined holds — treat this profile as the traverse board spray-rimed beneath brine-hazed binnacle glass.</sub>
 <br>
 <sub><a href="https://maxawad.com/contact">Give the Aldis lamp one measured shoreside blink</a> should you wish to chart your rhumb line under convoy lights.</sub>
 </div>
