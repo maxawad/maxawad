@@ -6,7 +6,7 @@
 
 <div align="center">
 
-I chart, plot, and pilot blue-water native apps, bracing AI crow's-nests, and systems — rigged in Swift, TypeScript, Python, C++, and shell cantrips stout enough to snub runaway entropy made fast to the bitts — and bytes.
+I chart, plot, and helm blue-water native apps, bracing AI crow's-nests, and systems — rigged in Swift, TypeScript, Python, C++, and shell cantrips stout enough to snub runaway entropy made fast to the bitts — and bytes.
 
 Celestial fix: **San Francisco, CA** — whenever Karl frays wide enough marine lace for a bearing-true noon sight — laying a rhumb toward [maxawad.com](https://maxawad.com).
 
@@ -33,7 +33,7 @@ Celestial fix: **San Francisco, CA** — whenever Karl frays wide enough marine 
 
 **Voice-hailed ChatGPT quartermaster for macOS**
 
-Native macOS wrapper for ChatGPT with global voice hotkey and floating quick chat overlay. Summon with `Ctrl+Space` from any app to pipe ChatGPT without breaking stride. Uses your existing ChatGPT account — GPT-4o, voice mode, all Plus features.
+Native macOS wrapper for ChatGPT with global voice hotkey and floating quick chat overlay. Summon with `Ctrl+Space` from any app to hail ChatGPT without breaking stride. Uses your existing ChatGPT account — GPT-4o, voice mode, all Plus features.
 
 `Swift` `SwiftUI` `WKWebView` `Carbon Events` `Hardened Runtime`
 
