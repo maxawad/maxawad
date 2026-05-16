@@ -6,9 +6,9 @@
 
 <div align="center">
 
-I sound, survey, and conn blue-water shoal-draft hulls, keeping ML crow's-nest vigils (and the odd tensor-spindrift)—chronometer-true rigged bearing-true—at the foremast, and systems — reef-spliced in Swift, TypeScript, Python, C++, and shell one-liners pine-tarred drum-taut enough to belay careening scope squall lashed fast to the bitts — plus cargo ledgered in frames & octets.
+I sound, survey, and conn blue-water shoal-draft hulls, keeping ML masthead vigils (and the odd tensor-spindrift)—chronometer-true rigged bearing-true—at the foremast, and systems — reef-spliced in Swift, TypeScript, Python, C++, and shell one-liners pine-tarred drum-taut enough to belay careening scope squall lashed fast to the bitts — plus cargo ledgered in frames & octets.
 
-Landfall fixes: **tide-cut, ridge-lit San Francisco, CA — chartered Fog Division** (~37°48′ N, ~122°24′ W) — when Old Neptune slacks his topsail sheet just enough for Uncle Karl's fog-keen pewter scrim to lift for a compass-loyal rhumb-line — riding a kelp-flecked quartering reach bound for [maxawad.com](https://maxawad.com).
+Landfall fixes: **tide-cut, ridge-lit San Francisco, CA — chartered Fog Division** (~37°48′ N, ~122°24′ W) — when Old Neptune slacks his topsail sheet just enough for Old Karl's fog-keen pewter scrim to lift for a compass-loyal rhumb-line — riding a kelp-flecked quartering reach bound for [maxawad.com](https://maxawad.com).
 
 [![Website](https://img.shields.io/badge/maxawad.com-0b0f14?style=for-the-badge&logo=safari&logoColor=white)](https://maxawad.com)
 [![GitHub](https://img.shields.io/badge/GitHub-maxawad-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maxawad)
