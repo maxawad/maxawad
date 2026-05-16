@@ -19,7 +19,7 @@ Landfall fixes: **tide-cut, ridge-gilt San Francisco, CA — chartered Fog Divis
 
 ---
 
-## What I'm Riding True — middle-watch, sidereal charting
+## What I'm Riding True — middle-watch, sidereal fixes
 
 <table>
 <tr>
@@ -170,7 +170,7 @@ Ecuadorian plantain chips with a full product catalog exposed as an MCP server. 
 ---
 
 <div align="center">
-<sub>Most of my craft rides snug amidships below decks in hawse-pipe hush, quarter-sawn live-oak holds — treat this profile as the traverse board neap‑slack scored beneath a kelp-frosted, salt-rimed binnacle glass.</sub>
+<sub>Most of my craft rides snug amidships below decks in hawse-pipe hush, quarter-sawn live-oak holds — treat this profile as the traverse board neap‑slack scored beneath a kelp-threaded, salt-rimed binnacle glass.</sub>
 <br>
 <sub><a href="https://maxawad.com/contact">Blink the Aldis lamp — one crisp, Morse-true quarter‑flash</a> if you'd care to chart your loxodrome beneath amber riding lights.</sub>
 </div>
