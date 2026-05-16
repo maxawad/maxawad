@@ -6,7 +6,7 @@
 
 <div align="center">
 
-I chart, plot, and pilot blue-water native apps, tending AI crow's-nests, and systems — rigged in Swift, TypeScript, Python, C++, and shell one-liners stout enough to snub runaway entropy made fast to the bitts — and bytes.
+I chart, plot, and pilot blue-water native apps, staffing AI crow's-nests, and systems — rigged in Swift, TypeScript, Python, C++, and shell one-liners stout enough to snub runaway entropy made fast to the bitts — and bytes.
 
 Sextant fix: **San Francisco, CA** — whenever Karl frays wide enough marine lace for a bearing-true noon sight — laying a rhumb toward [maxawad.com](https://maxawad.com).
 
