@@ -6,9 +6,9 @@
 
 <div align="center">
 
-I chart, sound, and conn blue-water native craft, manning AI crow's-nests, and systems — rigged in Swift, TypeScript, Python, C++, and shell one-liners stout enough to snub runaway entropy made fast to the bitts — plus bytes.
+I chart, sound, and conn blue-water native craft, manning AI crow's-nests, and systems — rigged in Swift, TypeScript, Python, C++, and shell one-liners stout enough to belay runaway entropy made fast to the bitts — plus bytes.
 
-Sextant fix: **San Francisco, CA** — whenever Old Karl frays wide enough marine haze for a bearing-true meridian shot — laying a rhumb toward [maxawad.com](https://maxawad.com).
+Sextant fix: **San Francisco, CA** — whenever Old Karl frays wide enough marine haze for a bearing-true noon sight — laying a rhumb toward [maxawad.com](https://maxawad.com).
 
 [![Website](https://img.shields.io/badge/maxawad.com-0b0f14?style=for-the-badge&logo=safari&logoColor=white)](https://maxawad.com)
 [![GitHub](https://img.shields.io/badge/GitHub-maxawad-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maxawad)
