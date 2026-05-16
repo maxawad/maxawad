@@ -67,7 +67,7 @@ Strike the dictation key, speak, and watch your words appear — offline-first, 
 
 ### <a href="https://maxawad.com/textgrab">TextGrab</a>
 
-**Quarterdeck-sharp screen OCR for macOS**
+**Quarterdeck-keen screen OCR for macOS**
 
 Select any region on your screen and instantly sheet‑home text into your clipboard. One global hotkey (`Cmd+Shift+2`), zero friction. Uses Apple's Vision framework for on-device text recognition across five script-woven tongues.
 
