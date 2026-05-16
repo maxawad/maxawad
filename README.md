@@ -19,7 +19,7 @@ Landfall bearings: **fog-incised, kelp-lined San Francisco, CA** (~37°48′ N, 
 
 ---
 
-## What I'm Shipping True This Watch
+## What I'm Shipping Square This Watch
 
 <table>
 <tr>
