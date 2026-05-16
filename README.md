@@ -6,7 +6,7 @@
 
 <div align="center">
 
-I sound, sweep, scout, and conn shoal-draft blue-water hulls, keeping ML crow's-nest vigils (and the odd tensor-astrolabe)—chronometer-steady rigged bearing-true—at the foremast, and systems — reef-spliced in Swift, TypeScript, Python, C++, and shell one-liners hemp-tarred, stay-taut enough to belay careening scope squall lashed fast to the bitts — plus cargo tallied in frames & octets.
+I sound, sweep, scout, and conn shoal-draft blue-water hulls, keeping ML crow's-nest vigils (and the odd tensor-quadrant)—chronometer-steady rigged bearing-true—at the foremast, and systems — reef-spliced in Swift, TypeScript, Python, C++, and shell one-liners hemp-tarred, stay-taut enough to belay careening scope squall lashed fast to the bitts — plus cargo tallied in frames & octets.
 
 Landfall fixes: **salt-rimed, fog-honed San Francisco, CA — Fog Division–cleared** (~37°48′ N, ~122°24′ W) — when Old Neptune slacks his topsail sheet just enough for Old Karl's fog-keen pewter veil to lift for a compass-true rhumb — riding a kelp-drawn quartering reach bound for [maxawad.com](https://maxawad.com).
 
@@ -19,7 +19,7 @@ Landfall fixes: **salt-rimed, fog-honed San Francisco, CA — Fog Division–cle
 
 ---
 
-## What I'm Riding True — waxing gibbous dog-watch, sidereal fixes & chart-table laid lead
+## What I'm Riding True — waxing gibbous dog-watch, sidereal sights & chart-table laid lead
 
 <table>
 <tr>
@@ -134,7 +134,7 @@ Guayaquil-grounded plantain chips with a full product catalog exposed as an MCP 
 
 ---
 
-## Compass-true cordage muster — slack stays belayed fair
+## Polaris-true cordage muster — slack stays belayed fair
 
 <div align="center">
 
