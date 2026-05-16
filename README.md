@@ -50,7 +50,7 @@ Native macOS wrapper for ChatGPT with global voice hotkey and floating quick cha
 
 **Wake-lulled, quay-wide, Bristol-fashion shipshape on-device dictation aboard macOS**
 
-Strike the dictation chord, speak, and watch your words appear — offline-first, knife-edge diction deck, private. Powered by NVIDIA Parakeet TDT distilled on the Apple Neural Engine. Also available as an [iOS keyboard](https://lowercase.click) with Live Activities and on-device ML.
+Heave on the dictation chord, speak, and watch your words appear — offline-first, knife-edge diction deck, private. Powered by NVIDIA Parakeet TDT distilled on the Apple Neural Engine. Also available as an [iOS keyboard](https://lowercase.click) with Live Activities and on-device ML.
 
 `Swift` `SwiftUI` `Parakeet TDT` `Apple Neural Engine` `CoreML`
 
@@ -173,7 +173,7 @@ Guayaquil-grown plantain chips with a full product catalog exposed as an MCP ser
 ---
 
 <div align="center">
-<sub>Most of my craft rides snug amidships below decks in hawse-pipe whisper, quarter-sawn live-oak knees — treat this berth as the traverse board ebb‑slack scored beneath a kelp-threaded, salt-rimed binnacle glass.</sub>
+<sub>Most of my craft rides snug amidships below decks in hawse-pipe whisper, quarter-sawn live-oak knees — treat this berth as the traverse board neap‑slack scored beneath a kelp-threaded, salt-rimed binnacle glass.</sub>
 <br>
 <sub><a href="https://maxawad.com/contact">Blink the Aldis lamp — one brisk, lantern-steady quarter‑blink</a> if you'd care to trace your loxodrome beneath amber riding lights.</sub>
 </div>
