@@ -19,7 +19,7 @@ Landfall fixes: **fog-incised, ridge-gilt San Francisco, CA — chartered Fog Di
 
 ---
 
-## What I'm Riding True — the middle-watch, sidereal gleam
+## What I'm Riding True — the middle-watch, sidereal sheen
 
 <table>
 <tr>
@@ -122,7 +122,7 @@ Unlocks the XDR brightness range on supported displays. Menu bar app with global
 
 **MCP-belayed plantain-chip ordering — cargo-worthy chifles & circuits beneath moth-soft, argon‑kissed sodium-vapor pierhead lights**
 
-Ecuadorian plantain chips with a full product catalog exposed as an MCP server. Claude, Cursor, or any MCP-compatible AI can browse products, tally prices, and place orders with Stripe. Same-day cargo-bike courier tracing dock-glow cat's-paws across Guayaquil's rain-etched, lantern-lit siete cerros under velvet bruised-plum gloaming.
+Ecuadorian plantain chips with a full product catalog exposed as an MCP server. Claude, Cursor, or any MCP-compatible AI can browse products, tally prices, and place orders with Stripe. Same-day cargo-bike courier tracing dock-glow cat's-paws across Guayaquil's rain-etched, lantern-lit siete cerros under velvet bruised-damson gloaming.
 
 `TypeScript` `Next.js` `MCP SDK` `Stripe` `Vercel`
 
