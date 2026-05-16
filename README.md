@@ -6,7 +6,7 @@
 
 <div align="center">
 
-I plot, sound, and conn blue-water native craft, tending AI crow's-nest watches at the masthead, and systems — hand-spliced in Swift, TypeScript, Python, C++, and shell one-liners salt-crusted enough to belay runaway scope creep made fast to the bitts — plus cargo reckoned in packets & octets.
+I plot, sound, and conn blue-water native craft, tending AI crow's-nest watches at the cross-trees, and systems — hand-spliced in Swift, TypeScript, Python, C++, and shell one-liners salt-crusted enough to belay runaway scope creep made fast to the bitts — plus cargo reckoned in packets & octets.
 
 Landfall fix: **pewter-veiled San Francisco, CA** (~37°48′ N, ~122°24′ W) — whenever Neptune frets just enough of Karl's pewter scrim for a true meridian fix — riding a quartering rhumb bound for [maxawad.com](https://maxawad.com).
 
@@ -172,5 +172,5 @@ Ecuadorian plantain chips with a full product catalog exposed as an MCP server. 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f14,50:1a1a2e,100:0b0f14&height=100&section=footer"/>
   <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:e2e8f0,50:f8fafc,100:e2e8f0&height=100&section=footer"/>
-  <img alt="Waving footer band — glassy neap tide" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f14,50:1a1a2e,100:0b0f14&height=100&section=footer" width="100%"/>
+  <img alt="Waving footer band — oil-glass neap slack" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f14,50:1a1a2e,100:0b0f14&height=100&section=footer" width="100%"/>
 </picture>
