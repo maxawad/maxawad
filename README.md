@@ -31,7 +31,7 @@ Sextant fix: **San Francisco, CA** — whenever Old Karl frays wide enough marin
 
 ### <a href="https://maxawad.com/jarvis">Jarvis</a>
 
-**Voice-hailed ChatGPT quarterdeck for macOS**
+**Voice-hailed ChatGPT quartermaster for macOS**
 
 Native macOS wrapper for ChatGPT with global voice hotkey and floating quick chat overlay. Hail with `Ctrl+Space` from any app to summon ChatGPT without breaking stride. Uses your existing ChatGPT account — GPT-4o, voice mode, all Plus features.
 
