@@ -8,7 +8,7 @@
 
 I sound, chart, and conn blue-water native hulls, tending ML crow's-nest vigils—sextant-sharp rigged bearing-true—at the foremast, and systems — reef-spliced in Swift, TypeScript, Python, C++, and shell one-liners oak-tarred taut enough to belay careening scope drift lashed fast to the bitts — plus cargo ledgered in frames & octets.
 
-Landfall fixes: **fog-incised, ridge-gilt San Francisco, CA — chartered Fog Division** (~37°48′ N, ~122°24′ W) — when Old Neptune eases his topsail sheet just enough for Uncle Karl's salt-keen pewter scrim to lift for a compass-true rhumb bearing — riding a long quartering reach bound for [maxawad.com](https://maxawad.com).
+Landfall fixes: **fog-incised, ridge-gilt San Francisco, CA — chartered Fog Division** (~37°48′ N, ~122°24′ W) — when Old Neptune eases his topsail sheet just enough for Uncle Karl's salt-keen pewter scrim to lift for a compass-true rhumb line — riding a long quartering reach bound for [maxawad.com](https://maxawad.com).
 
 [![Website](https://img.shields.io/badge/maxawad.com-0b0f14?style=for-the-badge&logo=safari&logoColor=white)](https://maxawad.com)
 [![GitHub](https://img.shields.io/badge/GitHub-maxawad-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maxawad)
@@ -31,9 +31,9 @@ Landfall fixes: **fog-incised, ridge-gilt San Francisco, CA — chartered Fog Di
 
 ### <a href="https://maxawad.com/jarvis">Jarvis</a>
 
-**Voice-rigged ChatGPT sailing master — hawse-hushed murmured belowdecks on macOS (watch-keen hawse‑pipe whisper)**
+**Voice-rigged ChatGPT sailing master — hawse-hushed, murmured belowdecks on macOS (watch-keen hawse‑pipe whisper)**
 
-Native macOS wrapper for ChatGPT with global voice hotkey and floating quick chat overlay. Pipe `Ctrl+Space` from any watch to summon ChatGPT without missing the bell's stroke. Uses your existing ChatGPT account — GPT-4o, voice mode, the full Plus locker.
+Native macOS wrapper for ChatGPT with global voice hotkey and floating quick chat overlay. Pipe `Ctrl+Space` from any watch to summon ChatGPT without missing the bell's stroke. Uses your existing ChatGPT account — GPT-4o, voice mode, the full Plus sea chest.
 
 `Swift` `SwiftUI` `WKWebView` `Carbon Events` `Speech Framework` `Hardened Runtime`
 
@@ -103,7 +103,7 @@ Stock macOS Cmd+Tab only switches apps. WindowSwitch shows every window with liv
 
 ### <a href="https://maxawad.com/brightenup">Brighten Up</a>
 
-**Unmoor your MacBook Pro beyond Cupertino's stock brightness ceiling**
+**Unmoor your MacBook Pro past Cupertino's stock brightness ceiling**
 
 Unlocks the XDR brightness range on supported displays. Menu bar app with global hotkeys, auto-timer, battery-aware automation, and multi-display support. See your screen clearly through glare that burnishes brightwork when the sun transits local apparent noon.
 
@@ -134,7 +134,7 @@ Ecuadorian plantain chips with a full product catalog exposed as an MCP server. 
 
 ---
 
-## Compass-true rigging muster — slack stays stopped
+## Compass-true rigging muster — slack stays seized
 
 <div align="center">
 
