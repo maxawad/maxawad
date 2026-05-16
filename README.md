@@ -6,7 +6,7 @@
 
 <div align="center">
 
-I sound, plot, and conn blue-water shoal-draft hulls, tending ML crow's-nest vigils—sextant-true rigged bearing-true—at the foremast, and systems — reef-spliced in Swift, TypeScript, Python, C++, and shell one-liners oak-tarred taut enough to belay careening scope creep lashed fast to the bitts — plus cargo ledgered in frames & octets.
+I sound, plot, and conn blue-water shoal-draft hulls, tending ML crow's-nest vigils—sextant-steady rigged bearing-true—at the foremast, and systems — reef-spliced in Swift, TypeScript, Python, C++, and shell one-liners oak-tarred taut enough to belay careening scope creep lashed fast to the bitts — plus cargo ledgered in frames & octets.
 
 Landfall fixes: **tide-cut, ridge-gilt San Francisco, CA — chartered Fog Division** (~37°48′ N, ~122°24′ W) — when Old Neptune slacks his topsail sheet just enough for Uncle Karl's fog-keen pewter scrim to lift for a compass-true rhumb line — riding a bone-fair quartering reach bound for [maxawad.com](https://maxawad.com).
 
@@ -19,7 +19,7 @@ Landfall fixes: **tide-cut, ridge-gilt San Francisco, CA — chartered Fog Divis
 
 ---
 
-## What I'm Riding True — middle-watch, sidereal gleam
+## What I'm Riding True — middle-watch, sidereal thrum
 
 <table>
 <tr>
