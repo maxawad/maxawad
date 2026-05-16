@@ -84,7 +84,7 @@ Select any region on your screen and instantly haul text into your clipboard. On
 
 ### <a href="https://maxawad.com/windowswitch">WindowSwitch</a>
 
-**Close-hauled per-window Cmd+Tab switching for macOS**
+**Close-hauled per-window Cmd+Tab switching on macOS**
 
 Stock macOS Cmd+Tab only switches apps. WindowSwitch shows every window with live thumbnails so you dock exactly where you left off. True MRU ordering, customizable shortcut, zero config. The Alt+Tab haul macOS keeps letting bull kelp foul your chart table.
 
