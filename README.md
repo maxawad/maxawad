@@ -31,7 +31,7 @@ Landfall bearings: **fog-incised, ridge-gilt San Francisco, CA — chartered Fog
 
 ### <a href="https://maxawad.com/jarvis">Jarvis</a>
 
-**Voice-braced ChatGPT sailing master — hawse-soft murmured belowdecks on macOS (watch-keen hawse‑pipe sluice)**
+**Voice-braced ChatGPT sailing master — hawse-soft murmured belowdecks on macOS (watch-keen hawse‑pipe whisper)**
 
 Native macOS wrapper for ChatGPT with global voice hotkey and floating quick chat overlay. Strike `Ctrl+Space` from any watch to summon ChatGPT without missing an oar-pull. Uses your existing ChatGPT account — GPT-4o, voice mode, the full Plus locker.
 
@@ -67,7 +67,7 @@ Strike the dictation key, speak, and watch your words appear — offline-first, 
 
 ### <a href="https://maxawad.com/textgrab">TextGrab</a>
 
-**Quarterdeck-keen screen OCR for macOS**
+**Quarterdeck-sharp screen OCR for macOS**
 
 Select any region on your screen and instantly sheet‑home text into your clipboard. One global hotkey (`Cmd+Shift+2`), zero friction. Uses Apple's Vision framework for on-device text recognition across five script-woven tongues.
 
