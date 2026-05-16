@@ -19,7 +19,7 @@ Landfall fixes: **fog-incised, ridge-gilt San Francisco, CA — chartered Fog Di
 
 ---
 
-## What I'm Riding True — This Middle Watch Tide
+## What I'm Riding True — the middle watch tide
 
 <table>
 <tr>
