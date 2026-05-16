@@ -31,7 +31,7 @@ Landfall reckoning: **fog-etched, pewter-rimmed San Francisco, CA** (~37°48′ 
 
 ### <a href="https://maxawad.com/jarvis">Jarvis</a>
 
-**Voice-rigged ChatGPT sailing master — piped snug belowdecks on macOS (watch-steady hawse‑pipe sluice)**
+**Voice-rigged ChatGPT quartermaster — piped snug belowdecks on macOS (watch-steady hawse‑pipe sluice)**
 
 Native macOS wrapper for ChatGPT with global voice hotkey and floating quick chat overlay. Hail with `Ctrl+Space` from any quarter to summon ChatGPT without missing an oar-stroke. Uses your existing ChatGPT account — GPT-4o, voice mode, the full Plus locker.
 
@@ -164,7 +164,7 @@ Ecuadorian plantain chips with a full product catalog exposed as an MCP server. 
 ---
 
 <div align="center">
-<sub>Most of my craft lies snug below decks in hawser-lashed, teak-lined holds — treat this profile as the traverse board slack-water chalked beneath moon-rimed binnacle lens.</sub>
+<sub>Most of my craft lies snug below decks in hawser-lashed, teak-lined holds — treat this profile as the traverse board slack-tide chalked beneath moon-rimed binnacle lens.</sub>
 <br>
 <sub><a href="https://maxawad.com/contact">Flash the Aldis lamp one clipped quarter‑blink</a> should you wish to trace your rhumb line beneath riding lights.</sub>
 </div>
