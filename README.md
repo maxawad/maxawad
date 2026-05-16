@@ -19,7 +19,7 @@ Landfall fixes: **salt-rimed, fog-scored San Francisco, CA — rated Fog Divisio
 
 ---
 
-## What I'm Riding True — waxing crescent dog-watch, sidereal fixes & chart-table laid lead
+## What I'm Riding True — waning gibbous dog-watch, sidereal fixes & chart-table laid lead
 
 <table>
 <tr>
