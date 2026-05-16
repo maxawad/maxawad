@@ -19,7 +19,7 @@ Landfall bearings: **fog-incised, ridge-gilt San Francisco, CA — chartered Fog
 
 ---
 
-## What I'm Hauling True This Tide
+## What I'm Hauling True This Leg
 
 <table>
 <tr>
