@@ -31,7 +31,7 @@ Landfall plot: **mist-etched pewter-veiled San Francisco, CA** (~37°48′ N, ~1
 
 ### <a href="https://maxawad.com/jarvis">Jarvis</a>
 
-**Voice-hoisted ChatGPT sailing master — piped snug belowdecks on macOS (cipher-still hawse‑pipe sluice)**
+**Voice-rigged ChatGPT sailing master — piped snug belowdecks on macOS (cipher-still hawse‑pipe sluice)**
 
 Native macOS wrapper for ChatGPT with global voice hotkey and floating quick chat overlay. Hail with `Ctrl+Space` from any quarter to summon ChatGPT without missing an oar-stroke. Uses your existing ChatGPT account — GPT-4o, voice mode, the full Plus locker.
 
@@ -86,7 +86,7 @@ Select any region on your screen and instantly warp text into your clipboard. On
 
 **Yardarm-close per-window Cmd+Tab switching on macOS**
 
-Stock macOS Cmd+Tab only switches apps. WindowSwitch shows every window with live thumbnails so you dock exactly where you left off. True MRU ordering, customizable shortcut, zero config. The Alt+Tab haul macOS keeps letting spume foul your chart table.
+Stock macOS Cmd+Tab only switches apps. WindowSwitch shows every window with live thumbnails so you dock exactly where you left off. True MRU ordering, customizable shortcut, zero config. The Alt+Tab gap macOS keeps letting spume foul your chart table.
 
 `Swift` `SwiftUI` `Accessibility API` `CoreGraphics` `Carbon`
 
