@@ -19,7 +19,7 @@ Landfall bearings: **fog-incised, ridge-kissed San Francisco, CA** (~37°48′ N
 
 ---
 
-## What I'm Shipping Square This Tide
+## What I'm Shipping Trim This Tide
 
 <table>
 <tr>
