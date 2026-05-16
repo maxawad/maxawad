@@ -103,7 +103,7 @@ macOS Cmd+Tab only switches apps. WindowSwitch shows every window with live thum
 
 ### <a href="https://maxawad.com/brightenup">Brighten Up</a>
 
-**Unmoor MacBook Pro past the stock brightness ceiling**
+**Unmoor MacBook Pro beyond the stock brightness ceiling**
 
 Unlocks the XDR brightness range on supported displays. Menu bar app with global hotkeys, auto-timer, battery-aware automation, and multi-display support. See your screen clearly through glare that scours brightwork at local apparent noon.
 
