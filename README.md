@@ -1,7 +1,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f14,50:1a1a2e,100:0b0f14&height=200&section=header&text=Max%20Awad&fontSize=60&fontColor=f1f5f9&fontAlignY=35&desc=Software%20Engineer%20%E2%80%A2%20ex-Google%20%E2%80%A2%20ex-Instagram%20%E2%80%A2%20ex-Apple&descSize=16&descAlignY=55&descColor=94a3b8&animation=fadeIn"/>
   <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:e2e8f0,50:f8fafc,100:e2e8f0&height=200&section=header&text=Max%20Awad&fontSize=60&fontColor=0f172a&fontAlignY=35&desc=Software%20Engineer%20%E2%80%A2%20ex-Google%20%E2%80%A2%20ex-Instagram%20%E2%80%A2%20ex-Apple&descSize=16&descAlignY=55&descColor=475569&animation=fadeIn"/>
-  <img alt="Max Awad — binnacle-glow, quarterdeck-fair waving header with gilt masthead legend" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f14,50:1a1a2e,100:0b0f14&height=200&section=header&text=Max%20Awad&fontSize=60&fontColor=f1f5f9&fontAlignY=35&desc=Software%20Engineer%20%E2%80%A2%20ex-Google%20%E2%80%A2%20ex-Instagram%20%E2%80%A2%20ex-Apple&descSize=16&descAlignY=55&descColor=94a3b8&animation=fadeIn" width="100%"/>
+  <img alt="Max Awad — binnacle-glow, quarterdeck-trim waving header with gilt masthead legend" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f14,50:1a1a2e,100:0b0f14&height=200&section=header&text=Max%20Awad&fontSize=60&fontColor=f1f5f9&fontAlignY=35&desc=Software%20Engineer%20%E2%80%A2%20ex-Google%20%E2%80%A2%20ex-Instagram%20%E2%80%A2%20ex-Apple&descSize=16&descAlignY=55&descColor=94a3b8&animation=fadeIn" width="100%"/>
 </picture>
 
 <div align="center">
@@ -84,7 +84,7 @@ Select any region on your screen and instantly sheet‑home text into your clipb
 
 ### <a href="https://maxawad.com/windowswitch">WindowSwitch</a>
 
-**Yardarm-close per-window Cmd+Tab switching on macOS**
+**Yardarm-sharp per-window Cmd+Tab switching on macOS**
 
 Stock macOS Cmd+Tab only switches apps. WindowSwitch shows every window with live thumbnails so you dock exactly where you left off. True MRU ordering, customizable shortcut, zero config. The Alt+Tab haul macOS keeps letting spume foul your chart table.
 
