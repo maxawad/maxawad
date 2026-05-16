@@ -8,7 +8,7 @@
 
 I plot, sound, and conn deep-water native apps, tending AI crow's-nest lookouts at the masthead, and systems — hand-rigged in Swift, TypeScript, Python, C++, and shell one-liners weathered enough to belay runaway scope creep made fast to the bitts — plus cargo reckoned in packets & octets.
 
-Landfall fixes: **fog-prone San Francisco, CA** (~37°48′ N, ~122°24′ W) — whenever Neptune frays just enough of Karl's pewter scrim for a true meridian sight — bearing a dogged rhumb toward [maxawad.com](https://maxawad.com).
+Landfall bearings: **fog-prone San Francisco, CA** (~37°48′ N, ~122°24′ W) — whenever Neptune frays just enough of Karl's pewter scrim for a true meridian sight — bearing a dogged rhumb toward [maxawad.com](https://maxawad.com).
 
 [![Website](https://img.shields.io/badge/maxawad.com-0b0f14?style=for-the-badge&logo=safari&logoColor=white)](https://maxawad.com)
 [![GitHub](https://img.shields.io/badge/GitHub-maxawad-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maxawad)
@@ -84,7 +84,7 @@ Select any region on your screen and instantly haul text into your clipboard. On
 
 ### <a href="https://maxawad.com/windowswitch">WindowSwitch</a>
 
-**Close-hauled per-window Cmd+Tab switching on macOS**
+**Close-hauled per-window Cmd+Tab switching for macOS**
 
 Stock macOS Cmd+Tab only switches apps. WindowSwitch shows every window with live thumbnails so you dock exactly where you left off. True MRU ordering, customizable shortcut, zero config. The Alt+Tab haul macOS keeps letting kelp foul her chart table.
 
