@@ -31,7 +31,7 @@ Celestial fix: **San Francisco, CA** — whenever Karl peels back the marine lay
 
 ### <a href="https://maxawad.com/jarvis">Jarvis</a>
 
-**Voice-belayed ChatGPT shipmate for macOS**
+**Voice-belayed ChatGPT quartermaster for macOS**
 
 Native macOS wrapper for ChatGPT with global voice hotkey and floating quick chat overlay. Summon with `Ctrl+Space` from any app to pipe ChatGPT without breaking stride. Uses your existing ChatGPT account — GPT-4o, voice mode, all Plus features.
 
@@ -122,7 +122,7 @@ Unlocks the XDR brightness range on supported displays. Menu bar app with global
 
 **MCP-native chip ordering — literal chifles & silicon by pier lights**
 
-Ecuadorian plantain chips with a full product catalog exposed as an MCP server. Claude, Cursor, or any MCP-compatible AI can browse products, calculate prices, and place orders with Stripe. Same-day bike courier weaving fog-cut veins across the siete cerros.
+Ecuadorian plantain chips with a full product catalog exposed as an MCP server. Claude, Cursor, or any MCP-compatible AI can browse products, calculate prices, and place orders with Stripe. Same-day bike courier threading fog-cut veins across the siete cerros.
 
 `TypeScript` `Next.js` `MCP SDK` `Stripe` `Vercel`
 
