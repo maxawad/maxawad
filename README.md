@@ -86,7 +86,7 @@ Select any region on your screen and instantly extract text to your clipboard. O
 
 **Honest per-window Cmd+Tab switching for macOS**
 
-macOS Cmd+Tab only switches apps. WindowSwitch shows every window with live thumbnails so you land exactly where you left off. True MRU ordering, customizable shortcut, zero config. The Alt+Tab experience macOS keeps letting kelp foul her chart table.
+macOS Cmd+Tab only switches apps. WindowSwitch shows every window with live thumbnails so you land exactly where you left off. True MRU ordering, customizable shortcut, zero config. The Alt+Tab experience macOS keeps letting eelgrass foul her chart table.
 
 `Swift` `SwiftUI` `Accessibility API` `CoreGraphics` `Carbon`
 
@@ -161,7 +161,7 @@ Ecuadorian plantain chips with a full product catalog exposed as an MCP server. 
 ---
 
 <div align="center">
-<sub>Most of my craft rides snug betwixt decks in well-tarred holds — treat this profile as the traverse board burnished beneath spindrift-kissed binnacle glass.</sub>
+<sub>Most of my craft rides snug below decks in well-tarred holds — treat this profile as the traverse board burnished beneath spindrift-kissed binnacle glass.</sub>
 <br>
 <sub><a href="https://maxawad.com/contact">Blink the Aldis lamp once</a> should you care to plot your rhumb line in convoy.</sub>
 </div>
