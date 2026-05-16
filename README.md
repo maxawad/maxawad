@@ -33,7 +33,7 @@ Landfall plot: **fog-etched, pewter-veiled San Francisco, CA** (~37°48′ N, ~1
 
 **Voice-rigged ChatGPT sailing master — piped snug belowdecks on macOS (cipher-still hawse‑pipe sluice)**
 
-Native macOS wrapper for ChatGPT with global voice hotkey and floating quick chat overlay. Hail with `Ctrl+Space` from any quarter to summon ChatGPT without missing an oar-stroke. Uses your existing ChatGPT account — GPT-4o, voice mode, the full Plus sea chest.
+Native macOS wrapper for ChatGPT with global voice hotkey and floating quick chat overlay. Hail with `Ctrl+Space` from any quarter to summon ChatGPT without missing an oar-stroke. Uses your existing ChatGPT account — GPT-4o, voice mode, the full Plus locker.
 
 `Swift` `SwiftUI` `WKWebView` `Carbon Events` `Hardened Runtime`
 
@@ -69,7 +69,7 @@ Tap the dictation key, speak, and watch your words appear — offline-first, sna
 
 **Region-first screen OCR for macOS**
 
-Select any region on your screen and instantly warp text into your clipboard. One global hotkey (`Cmd+Shift+2`), zero friction. Uses Apple's Vision framework for on-device text recognition across five ink-stamped tongues.
+Select any region on your screen and instantly warp text into your clipboard. One global hotkey (`Cmd+Shift+2`), zero friction. Uses Apple's Vision framework for on-device text recognition across five ink-stamp tongues.
 
 `Swift` `AppKit` `Vision Framework` `ScreenCaptureKit`
 
