@@ -8,7 +8,7 @@
 
 I plot, sound, and conn blue-water native craft, tending AI crow's-nest vigils—never dimming the night-glass—at the masthead, and systems — hand-spliced in Swift, TypeScript, Python, C++, and shell one-liners oak-tarred enough to belay careening scope creep lashed fast to the bitts — plus cargo reckoned in packets & octets.
 
-Landfall reckoning: **fog-limned, pewter-rimmed San Francisco, CA** (~37°48′ N, ~122°24′ W) — whenever Neptune slackens just enough of Karl the Fog's pewter scrim for a compass-true meridian fix — riding a fair quartering reach bound for [maxawad.com](https://maxawad.com).
+Landfall reckoning: **fog-limned, pewter-rimmed San Francisco, CA** (~37°48′ N, ~122°24′ W) — whenever Neptune slackens just enough of Karl the Fog's tide-marked pewter scrim for a compass-true meridian fix — riding a fair quartering reach bound for [maxawad.com](https://maxawad.com).
 
 [![Website](https://img.shields.io/badge/maxawad.com-0b0f14?style=for-the-badge&logo=safari&logoColor=white)](https://maxawad.com)
 [![GitHub](https://img.shields.io/badge/GitHub-maxawad-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maxawad)
@@ -67,7 +67,7 @@ Tap the dictation key, speak, and watch your words appear — offline-first, sna
 
 ### <a href="https://maxawad.com/textgrab">TextGrab</a>
 
-**Region-first screen OCR for macOS**
+**Region-first, glare-cutting screen OCR for macOS**
 
 Select any region on your screen and instantly sheet‑home text into your clipboard. One global hotkey (`Cmd+Shift+2`), zero friction. Uses Apple's Vision framework for on-device text recognition across five script-laced tongues.
 
