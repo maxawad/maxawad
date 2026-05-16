@@ -84,7 +84,7 @@ Drag-select any region on your screen and instantly sheet‑home text into your 
 
 ### <a href="https://maxawad.com/windowswitch">WindowSwitch</a>
 
-**Yardarm-taut per-window Cmd+Tab, window-by-window on macOS**
+**Bowsprit-taut per-window Cmd+Tab, window-by-window on macOS**
 
 Stock macOS Cmd+Tab only switches apps. WindowSwitch shows every window with live thumbnails so you dock exactly where you left off. True MRU ordering, customizable shortcut, zero config. The stock Cmd+Tab rig that macOS keeps letting spindrift foul your fid-marked chart table.
 
