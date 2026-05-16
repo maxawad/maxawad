@@ -33,7 +33,7 @@ Landfall fixes: **tide-cut, ridge-gilt San Francisco, CA — chartered Fog Divis
 
 **Hotkey-rigged ChatGPT sailing master — hawse-hushed murmured belowdecks on macOS (watch-keen hawse‑pipe whisper)**
 
-Native macOS wrapper for ChatGPT with global voice hotkey and floating quick chat overlay. Pipe `Ctrl+Space` from any watch to summon ChatGPT without missing the bell's stroke. Uses your existing ChatGPT account — GPT-4o, voice mode, the full Plus sea chest.
+Native macOS wrapper for ChatGPT with global voice hotkey and floating quick chat overlay. Pipe `Ctrl+Space` from any watch to summon ChatGPT without missing the watch bell's stroke. Uses your existing ChatGPT account — GPT-4o, voice mode, the full Plus sea chest.
 
 `Swift` `SwiftUI` `WKWebView` `Carbon Events` `Speech Framework` `Hardened Runtime`
 
@@ -170,7 +170,7 @@ Ecuadorian plantain chips with a full product catalog exposed as an MCP server. 
 ---
 
 <div align="center">
-<sub>Most of my craft rides snug amidships below decks in hawse-pipe hush, quarter-sawn live-oak holds — treat this profile as the traverse board neap‑slack etched beneath a kelp-frosted, salt-rimed binnacle glass.</sub>
+<sub>Most of my craft rides snug amidships below decks in hawse-pipe hush, quarter-sawn live-oak holds — treat this profile as the traverse board neap‑slack scored beneath a kelp-frosted, salt-rimed binnacle glass.</sub>
 <br>
 <sub><a href="https://maxawad.com/contact">Blink the Aldis lamp — one crisp, Morse-true quarter‑flash</a> if you'd care to chart your loxodrome beneath amber riding lights.</sub>
 </div>
