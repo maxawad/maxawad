@@ -120,7 +120,7 @@ Unlocks the XDR brightness range on supported displays. Menu bar app with global
 
 ### <a href="https://perico.click">Perico Chifles</a>
 
-**MCP-belayed plantain-chip ordering — veritable chifles & circuits beneath moth-soft sodium-vapor estuary lights**
+**MCP-belayed plantain-chip ordering — veritable chifles & circuits beneath moth-soft sodium-vapor pierhead lights**
 
 Ecuadorian plantain chips with a full product catalog exposed as an MCP server. Claude, Cursor, or any MCP-compatible AI can browse products, tally prices, and place orders with Stripe. Same-day cargo-bike courier tracing dock-glow cat's-paws across Guayaquil's rain-etched siete cerros.
 
