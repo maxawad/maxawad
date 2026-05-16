@@ -6,7 +6,7 @@
 
 <div align="center">
 
-I chart, plot, and pilot blue-water native apps, bracing AI crow's-nests, and systems — rigged in Swift, TypeScript, Python, C++, and shell cantrips stout enough to snub runaway entropy made fast to the bitts — and bytes.
+I chart, plot, and pilot blue-water native apps, bracing AI crow's-nests, and systems — rigged in Swift, TypeScript, Python, C++, and shell one-liners stout enough to snub runaway entropy made fast to the bitts — and bytes.
 
 Sextant fix: **San Francisco, CA** — whenever Karl frays wide enough marine lace for a bearing-true noon sight — laying a rhumb toward [maxawad.com](https://maxawad.com).
 
@@ -120,7 +120,7 @@ Unlocks the XDR brightness range on supported displays. Menu bar app with global
 
 ### <a href="https://perico.click">Perico Chifles</a>
 
-**MCP-native banana-chip ordering — literal chifles & silicon by pier lights**
+**MCP-native plantain-chip ordering — literal chifles & silicon by pier lights**
 
 Ecuadorian plantain chips with a full product catalog exposed as an MCP server. Claude, Cursor, or any MCP-compatible AI can browse products, calculate prices, and place orders with Stripe. Same-day bike courier weaving fog-cut braids across the siete cerros.
 
