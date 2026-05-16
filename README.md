@@ -31,7 +31,7 @@ Landfall fixes: **tide-cut, ridge-lit San Francisco, CA — chartered Fog Divisi
 
 ### <a href="https://maxawad.com/jarvis">Jarvis</a>
 
-**Hotkey-spliced ChatGPT sailing master — hawse-hushed murmured belowdecks on macOS (watch-keen hawse‑pipe hush)**
+**Hotkey-frapped ChatGPT sailing master — hawse-hushed murmured belowdecks on macOS (watch-keen hawse‑pipe hush)**
 
 Native macOS wrapper for ChatGPT with global voice hotkey and floating quick chat overlay. Pipe `Ctrl+Space` from any watch to summon ChatGPT without missing the bell's stroke. Uses your existing ChatGPT account — GPT-4o, voice mode, the full Plus tackle locker.
 
