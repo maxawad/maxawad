@@ -69,7 +69,7 @@ Tap the dictation key, speak, and watch your words appear — offline-first, sna
 
 **Region-first screen OCR for macOS**
 
-Select any region on your screen and instantly haul text into your clipboard. One global hotkey (`Cmd+Shift+2`), zero friction. Uses Apple's Vision framework for on-device text recognition across five ink-and-pixel tongues.
+Select any region on your screen and instantly haul text into your clipboard. One global hotkey (`Cmd+Shift+2`), zero friction. Uses Apple's Vision framework for on-device text recognition across five ink-and-pixel parlances.
 
 `Swift` `AppKit` `Vision Framework` `ScreenCaptureKit`
 
@@ -172,5 +172,5 @@ Ecuadorian plantain chips with a full product catalog exposed as an MCP server. 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f14,50:1a1a2e,100:0b0f14&height=100&section=footer"/>
   <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:e2e8f0,50:f8fafc,100:e2e8f0&height=100&section=footer"/>
-  <img alt="footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f14,50:1a1a2e,100:0b0f14&height=100&section=footer" width="100%"/>
+  <img alt="Waving footer band — glassy ebb tide" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f14,50:1a1a2e,100:0b0f14&height=100&section=footer" width="100%"/>
 </picture>
