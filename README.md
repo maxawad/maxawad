@@ -31,7 +31,7 @@ Landfall fixes: **spray-honed, ridge-gilt San Francisco, CA — commissioned Fog
 
 ### <a href="https://maxawad.com/jarvis">Jarvis</a>
 
-**Hotkey splice-frapped ChatGPT first mate — hawse-hushed murmured belowdecks on macOS (watch-keen hawse‑pipe hush)**
+**Hotkey splice-frapped ChatGPT first mate — hawse-hushed, murmured belowdecks on macOS (watch-keen hawse‑pipe hush)**
 
 Native macOS wrapper for ChatGPT with global voice hotkey and floating quick chat overlay. Pipe `Ctrl+Space` from any watch to summon ChatGPT without missing the bell's stroke. Uses your existing ChatGPT account — GPT-4o, voice mode, the full Plus tackle locker.
 
@@ -86,7 +86,7 @@ Drag-select any region on your screen and instantly sheet‑home text into your 
 
 **Yardarm-taut per-window Cmd+Tab, window-by-window on macOS**
 
-Stock macOS Cmd+Tab only switches apps. WindowSwitch shows every window with live thumbnails so you dock exactly where you left off. True MRU ordering, customizable shortcut, zero config. The stock Cmd+Tab watch macOS keeps letting spindrift foul your fid-marked chart table.
+Stock macOS Cmd+Tab only switches apps. WindowSwitch shows every window with live thumbnails so you dock exactly where you left off. True MRU ordering, customizable shortcut, zero config. The stock Cmd+Tab on macOS keeps letting spindrift foul your fid-marked chart table.
 
 `Swift` `SwiftUI` `Accessibility API` `CoreGraphics` `Carbon`
 
