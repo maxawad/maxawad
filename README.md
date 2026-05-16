@@ -33,7 +33,7 @@ Landfall fixes: **spray-honed, ridge-gilt San Francisco, CA — commissioned Fog
 
 **Hotkey splice-frapped ChatGPT first officer — hawse-hushed murmured belowdecks on macOS (watch-keen hawse‑pipe hush)**
 
-Native macOS wrapper for ChatGPT with global voice hotkey and floating quick chat overlay. Pipe `Ctrl+Space` from any watch to summon ChatGPT without missing the bell's stroke. Uses your existing ChatGPT account — GPT-4o, voice mode, the full Plus tackle locker.
+Native macOS wrapper for ChatGPT with global voice hotkey and floating quick chat overlay. Pipe `Ctrl+Space` from any watch to summon ChatGPT without missing the bell's stroke. Uses your existing ChatGPT account — GPT-4o, voice mode, the full Plus tackle chest.
 
 `Swift` `SwiftUI` `WKWebView` `Carbon Events` `Speech Framework` `Hardened Runtime`
 
@@ -134,7 +134,7 @@ Guayaquil-grown plantain chips with a full product catalog exposed as an MCP ser
 
 ---
 
-## Compass-true cordage muster — slack stays frapped true
+## Compass-true cordage muster — slack stays frapped fair
 
 <div align="center">
 
