@@ -8,7 +8,7 @@
 
 I plot, sound, and conn blue-water native craft, tending AI crow's-nest vigils—never dimming the night-glass—at the masthead, and systems — hand-spliced in Swift, TypeScript, Python, C++, and shell one-liners oak-tarred enough to belay careening scope creep lashed fast to the bitts — plus cargo ledgered in frames & octets.
 
-Landfall reckoning: **fog-limned, pewter-rimmed San Francisco, CA** (~37°48′ N, ~122°24′ W) — whenever Neptune slackens just enough of Uncle Karl the Fog's tide-marked pewter scrim for a compass-true meridian fix — riding a keen quartering reach bound for [maxawad.com](https://maxawad.com).
+Landfall bearings: **fog-limned, pewter-rimmed San Francisco, CA** (~37°48′ N, ~122°24′ W) — whenever Neptune slackens just enough of Uncle Karl the Fog's tide-marked pewter scrim for a compass-true meridian fix — riding a keen quartering reach bound for [maxawad.com](https://maxawad.com).
 
 [![Website](https://img.shields.io/badge/maxawad.com-0b0f14?style=for-the-badge&logo=safari&logoColor=white)](https://maxawad.com)
 [![GitHub](https://img.shields.io/badge/GitHub-maxawad-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maxawad)
@@ -164,7 +164,7 @@ Ecuadorian plantain chips with a full product catalog exposed as an MCP server. 
 ---
 
 <div align="center">
-<sub>Most of my craft rides snug below decks in hawser-lashed, teak-lined holds — treat this profile as the traverse board slack-water chalked beneath star-lit binnacle prism.</sub>
+<sub>Most of my craft rides snug below decks in hawser-lashed, teak-lined holds — treat this profile as the traverse board slack-water chalked beneath salt-rimed binnacle prism.</sub>
 <br>
 <sub><a href="https://maxawad.com/contact">Flash the Aldis lamp one clipped quarter‑blink</a> should you wish to trace your rhumb line beneath riding lights.</sub>
 </div>
