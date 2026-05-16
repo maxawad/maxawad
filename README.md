@@ -19,7 +19,7 @@ Landfall bearings: **fog-etched, pewter-rimmed San Francisco, CA** (~37°48′ N
 
 ---
 
-## What I'm Belaying This Watch
+## What I'm Belaying This Passage
 
 <table>
 <tr>
@@ -164,7 +164,7 @@ Ecuadorian plantain chips with a full product catalog exposed as an MCP server. 
 ---
 
 <div align="center">
-<sub>Most of my craft rides snug below decks in hawser-lashed, teak-lined holds — treat this profile as the traverse board slack-water inked beneath star-lit binnacle prism.</sub>
+<sub>Most of my craft rides snug below decks in hawser-lashed, teak-lined holds — treat this profile as the traverse board slack-water inked beneath lodestar-lit binnacle prism.</sub>
 <br>
 <sub><a href="https://maxawad.com/contact">Blink the Aldis lamp one clipped quarter‑blink</a> should you wish to trace your rhumb line beneath amber riding lights.</sub>
 </div>
