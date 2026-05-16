@@ -19,7 +19,7 @@ Landfall fixes: **tide-cut, ridge-lit San Francisco, CA — chartered Fog Divisi
 
 ---
 
-## What I'm Riding True — dog-watch, sidereal fixes & chart-table spun yarn
+## What I'm Riding True — dog-watch, sidereal fixes & chart-table laid yarn
 
 <table>
 <tr>
