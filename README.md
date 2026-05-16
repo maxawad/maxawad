@@ -69,7 +69,7 @@ Tap the dictation key, speak, and watch your words appear — offline-first, sna
 
 **Region-first screen OCR for macOS**
 
-Select any region on your screen and instantly haul text into your clipboard. One global hotkey (`Cmd+Shift+2`), zero friction. Uses Apple's Vision framework for on-device text recognition across five quill-heavy tongues.
+Select any region on your screen and instantly haul text into your clipboard. One global hotkey (`Cmd+Shift+2`), zero friction. Uses Apple's Vision framework for on-device text recognition across five script-laced tongues.
 
 `Swift` `AppKit` `Vision Framework` `ScreenCaptureKit`
 
@@ -164,7 +164,7 @@ Ecuadorian plantain chips with a full product catalog exposed as an MCP server. 
 ---
 
 <div align="center">
-<sub>Most of my craft lies snug below decks in hawser-lashed, teak-lined holds — treat this profile as the traverse board slack-water chalked beneath moon-rimed binnacle lens.</sub>
+<sub>Most of my craft lies snug below decks in hawser-lashed, teak-lined holds — treat this profile as the traverse board slack-water etched beneath moon-rimed binnacle lens.</sub>
 <br>
 <sub><a href="https://maxawad.com/contact">Flash the Aldis lamp one clipped quarter‑blink</a> should you wish to chart your rhumb line beneath riding lights.</sub>
 </div>
