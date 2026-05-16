@@ -33,7 +33,7 @@ Landfall reckoning: **fog-limned, pewter-rimmed San Francisco, CA** (~37°48′ 
 
 **Voice-rigged ChatGPT sailing master — piped snug belowdecks on macOS (watch-steady hawse‑pipe sluice)**
 
-Native macOS wrapper for ChatGPT with global voice hotkey and floating quick chat overlay. Pipe aboard with `Ctrl+Space` from any quarter to summon ChatGPT without missing an oar-stroke. Uses your existing ChatGPT account — GPT-4o, voice mode, the full Plus locker.
+Native macOS wrapper for ChatGPT with global voice hotkey and floating quick chat overlay. Hail with `Ctrl+Space` from any quarter to summon ChatGPT without missing an oar-stroke. Uses your existing ChatGPT account — GPT-4o, voice mode, the full Plus locker.
 
 `Swift` `SwiftUI` `WKWebView` `Carbon Events` `Hardened Runtime`
 
