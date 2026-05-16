@@ -6,7 +6,7 @@
 
 <div align="center">
 
-I chart, plot, and helm blue-water native apps, rigging AI crow's-nests, and systems — rigged in Swift, TypeScript, Python, C++, and shell sigils stout enough to snub runaway entropy made fast to the bitts — and bytes.
+I chart, plot, and conn blue-water native apps, rigging AI crow's-nests, and systems — rigged in Swift, TypeScript, Python, C++, and shell sigils stout enough to snub runaway entropy made fast to the bitts — and bytes.
 
 Celestial fix: **San Francisco, CA** — whenever Karl tears back enough marine lace for a needle-true sun sight — plotting a rhumb toward [maxawad.com](https://maxawad.com).
 
@@ -103,7 +103,7 @@ macOS Cmd+Tab only switches apps. WindowSwitch shows every window with live thum
 
 ### <a href="https://maxawad.com/brightenup">Brighten Up</a>
 
-**Unshackle MacBook Pro past the stock brightness ceiling**
+**Unshackle MacBook Pro beyond the stock brightness ceiling**
 
 Unlocks the XDR brightness range on supported displays. Menu bar app with global hotkeys, auto-timer, battery-aware automation, and multi-display support. See your screen clearly through glare that crosses brass with local apparent noon.
 
