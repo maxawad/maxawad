@@ -19,7 +19,7 @@ Landfall fixes: **tide-cut, ridge-lit San Francisco, CA — chartered Fog Divisi
 
 ---
 
-## What I'm Riding True — middle-watch, sidereal fixes & chart-table yarn
+## What I'm Riding True — dogwatch, sidereal fixes & chart-table yarn
 
 <table>
 <tr>
@@ -134,7 +134,7 @@ Ecuadorian plantain chips with a full product catalog exposed as an MCP server. 
 
 ---
 
-## Compass-true rigging muster — slack stays frapped fair
+## Compass-true cordage muster — slack stays frapped fair
 
 <div align="center">
 
