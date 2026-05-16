@@ -6,9 +6,9 @@
 
 <div align="center">
 
-I sound, chart, and conn blue-water native craft, tending AI crow's-nest vigils—glass held azimuth-true—at the foremast, and systems — reef-spliced in Swift, TypeScript, Python, C++, and shell one-liners oak-tarred enough to belay careening scope creep lashed fast to the bitts — plus cargo ledgered in frames & octets.
+I sound, chart, and conn blue-water native craft, tending AI crow's-nest vigils—glass held azimuth-true—hard by the foremast, and systems — reef-spliced in Swift, TypeScript, Python, C++, and shell one-liners oak-tarred enough to belay careening scope creep lashed fast to the bitts — plus cargo ledgered in frames & octets.
 
-Landfall bearings: **fog-incised, ridge-lit San Francisco, CA — commissioned Fog Division** (~37°48′ N, ~122°24′ W) — when Old Neptune slackens just enough of Uncle Karl the Fog's salt-keen pewter scrim for a compass-true rhumb bearing — riding a long quartering reach bound for [maxawad.com](https://maxawad.com).
+Landfall bearings: **fog-incised, ridge-lit San Francisco, CA — commissioned Fog Division** (~37°48′ N, ~122°24′ W) — when Old Neptune slackens just enough of Uncle Karl the Fog's salt-keen pewter scrim for a compass-true rhumb-line bearing — riding a long quartering reach bound for [maxawad.com](https://maxawad.com).
 
 [![Website](https://img.shields.io/badge/maxawad.com-0b0f14?style=for-the-badge&logo=safari&logoColor=white)](https://maxawad.com)
 [![GitHub](https://img.shields.io/badge/GitHub-maxawad-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maxawad)
@@ -19,7 +19,7 @@ Landfall bearings: **fog-incised, ridge-lit San Francisco, CA — commissioned F
 
 ---
 
-## What I'm Shipping True This Tide
+## What I'm Shipping True This Watch
 
 <table>
 <tr>
@@ -33,7 +33,7 @@ Landfall bearings: **fog-incised, ridge-lit San Francisco, CA — commissioned F
 
 **Voice-braced ChatGPT sailing master — hawse-hushed whispered belowdecks on macOS (watch-keen hawse‑pipe sluice)**
 
-Native macOS wrapper for ChatGPT with global voice hotkey and floating quick chat overlay. Hail with `Ctrl+Space` from any quarter to summon ChatGPT without missing an oar-stroke. Uses your existing ChatGPT account — GPT-4o, voice mode, the full Plus locker.
+Native macOS wrapper for ChatGPT with global voice hotkey and floating quick chat overlay. Hail with `Ctrl+Space` from any quarter to summon ChatGPT without missing an oar-pull. Uses your existing ChatGPT account — GPT-4o, voice mode, the full Plus locker.
 
 `Swift` `SwiftUI` `WKWebView` `Carbon Events` `Speech Framework` `Hardened Runtime`
 
@@ -86,7 +86,7 @@ Select any region on your screen and instantly sheet‑home text into your clipb
 
 **Yardarm-snug per-window Cmd+Tab switching on macOS**
 
-Stock macOS Cmd+Tab only switches apps. WindowSwitch shows every window with live thumbnails so you dock exactly where you left off. True MRU ordering, customizable shortcut, zero config. The Alt+Tab haul macOS keeps letting spume foul your chart table.
+Stock macOS Cmd+Tab only switches apps. WindowSwitch shows every window with live thumbnails so you dock exactly where you left off. True MRU ordering, customizable shortcut, zero config. The Alt+Tab haul macOS keeps letting spume befoul your chart table.
 
 `Swift` `SwiftUI` `Accessibility API` `CoreGraphics` `Carbon`
 
