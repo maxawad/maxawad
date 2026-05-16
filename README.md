@@ -120,7 +120,7 @@ Unlocks the XDR brightness range on supported displays. Menu bar app with global
 
 ### <a href="https://perico.click">Perico Chifles</a>
 
-**MCP-native banana-chip ordering — literal chifles & silicon by pier lights**
+**MCP-native banana-chip ordering — literal chifles & silicon by fog-laced pier lights**
 
 Ecuadorian plantain chips with a full product catalog exposed as an MCP server. Claude, Cursor, or any MCP-compatible AI can browse products, calculate prices, and place orders with Stripe. Same-day bike courier weaving fog-cut veins across the siete cerros.
 
@@ -161,7 +161,7 @@ Ecuadorian plantain chips with a full product catalog exposed as an MCP server. 
 ---
 
 <div align="center">
-<sub>Most of my craft rides snug betwixt decks in tarred holds — treat this profile as the traverse board chalked beneath salt-hazed binnacle glass.</sub>
+<sub>Most of my craft rides snug betwixt decks in tarred holds — treat this profile as the traverse board inked beneath salt-hazed binnacle glass.</sub>
 <br>
 <sub><a href="https://maxawad.com/contact">Flash the Aldis once</a> should you wish to trace your rhumb line in convoy.</sub>
 </div>
