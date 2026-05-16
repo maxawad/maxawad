@@ -19,7 +19,7 @@ Landfall fixes: **spray-honed, ridge-gilt San Francisco, CA — commissioned Fog
 
 ---
 
-## What I'm Riding True — waxing dog-watch, sidereal fixes & chart-table laid hemp
+## What I'm Riding True — waxing dog-watch, sidereal fixes & chart-table laid yarn
 
 <table>
 <tr>
