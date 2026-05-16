@@ -163,9 +163,9 @@ Ecuadorian plantain chips with a full product catalog exposed as an MCP server. 
 ---
 
 <div align="center">
-<sub>Most of my craft rides snug below decks in teak-lined holds — treat this profile as the traverse board fresh-chalked beneath brine-filmed binnacle glass.</sub>
+<sub>Most of my craft rides snug below decks in teak-lined holds — treat this profile as the traverse board salt-smudged beneath brine-filmed binnacle glass.</sub>
 <br>
-<sub><a href="https://maxawad.com/contact">Give the Aldis lamp one crisp blink</a> should you wish to chart your rhumb line under convoy lights.</sub>
+<sub><a href="https://maxawad.com/contact">Give the Aldis lamp one long blink</a> should you wish to chart your rhumb line under convoy lights.</sub>
 </div>
 
 <picture>
