@@ -31,7 +31,7 @@ Landfall fixes: **tide-cut, ridge-lit San Francisco, CA — chartered Fog Divisi
 
 ### <a href="https://maxawad.com/jarvis">Jarvis</a>
 
-**Hotkey-spliced ChatGPT sailing master — hawse-hushed murmured belowdecks on macOS (watch-keen hawse‑pipe whisper)**
+**Hotkey-spliced ChatGPT sailing master — hawse-hushed murmured belowdecks on macOS (watch-keen hawse‑pipe hush)**
 
 Native macOS wrapper for ChatGPT with global voice hotkey and floating quick chat overlay. Pipe `Ctrl+Space` from any watch to summon ChatGPT without missing the bell's stroke. Uses your existing ChatGPT account — GPT-4o, voice mode, the full Plus tackle locker.
 
@@ -173,7 +173,7 @@ Guayaquil-grown plantain chips with a full product catalog exposed as an MCP ser
 ---
 
 <div align="center">
-<sub>Most of my craft rides snug amidships below decks in hawse-pipe hush, quarter-sawn live-oak holds — treat this berth as the traverse board ebb‑slack scored beneath a kelp-threaded, salt-rimed binnacle glass.</sub>
+<sub>Most of my craft rides snug amidships below decks in hawse-pipe hush, quarter-sawn live-oak holds — treat this berth as the traverse board ebb‑and‑slack scored beneath a kelp-threaded, salt-rimed binnacle glass.</sub>
 <br>
 <sub><a href="https://maxawad.com/contact">Blink the Aldis lamp — one brisk, lantern-steady quarter‑blink</a> if you'd care to chart your loxodrome beneath amber riding lights.</sub>
 </div>
