@@ -6,7 +6,7 @@
 
 <div align="center">
 
-I plot, sound, and conn deep-water native apps, tending AI crow's-nest lookouts at the masthead, and systems — hand-spliced in Swift, TypeScript, Python, C++, and shell one-liners weathered enough to belay runaway scope creep made fast to the bitts — plus cargo reckoned in packets & octets.
+I plot, take soundings, and conn deep-water native apps, tending AI crow's-nest lookouts at the masthead, and systems — hand-spliced in Swift, TypeScript, Python, C++, and shell one-liners weathered enough to belay runaway scope creep made fast to the bitts — plus cargo reckoned in packets & octets.
 
 Landfall bearings: **fog-rimed San Francisco, CA** (~37°48′ N, ~122°24′ W) — whenever Neptune frays just enough of Karl's pewter scrim for a true meridian fix — holding a steady rhumb toward [maxawad.com](https://maxawad.com).
 
@@ -86,7 +86,7 @@ Select any region on your screen and instantly haul text into your clipboard. On
 
 **Close-hauled per-window Cmd+Tab switching for macOS**
 
-Stock macOS Cmd+Tab only switches apps. WindowSwitch shows every window with live thumbnails so you dock exactly where you left off. True MRU ordering, customizable shortcut, zero config. The Alt+Tab haul macOS keeps letting bull kelp foul the chart table.
+Stock macOS Cmd+Tab only switches apps. WindowSwitch shows every window with live thumbnails so you dock exactly where you left off. True MRU ordering, customizable shortcut, zero config. The Alt+Tab haul macOS keeps letting bull kelp foul your chart table.
 
 `Swift` `SwiftUI` `Accessibility API` `CoreGraphics` `Carbon`
 
