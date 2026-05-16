@@ -86,7 +86,7 @@ Select any region on your screen and instantly extract text to your clipboard. O
 
 **Honest per-window Cmd+Tab switching for macOS**
 
-macOS Cmd+Tab only switches apps. WindowSwitch shows every window with live thumbnails so you land exactly where you left off. True MRU ordering, customizable shortcut, zero config. The Alt+Tab experience macOS keeps letting kelp snag its roadmap.
+macOS Cmd+Tab only switches apps. WindowSwitch shows every window with live thumbnails so you land exactly where you left off. True MRU ordering, customizable shortcut, zero config. The Alt+Tab experience macOS keeps letting kelp foul its roadmap.
 
 `Swift` `SwiftUI` `Accessibility API` `CoreGraphics` `Carbon`
 
@@ -120,7 +120,7 @@ Unlocks the XDR brightness range on supported displays. Menu bar app with global
 
 ### <a href="https://perico.click">Perico Chifles</a>
 
-**MCP-native banana-chip ordering — literal chifles & silicon by pier lights**
+**MCP-native banana-chip ordering — literal chifles & silicon by pierhead lights**
 
 Ecuadorian plantain chips with a full product catalog exposed as an MCP server. Claude, Cursor, or any MCP-compatible AI can browse products, calculate prices, and place orders with Stripe. Same-day bike courier threading fog-cut braids across the siete cerros.
 
