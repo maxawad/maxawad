@@ -19,7 +19,7 @@ Landfall bearings: **fog-incised, ridge-gilt San Francisco, CA — chartered Fog
 
 ---
 
-## What I'm Hauling True This Forenoon Watch
+## What I'm Hauling True This Forenoon Tide
 
 <table>
 <tr>
