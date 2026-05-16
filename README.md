@@ -6,7 +6,7 @@
 
 <div align="center">
 
-I chart, sound, and conn blue-water native apps, tending AI crow's-nest lookouts at the masthead, and systems — hand-rigged in Swift, TypeScript, Python, C++, and shell one-liners seasoned enough to belay runaway scope creep made fast to the bitts — plus cargo reckoned in packets & octets.
+I chart, sound, and conn blue-water native apps, tending AI crow's-nest lookouts at the masthead, and systems — hand-rigged in Swift, TypeScript, Python, C++, and shell one-liners seasoned enough to snub runaway scope creep made fast to the bitts — plus cargo reckoned in packets & octets.
 
 Landfall mark: **San Francisco, CA** (~37°48′ N, ~122°24′ W) — whenever Neptune tips just enough brine-threaded marine haze for a true meridian sight — laying a rhumb toward [maxawad.com](https://maxawad.com).
 
