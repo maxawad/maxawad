@@ -31,7 +31,7 @@ Sextant sight: **San Francisco, CA** (~37°48′ N, ~122°24′ W) — whenever 
 
 ### <a href="https://maxawad.com/jarvis">Jarvis</a>
 
-**Voice-hailed ChatGPT quartermaster — piped straight aboard macOS**
+**Voice-hailed ChatGPT boatswain — piped straight aboard macOS**
 
 Native macOS wrapper for ChatGPT with global voice hotkey and floating quick chat overlay. Hail with `Ctrl+Space` from any app to summon ChatGPT without breaking stride. Uses your existing ChatGPT account — GPT-4o, voice mode, the full Plus locker.
 
@@ -122,7 +122,7 @@ Unlocks the XDR brightness range on supported displays. Menu bar app with global
 
 **MCP-native banana-chip ordering — literal chifles & circuits by pierhead lights**
 
-Ecuadorian plantain chips with a full product catalog exposed as an MCP server. Claude, Cursor, or any MCP-compatible AI can browse products, calculate prices, and place orders with Stripe. Same-day cargo-bike courier braiding fog-lit wakes across Guayaquil's siete cerros.
+Ecuadorian plantain chips with a full product catalog exposed as an MCP server. Claude, Cursor, or any MCP-compatible AI can browse products, calculate prices, and place orders with Stripe. Same-day cargo-bike courier braiding lantern-lit wakes across Guayaquil's siete cerros.
 
 `TypeScript` `Next.js` `MCP SDK` `Stripe` `Vercel`
 
