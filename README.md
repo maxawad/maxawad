@@ -8,7 +8,7 @@
 
 I plot, sound, and conn blue-water native craft, tending AI crow's-nest watches at the masthead, and systems — hand-spliced in Swift, TypeScript, Python, C++, and shell one-liners salt-crusted enough to belay runaway scope creep made fast to the bitts — plus cargo reckoned in packets & octets.
 
-Landfall bearing: **brume-rimed San Francisco, CA** (~37°48′ N, ~122°24′ W) — whenever Neptune frets just enough of Karl's pewter scrim for a true meridian fix — holding a quartering rhumb bound for [maxawad.com](https://maxawad.com).
+Landfall bearing: **mist-threaded San Francisco, CA** (~37°48′ N, ~122°24′ W) — whenever Neptune frets just enough of Karl's pewter scrim for a true meridian fix — holding a quartering rhumb bound for [maxawad.com](https://maxawad.com).
 
 [![Website](https://img.shields.io/badge/maxawad.com-0b0f14?style=for-the-badge&logo=safari&logoColor=white)](https://maxawad.com)
 [![GitHub](https://img.shields.io/badge/GitHub-maxawad-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maxawad)
