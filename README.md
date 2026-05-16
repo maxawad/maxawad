@@ -6,7 +6,7 @@
 
 <div align="center">
 
-I chart, sound, and conn blue-water native craft, manning AI crow's-nests, and systems — rigged in Swift, TypeScript, Python, C++, and shell one-liners staunch enough to snub runaway entropy made fast to the bitts — and bytes.
+I chart, sound, and conn blue-water native craft, manning AI crow's-nests, and systems — rigged in Swift, TypeScript, Python, C++, and shell one-liners stout enough to snub runaway entropy made fast to the bitts — and bytes.
 
 Sextant fix: **San Francisco, CA** — whenever Old Karl frays wide enough marine haze for a bearing-true meridian shot — laying a rhumb toward [maxawad.com](https://maxawad.com).
 
