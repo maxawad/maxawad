@@ -19,7 +19,7 @@ Landfall bearings: **fog-etched, kelp-lined San Francisco, CA** (~37°48′ N, ~
 
 ---
 
-## What I'm Plotting True This Watch
+## What I'm Shipping True This Watch
 
 <table>
 <tr>
