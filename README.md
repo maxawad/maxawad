@@ -31,7 +31,7 @@ Sextant sight: **San Francisco, CA** (~37°48′ N, ~122°24′ W) — whenever 
 
 ### <a href="https://maxawad.com/jarvis">Jarvis</a>
 
-**Voice-hailed ChatGPT boatswain — piped straight aboard macOS**
+**Voice-hailed ChatGPT quartermaster — piped straight aboard macOS**
 
 Native macOS wrapper for ChatGPT with global voice hotkey and floating quick chat overlay. Hail with `Ctrl+Space` from any app to summon ChatGPT without breaking stride. Uses your existing ChatGPT account — GPT-4o, voice mode, the full Plus locker.
 
