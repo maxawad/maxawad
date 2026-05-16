@@ -10,7 +10,7 @@ I plot, sound, and conn deep-water native apps, tending AI crow's-nest lookouts 
 
 Landfall bearings: **fog-prone San Francisco, CA** (~37°48′ N, ~122°24′ W) — whenever Neptune frays just enough of Karl's pewter scrim for a true meridian fix — bearing a dogged rhumb toward [maxawad.com](https://maxawad.com).
 
-[![Harbor](https://img.shields.io/badge/maxawad.com-0b0f14?style=for-the-badge&logo=safari&logoColor=white)](https://maxawad.com)
+[![Website](https://img.shields.io/badge/maxawad.com-0b0f14?style=for-the-badge&logo=safari&logoColor=white)](https://maxawad.com)
 [![GitHub](https://img.shields.io/badge/GitHub-maxawad-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maxawad)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/maxawad)
 [![X](https://img.shields.io/badge/@maxawad__-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/maxawad_)
