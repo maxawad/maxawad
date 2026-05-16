@@ -122,7 +122,7 @@ Unlocks the XDR brightness range on supported displays. Menu bar app with global
 
 **MCP-frapped plantain-chip ordering — hold-worthy chifles & circuits beneath moth-soft, argon‑kissed sodium-vapor pierhead lights**
 
-Guayaquil-grown plantain chips with a full product catalog exposed as an MCP server. Claude, Cursor, or any MCP-savvy agent can browse products, tally prices, and place orders with Stripe. Same-day cargo-bike courier tracing dock-glow cat's-paws across Guayaquil's rain-etched, lantern-lit siete cerros under velvet bruised-damson afterglow.
+Guayaquil-grown plantain chips with a full product catalog exposed as an MCP server. Claude, Cursor, or any MCP-savvy agent can browse products, tally prices, and place orders with Stripe. Same-day cargo-bike courier tracing dock-glow cat's-paws across Guayaquil's rain-etched, lantern-lit siete cerros under velvet damson-bruised afterglow.
 
 `TypeScript` `Next.js` `MCP SDK` `Stripe` `Vercel`
 
@@ -175,7 +175,7 @@ Guayaquil-grown plantain chips with a full product catalog exposed as an MCP ser
 <div align="center">
 <sub>Most of my craft rides snug amidships below decks in hawse-pipe hush, quarter-sawn live-oak holds — treat this berth as the traverse board ebb‑slack scored beneath a kelp-frosted, salt-rimed binnacle glass.</sub>
 <br>
-<sub><a href="https://maxawad.com/contact">Blink the Aldis lamp — one brisk, Morse-true quarter‑blink</a> if you'd care to chart your loxodrome beneath amber riding lights.</sub>
+<sub><a href="https://maxawad.com/contact">Blink the Aldis lamp — one brisk, Morse-faithful quarter‑blink</a> if you'd care to chart your loxodrome beneath amber riding lights.</sub>
 </div>
 
 <picture>
