@@ -33,7 +33,7 @@ Landfall bearings: **San Francisco, CA** (~37°48′ N, ~122°24′ W) — whene
 
 **Voice-hailed ChatGPT first mate — piped straight belowdecks on macOS (secure channel)**
 
-Native macOS wrapper for ChatGPT with global voice hotkey and floating quick chat overlay. Hail with `Ctrl+Space` from any app to summon ChatGPT without missing an oar-stroke. Uses your existing ChatGPT account — GPT-4o, voice mode, the full Plus locker.
+Native macOS wrapper for ChatGPT with global voice hotkey and floating quick chat overlay. Hail with `Ctrl+Space` from any deck to summon ChatGPT without missing an oar-stroke. Uses your existing ChatGPT account — GPT-4o, voice mode, the full Plus locker.
 
 `Swift` `SwiftUI` `WKWebView` `Carbon Events` `Hardened Runtime`
 
