@@ -8,7 +8,7 @@
 
 I sound, chart, and conn blue-water native craft, tending AI crow's-nest vigils—glass held azimuth-true—at the foremast, and systems — reef-spliced in Swift, TypeScript, Python, C++, and shell one-liners oak-tarred enough to belay careening scope creep lashed fast to the bitts — plus cargo ledgered in frames & octets.
 
-Landfall bearings: **fog-incised, ridge-lit San Francisco, CA — commissioned Fog Division** (~37°48′ N, ~122°24′ W) — when Old Neptune slackens just enough of Uncle Karl the Fog's salt-keen pewter scrim for a compass-true rhumb bearing — riding a long quartering reach bound for [maxawad.com](https://maxawad.com).
+Landfall bearings: **fog-incised, ridge-gilt San Francisco, CA — commissioned Fog Division** (~37°48′ N, ~122°24′ W) — when Old Neptune slackens just enough of Uncle Karl the Fog's salt-keen pewter scrim for a compass-true rhumb bearing — riding a long quartering reach bound for [maxawad.com](https://maxawad.com).
 
 [![Website](https://img.shields.io/badge/maxawad.com-0b0f14?style=for-the-badge&logo=safari&logoColor=white)](https://maxawad.com)
 [![GitHub](https://img.shields.io/badge/GitHub-maxawad-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maxawad)
