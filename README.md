@@ -10,7 +10,7 @@ I plot, sound, and conn deep-water native apps, tending AI crow's-nest lookouts 
 
 Landfall bearings: **fog-prone San Francisco, CA** (~37°48′ N, ~122°24′ W) — whenever Neptune frays just enough of Karl's pewter scrim for a true meridian fix — bearing a dogged rhumb toward [maxawad.com](https://maxawad.com).
 
-[![Website](https://img.shields.io/badge/maxawad.com-0b0f14?style=for-the-badge&logo=safari&logoColor=white)](https://maxawad.com)
+[![Harbor](https://img.shields.io/badge/maxawad.com-0b0f14?style=for-the-badge&logo=safari&logoColor=white)](https://maxawad.com)
 [![GitHub](https://img.shields.io/badge/GitHub-maxawad-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maxawad)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/maxawad)
 [![X](https://img.shields.io/badge/@maxawad__-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/maxawad_)
@@ -48,7 +48,7 @@ Native macOS wrapper for ChatGPT with global voice hotkey and floating quick cha
 
 ### <a href="https://lowercase.click">lowercase</a>
 
-**Dock-wide, library-quiet, Bristol-fashion shipshape on-device dictation for macOS**
+**Dock-wide, slip-quiet, Bristol-fashion shipshape on-device dictation for macOS**
 
 Tap the dictation key, speak, and watch your words appear — offline, snappy, private. Powered by NVIDIA Parakeet TDT distilled on the Apple Neural Engine. Also available as an [iOS keyboard](https://lowercase.click) with Live Activities and on-device ML.
 
