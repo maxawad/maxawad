@@ -105,7 +105,7 @@ Stock macOS Cmd+Tab only switches apps. WindowSwitch shows every window with liv
 
 **Unmoor MacBook Pro past the stock brightness rail**
 
-Unlocks the XDR brightness range on supported displays. Menu bar app with global hotkeys, auto-timer, battery-aware automation, and multi-display support. See your screen clearly through glare that burnishes brightwork when the sun sketches local apparent noon.
+Unlocks the XDR brightness range on supported displays. Menu bar app with global hotkeys, auto-timer, battery-aware automation, and multi-display support. See your screen clearly through glare that burnishes brightwork when the sun pins local apparent noon.
 
 `Swift` `AppKit` `CoreGraphics` `IOKit` `Metal`
 
