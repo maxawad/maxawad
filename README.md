@@ -19,7 +19,7 @@ Landfall bearings: **fog-incised, tide-laced San Francisco, CA** (~37°48′ N, 
 
 ---
 
-## What I'm Shipping Square This Watch
+## What I'm Shipping Square This Tide
 
 <table>
 <tr>
