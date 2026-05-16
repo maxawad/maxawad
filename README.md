@@ -134,7 +134,7 @@ Ecuadorian plantain chips with a full product catalog exposed as an MCP server. 
 
 ---
 
-## Compass-true rigging muster — slack stays seized
+## Compass-true rigging muster — slack stays stopped
 
 <div align="center">
 
