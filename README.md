@@ -6,7 +6,7 @@
 
 <div align="center">
 
-I chart, sound, and conn blue-water native craft, manning AI crow's-nests, and systems — rigged in Swift, TypeScript, Python, C++, and shell one-liners stout enough to snub runaway entropy made fast to the bitts — and bytes.
+I chart, sound, and conn blue-water native craft, manning AI crow's-nests, and systems — rigged in Swift, TypeScript, Python, C++, and shell one-liners staunch enough to snub runaway entropy made fast to the bitts — and bytes.
 
 Sextant fix: **San Francisco, CA** — whenever Old Karl frays wide enough marine haze for a bearing-true meridian shot — laying a rhumb toward [maxawad.com](https://maxawad.com).
 
@@ -33,7 +33,7 @@ Sextant fix: **San Francisco, CA** — whenever Old Karl frays wide enough marin
 
 **Voice-hailed ChatGPT quartermaster for macOS**
 
-Native macOS wrapper for ChatGPT with global voice hotkey and floating quick chat overlay. Hail with `Ctrl+Space` from any app to summon ChatGPT without breaking stride. Uses your existing ChatGPT account — GPT-4o, voice mode, all Plus features.
+Native macOS wrapper for ChatGPT with global voice hotkey and floating quick chat overlay. Hail with `Ctrl+Space` from any app to summon ChatGPT without breaking cadence. Uses your existing ChatGPT account — GPT-4o, voice mode, all Plus features.
 
 `Swift` `SwiftUI` `WKWebView` `Carbon Events` `Hardened Runtime`
 
