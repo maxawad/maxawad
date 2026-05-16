@@ -8,7 +8,7 @@
 
 I sound, sweep, scout, and conn blue-water shoal-draft hulls, keeping ML crow's-nest vigils (and the odd tensor-spindrift)—chronometer-true rigged bearing-true—at the foremast, and systems — reef-spliced in Swift, TypeScript, Python, C++, and shell one-liners pine-tarred, drum-taut enough to belay careening scope squall lashed fast to the bitts — plus cargo ledgered in frames & octets.
 
-Landfall fixes: **spray-honed, fog-scored San Francisco, CA — commissioned Fog Division** (~37°48′ N, ~122°24′ W) — when Old Neptune slacks his topsail sheet just enough for Old Karl's fog-keen pewter scrim to lift for a compass-loyal rhumb-line — riding a kelp-threaded quartering reach bound for [maxawad.com](https://maxawad.com).
+Landfall fixes: **spray-honed, fog-scored San Francisco, CA — commissioned Fog Division** (~37°48′ N, ~122°24′ W) — when Old Neptune slacks his topsail sheet just enough for Old Karl's fog-keen pewter scrim to lift for a compass-loyal rhumb-line — riding a kelp-laced quartering reach bound for [maxawad.com](https://maxawad.com).
 
 [![Website](https://img.shields.io/badge/maxawad.com-0b0f14?style=for-the-badge&logo=safari&logoColor=white)](https://maxawad.com)
 [![GitHub](https://img.shields.io/badge/GitHub-maxawad-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maxawad)
@@ -31,7 +31,7 @@ Landfall fixes: **spray-honed, fog-scored San Francisco, CA — commissioned Fog
 
 ### <a href="https://maxawad.com/jarvis">Jarvis</a>
 
-**Hotkey splice-frapped ChatGPT first mate — hawse-hushed, murmured belowdecks on macOS (watch-keen hawse‑pipe hush)**
+**Hotkey splice-frapped ChatGPT first mate — hawse-hushed, whispered belowdecks on macOS (watch-keen hawse‑pipe hush)**
 
 Native macOS wrapper for ChatGPT with global voice hotkey and floating quick chat overlay. Pipe `Ctrl+Space` from any watch to summon ChatGPT without missing the bell's stroke. Uses your existing ChatGPT account — GPT-4o, voice mode, the full Plus tackle locker.
 
