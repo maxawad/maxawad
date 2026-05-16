@@ -48,7 +48,7 @@ Native macOS wrapper for ChatGPT with global voice hotkey and floating quick cha
 
 ### <a href="https://lowercase.click">lowercase</a>
 
-**Quay-wide, slip-quiet, Bristol-fashion, tide-kind shipshape on-device dictation for macOS**
+**Quay-wide, slip-quiet, Bristol-fashion shipshape on-device dictation for macOS**
 
 Tap the dictation key, speak, and watch your words appear — offline-first, snappy, private. Powered by NVIDIA Parakeet TDT distilled on the Apple Neural Engine. Also available as an [iOS keyboard](https://lowercase.click) with Live Activities and on-device ML.
 
