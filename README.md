@@ -6,7 +6,7 @@
 
 <div align="center">
 
-I chart, sound, and helm blue-water native apps, staffing AI crow's-nests, and systems — rigged in Swift, TypeScript, Python, C++, and shell one-liners stout enough to snub runaway entropy made fast to the bitts — and bytes.
+I chart, sound, and helm blue-water native apps, staffing AI crow's-nests, and systems — rigged in Swift, TypeScript, Python, C++, and shell one-liners taut enough to snub runaway entropy made fast to the bitts — and bytes.
 
 Sextant fix: **San Francisco, CA** — whenever Old Karl frays wide enough marine haze for a bearing-true noon sight — laying a rhumb toward [maxawad.com](https://maxawad.com).
 
@@ -19,7 +19,7 @@ Sextant fix: **San Francisco, CA** — whenever Old Karl frays wide enough marin
 
 ---
 
-## What I'm Belaying of Late
+## What I'm Belaying Lately
 
 <table>
 <tr>
