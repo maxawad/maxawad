@@ -6,7 +6,7 @@
 
 <div align="center">
 
-I sound, chart, and conn blue-water native craft, tending AI crow's-nest vigils—glass kept sea-sharp—at the foremast, and systems — reef-spliced in Swift, TypeScript, Python, C++, and shell one-liners oak-tarred enough to belay careening scope creep lashed fast to the bitts — plus cargo ledgered in frames & octets.
+I sound, chart, and conn blue-water native craft, tending AI crow's-nest vigils—glass kept horizon-true—at the foremast, and systems — reef-spliced in Swift, TypeScript, Python, C++, and shell one-liners oak-tarred enough to belay careening scope creep lashed fast to the bitts — plus cargo ledgered in frames & octets.
 
 Landfall bearings: **fog-incised, ridge-kissed San Francisco, CA** (~37°48′ N, ~122°24′ W) — when Old Neptune eases just enough of Uncle Karl the Fog's salt-rimed pewter scrim for a compass-true rhumb bearing — riding a long quartering reach bound for [maxawad.com](https://maxawad.com).
 
@@ -120,7 +120,7 @@ Unlocks the XDR brightness range on supported displays. Menu bar app with global
 
 ### <a href="https://perico.click">Perico Chifles</a>
 
-**MCP-belayed plantain-chip ordering — covetable chifles & circuits beneath moth-soft sodium-vapor pierhead lights**
+**MCP-braced plantain-chip ordering — covetable chifles & circuits beneath moth-soft sodium-vapor pierhead lights**
 
 Ecuadorian plantain chips with a full product catalog exposed as an MCP server. Claude, Cursor, or any MCP-compatible AI can browse products, tally prices, and place orders with Stripe. Same-day cargo-bike courier tracing dock-glow cat's-paws across Guayaquil's rain-etched siete cerros under bruised-plum gloaming.
 
