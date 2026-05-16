@@ -19,7 +19,7 @@ Sextant fix: **San Francisco, CA** (~37°48′ N, ~122°24′ W) — whenever Ol
 
 ---
 
-## What I'm Belaying Lately
+## What I'm Belaying Ashore
 
 <table>
 <tr>
