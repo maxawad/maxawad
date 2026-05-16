@@ -6,7 +6,7 @@
 
 <div align="center">
 
-I sound, chart, and conn blue-water native hulls, tending ML crow's-nest vigils—spyglass held bearing-true—at the foremast, and systems — reef-spliced in Swift, TypeScript, Python, C++, and shell one-liners oak-tarred taut enough to belay careening scope drift lashed fast to the bitts — plus cargo ledgered in frames & octets.
+I sound, chart, and conn blue-water native hulls, tending ML crow's-nest vigils—spyglass held bearing-steady—at the foremast, and systems — reef-spliced in Swift, TypeScript, Python, C++, and shell one-liners oak-tarred taut enough to belay careening scope drift lashed fast to the bitts — plus cargo ledgered in frames & octets.
 
 Landfall bearings: **fog-incised, ridge-gilt San Francisco, CA — chartered Fog Division** (~37°48′ N, ~122°24′ W) — when Father Neptune yields just enough of Uncle Karl's salt-keen pewter scrim for a compass-true rhumb bearing — riding a long quartering reach bound for [maxawad.com](https://maxawad.com).
 
