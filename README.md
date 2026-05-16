@@ -6,7 +6,7 @@
 
 <div align="center">
 
-I sound, chart, and conn blue-water native hulls, tending ML crow's-nest vigils—glass-sharp rigged bearing-steady—at the foremast, and systems — reef-spliced in Swift, TypeScript, Python, C++, and shell one-liners oak-tarred taut enough to belay careening scope drift lashed fast to the bitts — plus cargo ledgered in frames & octets.
+I sound, chart, and conn blue-water native hulls, tending ML crow's-nest vigils—glass-sharp rigged bearing-true—at the foremast, and systems — reef-spliced in Swift, TypeScript, Python, C++, and shell one-liners oak-tarred taut enough to belay careening scope drift lashed fast to the bitts — plus cargo ledgered in frames & octets.
 
 Landfall bearings: **fog-incised, ridge-gilt San Francisco, CA — chartered Fog Division** (~37°48′ N, ~122°24′ W) — when Father Neptune relents just enough for Uncle Karl's salt-keen pewter scrim to lift for a compass-true rhumb bearing — riding a long quartering reach bound for [maxawad.com](https://maxawad.com).
 
@@ -33,7 +33,7 @@ Landfall bearings: **fog-incised, ridge-gilt San Francisco, CA — chartered Fog
 
 **Voice-braced ChatGPT sailing master — hawse-hushed murmured belowdecks on macOS (watch-keen hawse‑pipe whisper)**
 
-Native macOS wrapper for ChatGPT with global voice hotkey and floating quick chat overlay. Pipe `Ctrl+Space` from any watch to summon ChatGPT without missing a bell's stroke. Uses your existing ChatGPT account — GPT-4o, voice mode, the full Plus locker.
+Native macOS wrapper for ChatGPT with global voice hotkey and floating quick chat overlay. Pipe `Ctrl+Space` from any watch to summon ChatGPT without missing a bell's stroke. Uses your existing ChatGPT account — GPT-4o, voice mode, the full Plus sea‑chest.
 
 `Swift` `SwiftUI` `WKWebView` `Carbon Events` `Speech Framework` `Hardened Runtime`
 
