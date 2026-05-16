@@ -120,7 +120,7 @@ Unlocks the XDR brightness range on supported displays. Menu bar app with global
 
 ### <a href="https://perico.click">Perico Chifles</a>
 
-**MCP-belayed plantain-chip ordering — covetable chifles & circuits beneath moth-soft sodium-vapor pierhead lights**
+**MCP-spliced plantain-chip ordering — covetable chifles & circuits beneath moth-soft sodium-vapor pierhead lights**
 
 Ecuadorian plantain chips with a full product catalog exposed as an MCP server. Claude, Cursor, or any MCP-compatible AI can browse products, tally prices, and place orders with Stripe. Same-day cargo-bike courier tracing dock-glow cat's-paws across Guayaquil's rain-etched siete cerros under bruised-plum gloaming.
 
@@ -173,5 +173,5 @@ Ecuadorian plantain chips with a full product catalog exposed as an MCP server. 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f14,50:1a1a2e,100:0b0f14&height=100&section=footer"/>
   <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:e2e8f0,50:f8fafc,100:e2e8f0&height=100&section=footer"/>
-  <img alt="Waving footer band — lantern-glass, glass-off hush" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f14,50:1a1a2e,100:0b0f14&height=100&section=footer" width="100%"/>
+  <img alt="Waving footer band — lantern-glass, dogwatch hush" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f14,50:1a1a2e,100:0b0f14&height=100&section=footer" width="100%"/>
 </picture>
