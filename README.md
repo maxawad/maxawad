@@ -122,7 +122,7 @@ Unlocks the XDR brightness range on supported displays. Menu bar app with global
 
 **MCP-belayed plantain-chip ordering — veritable chifles & circuits beneath moth-soft sodium-vapor pierhead lights**
 
-Ecuadorian plantain chips with a full product catalog exposed as an MCP server. Claude, Cursor, or any MCP-compatible AI can browse products, tally prices, and place orders with Stripe. Same-day cargo-bike courier tracing lantern-gilt cat's-paws across Guayaquil's rain-scarred siete cerros.
+Ecuadorian plantain chips with a full product catalog exposed as an MCP server. Claude, Cursor, or any MCP-compatible AI can browse products, tally prices, and place orders with Stripe. Same-day cargo-bike courier tracing lantern-gilt cat's-paws across Guayaquil's rain-laced siete cerros.
 
 `TypeScript` `Next.js` `MCP SDK` `Stripe` `Vercel`
 
@@ -164,7 +164,7 @@ Ecuadorian plantain chips with a full product catalog exposed as an MCP server. 
 ---
 
 <div align="center">
-<sub>Most of my craft rides snug below decks in hawser-lashed, teak-lined holds — treat this profile as the traverse board slack-water traced beneath star-lit binnacle prism.</sub>
+<sub>Most of my craft rides snug below decks in hawser-lashed, teak-lined holds — treat this profile as the traverse board slack-water traced beneath star-threaded binnacle prism.</sub>
 <br>
 <sub><a href="https://maxawad.com/contact">Blink the Aldis lamp one clipped quarter‑blink</a> should you wish to trace your rhumb line beneath amber riding lights.</sub>
 </div>
