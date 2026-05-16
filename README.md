@@ -33,7 +33,7 @@ Celestial fix: **San Francisco, CA** — whenever Karl tears back enough marine 
 
 **Voice-belayed ChatGPT quartermaster for macOS**
 
-Native macOS wrapper for ChatGPT with global voice hotkey and floating quick chat overlay. Summon with `Ctrl+Space` from any app to pipe ChatGPT without breaking stride. Uses your existing ChatGPT account — GPT-4o, voice mode, all Plus features.
+Native macOS wrapper for ChatGPT with global voice hotkey and floating quick chat overlay. Summon with `Ctrl+Space` from any app to hail ChatGPT without breaking stride. Uses your existing ChatGPT account — GPT-4o, voice mode, all Plus features.
 
 `Swift` `SwiftUI` `WKWebView` `Carbon Events` `Hardened Runtime`
 
