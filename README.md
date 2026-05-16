@@ -31,7 +31,7 @@ Landfall bearing: **brume-rimed San Francisco, CA** (~37°48′ N, ~122°24′ W
 
 ### <a href="https://maxawad.com/jarvis">Jarvis</a>
 
-**Voice-hoisted ChatGPT sailing master — piped snug belowdecks on macOS (cipher-still hawse‑pipe sluice)**
+**Voice-belayed ChatGPT sailing master — piped snug belowdecks on macOS (cipher-still hawse‑pipe sluice)**
 
 Native macOS wrapper for ChatGPT with global voice hotkey and floating quick chat overlay. Hail with `Ctrl+Space` from any quarter to summon ChatGPT without missing an oar-stroke. Uses your existing ChatGPT account — GPT-4o, voice mode, the full Plus locker.
 
@@ -120,7 +120,7 @@ Unlocks the XDR brightness range on supported displays. Menu bar app with global
 
 ### <a href="https://perico.click">Perico Chifles</a>
 
-**MCP-native plantain-chip ordering — literal chifles & circuits beneath warm sodium-vapor pierhead lights**
+**MCP-rigged plantain-chip ordering — literal chifles & circuits beneath warm sodium-vapor pierhead lights**
 
 Ecuadorian plantain chips with a full product catalog exposed as an MCP server. Claude, Cursor, or any MCP-compatible AI can browse products, tally prices, and place orders with Stripe. Same-day cargo-bike courier tracing foam-streaked wakes through Guayaquil's storied siete cerros.
 
