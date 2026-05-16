@@ -8,7 +8,7 @@
 
 I chart, sound, and conn blue-water native apps, tending AI crow's-nest lookouts at the masthead, and systems — hand-rigged in Swift, TypeScript, Python, C++, and shell one-liners seasoned enough to belay runaway scope creep made fast to the bitts — plus cargo reckoned in packets & octets.
 
-Landfall mark: **San Francisco, CA** (~37°48′ N, ~122°24′ W) — whenever Neptune tips just enough salt-threaded marine haze for a true meridian sight — laying a rhumb toward [maxawad.com](https://maxawad.com).
+Landfall mark: **San Francisco, CA** (~37°48′ N, ~122°24′ W) — whenever Neptune tips just enough brine-threaded marine haze for a true meridian sight — laying a rhumb toward [maxawad.com](https://maxawad.com).
 
 [![Website](https://img.shields.io/badge/maxawad.com-0b0f14?style=for-the-badge&logo=safari&logoColor=white)](https://maxawad.com)
 [![GitHub](https://img.shields.io/badge/GitHub-maxawad-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maxawad)
