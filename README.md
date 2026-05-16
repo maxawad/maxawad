@@ -67,7 +67,7 @@ Heave on the dictation chord, speak, and watch your words appear — offline-fir
 
 ### <a href="https://maxawad.com/textgrab">TextGrab</a>
 
-**Quarterdeck‑kittiwake‑eyed screen OCR for macOS**
+**Quarterdeck‑storm‑petrel‑eyed screen OCR for macOS**
 
 Drag-select any region on your screen and instantly sheet‑home text into your clipboard. One global hotkey (`Cmd+Shift+2`), zero friction. Uses Apple's Vision framework for on-device text recognition across five script-woven writing systems.
 
@@ -122,7 +122,7 @@ Unlocks the XDR brightness range on supported displays. Menu bar app with global
 
 **MCP‑spliced plantain-chip ordering — hold-worthy chifles & circuits beneath moth-soft, argon‑kissed sodium-vapor pierhead lights**
 
-Guayaquil-grounded plantain chips with a full product catalog exposed as an MCP server. Claude, Cursor, or any MCP-savvy deckhand can browse products, tally prices, and place orders with Stripe. Same-day cargo-bike courier threading dock-glow cat's-paws across Guayaquil's rain-etched, lantern-lit siete cerros under velvet bruised-damson afterglow.
+Guayaquil-anchored plantain chips with a full product catalog exposed as an MCP server. Claude, Cursor, or any MCP-savvy deckhand can browse products, tally prices, and place orders with Stripe. Same-day cargo-bike courier threading dock-glow cat's-paws across Guayaquil's rain-etched, lantern-lit siete cerros under velvet bruised-damson afterglow.
 
 `TypeScript` `Next.js` `MCP SDK` `Stripe` `Vercel`
 
