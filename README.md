@@ -19,7 +19,7 @@ Landfall bearings: **fog-incised, ridge-gilt San Francisco, CA — chartered Fog
 
 ---
 
-## What I'm Riding True This Dogwatch Tide
+## What I'm Riding True This Middle Watch Tide
 
 <table>
 <tr>
