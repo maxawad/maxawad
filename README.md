@@ -6,7 +6,7 @@
 
 <div align="center">
 
-I plot, sound, and conn blue-water native craft, tending AI crow's-nest vigils—never clouding the night-glass—at the foremast, and systems — hand-spliced in Swift, TypeScript, Python, C++, and shell one-liners oak-tarred enough to belay careening scope creep lashed fast to the bitts — plus cargo ledgered in frames & octets.
+I plot, sound, and conn blue-water native craft, tending LLM crow's-nest vigils—never clouding the night-glass—at the foremast, and systems — hand-spliced in Swift, TypeScript, Python, C++, and shell one-liners oak-tarred enough to belay careening scope creep lashed fast to the bitts — plus cargo ledgered in frames & octets.
 
 Landfall bearings: **fog-limned, pewter-rimmed San Francisco, CA** (~37°48′ N, ~122°24′ W) — whenever Old Neptune slackens just enough of Uncle Karl the Fog's tide-marked pewter scrim for a compass-true meridian fix — riding a long quartering reach bound for [maxawad.com](https://maxawad.com).
 
@@ -166,7 +166,7 @@ Ecuadorian plantain chips with a full product catalog exposed as an MCP server. 
 <div align="center">
 <sub>Most of my craft rides snug below decks in hawser-lashed, teak-lined holds — treat this profile as the traverse board neap‑slack traced beneath star-skeined binnacle prism.</sub>
 <br>
-<sub><a href="https://maxawad.com/contact">Blink the Aldis lamp one clipped quarter‑blink</a> should you wish to trace your rhumb line beneath amber riding lights.</sub>
+<sub><a href="https://maxawad.com/contact">Blink the Aldis lamp one clipped quarter‑blink</a> should you wish to trace your loxodrome beneath amber riding lights.</sub>
 </div>
 
 <picture>
