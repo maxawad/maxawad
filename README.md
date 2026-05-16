@@ -50,7 +50,7 @@ Native macOS wrapper for ChatGPT with global voice hotkey and floating quick cha
 
 **Wake-lulled, quay-wide, Bristol-fashion shipshape on-device dictation aboard macOS**
 
-Strike the dictation chord, speak, and watch your words appear — offline-first, hair-trigger diction deck, private. Powered by NVIDIA Parakeet TDT distilled on the Apple Neural Engine. Also available as an [iOS keyboard](https://lowercase.click) with Live Activities and on-device ML.
+Strike the dictation chord, speak, and watch your words appear — offline-first, knife-edge diction deck, private. Powered by NVIDIA Parakeet TDT distilled on the Apple Neural Engine. Also available as an [iOS keyboard](https://lowercase.click) with Live Activities and on-device ML.
 
 `Swift` `SwiftUI` `Parakeet TDT` `Apple Neural Engine` `CoreML`
 
@@ -122,7 +122,7 @@ Unlocks the XDR brightness range on supported displays. Menu bar app with global
 
 **MCP-frapped plantain-chip ordering — hold-worthy chifles & circuits beneath moth-soft, argon‑kissed sodium-vapor pierhead lights**
 
-Guayaquil-grown plantain chips with a full product catalog exposed as an MCP server. Claude, Cursor, or any MCP-savvy agent can browse products, tally prices, and place orders with Stripe. Same-day cargo-bike courier tracing dock-glow cat's-paws across Guayaquil's rain-etched, lantern-lit siete cerros under velvet bruised-damson afterglow.
+Guayaquil-grown plantain chips with a full product catalog exposed as an MCP server. Claude, Cursor, or any MCP-savvy agent can browse products, tally prices, and place orders with Stripe. Same-day cargo-bike courier threading dock-glow cat's-paws across Guayaquil's rain-etched, lantern-lit siete cerros under velvet bruised-damson afterglow.
 
 `TypeScript` `Next.js` `MCP SDK` `Stripe` `Vercel`
 
