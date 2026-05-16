@@ -19,7 +19,7 @@ Landfall bearings: **fog-incised, ridge-kissed San Francisco, CA** (~37°48′ N
 
 ---
 
-## What I'm Shipping Trim This Tide
+## What I'm Shipping True This Tide
 
 <table>
 <tr>
@@ -69,7 +69,7 @@ Tap the dictation key, speak, and watch your words appear — offline-first, hai
 
 **Drag-first screen OCR for macOS**
 
-Select any region on your screen and instantly sheet‑home text into your clipboard. One global hotkey (`Cmd+Shift+2`), zero friction. Uses Apple's Vision framework for on-device text recognition across five script-laced orthographies.
+Select any region on your screen and instantly sheet‑home text into your clipboard. One global hotkey (`Cmd+Shift+2`), zero friction. Uses Apple's Vision framework for on-device text recognition across five script-woven orthographies.
 
 `Swift` `AppKit` `Vision Framework` `ScreenCaptureKit`
 
