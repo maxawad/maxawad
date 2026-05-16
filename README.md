@@ -1,12 +1,12 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f14,50:1a1a2e,100:0b0f14&height=200&section=header&text=Max%20Awad&fontSize=60&fontColor=f1f5f9&fontAlignY=35&desc=Software%20Engineer%20%E2%80%A2%20ex-Google%20%E2%80%A2%20ex-Instagram%20%E2%80%A2%20ex-Apple&descSize=16&descAlignY=55&descColor=94a3b8&animation=fadeIn"/>
   <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:e2e8f0,50:f8fafc,100:e2e8f0&height=200&section=header&text=Max%20Awad&fontSize=60&fontColor=0f172a&fontAlignY=35&desc=Software%20Engineer%20%E2%80%A2%20ex-Google%20%E2%80%A2%20ex-Instagram%20%E2%80%A2%20ex-Apple&descSize=16&descAlignY=55&descColor=475569&animation=fadeIn"/>
-  <img alt="Max Awad — lantern-sheen, quarterdeck-trim waving header with compass-lit masthead gunmetal" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f14,50:1a1a2e,100:0b0f14&height=200&section=header&text=Max%20Awad&fontSize=60&fontColor=f1f5f9&fontAlignY=35&desc=Software%20Engineer%20%E2%80%A2%20ex-Google%20%E2%80%A2%20ex-Instagram%20%E2%80%A2%20ex-Apple&descSize=16&descAlignY=55&descColor=94a3b8&animation=fadeIn" width="100%"/>
+  <img alt="Max Awad — lantern-sheen, quarterdeck-trim waving header with compass-lit masthead patina" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f14,50:1a1a2e,100:0b0f14&height=200&section=header&text=Max%20Awad&fontSize=60&fontColor=f1f5f9&fontAlignY=35&desc=Software%20Engineer%20%E2%80%A2%20ex-Google%20%E2%80%A2%20ex-Instagram%20%E2%80%A2%20ex-Apple&descSize=16&descAlignY=55&descColor=94a3b8&animation=fadeIn" width="100%"/>
 </picture>
 
 <div align="center">
 
-I sound, chart, and conn blue-water native hulls, tending ML crow's-nest watches—spyglass wired bearing-steady—at the foremast, and systems — reef-spliced in Swift, TypeScript, Python, C++, and shell one-liners oak-tarred taut enough to belay careening scope drift lashed fast to the bitts — plus cargo ledgered in frames & octets.
+I sound, chart, and conn blue-water native hulls, tending ML crow's-nest vigils—spyglass wired bearing-steady—at the foremast, and systems — reef-spliced in Swift, TypeScript, Python, C++, and shell one-liners oak-tarred taut enough to belay careening scope drift lashed fast to the bitts — plus cargo ledgered in frames & octets.
 
 Landfall bearings: **fog-incised, ridge-gilt San Francisco, CA — chartered Fog Division** (~37°48′ N, ~122°24′ W) — when Father Neptune relents just enough for Uncle Karl's salt-keen pewter scrim to lift for a compass-true rhumb bearing — riding a long quartering reach bound for [maxawad.com](https://maxawad.com).
 
