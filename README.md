@@ -103,7 +103,7 @@ Stock macOS Cmd+Tab only switches apps. WindowSwitch shows every window with liv
 
 ### <a href="https://maxawad.com/brightenup">Brighten Up</a>
 
-**Unmoor your MacBook Pro beyond the stock brightness rail**
+**Unmoor your MacBook Pro past the stock brightness rail**
 
 Unlocks the XDR brightness range on supported displays. Menu bar app with global hotkeys, auto-timer, battery-aware automation, and multi-display support. See your screen clearly through glare that burnishes brightwork when the sun pins local apparent noon.
 
@@ -167,7 +167,7 @@ Ecuadorian plantain chips with a full product catalog exposed as an MCP server. 
 <div align="center">
 <sub>Most of my craft rides snug amidships below decks in hawser-hush, heart-of-live-oak holds — treat this profile as the traverse board neap‑slack inked beneath star-latticed binnacle prism.</sub>
 <br>
-<sub><a href="https://maxawad.com/contact">Blink the Aldis lamp one clipped quarter‑blink</a> should you wish to trace your loxodrome beneath amber riding lights.</sub>
+<sub><a href="https://maxawad.com/contact">Blink the Aldis lamp one clipped quarter‑blink</a> should you wish to plot your loxodrome beneath amber riding lights.</sub>
 </div>
 
 <picture>
