@@ -6,7 +6,7 @@
 
 <div align="center">
 
-I chart, sound, and conn blue-water native craft, tending AI crow's-nest vigils—glass kept lee-sharp—at the foremast, and systems — hand-spliced in Swift, TypeScript, Python, C++, and shell one-liners oak-tarred enough to belay careening scope creep lashed fast to the bitts — plus cargo ledgered in frames & octets.
+I chart, sound, and conn deep-water native craft, tending AI crow's-nest vigils—glass kept lee-sharp—at the foremast, and systems — hand-spliced in Swift, TypeScript, Python, C++, and shell one-liners oak-tarred enough to belay careening scope creep lashed fast to the bitts — plus cargo ledgered in frames & octets.
 
 Landfall bearings: **fog-incised, kelp-lined San Francisco, CA** (~37°48′ N, ~122°24′ W) — when Old Neptune slackens just enough of Uncle Karl the Fog's salt-rimed pewter scrim for a compass-true meridian bearing — riding a long quartering reach bound for [maxawad.com](https://maxawad.com).
 
@@ -67,7 +67,7 @@ Tap the dictation key, speak, and watch your words appear — offline-first, hai
 
 ### <a href="https://maxawad.com/textgrab">TextGrab</a>
 
-**Selection-first screen OCR for macOS**
+**Drag-first screen OCR for macOS**
 
 Select any region on your screen and instantly sheet‑home text into your clipboard. One global hotkey (`Cmd+Shift+2`), zero friction. Uses Apple's Vision framework for on-device text recognition across five script-laced orthographies.
 
