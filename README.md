@@ -6,7 +6,7 @@
 
 <div align="center">
 
-I chart, sound, and conn blue-water native craft, manning AI crow's-nests, and systems — rigged in Swift, TypeScript, Python, C++, and shell one-liners stout enough to snub runaway entropy made fast to the bitts — and bytes.
+I chart, sound, and conn blue-water native craft, manning AI crow's-nests, and systems — rigged in Swift, TypeScript, Python, C++, and shell one-liners stout enough to snub runaway entropy made fast to the bitts — plus bytes.
 
 Sextant fix: **San Francisco, CA** — whenever Old Karl frays wide enough marine haze for a bearing-true meridian shot — laying a rhumb toward [maxawad.com](https://maxawad.com).
 
@@ -161,7 +161,7 @@ Ecuadorian plantain chips with a full product catalog exposed as an MCP server. 
 ---
 
 <div align="center">
-<sub>Most of my craft rides snug betwixt decks in well-tarred holds — treat this profile as the traverse board silvered beneath spindrift-kissed binnacle glass.</sub>
+<sub>Most of my craft rides snug betwixt decks in well-tarred holds — treat this profile as the traverse board silvered beneath moonlit binnacle glass.</sub>
 <br>
 <sub><a href="https://maxawad.com/contact">Blink the Aldis lamp once</a> should you care to plot your rhumb line in convoy.</sub>
 </div>
