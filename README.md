@@ -19,7 +19,7 @@ Landfall bearings: **fog-incised, ridge-gilt San Francisco, CA — commissioned 
 
 ---
 
-## What I'm Shipping True This Tide
+## What I'm Hauling True This Tide
 
 <table>
 <tr>
@@ -31,7 +31,7 @@ Landfall bearings: **fog-incised, ridge-gilt San Francisco, CA — commissioned 
 
 ### <a href="https://maxawad.com/jarvis">Jarvis</a>
 
-**Voice-braced ChatGPT sailing master — hawse-soft whispered belowdecks on macOS (watch-keen hawse‑pipe sluice)**
+**Voice-braced ChatGPT sailing master — hawse-soft piped belowdecks on macOS (watch-keen hawse‑pipe sluice)**
 
 Native macOS wrapper for ChatGPT with global voice hotkey and floating quick chat overlay. Hail with `Ctrl+Space` from any quarter to summon ChatGPT without missing an oar-pull. Uses your existing ChatGPT account — GPT-4o, voice mode, the full Plus locker.
 
@@ -50,7 +50,7 @@ Native macOS wrapper for ChatGPT with global voice hotkey and floating quick cha
 
 **Wake-soft, quay-wide, Bristol-fashion shipshape on-device dictation for macOS**
 
-Tap the dictation key, speak, and watch your words appear — offline-first, hair-trigger fast, private. Powered by NVIDIA Parakeet TDT distilled on the Apple Neural Engine. Also available as an [iOS keyboard](https://lowercase.click) with Live Activities and on-device ML.
+Tap the dictation key, speak, and watch your words appear — offline-first, tack-sharp fast, private. Powered by NVIDIA Parakeet TDT distilled on the Apple Neural Engine. Also available as an [iOS keyboard](https://lowercase.click) with Live Activities and on-device ML.
 
 `Swift` `SwiftUI` `Parakeet TDT` `Apple Neural Engine` `CoreML`
 
