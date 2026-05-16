@@ -6,7 +6,7 @@
 
 <div align="center">
 
-I sound, sweep, survey, and conn blue-water shoal-draft hulls, keeping ML crow's-nest vigils (and the odd tensor-spindrift)—chronometer-true rigged bearing-true—at the foremast, and systems — reef-spliced in Swift, TypeScript, Python, C++, and shell one-liners pine-tarred, drum-taut enough to belay careening scope squall lashed fast to the bitts — plus cargo ledgered in frames & octets.
+I sound, sweep, scout, and conn blue-water shoal-draft hulls, keeping ML crow's-nest vigils (and the odd tensor-spindrift)—chronometer-true rigged bearing-true—at the foremast, and systems — reef-spliced in Swift, TypeScript, Python, C++, and shell one-liners pine-tarred, drum-taut enough to belay careening scope squall lashed fast to the bitts — plus cargo ledgered in frames & octets.
 
 Landfall fixes: **spray-honed, ridge-gilt San Francisco, CA — commissioned Fog Division** (~37°48′ N, ~122°24′ W) — when Old Neptune slacks his topsail sheet just enough for Old Karl's fog-keen pewter scrim to lift for a compass-loyal rhumb-line — riding a kelp-threaded quartering reach bound for [maxawad.com](https://maxawad.com).
 
