@@ -8,7 +8,7 @@
 
 I chart, sound, and conn blue-water native apps, tending AI crow's-nest lookouts at the masthead, and systems — hand-rigged in Swift, TypeScript, Python, C++, and shell one-liners seasoned enough to belay runaway scope creep made fast to the bitts — plus cargo reckoned in packets & octets.
 
-Sextant shot: **San Francisco, CA** (~37°48′ N, ~122°24′ W) — whenever Old Karl unfurls just enough salt-threaded marine haze for a true meridian sight — laying a rhumb toward [maxawad.com](https://maxawad.com).
+Sextant sight: **San Francisco, CA** (~37°48′ N, ~122°24′ W) — whenever Old Karl unfurls just enough salt-threaded marine haze for a true meridian sight — laying a rhumb toward [maxawad.com](https://maxawad.com).
 
 [![Website](https://img.shields.io/badge/maxawad.com-0b0f14?style=for-the-badge&logo=safari&logoColor=white)](https://maxawad.com)
 [![GitHub](https://img.shields.io/badge/GitHub-maxawad-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maxawad)
@@ -120,7 +120,7 @@ Unlocks the XDR brightness range on supported displays. Menu bar app with global
 
 ### <a href="https://perico.click">Perico Chifles</a>
 
-**MCP-native plantain-chip ordering — literal chifles & circuits by pierhead lights**
+**MCP-native plantain-chip ordering — literal chifles & circuits under pierhead lights**
 
 Ecuadorian plantain chips with a full product catalog exposed as an MCP server. Claude, Cursor, or any MCP-compatible AI can browse products, calculate prices, and place orders with Stripe. Same-day cargo-bike courier braiding lantern-lit wakes through Guayaquil's siete cerros.
 
