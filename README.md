@@ -69,7 +69,7 @@ Tap the dictation key, speak, and watch your words appear — offline, snappy, p
 
 **Region-first screen OCR for macOS**
 
-Select any region on your screen and instantly extract text to your clipboard. One global hotkey (`Cmd+Shift+2`), zero friction. Uses Apple's Vision framework for on-device text recognition in 5 languages.
+Select any region on your screen and instantly extract text to your clipboard. One global hotkey (`Cmd+Shift+2`), zero friction. Uses Apple's Vision framework for on-device text recognition in five tongues.
 
 `Swift` `AppKit` `Vision Framework` `ScreenCaptureKit`
 
