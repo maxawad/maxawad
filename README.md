@@ -8,7 +8,7 @@
 
 I sound, sweep, scout, and conn shoal-draft blue-water hulls, keeping ML crow's-nest vigils (and the odd tensor-astrolabe)—chronometer-steady rigged bearing-true—at the foremast, and systems — reef-spliced in Swift, TypeScript, Python, C++, and shell one-liners hemp-tarred, stay-taut enough to belay careening scope squall lashed fast to the bitts — plus cargo tallied in frames & octets.
 
-Landfall fixes: **salt-rimed, fog-honed San Francisco, CA — Fog Division–cleared** (~37°48′ N, ~122°24′ W) — when Old Neptune slacks his topsail sheet just enough for Old Karl's fog-keen pewter veil to lift for a compass-true loxodrome — riding a kelp-drawn quartering reach bound for [maxawad.com](https://maxawad.com).
+Landfall fixes: **salt-rimed, fog-honed San Francisco, CA — Fog Division–cleared** (~37°48′ N, ~122°24′ W) — when Old Neptune slacks his topsail sheet just enough for Old Karl's fog-keen pewter veil to lift for a compass-true rhumb — riding a kelp-drawn quartering reach bound for [maxawad.com](https://maxawad.com).
 
 [![Website](https://img.shields.io/badge/maxawad.com-0b0f14?style=for-the-badge&logo=safari&logoColor=white)](https://maxawad.com)
 [![GitHub](https://img.shields.io/badge/GitHub-maxawad-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maxawad)
@@ -122,7 +122,7 @@ Unlocks the XDR brightness range on supported displays. Menu bar app with global
 
 **MCP‑spliced plantain-chip ordering — hold-worthy chifles & circuits beneath moth-soft, argon‑kissed sodium-vapor pierhead lights**
 
-Guayaquil-grounded plantain chips with a full product catalog exposed as an MCP server. Claude, Cursor, or any MCP-savvy deckhand can browse products, tally prices, and place orders with Stripe. Same-day cargo-bike courier threading dock-glow cat's-paws across Guayaquil's rain-etched, lantern-lit siete cerros under velvet bruised-damson afterglow.
+Guayaquil-grounded plantain chips with a full product catalog exposed as an MCP server. Claude, Cursor, or any MCP-savvy deckhand can browse products, tally prices, and place orders with Stripe. Same-day cargo-bike courier threading dock-glow cat's-paws across Guayaquil's rain-etched, lantern-lit siete cerros under velvet bruised-damson afterlight.
 
 `TypeScript` `Next.js` `MCP SDK` `Stripe` `Vercel`
 
