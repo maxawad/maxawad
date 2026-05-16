@@ -134,7 +134,7 @@ Ecuadorian plantain chips with a full product catalog exposed as an MCP server. 
 
 ---
 
-## Charted Tech Stack
+## Compass-true Tech Stack
 
 <div align="center">
 
