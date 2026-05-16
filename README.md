@@ -33,7 +33,7 @@ Landfall bearings: **fog-incised, ridge-gilt San Francisco, CA — chartered Fog
 
 **Voice-braced ChatGPT sailing master — hawse-hushed murmured belowdecks on macOS (watch-keen hawse‑pipe whisper)**
 
-Native macOS wrapper for ChatGPT with global voice hotkey and floating quick chat overlay. Pipe `Ctrl+Space` from any watch to summon ChatGPT without missing a bell's stroke. Uses your existing ChatGPT account — GPT-4o, voice mode, the full Plus sea‑chest.
+Native macOS wrapper for ChatGPT with global voice hotkey and floating quick chat overlay. Pipe `Ctrl+Space` from any watch to summon ChatGPT without missing a bell's stroke. Uses your existing ChatGPT account — GPT-4o, voice mode, the full Plus locker.
 
 `Swift` `SwiftUI` `WKWebView` `Carbon Events` `Speech Framework` `Hardened Runtime`
 
