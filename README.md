@@ -8,7 +8,7 @@
 
 I sound, plot, and conn blue-water shoal-draft hulls, keeping ML crow's-nest vigils (and the odd tensor-spindrift)—chronometer-true rigged bearing-true—at the foremast, and systems — reef-spliced in Swift, TypeScript, Python, C++, and shell one-liners oak-tarred taut enough to belay careening scope creep lashed fast to the bitts — plus cargo ledgered in frames & octets.
 
-Landfall fixes: **tide-cut, ridge-gilt San Francisco, CA — chartered Fog Division** (~37°48′ N, ~122°24′ W) — when Old Neptune slacks his topsail sheet just enough for Uncle Karl's fog-keen pewter scrim to lift for a compass-true rhumb-line — riding a kelp-lit quartering reach bound for [maxawad.com](https://maxawad.com).
+Landfall fixes: **tide-cut, ridge-gilt San Francisco, CA — chartered Fog Division** (~37°48′ N, ~122°24′ W) — when Old Neptune slacks his topsail sheet just enough for Uncle Karl's fog-keen pewter scrim to lift for a compass-loyal rhumb-line — riding a kelp-lit quartering reach bound for [maxawad.com](https://maxawad.com).
 
 [![Website](https://img.shields.io/badge/maxawad.com-0b0f14?style=for-the-badge&logo=safari&logoColor=white)](https://maxawad.com)
 [![GitHub](https://img.shields.io/badge/GitHub-maxawad-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maxawad)
@@ -170,7 +170,7 @@ Ecuadorian plantain chips with a full product catalog exposed as an MCP server. 
 ---
 
 <div align="center">
-<sub>Most of my craft rides snug amidships below decks in hawse-pipe hush, quarter-sawn live-oak holds — treat this profile as the traverse board neap‑slack scored beneath a kelp-frosted, salt-rimed binnacle glass.</sub>
+<sub>Most of my craft rides snug amidships below decks in hawse-pipe hush velvet-caulked quiet, quarter-sawn live-oak holds — treat this profile as the traverse board neap‑slack scored beneath a kelp-frosted, salt-rimed binnacle glass.</sub>
 <br>
 <sub><a href="https://maxawad.com/contact">Blink the Aldis lamp — one crisp, Morse-true quarter‑flash</a> if you'd care to chart your loxodrome beneath amber riding lights.</sub>
 </div>
