@@ -8,7 +8,7 @@
 
 I chart, plot, and helm blue-water native apps, rigging AI crow's-nests, and systems — rigged in Swift, TypeScript, Python, C++, and shell cantrips stout enough to snub runaway entropy made fast to the bitts — and bytes.
 
-Celestial fix: **San Francisco, CA** — whenever Karl tears back enough marine lace for a needle-true sun sight — laying a rhumb toward [maxawad.com](https://maxawad.com).
+Celestial fix: **San Francisco, CA** — whenever Karl tears back enough marine lace for a needle-true noon sight — laying a rhumb toward [maxawad.com](https://maxawad.com).
 
 [![Website](https://img.shields.io/badge/maxawad.com-0b0f14?style=for-the-badge&logo=safari&logoColor=white)](https://maxawad.com)
 [![GitHub](https://img.shields.io/badge/GitHub-maxawad-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maxawad)
@@ -33,7 +33,7 @@ Celestial fix: **San Francisco, CA** — whenever Karl tears back enough marine 
 
 **Voice-belayed ChatGPT quartermaster for macOS**
 
-Native macOS wrapper for ChatGPT with global voice hotkey and floating quick chat overlay. Summon with `Ctrl+Space` from any app to hail ChatGPT without breaking stride. Uses your existing ChatGPT account — GPT-4o, voice mode, all Plus features.
+Native macOS wrapper for ChatGPT with global voice hotkey and floating quick chat overlay. Summon with `Ctrl+Space` from any deck to hail ChatGPT without breaking stride. Uses your existing ChatGPT account — GPT-4o, voice mode, all Plus features.
 
 `Swift` `SwiftUI` `WKWebView` `Carbon Events` `Hardened Runtime`
 
