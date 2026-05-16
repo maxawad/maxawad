@@ -8,7 +8,7 @@
 
 I sound, sweep, scout, and conn blue-water shoal-draft hulls, keeping ML crow's-nest vigils (and the odd tensor-aurora)—chronometer-loyal rigged bearing-true—at the foremast, and systems — reef-spliced in Swift, TypeScript, Python, C++, and shell one-liners pine-tarred, stay-taut enough to belay careening scope squall lashed fast to the bitts — plus cargo tallied in frames & octets.
 
-Landfall fixes: **spray-burnished, fog-scored San Francisco, CA — commissioned Fog Division** (~37°48′ N, ~122°24′ W) — when Old Neptune slacks his topsail sheet just enough for Old Karl's fog-keen pewter scrim to lift for a compass-loyal loxodrome — riding a kelp-threaded quartering reach bound for [maxawad.com](https://maxawad.com).
+Landfall fixes: **spray-burnished, fog-scored San Francisco, CA — commissioned Fog Division** (~37°48′ N, ~122°24′ W) — when Old Neptune slacks his topsail sheet just enough for Old Karl's fog-keen pewter scrim to lift for a compass-loyal loxodrome — riding a kelp-laced quartering reach bound for [maxawad.com](https://maxawad.com).
 
 [![Website](https://img.shields.io/badge/maxawad.com-0b0f14?style=for-the-badge&logo=safari&logoColor=white)](https://maxawad.com)
 [![GitHub](https://img.shields.io/badge/GitHub-maxawad-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maxawad)
@@ -48,7 +48,7 @@ Native macOS wrapper for ChatGPT with global voice hotkey and floating quick cha
 
 ### <a href="https://lowercase.click">lowercase</a>
 
-**Wake-lulled, quay-wide, Bristol-fashion shipshape on-device dictation aboard macOS**
+**Tide-lulled, quay-wide, Bristol-fashion shipshape on-device dictation aboard macOS**
 
 Heave on the dictation chord, speak, and watch your words appear — offline-first, knife-edge diction deck, private. Powered by NVIDIA Parakeet TDT distilled on the Apple Neural Engine. Also available as an [iOS keyboard](https://lowercase.click) with Live Activities and on-device ML.
 
