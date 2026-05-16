@@ -6,7 +6,7 @@
 
 <div align="center">
 
-I chart, plot, and pilot blue-water native apps, bracing AI crow's-nests, and systems — rigged in Swift, TypeScript, Python, C++, and shell cantrips stout enough to snub runaway entropy made fast to the bitts — and bytes.
+I chart, trace, and pilot blue-water native apps, bracing AI crow's-nests, and systems — rigged in Swift, TypeScript, Python, C++, and shell cantrips stout enough to snub runaway entropy made fast to the bitts — and bytes.
 
 Celestial fix: **San Francisco, CA** — whenever Karl frays wide enough marine lace for a bearing-true noon sight — laying a rhumb toward [maxawad.com](https://maxawad.com).
 
@@ -84,7 +84,7 @@ Select any region on your screen and instantly extract text to your clipboard. O
 
 ### <a href="https://maxawad.com/windowswitch">WindowSwitch</a>
 
-**True per-window Cmd+Tab switching for macOS**
+**Honest per-window Cmd+Tab switching for macOS**
 
 macOS Cmd+Tab only switches apps. WindowSwitch shows every window with live thumbnails so you land exactly where you left off. True MRU ordering, customizable shortcut, zero config. The Alt+Tab experience macOS keeps letting shoals snag its roadmap.
 
