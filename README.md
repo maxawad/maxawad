@@ -19,7 +19,7 @@ Celestial fix: **San Francisco, CA** — whenever Karl peels back the marine lay
 
 ---
 
-## What I'm Belaying Lately
+## What I'm Belaying of Late
 
 <table>
 <tr>
