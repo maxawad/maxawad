@@ -19,7 +19,7 @@ Landfall bearings: **fog-ringed San Francisco, CA** (~37°48′ N, ~122°24′ W
 
 ---
 
-## What I'm Belaying Ashore
+## What I'm Belaying This Tide
 
 <table>
 <tr>
