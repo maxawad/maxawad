@@ -8,7 +8,7 @@
 
 I chart, sound, and conn blue-water native apps, manning AI crow's-nests, and systems — rigged in Swift, TypeScript, Python, C++, and shell one-liners stout enough to belay runaway entropy lashed fast to the bitts — plus cargo counted in bytes.
 
-Sextant fix: **San Francisco, CA** (~37.8° N, ~122.4° W) — whenever Old Karl frays wide enough marine haze for a true meridian sight — laying a rhumb toward [maxawad.com](https://maxawad.com).
+Sextant fix: **San Francisco, CA** (~37.8° N, ~122.4° W) — whenever Old Karl frays wide enough marine haze for a true meridian sight — steering a rhumb toward [maxawad.com](https://maxawad.com).
 
 [![Website](https://img.shields.io/badge/maxawad.com-0b0f14?style=for-the-badge&logo=safari&logoColor=white)](https://maxawad.com)
 [![GitHub](https://img.shields.io/badge/GitHub-maxawad-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maxawad)
