@@ -164,7 +164,7 @@ Ecuadorian plantain chips with a full product catalog exposed as an MCP server. 
 ---
 
 <div align="center">
-<sub>Most of my craft lies snug below decks in hawser-lashed, teak-lined holds — treat this profile as the traverse board slack-water chalked beneath tide-polished binnacle glass.</sub>
+<sub>Most of my craft lies snug below decks in hawser-lashed, teak-lined holds — treat this profile as the traverse board slack-water chalked beneath salt-polished binnacle glass.</sub>
 <br>
 <sub><a href="https://maxawad.com/contact">Flash the Aldis lamp one sly amber blink</a> should you wish to chart your rhumb line beneath riding lights.</sub>
 </div>
