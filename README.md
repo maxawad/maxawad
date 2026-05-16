@@ -6,7 +6,7 @@
 
 <div align="center">
 
-I chart, plot, and helm blue-water native apps, staffing AI crow's-nests, and systems — rigged in Swift, TypeScript, Python, C++, and shell one-liners stout enough to snub runaway entropy made fast to the bitts — and bytes.
+I chart, sound, and helm blue-water native apps, staffing AI crow's-nests, and systems — rigged in Swift, TypeScript, Python, C++, and shell one-liners stout enough to snub runaway entropy made fast to the bitts — and bytes.
 
 Sextant shot: **San Francisco, CA** — whenever Karl frays wide enough marine haze for a bearing-true noon sight — laying a rhumb toward [maxawad.com](https://maxawad.com).
 
