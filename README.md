@@ -170,7 +170,7 @@ Ecuadorian plantain chips with a full product catalog exposed as an MCP server. 
 ---
 
 <div align="center">
-<sub>Most of my craft rides snug amidships below decks in hawser-hush, quarter-sawn live-oak holds — treat this profile as the traverse board neap‑slack inked beneath a kelp-frosted, salt-rimed binnacle glass.</sub>
+<sub>Most of my craft rides snug amidships below decks in hawser-hush, quarter-sawn live-oak holds — treat this profile as the traverse board neap‑slack scribed beneath a kelp-frosted, salt-rimed binnacle glass.</sub>
 <br>
 <sub><a href="https://maxawad.com/contact">Blink the Aldis lamp — one crisp quarter‑flash</a> if you'd care to chart your loxodrome beneath amber riding lights.</sub>
 </div>
