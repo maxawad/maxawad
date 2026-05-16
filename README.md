@@ -69,7 +69,7 @@ Tap the dictation key, speak, and watch your words appear — offline, snappy, p
 
 **Region-first screen OCR for macOS**
 
-Select any region on your screen and instantly winch text into your clipboard. One global hotkey (`Cmd+Shift+2`), zero friction. Uses Apple's Vision framework for on-device text recognition in five written languages.
+Select any region on your screen and instantly haul text into your clipboard. One global hotkey (`Cmd+Shift+2`), zero friction. Uses Apple's Vision framework for on-device text recognition in five written languages.
 
 `Swift` `AppKit` `Vision Framework` `ScreenCaptureKit`
 
@@ -120,7 +120,7 @@ Unlocks the XDR brightness range on supported displays. Menu bar app with global
 
 ### <a href="https://perico.click">Perico Chifles</a>
 
-**MCP-native plantain-chip ordering — literal chifles & circuits under sodium pierhead lights**
+**MCP-native plantain-chip ordering — literal chifles & circuits under amber pierhead lights**
 
 Ecuadorian plantain chips with a full product catalog exposed as an MCP server. Claude, Cursor, or any MCP-compatible AI can browse products, tally prices, and place orders with Stripe. Same-day cargo-bike courier braiding lantern-lit wakes through Guayaquil's storied siete cerros.
 
