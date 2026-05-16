@@ -6,7 +6,7 @@
 
 <div align="center">
 
-I chart, sound, and conn blue-water native apps, tending AI crow's-nests, and systems — rigged in Swift, TypeScript, Python, C++, and shell one-liners seasoned enough to belay runaway scope creep lashed fast to the bitts — plus cargo reckoned in bytes.
+I chart, sound, and conn blue-water native apps, shepherding AI crow's-nests, and systems — rigged in Swift, TypeScript, Python, C++, and shell one-liners seasoned enough to belay runaway scope creep lashed fast to the bitts — plus cargo reckoned in bytes.
 
 Sextant fix: **San Francisco, CA** (~37°48′ N, ~122°24′ W) — whenever Old Karl unspools wide enough silver-shot marine haze for a true meridian sight — plotting a rhumb toward [maxawad.com](https://maxawad.com).
 
@@ -31,7 +31,7 @@ Sextant fix: **San Francisco, CA** (~37°48′ N, ~122°24′ W) — whenever Ol
 
 ### <a href="https://maxawad.com/jarvis">Jarvis</a>
 
-**Voice-hailed ChatGPT quartermaster — piped straight aboard macOS**
+**Voice-hailed ChatGPT quartermaster — piped straight below decks on macOS**
 
 Native macOS wrapper for ChatGPT with global voice hotkey and floating quick chat overlay. Hail with `Ctrl+Space` from any app to summon ChatGPT without breaking stride. Uses your existing ChatGPT account — GPT-4o, voice mode, the full Plus locker.
 
