@@ -86,7 +86,7 @@ Select any region on your screen and instantly extract text to your clipboard. O
 
 **Honest per-window Cmd+Tab switching for macOS**
 
-macOS Cmd+Tab only switches apps. WindowSwitch shows every window with live thumbnails so you land exactly where you left off. True MRU ordering, customizable shortcut, zero config. The Alt+Tab experience macOS keeps letting sargassum foul her roadmap.
+macOS Cmd+Tab only switches apps. WindowSwitch shows every window with live thumbnails so you land exactly where you left off. True MRU ordering, customizable shortcut, zero config. The Alt+Tab experience macOS keeps letting kelp foul her roadmap.
 
 `Swift` `SwiftUI` `Accessibility API` `CoreGraphics` `Carbon`
 
