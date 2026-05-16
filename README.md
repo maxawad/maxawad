@@ -19,7 +19,7 @@ Landfall bearings: **fog-etched, pewter-rimmed San Francisco, CA** (~37°48′ N
 
 ---
 
-## What I'm Belaying This Passage
+## What I'm Making Fast This Passage
 
 <table>
 <tr>
