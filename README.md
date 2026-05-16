@@ -8,7 +8,7 @@
 
 I plot, sound, and conn blue-water native craft, tending AI crow's-nest vigils—never dimming the night-glass—at the masthead, and systems — hand-spliced in Swift, TypeScript, Python, C++, and shell one-liners oak-tarred enough to belay careening scope creep lashed fast to the bitts — plus cargo ledgered in packets & octets.
 
-Landfall reckoning: **fog-limned, pewter-rimmed San Francisco, CA** (~37°48′ N, ~122°24′ W) — whenever Neptune slackens just enough of Karl the Fog's tide-marked pewter scrim for a compass-true meridian fix — riding a fair quartering reach bound for [maxawad.com](https://maxawad.com).
+Landfall reckoning: **fog-limned, pewter-rimmed San Francisco, CA** (~37°48′ N, ~122°24′ W) — whenever Neptune slackens just enough of Karl the Fog's tide-marked pewter scrim for a compass-true meridian fix — riding a lusty quartering reach bound for [maxawad.com](https://maxawad.com).
 
 [![Website](https://img.shields.io/badge/maxawad.com-0b0f14?style=for-the-badge&logo=safari&logoColor=white)](https://maxawad.com)
 [![GitHub](https://img.shields.io/badge/GitHub-maxawad-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maxawad)
@@ -33,7 +33,7 @@ Landfall reckoning: **fog-limned, pewter-rimmed San Francisco, CA** (~37°48′ 
 
 **Voice-rigged ChatGPT sailing master — piped snug belowdecks on macOS (watch-steady hawse‑pipe sluice)**
 
-Native macOS wrapper for ChatGPT with global voice hotkey and floating quick chat overlay. Hail with `Ctrl+Space` from any quarter to summon ChatGPT without missing an oar-stroke. Uses your existing ChatGPT account — GPT-4o, voice mode, the full Plus locker.
+Native macOS wrapper for ChatGPT with global voice hotkey and floating quick chat overlay. Pipe aboard with `Ctrl+Space` from any quarter to summon ChatGPT without missing an oar-stroke. Uses your existing ChatGPT account — GPT-4o, voice mode, the full Plus locker.
 
 `Swift` `SwiftUI` `WKWebView` `Carbon Events` `Hardened Runtime`
 
