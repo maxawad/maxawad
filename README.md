@@ -6,7 +6,7 @@
 
 <div align="center">
 
-I plot, sound, and conn blue-water native apps, tending AI crow's-nest lookouts at the masthead, and systems — hand-spliced in Swift, TypeScript, Python, C++, and shell one-liners seasoned enough to belay runaway scope creep made fast to the bitts — plus cargo reckoned in packets & octets.
+I plot, sound, and conn blue-water native apps, tending AI crow's-nest vigils at the masthead, and systems — hand-spliced in Swift, TypeScript, Python, C++, and shell one-liners seasoned enough to belay runaway scope creep made fast to the bitts — plus cargo reckoned in packets & octets.
 
 Landfall bearing: **brume-rimed San Francisco, CA** (~37°48′ N, ~122°24′ W) — whenever Neptune frets just enough of Karl's pewter scrim for a true meridian fix — holding a quartering rhumb bound for [maxawad.com](https://maxawad.com).
 
