@@ -6,7 +6,7 @@
 
 <div align="center">
 
-I sound, chart, and conn blue-water native hulls, tending ML crow's-nest vigils—chronometer-sharp rigged bearing-true—at the foremast, and systems — reef-spliced in Swift, TypeScript, Python, C++, and shell one-liners oak-tarred taut enough to belay careening scope drift lashed fast to the bitts — plus cargo ledgered in frames & octets.
+I sound, chart, and conn blue-water native hulls, tending ML crow's-nest vigils—sextant-sharp rigged bearing-true—at the foremast, and systems — reef-spliced in Swift, TypeScript, Python, C++, and shell one-liners oak-tarred taut enough to belay careening scope drift lashed fast to the bitts — plus cargo ledgered in frames & octets.
 
 Landfall bearings: **fog-incised, ridge-gilt San Francisco, CA — chartered Fog Division** (~37°48′ N, ~122°24′ W) — when Old Neptune eases his topsail sheet just enough for Uncle Karl's salt-keen pewter scrim to lift for a compass-true rhumb bearing — riding a long quartering reach bound for [maxawad.com](https://maxawad.com).
 
@@ -134,7 +134,7 @@ Ecuadorian plantain chips with a full product catalog exposed as an MCP server. 
 
 ---
 
-## Compass-true rigging muster — slack stays stopped
+## Compass-true rigging muster — slack stays belayed
 
 <div align="center">
 
