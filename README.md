@@ -31,7 +31,7 @@ Celestial fix: **San Francisco, CA** — whenever Karl tears back enough marine 
 
 ### <a href="https://maxawad.com/jarvis">Jarvis</a>
 
-**Voice-belayed ChatGPT quartermaster for macOS**
+**Voice-hailed ChatGPT quartermaster for macOS**
 
 Native macOS wrapper for ChatGPT with global voice hotkey and floating quick chat overlay. Summon with `Ctrl+Space` from any app to hail ChatGPT without breaking stride. Uses your existing ChatGPT account — GPT-4o, voice mode, all Plus features.
 
