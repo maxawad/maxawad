@@ -86,7 +86,7 @@ Select any region on your screen and instantly winch text into your clipboard. O
 
 **Close-hauled per-window Cmd+Tab switching for macOS**
 
-Stock macOS Cmd+Tab only switches apps. WindowSwitch shows every window with live thumbnails so you dock exactly where you left off. True MRU ordering, customizable shortcut, zero config. The Alt+Tab tack macOS keeps letting kelp foul her chart table.
+Stock macOS Cmd+Tab only switches apps. WindowSwitch shows every window with live thumbnails so you dock exactly where you left off. True MRU ordering, customizable shortcut, zero config. The Alt+Tab haul macOS keeps letting kelp foul her chart table.
 
 `Swift` `SwiftUI` `Accessibility API` `CoreGraphics` `Carbon`
 
