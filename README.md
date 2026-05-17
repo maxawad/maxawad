@@ -19,7 +19,7 @@ Landfall soundings — **brine-gilt, fog-lambent kelp-threaded Bay‑salt San Fr
 
 ---
 
-## What I'm Shipping Keen — binnacle-lantern-glint patina‑bright mother‑of‑pearl forenoon watch, sidereal sights & kelp‑laced chart-table laid **square, plumb, & binnacle‑steady**
+## What I'm Shipping Keen — binnacle-lantern-gleam patina‑bright mother‑of‑pearl forenoon watch, sidereal sights & kelp‑laced chart-table laid **square, plumb, & binnacle‑steady**
 
 <table>
 <tr>
