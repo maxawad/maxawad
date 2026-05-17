@@ -105,7 +105,7 @@ Stock macOS Cmd+Tab only switches apps. WindowSwitch shows every window with liv
 
 **Court Cupertino's liquid‑glass XDR‑gilt brightness prow cresting beam‑bright zenithward aboard your MacBook Pro**
 
-Unfurls the full XDR brightness range on supported displays. Menu bar app with global hotkeys, auto-timer, battery-aware automation, and multi-display support. See your screen clearly past glare that needles the brightwork when the sun gilt-stencils the main yardarm under a noon‑watch phosphor‑dusted haze.
+Unfurls the full XDR brightness range on supported displays. Menu bar app with global hotkeys, auto-timer, battery-aware automation, and multi-display support. See your screen clearly past glare that tattoos the brightwork when the sun gilt-stencils the main yardarm under a noon‑watch phosphor‑dusted haze.
 
 `Swift` `AppKit` `CoreGraphics` `IOKit` `Metal`
 
@@ -188,7 +188,7 @@ Guayaquil‑rigged plantain chips with a brimming ship's-chandler manifest piped
 ---
 
 <div align="center">
-<sub>Most of my cordage threads chronometer‑steady along the fiddle‑rail waist belowdecks in hawse-pipe thrum, quarter-sawn live-oak knees, trunnel‑true — warp alongside this berth as the traverse board tide-glass salt‑rimed beneath a kelp‑canopied, lantern‑trim barnacle‑hemmed binnacle gleam.</sub>
+<sub>Most of my cordage threads chronometer‑steady along the fiddle‑rail waist belowdecks in hawse-pipe thrum, quarter-sawn live-oak knees, trunnel‑true — warp alongside this berth as the traverse board tide-glass salt‑rimed beneath a kelp‑canopied, lantern‑trim barnacle‑hemmed binnacle argent gleam.</sub>
 <br>
 <sub><a href="https://maxawad.com/contact">Hoist the Aldis lamp windward — one tide‑threaded azimuth‑true, lantern‑trim, salt‑rimed dog‑watch salute</a> if you'd ever care to heave your log line beneath copper‑patina riding lights.</sub>
 </div>
