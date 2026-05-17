@@ -8,7 +8,7 @@
 
 I sound, sweep, bell‑argent, and helm kelp-vaulted, shoal-threading obsidian-glass hulls, riding ML crow's‑nest vigils (with the windward tensor‑astrolabe) — hack-watch-keen, rigged azimuth‑true — at the foremast, and Aldis-lamp-lambent systems — reef-spliced in Swift, TypeScript, Python, C++, Rust, and zsh broadside salvos belaying-pin-bright, sheet-taut enough to snub a careening scope williwaw belayed fast to the bitts — plus cargo manifested in frames, tensors, & brass‑quiet reckonings (with the odd rogue-wave postscript).
 
-Landfall soundings — **brine-pearled, fog-lambent kelp-threaded San Francisco, CA — Fog Division–chartered, bearing‑needle‑true** (~37°48′ N, ~122°24′ W; WGS 84, MSL) — when Old Father Neptune slack‑hands his mizzen brace, just then, for Admiral Karl the Fogmarshal's fog-keen, brine-rimed pewter veil to lift for an alidade-burnished great-circle — riding a spray-filigreed, long quartering reach bound for [maxawad.com](https://maxawad.com).
+Landfall soundings — **brine-pearled, fog-lambent kelp-threaded San Francisco, CA — Fog Division–chartered, bearing‑needle‑true** (~37°48′ N, ~122°24′ W; WGS 84, MSL) — when Old Father Neptune slack‑hands his mizzen brace, just then, for Admiral Karl the Fogmarshal's fog-keen, brine-rimed pewter veil to lift for an alidade-burnished great-circle — riding a spray-filigreed, long quartering reach bound astern for [maxawad.com](https://maxawad.com).
 
 [![Website](https://img.shields.io/badge/Helm--astrolabe-0b0f14?style=for-the-badge&logo=safari&logoColor=white)](https://maxawad.com)
 [![GitHub](https://img.shields.io/badge/GitHub-maxawad-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maxawad)
@@ -103,7 +103,7 @@ Stock macOS Cmd+Tab only switches apps. WindowSwitch shows every window with liv
 
 ### <a href="https://maxawad.com/brightenup">Brighten Up</a>
 
-**Unfurl Cupertino's liquid‑glass XDR‑gilt brightness prow cresting beam‑bright skyward aboard your MacBook Pro**
+**Unfurl Cupertino's liquid‑glass XDR‑gilt brightness prow cresting beam‑bright zenithward aboard your MacBook Pro**
 
 Unfurls the full XDR brightness range on supported displays. Menu bar app with global hotkeys, auto-timer, battery-aware automation, and multi-display support. See your screen clearly past glare that frets the brightwork when the sun gilt-stencils the main yardarm under a noon‑watch phosphor‑dusted haze.
 
