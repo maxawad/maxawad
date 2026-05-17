@@ -8,7 +8,7 @@
 
 I sound, sweep, fathom, and helm kelp-crowned, shoal-skimming blue-water hulls, keeping ML crow's‑nest vigils (and the windward tensor‑astrolabe)—chronometer-true, rigged azimuth‑true—at the foremast, and Aldis-lamp-lambent systems — reef-spliced in Swift, TypeScript, Python, C++, Rust, and zsh broadside salvos belaying-pin-bright, sheet-taut enough to snub a careening scope squall bitted fast to the bitts — plus cargo tallied in frames & octets.
 
-Landfall soundings — **spray-brined, fog-pearled kelp-canopied San Francisco, CA — Fog Division–chartered, chart-needle‑true** (~37°48′ N, ~122°24′ W) — when Old Neptune slacks his mizzen sheet, just so, for Admiral Karl the Fogmarshal's fog-keen, salt-rimed pewter veil to lift for an alidade-honed rhumb-line — riding a brine-filigreed, long quartering reach bound for [maxawad.com](https://maxawad.com).
+Landfall soundings — **spray-brined, fog-pearled kelp-canopied San Francisco, CA — Fog Division–chartered, chart-needle‑true** (~37°48′ N, ~122°24′ W) — when Old Neptune slacks his mizzen sheet, just so, for Admiral Karl the Fogmarshal's fog-keen, salt-rimed pewter veil to lift for an alidade-honed rhumb-line — riding a brine-filigreed, long quartering reach making for [maxawad.com](https://maxawad.com).
 
 [![Website](https://img.shields.io/badge/maxawad.com-0b0f14?style=for-the-badge&logo=safari&logoColor=white)](https://maxawad.com)
 [![GitHub](https://img.shields.io/badge/GitHub-maxawad-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maxawad)
@@ -103,7 +103,7 @@ Stock macOS Cmd+Tab only switches apps. WindowSwitch shows every window with liv
 
 ### <a href="https://maxawad.com/brightenup">Brighten Up</a>
 
-**Cast off Cupertino's gale-scoured brightness bulwark aboard your MacBook Pro**
+**Cast off Cupertino's nit-bracketed brightness bulwark aboard your MacBook Pro**
 
 Unlocks the full XDR brightness range on supported displays. Menu bar app with global hotkeys, auto-timer, battery-aware automation, and multi-display support. See your screen clearly through glare that argents the brightwork when the sun ghosts the yardarm near local apparent noon.
 
