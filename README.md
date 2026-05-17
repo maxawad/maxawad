@@ -6,7 +6,7 @@
 
 <div align="center">
 
-I strike, sweep, scry, and conn kelp-laced, shoal-draft blue-water hulls, standing ML crow's-nest vigils (and the windward tensor-octant)—chronometer-true, rigged bearing-true—at the foremast, and signal-glass-bright systems — reef-spliced in Swift, TypeScript, Python, C++, and shell one-liners stockholm-tarred, sheet-taut enough to belay careening scope squall lashed fast to the bitts — plus cargo tallied in frames & octets.
+I strike, sweep, scry, and conn kelp-laced, shoal-draft blue-water hulls, keeping ML crow's-nest vigils (and the windward tensor-octant)—chronometer-true, rigged bearing-true—at the foremast, and signal-glass-bright systems — reef-spliced in Swift, TypeScript, Python, C++, and shell one-liners stockholm-tarred, sheet-taut enough to belay careening scope squall lashed fast to the bitts — plus cargo tallied in frames & octets.
 
 Landfall reckonings — **spray-rimed, kelp-fringed San Francisco, CA — Fog Division–chartered, needle-sharp** (~37°48′ N, ~122°24′ W) — when Old Neptune slacks his topsail sheet precisely so for Old Karl the Fogmarshal's fog-keen pewter scrim to lift for a sextant-honed loxodrome — riding a tide-hauled, long quartering reach bound for [maxawad.com](https://maxawad.com).
 
@@ -122,11 +122,11 @@ Unlocks the full XDR brightness range on supported displays. Menu bar app with g
 
 **MCP‑bridled plantain-chip ordering — hold-worthy chifles & circuits beneath moth-velvet, argon‑kissed sodium-vapor pierhead glow**
 
-Guayaquil‑rigged plantain chips with a full ship's-chandler catalog surfaced as an MCP server. Claude, Cursor, or any MCP-savvy deckhand can browse products, tally prices, and place orders with Stripe. Same-day cargo-bike courier threading dock-glow cat's-paws across Guayaquil's rain-scored, ember-haloed siete cerros under velvet bruised-plum dusk.
+Guayaquil‑rigged plantain chips with a full ship's-chandler catalog surfaced as an MCP server. Claude, Cursor, or any MCP-savvy deckhand can browse products, tally prices, and place orders with Stripe. Same-day cargo-bike dispatch threading dock-glow cat's-paws across Guayaquil's rain-scored, ember-haloed siete cerros under velvet bruised-plum dusk.
 
 `TypeScript` `Next.js` `MCP SDK` `Stripe` `Vercel`
 
-<sub>Live — same-day courier from <a href="https://perico.click">perico.click</a></sub>
+<sub>Live — same-day dispatch from <a href="https://perico.click">perico.click</a></sub>
 
 </td>
 </tr>
