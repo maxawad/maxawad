@@ -187,7 +187,7 @@ Guayaquil‑rigged plantain chips with a full ship's-chandler catalog surfaced a
 ---
 
 <div align="center">
-<sub>Most of my rigging softly rides tide-glass-keen along the waist belowdecks in hawse-pipe thrum, quarter-sawn live-oak knees — warp alongside this berth as the traverse board tide-glass salt‑rimed beneath a kelp‑canopied, lantern‑trim barnacle‑freckled binnacle gleam.</sub>
+<sub>Most of my rigging softly sails tide-glass-keen along the waist belowdecks in hawse-pipe thrum, quarter-sawn live-oak knees — warp alongside this berth as the traverse board tide-glass salt‑rimed beneath a kelp‑canopied, lantern‑trim barnacle‑freckled binnacle gleam.</sub>
 <br>
 <sub><a href="https://maxawad.com/contact">Flash the Aldis lamp aloft — one star‑threaded azimuth‑true, lantern‑steady, salt‑rimed half‑glass salute</a> if you'd ever care to lay your log line beneath verdigris‑rimmed riding lights.</sub>
 </div>
