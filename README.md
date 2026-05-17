@@ -6,7 +6,7 @@
 
 <div align="center">
 
-I strike, sweep, glass, and conn kelp-laced, shoal-draft blue-water hulls, standing ML crow's-nest vigils (and the windward tensor-octant)—chronometer-true rigged bearing-true—at the foremast, and signal-glass-bright systems — reef-spliced in Swift, TypeScript, Python, C++, and shell one-liners stockholm-tarred, sheet-taut enough to belay careening scope squall lashed fast to the bitts — plus cargo tallied in frames & octets.
+I strike, sweep, spy, and conn kelp-laced, shoal-draft blue-water hulls, standing ML crow's-nest vigils (and the windward tensor-octant)—chronometer-true rigged bearing-true—at the foremast, and signal-glass-bright systems — reef-spliced in Swift, TypeScript, Python, C++, and shell one-liners stockholm-tarred, sheet-taut enough to belay careening scope squall lashed fast to the bitts — plus cargo tallied in frames & octets.
 
 Landfall reckonings — **spray-rimed, kelp-fringed San Francisco, CA — Fog Division–chartered, radar-keen** (~37°48′ N, ~122°24′ W) — when Old Neptune slacks his topsail sheet just so for Old Karl the Foglord's fog-keen pewter veil to lift for a sextant-honed rhumb line — riding a tide-hauled, long quartering reach bound for [maxawad.com](https://maxawad.com).
 
