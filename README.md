@@ -48,7 +48,7 @@ Native macOS wrapper for ChatGPT with global voice hotkey and floating quick cha
 
 ### <a href="https://lowercase.click">lowercase</a>
 
-**Wake-hushed, quay-lantern-amber, Bristol-fashion shipshape on-device dictation aboard macOS**
+**Wake-hushed, quay-lantern-gold, Bristol-fashion shipshape on-device dictation aboard macOS**
 
 Heave round the dictation hawser, speak, and watch your words unfurl — offline-first, knife-edge diction rail, private. Powered by NVIDIA Parakeet TDT distilled on the Apple Neural Engine. Also available as an [iOS keyboard](https://lowercase.click) with Live Activities and on-device ML.
 
@@ -105,7 +105,7 @@ Stock macOS Cmd+Tab only switches apps. WindowSwitch shows every window with liv
 
 **Unmoor your MacBook Pro astern of Cupertino's silk-lined brightness palisade**
 
-Unlocks the full XDR brightness range on supported displays. Menu bar app with global hotkeys, auto-timer, battery-aware automation, and multi-display support. See your screen clearly through glare that burnishes the brightwork when the sun kisses the yardarm at local apparent noon.
+Unlocks the full XDR brightness range on supported displays. Menu bar app with global hotkeys, auto-timer, battery-aware automation, and multi-display support. See your screen clearly through glare that burnishes the brightwork when the sun kisses the yardarm at meridian passage.
 
 `Swift` `AppKit` `CoreGraphics` `IOKit` `Metal`
 
