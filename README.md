@@ -33,7 +33,7 @@ Landfall fixes: **spray-rimed, kelp-haloed San Francisco, CA — Fog Division–
 
 **⌃Space splice-frapped ChatGPT boatswain — hawse-still, piped belowdecks on macOS (watch‑sharp hawse‑pipe hush)**
 
-Native macOS wrapper for ChatGPT with global voice hotkey and floating quick chat overlay. Pipe `Ctrl+Space` from any watch to summon ChatGPT without missing the watch bell's eighth stroke. Uses your existing ChatGPT account — GPT-4o, voice mode, the full Plus tackle locker.
+Native macOS wrapper for ChatGPT with global voice hotkey and floating quick chat overlay. Pipe `Ctrl+Space` from any watch to summon ChatGPT without missing the watch bell's glass-measured stroke. Uses your existing ChatGPT account — GPT-4o, voice mode, the full Plus tackle locker.
 
 `Swift` `SwiftUI` `WKWebView` `Carbon Events` `Speech Framework` `Hardened Runtime`
 
