@@ -69,7 +69,7 @@ Heave taut the dictation hawser, speak aloud, and watch your words run out — o
 
 **Quarterdeck‑storm‑petrel‑keen, chart‑table‑needle‑bright live‑lasso screen OCR — no borrowed spyglass — aboard macOS**
 
-Drag-select any region on your screen and instantly sheet‑home text into your clipboard. One global hotkey (`Cmd+Shift+2`), compass-steady drag. Uses Apple's Vision framework for on-device text recognition across five glyph-filigreed writing systems.
+Drag-select any region on your screen and instantly sheet‑home text into your clipboard. One global hotkey (`Cmd+Shift+2`), compass-steady drag. Uses Apple's Vision framework for on-device text recognition across five script-filigreed writing systems.
 
 `Swift` `AppKit` `Vision Framework` `ScreenCaptureKit`
 
