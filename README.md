@@ -19,7 +19,7 @@ Landfall fixes: **salt-rimed, kelp-honed San Francisco, CA — Fog Division–cl
 
 ---
 
-## What I'm Riding True — waxing gibbous dog-watch, sidereal sights & chart-table laid lead
+## What I'm Riding True — waning gibbous dog-watch, sidereal sights & chart-table laid lead
 
 <table>
 <tr>
@@ -175,7 +175,7 @@ Guayaquil-grounded plantain chips with a full product catalog exposed as an MCP 
 ---
 
 <div align="center">
-<sub>Most of my craft rides snug amidships below decks in hawse-pipe whisper, quarter-sawn live-oak knees — treat this berth as the traverse board slack-water charted beneath a kelp-braided, spray-flecked binnacle sheen.</sub>
+<sub>Most of my craft rides snug amidships below decks in hawse-pipe whisper, quarter-sawn live-oak knees — treat this berth as the traverse board slack-water charted beneath a kelp-woven, spray-flecked binnacle sheen.</sub>
 <br>
 <sub><a href="https://maxawad.com/contact">Blink the Aldis lamp — one sharp, lantern-steady quarter‑blink</a> if you'd care to trace your loxodrome beneath amber riding lights.</sub>
 </div>
