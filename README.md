@@ -6,7 +6,7 @@
 
 <div align="center">
 
-I strike, sweep, sound, and conn kelp-laced, shoal-draft blue-water hulls, standing ML crow's-nest vigils (and the windward tensor-octant)—chronometer-true, rigged bearing-true—at the foremast, and signal-lamp-bright systems — reef-spliced in Swift, TypeScript, Python, C++, and zsh one-liners marlinspike-true, sheet-taut enough to belay careening scope squall lashed fast to the bitts — plus cargo tallied in frames & octets.
+I strike, sweep, sound, and conn kelp-laced, shoal-draft blue-water hulls, standing ML crow's-nest vigils (and the windward tensor-octant)—chronometer-steady, rigged bearing-true—at the foremast, and signal-lamp-bright systems — reef-spliced in Swift, TypeScript, Python, C++, and zsh one-liners marlinspike-true, sheet-taut enough to belay careening scope squall lashed fast to the bitts — plus cargo tallied in frames & octets.
 
 Landfall reckonings — **spray-pearled, kelp-canopied San Francisco, CA — Fog Division–chartered, chart-needle‑sharp** (~37°48′ N, ~122°24′ W) — when Old Neptune slacks his topsail sheet just so for Old Karl the Fogmarshal's fog-keen pewter scrim to lift for a sextant-honed loxodrome — riding a tide-drawn, long quartering reach bound for [maxawad.com](https://maxawad.com).
 
@@ -178,7 +178,7 @@ Guayaquil‑rigged plantain chips with a full ship's-chandler catalog surfaced a
 ---
 
 <div align="center">
-<sub>Most of my craft still rides bearing-true amidships belowdecks in hawse-pipe susurrus, quarter-sawn live-oak knees — moor this berth as the traverse board tide-glass ink-limned beneath a kelp‑canopied, phosphor‑threaded binnacle sheen.</sub>
+<sub>Most of my craft still rides bearing-true amidships belowdecks in hawse-pipe susurrus, quarter-sawn live-oak knees — moor this berth as the traverse board tide-glass ink-limned beneath a kelp‑canopied, phosphor‑stitched binnacle sheen.</sub>
 <br>
 <sub><a href="https://maxawad.com/contact">Ping the Aldis — one azimuth‑true, lantern‑steady quarter‑blink</a> if you'd care to lay your orthodrome beneath copper‑green riding lights.</sub>
 </div>
