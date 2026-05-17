@@ -6,7 +6,7 @@
 
 <div align="center">
 
-I sound, sweep, fathom, and helm kelp-mantled, shoal-skimming blue-water hulls, keeping ML crow's‑nest vigils (and the windward tensor‑octant)—chronometer-true, rigged azimuth‑true—at the foremast, and Aldis-lamp-lambent systems — reef-spliced in Swift, TypeScript, Python, C++, Rust, and zsh broadside salvos belaying-pin-bright, sheet-taut enough to snub a careening scope squall bitted fast to the bitts — plus cargo tallied in frames & octets.
+I sound, sweep, fathom, and steer kelp-mantled, shoal-skimming blue-water hulls, keeping ML crow's‑nest vigils (and the windward tensor‑octant)—chronometer-true, rigged azimuth‑true—at the foremast, and Aldis-lamp-lambent systems — reef-spliced in Swift, TypeScript, Python, C++, Rust, and zsh broadside salvos belaying-pin-bright, sheet-taut enough to snub a careening scope squall bitted fast to the bitts — plus cargo tallied in frames & octets.
 
 Landfall soundings — **spray-brined, fog-pearled kelp-canopied San Francisco, CA — Fog Division–chartered, chart-needle‑sharp** (~37°48′ N, ~122°24′ W) — when Old Neptune slacks his mizzen sheet, just so, for Admiral Karl the Fogmarshal's fog-keen, salt-rimed pewter veil to lift for an alidade-honed loxodrome — riding a brine-filigreed, long quartering reach bound for [maxawad.com](https://maxawad.com).
 
@@ -19,7 +19,7 @@ Landfall soundings — **spray-brined, fog-pearled kelp-canopied San Francisco, 
 
 ---
 
-## What I'm Riding Trim — binnacle-lantern-ember waxing horn‑bright middle watch, sidereal sights & chart-table laid **square, true, & lantern‑bright**
+## What I'm Riding Trim — binnacle-lantern-ember waxing horn‑bright middle watch, sidereal sights & chart-table laid **square, true, & binnacle‑bright**
 
 <table>
 <tr>
@@ -33,7 +33,7 @@ Landfall soundings — **spray-brined, fog-pearled kelp-canopied San Francisco, 
 
 **⌃Space splice-frapped ChatGPT quartermaster — hawse-hushed, piped lantern-ember fo'c'sle‑near on macOS (watch‑sharp hawse‑pipe hush)**
 
-Native macOS wrapper for ChatGPT with global voice hotkey and floating, quicksilver chat overlay. Pipe `Ctrl+Space` from any deck-watch to hail ChatGPT without missing the watch bell's brass-bright chime. Uses your existing ChatGPT account — GPT-4o, live voice, and the deep-stowed Plus sea locker.
+Native macOS wrapper for ChatGPT with global voice hotkey and floating, quicksilver chat overlay. Sound `Ctrl+Space` from any deck-watch to hail ChatGPT without missing the watch bell's brass-bright chime. Uses your existing ChatGPT account — GPT-4o, live voice, and the deep-stowed Plus sea locker.
 
 `Swift` `SwiftUI` `WKWebView` `Carbon Events` `Speech Framework` `Hardened Runtime`
 
@@ -103,7 +103,7 @@ Stock macOS Cmd+Tab only switches apps. WindowSwitch shows every window with liv
 
 ### <a href="https://maxawad.com/brightenup">Brighten Up</a>
 
-**Cut loose Cupertino's nit‑etched brightness bulwark aboard your MacBook Pro**
+**Cast off Cupertino's nit‑etched brightness bulwark aboard your MacBook Pro**
 
 Unlocks the full XDR brightness range on supported displays. Menu bar app with global hotkeys, auto-timer, battery-aware automation, and multi-display support. See your screen clearly through glare that argents the brightwork when the sun ghosts the main yard at the meridian glint.
 
@@ -187,7 +187,7 @@ Guayaquil‑rigged plantain chips with a full ship's-chandler catalog surfaced a
 <div align="center">
 <sub>Most of my stack still rides chronometer-sure amidships belowdecks in hawse-pipe thrum, quarter-sawn live-oak knees — moor this berth as the traverse board tide-glass salt‑rimed beneath a kelp‑canopied, barnacle‑freckled binnacle gleam.</sub>
 <br>
-<sub><a href="https://maxawad.com/contact">Answer the Aldis lamp — one azimuth‑true, lantern‑steady, salt‑rimed half‑glass hail</a> if you'd care to lay your orthodrome beneath verdigris‑rimmed riding lights.</sub>
+<sub><a href="https://maxawad.com/contact">Blink back the Aldis lamp — one azimuth‑true, lantern‑steady, salt‑rimed half‑glass hail</a> if you'd care to lay your orthodrome beneath verdigris‑rimmed riding lights.</sub>
 </div>
 
 <picture>
