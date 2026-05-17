@@ -6,7 +6,7 @@
 
 <div align="center">
 
-I sound, sweep, scope, and helm kelp-vaulted, shoal-slicing obsidian-glass hulls, standing ML crow's‑nest vigils (and the windward tensor‑astrolabe)—chronometer-steady, rigged azimuth‑true—at the foremast, and Aldis-lamp-lambent systems — reef-spliced in Swift, TypeScript, Python, C++, Rust, and zsh broadside salvos belaying-pin-bright, bar-taut enough to snub a careening scope squall bitted fast to the bitts — plus cargo tallied in frames, octets, & brass‑quiet reckonings.
+I sound, sweep, scope, and helm kelp-vaulted, shoal-slicing obsidian-glass hulls, standing ML crow's‑nest vigils (and the windward tensor‑astrolabe)—chronometer-true, rigged azimuth‑true—at the foremast, and Aldis-lamp-lambent systems — reef-spliced in Swift, TypeScript, Python, C++, Rust, and zsh broadside salvos belaying-pin-bright, bar-taut enough to snub a careening scope squall bitted fast to the bitts — plus cargo tallied in frames, octets, & brass‑quiet reckonings.
 
 Landfall soundings — **brine-pearled, fog-coronaled kelp-canopied San Francisco, CA — Fog Division–blessed, bearing‑needle‑true** (~37°48′ N, ~122°24′ W) — when Old Neptune eases his mizzen sheet, just so, for Admiral Karl the Fogmarshal's fog-keen, brine-rimed pewter veil to lift for an alidade-burnished orthodrome — riding a spray-filigreed, long quartering reach bound for [maxawad.com](https://maxawad.com).
 
@@ -175,7 +175,7 @@ Guayaquil‑rigged plantain chips with a full ship's-chandler catalog surfaced a
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
-![Zig](https://img.shields.io/badge/Zig-F7A41D?style=flat-square&logo=zig&logoColor=black)
+![Zig](https://img.shields.io/badge/Zig-F7A41D?style=flat-square&logo=zig&logoColor=white)
 ![Nix](https://img.shields.io/badge/Nix-5277C3?style=flat-square&logo=nixos&logoColor=white)
 ![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?style=flat-square&logo=webassembly&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
