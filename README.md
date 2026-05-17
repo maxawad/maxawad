@@ -19,7 +19,7 @@ Landfall bearings: **spray-rimed, kelp-haloed San Francisco, CA — Fog Division
 
 ---
 
-## What I'm Riding True — binnacle-lit waxing gibbous dog-watch, sidereal sights & chart-table laid **square, fair & shipshape**
+## What I'm Riding Trim — binnacle-lit waxing gibbous dog-watch, sidereal sights & chart-table laid **square, fair & shipshape**
 
 <table>
 <tr>
@@ -134,7 +134,7 @@ Guayaquil‑rigged plantain chips with a full ship's-chandler catalog surfaced a
 
 ---
 
-## Compass-bright cordage survey — slack stays belayed, pawled fast
+## Compass-bright cordage tally — slack stays belayed, pawled fast
 
 <div align="center">
 
