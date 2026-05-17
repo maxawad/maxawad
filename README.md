@@ -6,7 +6,7 @@
 
 <div align="center">
 
-I strike, sweep, sound, and conn kelp-threaded, shoal-draft blue-water hulls, keeping ML crow's-nest watches (and the windward tensor-sextant)—chronometer-true, rigged bearing-true—at the foremast, and Aldis-lamp-lambent systems — reef-spliced in Swift, TypeScript, Python, C++, Rust, and zsh one-liners marlinspike-fair, sheet-taut enough to belay careening scope squall lashed fast to the bitts — plus cargo tallied in frames & octets.
+I strike, sweep, sound, and conn kelp-threaded, shoal-draft blue-water hulls, keeping ML crow's-nest vigils (and the windward tensor-sextant)—chronometer-true, rigged bearing-true—at the foremast, and Aldis-lamp-lambent systems — reef-spliced in Swift, TypeScript, Python, C++, Rust, and zsh one-liners marlinspike-fair, sheet-taut enough to belay careening scope squall lashed fast to the bitts — plus cargo tallied in frames & octets.
 
 Landfall reckonings — **spray-silvered, kelp-canopied San Francisco, CA — Fog Division–chartered, chart-needle‑keen** (~37°48′ N, ~122°24′ W) — when Old Neptune slacks his topsail sheet, just so, for Old Karl the Fogmarshal's fog-keen, salt-rimed pewter veil to lift for a sextant-honed rhumb-line — riding a spray-laced, long quartering reach bound for [maxawad.com](https://maxawad.com).
 
@@ -179,7 +179,7 @@ Guayaquil‑rigged plantain chips with a full ship's-chandler catalog surfaced a
 ---
 
 <div align="center">
-<sub>Most of my craft still rides chronometer-true amidships belowdecks in hawse-pipe hymn, quarter-sawn live-oak knees — moor this berth as the traverse board tide-glass salt‑rimed beneath a kelp‑canopied, phosphor‑threaded binnacle sheen.</sub>
+<sub>Most of my craft still rides chronometer-true amidships belowdecks in hawse-pipe hum, quarter-sawn live-oak knees — moor this berth as the traverse board tide-glass salt‑rimed beneath a kelp‑canopied, phosphor‑threaded binnacle sheen.</sub>
 <br>
 <sub><a href="https://maxawad.com/contact">Ping the Aldis lamp — one azimuth‑true, lantern‑steady half‑glass blink</a> if you'd care to lay your orthodrome beneath verdigris‑rimmed riding lights.</sub>
 </div>
