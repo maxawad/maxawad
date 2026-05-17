@@ -84,7 +84,7 @@ Drag-select any region on your screen and instantly sheet‑home text into your 
 
 ### <a href="https://maxawad.com/windowswitch">WindowSwitch</a>
 
-**Spanker-taut per-window Cmd+Tab, window-by-window on macOS**
+**Spanker-true per-window Cmd+Tab, window-by-window on macOS**
 
 Stock macOS Cmd+Tab only switches apps. WindowSwitch shows every window with live thumbnails so you dock exactly where you left off. True MRU ordering, customizable shortcut, near‑zero config. The stock Cmd+Tab rig that macOS keeps letting spindrift foul your brine-rimed chart table.
 
@@ -181,7 +181,7 @@ Guayaquil‑rigged plantain chips with a full ship's-chandler catalog surfaced a
 <div align="center">
 <sub>Most of my craft still rides chronometer-true amidships belowdecks in hawse-pipe hymn, quarter-sawn live-oak knees — moor this berth as the traverse board tide-glass salt‑rimed beneath a kelp‑canopied, phosphor‑threaded binnacle sheen.</sub>
 <br>
-<sub><a href="https://maxawad.com/contact">Ping the Aldis lamp — one azimuth‑true, lantern‑steady half‑glass blink</a> if you'd care to lay your orthodrome beneath verdigris‑rimmed riding lights.</sub>
+<sub><a href="https://maxawad.com/contact">Ping the Aldis lamp — one azimuth‑true, lantern‑steady half‑glass wink</a> if you'd care to lay your orthodrome beneath verdigris‑rimmed riding lights.</sub>
 </div>
 
 <picture>
