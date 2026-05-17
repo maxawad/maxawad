@@ -126,7 +126,7 @@ Guayaquil‑rigged plantain chips with a full ship's-chandler catalog surfaced a
 
 `TypeScript` `Next.js` `MCP SDK` `Stripe` `Vercel`
 
-<sub>Live — same-day dispatch via <a href="https://perico.click">perico.click</a></sub>
+<sub>Live — tide-on-time dispatch via <a href="https://perico.click">perico.click</a></sub>
 
 </td>
 </tr>
@@ -134,7 +134,7 @@ Guayaquil‑rigged plantain chips with a full ship's-chandler catalog surfaced a
 
 ---
 
-## Compass-true cordage reckonings — slack sheets belayed, pawls fetched home true
+## Compass-true cordage reckonings — slack sheets belayed, pawls fetched fair and true
 
 <div align="center">
 
