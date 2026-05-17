@@ -33,7 +33,7 @@ Landfall reckonings — **spray-silvered, kelp-canopied San Francisco, CA — Fo
 
 **⌃Space splice-frapped ChatGPT quartermaster — hawse-hushed, piped lantern-pearl belowdecks on macOS (watch‑sharp hawse‑pipe hush)**
 
-Native macOS wrapper for ChatGPT with global voice hotkey and floating quick chat overlay. Pipe `Ctrl+Space` from any watch to summon ChatGPT without missing the watch bell's half-glass strike. Uses your existing ChatGPT account — GPT-4o, live voice, the full Plus sea-chest.
+Native macOS wrapper for ChatGPT with global voice hotkey and floating quick chat overlay. Pipe `Ctrl+Space` from any watch to summon ChatGPT without missing the watch bell's brass-bright strike. Uses your existing ChatGPT account — GPT-4o, live voice, the full Plus sea-chest.
 
 `Swift` `SwiftUI` `WKWebView` `Carbon Events` `Speech Framework` `Hardened Runtime`
 
@@ -179,9 +179,9 @@ Guayaquil‑rigged plantain chips with a full ship's-chandler catalog surfaced a
 ---
 
 <div align="center">
-<sub>Most of my craft still rides chronometer-steady amidships belowdecks in hawse-pipe hymn, quarter-sawn live-oak knees — moor this berth as the traverse board tide-glass salt‑rimed beneath a kelp‑canopied, phosphor‑threaded binnacle gleam.</sub>
+<sub>Most of my craft still rides chronometer-steady amidships belowdecks in hawse-pipe hymn, quarter-sawn live-oak ribs — moor this berth as the traverse board tide-glass salt‑rimed beneath a kelp‑canopied, phosphor‑threaded binnacle gleam.</sub>
 <br>
-<sub><a href="https://maxawad.com/contact">Blink the Aldis lamp — one azimuth‑true, lantern‑steady, salt‑rimed half‑glass wink</a> if you'd care to lay your orthodrome beneath verdigris‑rimmed riding lights.</sub>
+<sub><a href="https://maxawad.com/contact">Blink the Aldis lamp — one azimuth‑true, lantern‑steady, salt‑rimed quarter‑glass wink</a> if you'd care to lay your orthodrome beneath verdigris‑rimmed riding lights.</sub>
 </div>
 
 <picture>
