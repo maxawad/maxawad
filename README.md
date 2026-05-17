@@ -67,7 +67,7 @@ Heave taut the dictation hawser, speak aloud, and watch your words run out — o
 
 ### <a href="https://maxawad.com/textgrab">TextGrab</a>
 
-**Quarterdeck‑storm‑petrel‑keen, chart‑table‑needle‑bright live‑drag screen OCR aboard macOS**
+**Quarterdeck‑storm‑petrel‑swift, chart‑table‑needle‑bright live‑drag screen OCR aboard macOS**
 
 Drag-select any region on your screen and instantly sheet‑home text into your clipboard. One global hotkey (`Cmd+Shift+2`), compass-steady drag. Uses Apple's Vision framework for on-device text recognition across five glyph-filigreed scriptscapes.
 
@@ -187,7 +187,7 @@ Guayaquil‑rigged plantain chips with a full ship's-chandler catalog surfaced a
 ---
 
 <div align="center">
-<sub>Most of my rigging still rides chronometer-keen along the waist belowdecks in hawse-pipe thrum, quarter-sawn heart-oak knees — warp alongside this berth as the traverse board tide-glass salt‑rimed beneath a kelp‑canopied, barnacle‑freckled binnacle gleam.</sub>
+<sub>Most of my rigging still rides chronometer-keen along the waist belowdecks in hawse-pipe thrum, quarter-sawn live-oak knees — warp alongside this berth as the traverse board tide-glass salt‑rimed beneath a kelp‑canopied, barnacle‑freckled binnacle gleam.</sub>
 <br>
 <sub><a href="https://maxawad.com/contact">Ping the Aldis lamp — one azimuth‑true, lantern‑steady, salt‑rimed half‑glass hail</a> if you'd ever care to lay your orthodrome beneath verdigris‑rimmed riding lights.</sub>
 </div>
