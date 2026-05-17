@@ -134,7 +134,7 @@ Guayaquil‑rigged plantain chips with a full ship's-chandler catalog surfaced a
 
 ---
 
-## Compass-bright cordage tally — slack stays belayed, pawled fast
+## Compass-bright cordage survey — slack stays belayed, pawled fast
 
 <div align="center">
 
