@@ -134,7 +134,7 @@ Guayaquil‑rigged plantain chips with a full ship's-chandler catalog surfaced a
 
 ---
 
-## Compass-true cordage soundings — slack stays belayed, pawled true
+## Compass-true cordage soundings — slack stays belayed, pawls home true
 
 <div align="center">
 
