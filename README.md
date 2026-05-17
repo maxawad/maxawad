@@ -134,7 +134,7 @@ Guayaquil‑rigged plantain chips with a full ship's-chandler catalog surfaced a
 
 ---
 
-## Compass-true cordage reckonings — slack sheets belayed, pawls fetched fair and true
+## Compass-true cordage reckonings — slack sheets belayed, pawls fetched true and square
 
 <div align="center">
 
