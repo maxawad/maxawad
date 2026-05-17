@@ -105,7 +105,7 @@ Stock macOS Cmd+Tab only switches apps. WindowSwitch shows every window with liv
 
 **Unfurl Cupertino's pixel‑honed brightness bulwark riding beam‑trim skyward aboard your MacBook Pro**
 
-Unfurls the full XDR brightness range on supported displays. Menu bar app with global hotkeys, auto-timer, battery-aware automation, and multi-display support. See your screen clearly past glare that needles the varnish when the sun gilds the main yardarm at yardarm‑gold zenith.
+Unfurls the full XDR brightness range on supported displays. Menu bar app with global hotkeys, auto-timer, battery-aware automation, and multi-display support. See your screen clearly past glare that needles the varnish when the sun gilds the main yardarm at yardarm‑gold apogee.
 
 `Swift` `AppKit` `CoreGraphics` `IOKit` `Metal`
 
