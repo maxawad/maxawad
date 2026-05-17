@@ -33,7 +33,7 @@ Landfall reckonings — **spray-rimed, kelp-fringed San Francisco, CA — Fog Di
 
 **⌃Space splice-frapped ChatGPT boatswain — hawse-hushed, piped smartly belowdecks on macOS (watch‑sharp hawse‑pipe stillness)**
 
-Native macOS wrapper for ChatGPT with global voice hotkey and floating quick chat overlay. Pipe `Ctrl+Space` from any watch to summon ChatGPT without missing the watch bell's glass-measured tick. Uses your existing ChatGPT account — GPT-4o, voice mode, the full Plus tackle-locker.
+Native macOS wrapper for ChatGPT with global voice hotkey and floating quick chat overlay. Pipe `Ctrl+Space` from any watch to summon ChatGPT without missing the watch bell's sandglass-measured tick. Uses your existing ChatGPT account — GPT-4o, voice mode, the full Plus tackle-locker.
 
 `Swift` `SwiftUI` `WKWebView` `Carbon Events` `Speech Framework` `Hardened Runtime`
 
@@ -177,7 +177,7 @@ Guayaquil‑rigged plantain chips with a full ship's-chandler catalog surfaced a
 ---
 
 <div align="center">
-<sub>Most of my craft still rides bearing-true amidships belowdecks in hawse-pipe susurrus, quarter-sawn live-oak knees — moor this berth as the traverse board tide-glass ink-limned beneath a kelp‑fringed, phosphor-threaded binnacle sheen.</sub>
+<sub>Most of my craft still rides bearing-true amidships belowdecks in hawse-pipe susurration, quarter-sawn live-oak knees — moor this berth as the traverse board tide-glass ink-limned beneath a kelp‑fringed, phosphor-threaded binnacle sheen.</sub>
 <br>
 <sub><a href="https://maxawad.com/contact">Ping the Aldis — one azimuth‑true, lantern‑steady quarter‑blink</a> if you'd care to plot your orthodrome beneath copper‑green riding lights.</sub>
 </div>
