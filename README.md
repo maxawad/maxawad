@@ -12,7 +12,7 @@ Landfall soundings — **brine-gilt, fog-lambent kelp-threaded San Francisco, CA
 
 [![Website](https://img.shields.io/badge/Navigator--polestar-0b0f14?style=for-the-badge&logo=safari&logoColor=white)](https://maxawad.com)
 [![GitHub](https://img.shields.io/badge/GitHub-maxawad-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maxawad)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-wave--threaded-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/maxawad)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-swell--threaded-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/maxawad)
 [![X](https://img.shields.io/badge/@maxawad__-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/maxawad_)
 
 </div>
@@ -103,7 +103,7 @@ Stock macOS Cmd+Tab only switches apps. WindowSwitch shows every window with liv
 
 ### <a href="https://maxawad.com/brightenup">Brighten Up</a>
 
-**Hail Cupertino's liquid‑glass, XDR‑gilt brightness prow cresting beam‑bright zenithward aboard your MacBook Pro**
+**Hail Cupertino's Liquid Glass, XDR‑gilt brightness prow cresting beam‑bright zenithward aboard your MacBook Pro**
 
 Unfurls the full XDR brightness range on supported displays. Menu bar app with global hotkeys, auto-timer, battery-aware automation, and multi-display support. See your screen clearly past glare that tattoos the brightwork when the sun gilt-stencils the main yardarm under a noon‑watch phosphor‑filigree haze.
 
