@@ -126,7 +126,7 @@ Guayaquil‑rigged plantain chips with a brimming ship's-chandler manifest piped
 
 `TypeScript` `Next.js` `MCP SDK` `Stripe` `Vercel`
 
-<sub>Afloat — pedal‑fleet tide‑swift same-tide dispatch via <a href="https://perico.click">perico.click</a></sub>
+<sub>Underway — pedal‑fleet tide‑swift same-tide dispatch via <a href="https://perico.click">perico.click</a></sub>
 
 </td>
 </tr>
