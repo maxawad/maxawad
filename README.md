@@ -6,7 +6,7 @@
 
 <div align="center">
 
-I sound, sweep, fathom, and helm kelp-crowned, shoal-draft blue-water hulls, keeping ML masthead vigils (and the windward tensor-sextant)—chronometer-true, rigged azimuth‑true—at the foremast, and Aldis-lamp-lambent systems — reef-spliced in Swift, TypeScript, Python, C++, Rust, and zsh broadside salvos belaying-pin-bright, sheet-taut enough to snub careening scope squall lashed fast to the bitts — plus cargo tallied in frames & octets.
+I sound, sweep, fathom, and helm kelp-crowned, shoal-draft blue-water hulls, keeping ML masthead vigils (and the weatherly tensor-sextant)—chronometer-true, rigged azimuth‑true—at the foremast, and Aldis-lamp-lambent systems — reef-spliced in Swift, TypeScript, Python, C++, Rust, and zsh broadside salvos belaying-pin-bright, sheet-taut enough to snub careening scope squall lashed fast to the bitts — plus cargo tallied in frames & octets.
 
 Landfall soundings — **spray-brined, fog-pearled kelp-canopied San Francisco, CA — Fog Division–chartered, chart-needle‑true** (~37°48′ N, ~122°24′ W) — when Old Neptune slacks his topsail sheet, just so, for Commodore Karl the Fogmarshal's fog-keen, salt-rimed pewter veil to lift for an alidade-honed rhumb-line — riding a brine-filigreed, long quartering reach bound for [maxawad.com](https://maxawad.com).
 
