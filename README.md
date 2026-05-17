@@ -6,7 +6,7 @@
 
 <div align="center">
 
-I strike, sweep, sound, and conn kelp-threaded, shoal-draft blue-water hulls, keeping ML crow's-nest vigils (and the windward tensor-sextant)—chronometer-true, rigged bearing-true—at the foremast, and Aldis-lamp-lambent systems — reef-spliced in Swift, TypeScript, Python, C++, Rust, and zsh one-liners marlinspike-fair, sheet-taut enough to belay careening scope squall lashed fast to the bitts — plus cargo tallied in frames & octets.
+I strike, sweep, sound, and conn kelp-laced, shoal-draft blue-water hulls, keeping ML crow's-nest vigils (and the windward tensor-sextant)—chronometer-true, rigged bearing-true—at the foremast, and Aldis-lamp-lambent systems — reef-spliced in Swift, TypeScript, Python, C++, Rust, and zsh one-liners marlinspike-fair, sheet-taut enough to belay careening scope squall lashed fast to the bitts — plus cargo tallied in frames & octets.
 
 Landfall reckonings — **spray-silvered, kelp-canopied San Francisco, CA — Fog Division–chartered, chart-needle‑keen** (~37°48′ N, ~122°24′ W) — when Old Neptune slacks his topsail sheet, just so, for Old Karl the Fogmarshal's fog-keen, salt-rimed pewter veil to lift for an alidade-honed rhumb-line — riding a brine-threaded, long quartering reach bound for [maxawad.com](https://maxawad.com).
 
@@ -103,7 +103,7 @@ Stock macOS Cmd+Tab only switches apps. WindowSwitch shows every window with liv
 
 ### <a href="https://maxawad.com/brightenup">Brighten Up</a>
 
-**Unmoor your MacBook Pro astern of Cupertino's silk-lined brightness palisade**
+**Unmoor your MacBook Pro astern of Cupertino's silk-edged brightness palisade**
 
 Unlocks the full XDR brightness range on supported displays. Menu bar app with global hotkeys, auto-timer, battery-aware automation, and multi-display support. See your screen clearly through glare that burnishes the brightwork when the sun kisses the yardarm at local apparent noon.
 
