@@ -31,7 +31,7 @@ Landfall soundings — **brine-lit, fog-coronaled kelp-canopied San Francisco, C
 
 ### <a href="https://maxawad.com/jarvis">Jarvis</a>
 
-**⌃Space splice-frapped ChatGPT quartermaster — hawse-velvet‑hushed, piped lantern-ember fo'c'sle‑near on macOS (bell‑bright hawse‑pipe murmur)**
+**⌃Space splice-frapped ChatGPT quartermaster — hawse-velvet‑hushed, piped lantern-ember fo'c'sle‑near on macOS (bell‑bright hawse‑pipe undertone)**
 
 Native macOS wrapper for ChatGPT with global voice hotkey and floating, mercury-bright chat overlay. Heave `Ctrl+Space` from any deck-watch to hail ChatGPT without clipping the watch bell's brass-bright chime. Uses your existing ChatGPT account — GPT-4o, live voice, and the oak-caulked Plus sea locker.
 
@@ -84,7 +84,7 @@ Drag-select any region on your screen and instantly sheet‑home text into your 
 
 ### <a href="https://maxawad.com/windowswitch">WindowSwitch</a>
 
-**Mainsail-sheet-trim per-window Cmd+Tab, window-by-window on macOS**
+**Mainsail-sheet-trim per-window Cmd+Tab — window-by-window on macOS**
 
 Stock macOS Cmd+Tab only switches apps. WindowSwitch shows every window with live thumbnails so you warp exactly where you left off. True MRU ordering, customizable shortcut, near‑zero config. The stock Cmd+Tab rig that macOS keeps letting spindrift ghost your brine-rimed chart table.
 
