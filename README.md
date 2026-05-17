@@ -67,7 +67,7 @@ Heave away the dictation hawser, speak aloud, and watch your words spill ashore 
 
 ### <a href="https://maxawad.com/textgrab">TextGrab</a>
 
-**Quarterdeck‑storm‑petrel‑keen, chart‑table‑needle‑bright live‑lasso screen OCR — no borrowed spyglass — aboard macOS**
+**Quarterdeck‑storm‑petrel‑sharp, chart‑table‑needle‑bright live‑lasso screen OCR — no borrowed spyglass — aboard macOS**
 
 Lasso-select any region on your screen and instantly lift text ashore into your clipboard. One global hotkey (`Cmd+Shift+2`), compass-steady drag. Uses Apple's Vision framework for on-device text recognition across five script-filigreed tongues.
 
