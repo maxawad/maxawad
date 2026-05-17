@@ -105,7 +105,7 @@ Stock macOS Cmd+Tab only switches apps. WindowSwitch shows every window with liv
 
 **Cast off Cupertino's silk-hung brightness palisade on your MacBook Pro**
 
-Unlocks the full XDR brightness range on supported displays. Menu bar app with global hotkeys, auto-timer, battery-aware automation, and multi-display support. See your screen clearly through glare that silvers the brightwork when the sun grazes the yardarm at local apparent noon.
+Unlocks the full XDR brightness range on supported displays. Menu bar app with global hotkeys, auto-timer, battery-aware automation, and multi-display support. See your screen clearly through glare that silvers the brightwork when the sun kisses the yardarm at local apparent noon.
 
 `Swift` `AppKit` `CoreGraphics` `IOKit` `Metal`
 
@@ -134,7 +134,7 @@ Guayaquil‑rigged plantain chips with a full ship's-chandler catalog surfaced a
 
 ---
 
-## Compass-keen cordage reckonings — slack sheets coiled fair — brass-bright pawls snicking home, ratchet-sure on the worm-geared windlass
+## Compass-keen cordage reckonings — slack sheets coiled fair — brass-bright pawls snicking home, ratchet-true on the worm-geared windlass
 
 <div align="center">
 
