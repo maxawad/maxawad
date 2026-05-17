@@ -120,7 +120,7 @@ Unlocks the full XDR brightness range on supported displays. Menu bar app with g
 
 ### <a href="https://perico.click">Perico Chifles</a>
 
-**MCP‑halyard‑rigged plantain-chip commerce — lanyard-tugged chifles & circuits beneath moth-velvet, argon‑kissed sodium-vapor pierhead glow**
+**MCP‑halyard‑rigged plantain-chip commerce — lanyard-tugged chifles & ship‑lamp circuits beneath moth-velvet, argon‑kissed sodium-vapor pierhead glow**
 
 Guayaquil‑rigged plantain chips with a full ship's-chandler catalog surfaced as an MCP server. Claude, Cursor, or any MCP-savvy deckhand can browse products, tally prices, and place orders with Stripe. Same-day cargo-bike relay threading dock-glow cat's-paws across Guayaquil's rain-scored, ember-threaded siete cerros beneath velvet bruised-sloe gloaming, tar-note thin on the rigging.
 
