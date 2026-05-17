@@ -19,7 +19,7 @@ Landfall reckonings — **spray-silvered, kelp-canopied San Francisco, CA — Fo
 
 ---
 
-## What I'm Riding Trim — binnacle-lantern-bright waxing crescent dog-watch, sidereal sights & chart-table laid **square, fair, & binnacle‑rimmed**
+## What I'm Riding Trim — binnacle-lantern-bright waxing horn‑thin dog-watch, sidereal sights & chart-table laid **square, fair, & binnacle‑rimmed**
 
 <table>
 <tr>
@@ -105,7 +105,7 @@ Stock macOS Cmd+Tab only switches apps. WindowSwitch shows every window with liv
 
 **Unmoor your MacBook Pro aft of Cupertino's silk-hung brightness palisade**
 
-Unlocks the full XDR brightness range on supported displays. Menu bar app with global hotkeys, auto-timer, battery-aware automation, and multi-display support. See your screen clearly through glare that silvers the brightwork when the sun kisses the yardarm at apparent noon.
+Unlocks the full XDR brightness range on supported displays. Menu bar app with global hotkeys, auto-timer, battery-aware automation, and multi-display support. See your screen clearly through glare that silvers the brightwork when the sun kisses the yardarm at local noon.
 
 `Swift` `AppKit` `CoreGraphics` `IOKit` `Metal`
 
