@@ -19,7 +19,7 @@ Landfall bearings: **spray-rimed, kelp-haloed San Francisco, CA — Fog Division
 
 ---
 
-## What I'm Riding Trim — binnacle-lit waning gibbous dog-watch, sidereal sights & chart-table laid **square, fair & shipshape**
+## What I'm Riding Trim — binnacle-lit waxing gibbous dog-watch, sidereal sights & chart-table laid **square, fair & shipshape**
 
 <table>
 <tr>
