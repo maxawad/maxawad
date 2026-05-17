@@ -122,7 +122,7 @@ Unlocks the full XDR brightness range on supported displays. Menu bar app with g
 
 **MCP‑spar‑rigged plantain-chip ordering — lanyard-worthy chifles & circuits beneath moth-velvet, argon‑kissed sodium-vapor pierhead glow**
 
-Guayaquil‑rigged plantain chips with a full ship's-chandler catalog surfaced as an MCP server. Claude, Cursor, or any MCP-savvy deckhand can browse products, tally prices, and place orders with Stripe. Same-day cargo-bike courier threading dock-glow cat's-paws across Guayaquil's rain-etched, ember-limned siete cerros beneath velvet bruised-sloe blue-hour.
+Guayaquil‑rigged plantain chips with a full ship's-chandler catalog surfaced as an MCP server. Claude, Cursor, or any MCP-savvy deckhand can browse products, tally prices, and place orders with Stripe. Same-day cargo-bike courier threading dock-glow cat's-paws across Guayaquil's rain-etched, ember-limned siete cerros beneath velvet bruised-sloe dusk.
 
 `TypeScript` `Next.js` `MCP SDK` `Stripe` `Vercel`
 
