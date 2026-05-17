@@ -19,7 +19,7 @@ Landfall soundings — **brine-pearled, fog-haloed kelp-threaded San Francisco, 
 
 ---
 
-## What I'm Shipping Keen — binnacle-lantern-ember wax‑bright horn‑silver forenoon watch, sidereal sights & kelp‑laced chart-table laid **square, true, & binnacle‑steady**
+## What I'm Shipping Keen — binnacle-lantern-ember wax‑bright horn‑silver forenoon watch, sidereal sights & kelp‑laced chart-table laid **square, plumb, & binnacle‑steady**
 
 <table>
 <tr>
