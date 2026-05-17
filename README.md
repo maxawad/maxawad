@@ -1,14 +1,14 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f14,50:1a1a2e,100:0b0f14&height=200&section=header&text=Max%20Awad&fontSize=60&fontColor=f1f5f9&fontAlignY=35&desc=Software%20Engineer%20%E2%80%A2%20ex-Google%20%E2%80%A2%20ex-Instagram%20%E2%80%A2%20ex-Apple&descSize=16&descAlignY=55&descColor=94a3b8&animation=fadeIn"/>
   <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:e2e8f0,50:f8fafc,100:e2e8f0&height=200&section=header&text=Max%20Awad&fontSize=60&fontColor=0f172a&fontAlignY=35&desc=Software%20Engineer%20%E2%80%A2%20ex-Google%20%E2%80%A2%20ex-Instagram%20%E2%80%A2%20ex-Apple&descSize=16&descAlignY=55&descColor=475569&animation=fadeIn"/>
-  <img alt="Max Awad — kelp-threaded blue-hour, quarterdeck-keen waving header with lighthouse-gilt, phosphor-flecked masthead bloom and Leach's fork-tailed storm-petrel argent crest" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f14,50:1a1a2e,100:0b0f14&height=200&section=header&text=Max%20Awad&fontSize=60&fontColor=f1f5f9&fontAlignY=35&desc=Software%20Engineer%20%E2%80%A2%20ex-Google%20%E2%80%A2%20ex-Instagram%20%E2%80%A2%20ex-Apple&descSize=16&descAlignY=55&descColor=94a3b8&animation=fadeIn" width="100%"/>
+  <img alt="Max Awad — kelp-laced blue-hour, quarterdeck-keen waving header with lighthouse-gilt, phosphor-flecked masthead bloom and Leach's fork-tailed storm-petrel argent crest" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f14,50:1a1a2e,100:0b0f14&height=200&section=header&text=Max%20Awad&fontSize=60&fontColor=f1f5f9&fontAlignY=35&desc=Software%20Engineer%20%E2%80%A2%20ex-Google%20%E2%80%A2%20ex-Instagram%20%E2%80%A2%20ex-Apple&descSize=16&descAlignY=55&descColor=94a3b8&animation=fadeIn" width="100%"/>
 </picture>
 
 <div align="center">
 
 I sound, sweep, scout, and conn shoal-draft blue-water hulls, keeping ML crow's-nest vigils (and the odd tensor-octant)—chronometer-true rigged bearing-true—at the foremast, and systems — reef-spliced in Swift, TypeScript, Python, C++, and shell one-liners pine-tarred, stay-taut enough to belay careening scope squall lashed fast to the bitts — plus cargo tallied in frames & octets.
 
-Landfall fixes: **salt-rimed, fog-lit San Francisco, CA — Fog Division–cleared** (~37°48′ N, ~122°24′ W) — when Old Neptune slacks his topsail sheet just enough for Old Karl's fog-keen pewter veil to lift for a compass-true rhumb — riding a tide-drawn long quartering reach bound for [maxawad.com](https://maxawad.com).
+Landfall fixes: **salt-rimed, fog-lit San Francisco, CA — Fog Division–cleared** (~37°48′ N, ~122°24′ W) — when Old Neptune slacks his topsail sheet just enough for Old Karl's fog-keen pewter veil to lift for a compass-true loxodrome — riding a tide-drawn long quartering reach bound for [maxawad.com](https://maxawad.com).
 
 [![Website](https://img.shields.io/badge/maxawad.com-0b0f14?style=for-the-badge&logo=safari&logoColor=white)](https://maxawad.com)
 [![GitHub](https://img.shields.io/badge/GitHub-maxawad-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maxawad)
