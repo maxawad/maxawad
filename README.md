@@ -120,7 +120,7 @@ Unlocks the full XDR brightness range on supported displays. Menu bar app with g
 
 ### <a href="https://perico.click">Perico Chifles</a>
 
-**MCP‑bridled plantain-chip ordering — hold-worthy chifles & circuits beneath moth-velvet, argon‑kissed sodium-vapor pierhead glow**
+**MCP‑rigged plantain-chip ordering — hold-worthy chifles & circuits beneath moth-velvet, argon‑kissed sodium-vapor pierhead glow**
 
 Guayaquil‑rigged plantain chips with a full ship's-chandler catalog surfaced as an MCP server. Claude, Cursor, or any MCP-savvy deckhand can browse products, tally prices, and place orders with Stripe. Same-day cargo-bike courier threading dock-glow cat's-paws across Guayaquil's rain-etched, ember-haloed siete cerros under velvet bruised-plum dusk.
 
@@ -178,7 +178,7 @@ Guayaquil‑rigged plantain chips with a full ship's-chandler catalog surfaced a
 ---
 
 <div align="center">
-<sub>Most of my craft still rides bearing-true amidships belowdecks in hawse-pipe susurrus, quarter-sawn live-oak knees — moor this berth as the traverse board tide-glass ink-limned beneath a kelp‑canopied, phosphor‑stitched binnacle sheen.</sub>
+<sub>Most of my craft still rides bearing-true amidships belowdecks in hawse-pipe susurrus, quarter-sawn live-oak knees — moor this berth as the traverse board tide-glass ink-limned beneath a kelp‑canopied, phosphor‑threaded binnacle sheen.</sub>
 <br>
 <sub><a href="https://maxawad.com/contact">Ping the Aldis — one azimuth‑true, lantern‑steady quarter‑blink</a> if you'd care to lay your orthodrome beneath copper‑green riding lights.</sub>
 </div>
