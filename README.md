@@ -19,7 +19,7 @@ Landfall bearings: **salt-rimed, kelp-haloed San Francisco, CA — Fog Division�
 
 ---
 
-## What I'm Riding True — binnacle-lit waxing gibbous dog-watch, sidereal sights & chart-table laid **square, fair & trim**
+## What I'm Riding True — binnacle-lit waxing gibbous dog-watch, sidereal sights & chart-table laid **square, fair & shipshape**
 
 <table>
 <tr>
@@ -67,7 +67,7 @@ Heave on the dictation chord, speak, and watch your words appear — offline-fir
 
 ### <a href="https://maxawad.com/textgrab">TextGrab</a>
 
-**Quarterdeck‑storm‑petrel‑eyed screen OCR for macOS**
+**Quarterdeck‑storm‑petrel‑keen screen OCR for macOS**
 
 Drag-select any region on your screen and instantly sheet‑home text into your clipboard. One global hotkey (`Cmd+Shift+2`), zero friction. Uses Apple's Vision framework for on-device text recognition across five script-tangled orthographies.
 
