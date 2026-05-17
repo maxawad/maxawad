@@ -8,7 +8,7 @@
 
 I sound, sweep, fathom, and helm kelp-vaulted, shoal-slicing glass-calm hulls, standing ML crow's‑nest vigils (and the windward tensor‑astrolabe)—chronometer-true, rigged azimuth‑true—at the foremast, and Aldis-lamp-lambent systems — reef-spliced in Swift, TypeScript, Python, C++, Rust, and zsh volley salvos belaying-pin-bright, sheet-taut enough to snub a careening scope squall bitted fast to the bitts — plus cargo tallied in frames & octets.
 
-Landfall soundings — **spray-brined, fog-pearled kelp-canopied San Francisco, CA — Fog Division–blessed, chart-needle‑sharp** (~37°48′ N, ~122°24′ W) — when Old Neptune slacks his mizzen sheet, just so, for Admiral Karl the Fogmarshal's fog-keen, salt-rimed pewter veil to lift for an alidade-honed rhumb line — riding a spray-filigreed, long quartering reach bound for [maxawad.com](https://maxawad.com).
+Landfall soundings — **spray-brined, fog-pearled kelp-canopied San Francisco, CA — Fog Division–blessed, bearing‑needle‑true** (~37°48′ N, ~122°24′ W) — when Old Neptune slacks his mizzen sheet, just so, for Admiral Karl the Fogmarshal's fog-keen, salt-rimed pewter veil to lift for an alidade-honed rhumb line — riding a spray-filigreed, long quartering reach bound for [maxawad.com](https://maxawad.com).
 
 [![Website](https://img.shields.io/badge/maxawad.com-0b0f14?style=for-the-badge&logo=safari&logoColor=white)](https://maxawad.com)
 [![GitHub](https://img.shields.io/badge/GitHub-maxawad-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maxawad)
@@ -187,7 +187,7 @@ Guayaquil‑rigged plantain chips with a full ship's-chandler catalog surfaced a
 <div align="center">
 <sub>Most of my stack still rides chronometer-keen along the waist belowdecks in hawse-pipe thrum, quarter-sawn live-oak knees — moor this berth as the traverse board tide-glass salt‑rimed beneath a kelp‑canopied, barnacle‑freckled binnacle gleam.</sub>
 <br>
-<sub><a href="https://maxawad.com/contact">Answer the Aldis — one azimuth‑true, lantern‑steady, salt‑rimed half‑glass hail</a> if you'd care to lay your orthodrome beneath verdigris‑rimmed riding lights.</sub>
+<sub><a href="https://maxawad.com/contact">Answer the Aldis — azimuth‑true, lantern‑steady, salt‑rimed half‑glass hail</a> if you'd care to lay your orthodrome beneath verdigris‑rimmed riding lights.</sub>
 </div>
 
 <picture>
