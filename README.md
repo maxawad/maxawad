@@ -6,7 +6,7 @@
 
 <div align="center">
 
-I sound, sweep, scout, and conn shoal-draft blue-water hulls, keeping ML crow's-nest vigils (and the odd tensor-sextant)—chronometer-true rigged bearing-true—at the foremast, and systems — reef-spliced in Swift, TypeScript, Python, C++, and shell one-liners hemp-tarred, stay-taut enough to belay careening scope squall lashed fast to the bitts — plus cargo tallied in frames & octets.
+I sound, sweep, scout, and conn shoal-draft blue-water hulls, keeping ML crow's-nest watches (and the odd tensor-sextant)—chronometer-true rigged bearing-true—at the foremast, and systems — reef-spliced in Swift, TypeScript, Python, C++, and shell one-liners hemp-tarred, stay-taut enough to belay careening scope squall lashed fast to the bitts — plus cargo tallied in frames & octets.
 
 Landfall fixes: **salt-rimed, fog-honed San Francisco, CA — Fog Division–cleared** (~37°48′ N, ~122°24′ W) — when Old Neptune slacks his topsail sheet just enough for Old Karl's fog-keen pewter veil to lift for a compass-true rhumb — riding a tide-drawn quartering reach bound for [maxawad.com](https://maxawad.com).
 
@@ -175,7 +175,7 @@ Guayaquil‑moored plantain chips with a full product catalog exposed as an MCP 
 ---
 
 <div align="center">
-<sub>Most of my craft rides snug amidships below decks in hawse-pipe whisper, quarter-sawn live-oak knees — treat this berth as the traverse board slack-water charted beneath a kelp-filigreed, spray-flecked binnacle sheen.</sub>
+<sub>Most of my craft rides snug amidships belowdecks in hawse-pipe whisper, quarter-sawn live-oak knees — treat this berth as the traverse board slack-water charted beneath a kelp-filigreed, spray-flecked binnacle sheen.</sub>
 <br>
 <sub><a href="https://maxawad.com/contact">Blink the Aldis lamp — one sharp, lantern-steady quarter‑blink</a> if you'd care to trace your loxodrome beneath amber riding lights.</sub>
 </div>
