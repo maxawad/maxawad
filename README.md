@@ -69,7 +69,7 @@ Heave round the dictation hawser, speak, and watch your words unfurl — offline
 
 **Quarterdeck‑storm‑petrel‑bright, chart‑table‑sharp live screen OCR aboard macOS**
 
-Drag-select any region on your screen and instantly sheet‑home text into your clipboard. One global hotkey (`Cmd+Shift+2`), zero friction. Uses Apple's Vision framework for on-device text recognition across five script-filigreed tongues.
+Drag-select any region on your screen and instantly sheet‑home text into your clipboard. One global hotkey (`Cmd+Shift+2`), zero friction. Uses Apple's Vision framework for on-device text recognition across five script-filigreed orthographies.
 
 `Swift` `AppKit` `Vision Framework` `ScreenCaptureKit`
 
@@ -179,7 +179,7 @@ Guayaquil‑rigged plantain chips with a full ship's-chandler catalog surfaced a
 <div align="center">
 <sub>Most of my craft still rides bearing-true amidships belowdecks in hawse-pipe susurrus, quarter-sawn live-oak knees — moor this berth as the traverse board mirror-glass ink-limned beneath a kelp‑threaded, phosphor-stitched binnacle sheen.</sub>
 <br>
-<sub><a href="https://maxawad.com/contact">Blink the Aldis — one needle‑bright, lantern‑steady quarter‑blink</a> if you'd care to plot your orthodrome beneath copper‑green riding lights.</sub>
+<sub><a href="https://maxawad.com/contact">Blink the Aldis lamp — one needle‑bright, lantern‑steady quarter‑blink</a> if you'd care to plot your orthodrome beneath copper‑green riding lights.</sub>
 </div>
 
 <picture>
