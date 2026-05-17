@@ -6,7 +6,7 @@
 
 <div align="center">
 
-I sound, sweep, fathom, and helm kelp-crowned, shoal-draft blue-water hulls, keeping ML crow's-nest vigils (and the windward tensor-sextant)—chronometer-true, rigged bearing-true—at the foremast, and Aldis-lamp-lambent systems — reef-spliced in Swift, TypeScript, Python, C++, Rust, and zsh broadside salvos belaying-pin-bright, sheet-taut enough to snub careening scope squall lashed fast to the bitts — plus cargo tallied in frames & octets.
+I sound, sweep, plumb, and helm kelp-crowned, shoal-draft blue-water hulls, keeping ML crow's-nest vigils (and the windward tensor-sextant)—chronometer-true, rigged bearing-true—at the foremast, and Aldis-lamp-lambent systems — reef-spliced in Swift, TypeScript, Python, C++, Rust, and zsh broadside salvos belaying-pin-bright, sheet-taut enough to snub careening scope squall lashed fast to the bitts — plus cargo tallied in frames & octets.
 
 Landfall soundings — **spray-brined, kelp-canopied San Francisco, CA — Fog Division–chartered, chart-needle‑true** (~37°48′ N, ~122°24′ W) — when Old Neptune slacks his topsail sheet, just so, for Commodore Karl the Fogmarshal's fog-keen, salt-rimed pewter veil to lift for an alidade-honed rhumb-line — riding a brine-filigreed, long quartering reach bound for [maxawad.com](https://maxawad.com).
 
@@ -86,7 +86,7 @@ Drag-select any region on your screen and instantly sheet‑home text into your 
 
 **Spanker-sheet-true per-window Cmd+Tab, window-by-window on macOS**
 
-Stock macOS Cmd+Tab only switches apps. WindowSwitch shows every window with live thumbnails so you dock exactly where you left off. True MRU ordering, customizable shortcut, near‑zero config. The stock Cmd+Tab rig that macOS keeps letting spindrift lace your brine-rimed chart table.
+Stock macOS Cmd+Tab only switches apps. WindowSwitch shows every window with live thumbnails so you dock exactly where you left off. True MRU ordering, customizable shortcut, near‑zero config. The stock Cmd+Tab rig that macOS keeps letting spindrift fret your brine-rimed chart table.
 
 `Swift` `SwiftUI` `Accessibility API` `CoreGraphics` `Carbon`
 
