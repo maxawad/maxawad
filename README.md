@@ -19,7 +19,7 @@ Landfall soundings — **brine-pearled, fog-haloed kelp-threaded San Francisco, 
 
 ---
 
-## What I'm Shipping True — binnacle-lantern-ember waxing horn‑silver forenoon watch, sidereal sights & kelp‑laced chart-table laid **square, true, & binnacle‑steady**
+## What I'm Shipping Keen — binnacle-lantern-ember waxing horn‑silver forenoon watch, sidereal sights & kelp‑laced chart-table laid **square, true, & binnacle‑steady**
 
 <table>
 <tr>
@@ -31,7 +31,7 @@ Landfall soundings — **brine-pearled, fog-haloed kelp-threaded San Francisco, 
 
 ### <a href="https://maxawad.com/jarvis">Jarvis</a>
 
-**⌃Space splice-frapped ChatGPT quarterdeck-officer — hawse-velvet‑hushed, piped lantern-gilt fo'c'sle‑near on macOS (chime‑bright hawse‑pipe dog‑watch undertow)**
+**⌃Space splice-frapped ChatGPT quarterdeck-officer — hawse-velvet‑hushed, piped lantern-gilt fo'c'sle‑near on macOS (chime‑bright hawse‑pipe dog‑watch wake-vane)**
 
 Native macOS wrapper for ChatGPT with global voice hotkey and floating, porthole-clear chat overlay. Strike `Ctrl+Space` from any deck-watch to hail ChatGPT without clipping the watch bell's brass-bright chime. Uses your existing ChatGPT account — GPT-4o, live piping, and the varnish-caulked Plus sea chest.
 
