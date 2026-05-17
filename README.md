@@ -86,7 +86,7 @@ Drag-select any region on your screen and instantly sheet‑home text into your 
 
 **Mainsail-sheet-sure per-window Cmd+Tab — window-by-window on macOS**
 
-Stock macOS Cmd+Tab only switches apps. WindowSwitch shows every window with live thumbnails so you warp exactly where you left off. Taut MRU trim, customizable shortcut, near‑zero rigging. The stock Cmd+Tab rig that macOS keeps letting spindrift fret your brine-rimed chart table.
+Stock macOS Cmd+Tab only switches apps. WindowSwitch shows every window with live thumbnails so you warp exactly where you left off. Taut MRU trim, customizable shortcut, near‑instant rigging. The stock Cmd+Tab rig that macOS keeps letting spindrift fret your brine-rimed chart table.
 
 `Swift` `SwiftUI` `Accessibility API` `CoreGraphics` `Carbon`
 
