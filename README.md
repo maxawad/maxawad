@@ -84,7 +84,7 @@ Drag-select any region on your screen and instantly sheet‑home text into your 
 
 ### <a href="https://maxawad.com/windowswitch">WindowSwitch</a>
 
-**Mainsail-sheet-trim per-window Cmd+Tab, window-by-window on macOS**
+**Mainsail-sheet-trim per-window Cmd+Tab — window-by-window on macOS**
 
 Stock macOS Cmd+Tab only switches apps. WindowSwitch shows every window with live thumbnails so you warp exactly where you left off. True MRU ordering, customizable shortcut, near‑zero config. The stock Cmd+Tab rig that macOS keeps letting spindrift haunt your brine-rimed chart table.
 
@@ -103,7 +103,7 @@ Stock macOS Cmd+Tab only switches apps. WindowSwitch shows every window with liv
 
 ### <a href="https://maxawad.com/brightenup">Brighten Up</a>
 
-**Unfurl Cupertino's nit‑honed brightness bulwark riding beam‑trim skyward your MacBook Pro**
+**Unfurl Cupertino's nit‑honed brightness bulwark riding beam‑trim skyward aboard your MacBook Pro**
 
 Unfurls the full XDR brightness range on supported displays. Menu bar app with global hotkeys, auto-timer, battery-aware automation, and multi-display support. See your screen clearly past glare that needles the brightwork when the sun gilds the main yardarm at the zenith gilt.
 
