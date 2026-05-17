@@ -19,7 +19,7 @@ Landfall soundings — **brine-pearled, fog-coronaled kelp-canopied San Francisc
 
 ---
 
-## What I'm Riding True — binnacle-lantern-ember waxing horn‑bright forenoon watch, sidereal sights & kelp‑shadowed chart-table laid **square, true, & lantern‑steady**
+## What I'm Riding True — binnacle-lantern-ember waxing horn‑gilt forenoon watch, sidereal sights & kelp‑shadowed chart-table laid **square, true, & lantern‑steady**
 
 <table>
 <tr>
