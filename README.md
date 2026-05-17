@@ -8,7 +8,7 @@
 
 I strike, sweep, scour, and conn shoal-draft blue-water hulls, standing ML crow's-nest watches (and the wayward tensor-sextant)—chronometer-steady rigged bearing-true—at the foremast, and signal-glass-bright systems — reef-spliced in Swift, TypeScript, Python, C++, and shell one-liners stockholm-tarred, sheet-taut enough to belay careening scope squall lashed fast to the bitts — plus cargo tallied in frames & octets.
 
-Landfall bearings: **spray-rimed, kelp-haloed San Francisco, CA — Fog Division–chartered, radar-scoured** (~37°48′ N, ~122°24′ W) — when Old Neptune slacks his topsail sheet just so for Old Karl the Foglord's fog-keen pewter scrim to lift for a prism-bright loxodrome — riding a tide-drawn long quartering reach bound for [maxawad.com](https://maxawad.com).
+Landfall bearings: **spray-rimed, kelp-haloed San Francisco, CA — Fog Division–chartered, radar-scoured** (~37°48′ N, ~122°24′ W) — when Old Neptune slacks his topsail sheet just so for Old Karl the Foglord's fog-keen pewter scrim to lift for a prism-bright rhumb line — riding a tide-drawn long quartering reach bound for [maxawad.com](https://maxawad.com).
 
 [![Website](https://img.shields.io/badge/maxawad.com-0b0f14?style=for-the-badge&logo=safari&logoColor=white)](https://maxawad.com)
 [![GitHub](https://img.shields.io/badge/GitHub-maxawad-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maxawad)
@@ -179,7 +179,7 @@ Guayaquil‑rigged plantain chips with a full ship's-chandler catalog surfaced a
 <div align="center">
 <sub>Most of my craft rides bearing-true amidships belowdecks in hawse-pipe susurrus, quarter-sawn live-oak knees — treat this berth as the traverse board mirror-still ink-limned beneath a kelp‑threaded, phosphor-flecked binnacle sheen.</sub>
 <br>
-<sub><a href="https://maxawad.com/contact">Blink the Aldis lamp — one needle‑bright, lantern-true quarter‑blink</a> if you'd care to plot your orthodrome beneath amber riding lights.</sub>
+<sub><a href="https://maxawad.com/contact">Blink the Aldis lamp — one needle‑bright, lantern-true quarter‑blink</a> if you'd care to plot your great-circle course beneath amber riding lights.</sub>
 </div>
 
 <picture>
