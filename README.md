@@ -86,7 +86,7 @@ Drag-select any region on your screen and instantly sheet‑home text into your 
 
 **Mainsail-sheet-trim per-window Cmd+Tab, window-by-window on macOS**
 
-Stock macOS Cmd+Tab only switches apps. WindowSwitch shows every window with live thumbnails so you warp exactly where you left off. True MRU ordering, customizable shortcut, near‑zero config. The stock Cmd+Tab rig that macOS keeps letting spindrift ghost your brine-rimed chart table.
+Stock macOS Cmd+Tab only switches apps. WindowSwitch shows every window with live thumbnails so you warp exactly where you left off. True MRU ordering, customizable shortcut, near‑zero config. The stock Cmd+Tab rig that macOS keeps letting spindrift haunt your brine-rimed chart table.
 
 `Swift` `SwiftUI` `Accessibility API` `CoreGraphics` `Carbon`
 
@@ -134,7 +134,7 @@ Guayaquil‑rigged plantain chips with a full ship's-chandler catalog surfaced a
 
 ---
 
-## Compass-rose-keen cordage reckonings — slack-hauled canvas snug-seized — binnacle‑bright pawls snicking home, ratchet-true on the worm‑faithful windlass
+## Compass-rose-keen cordage reckonings — slack-hauled canvas snug-seized — binnacle‑bright pawls snicking home, ratchet-true on the worm‑steadfast windlass
 
 <div align="center">
 
