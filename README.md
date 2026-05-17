@@ -19,7 +19,7 @@ Landfall fixes: **salt-rimed, fog-lit San Francisco, CA — Fog Division–clear
 
 ---
 
-## What I'm Riding True — waxing crescent dog-watch, sidereal sights & chart-table laid **fair**
+## What I'm Riding True — waxing crescent dog-watch, sidereal sights & chart-table laid **square**
 
 <table>
 <tr>
