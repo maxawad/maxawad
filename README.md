@@ -6,7 +6,7 @@
 
 <div align="center">
 
-I sound, sweep, wake‑phosphor, and helm kelp-canopied, shoal-threading obsidian-glass hulls, riding ML crow's‑nest vigils (with the windward tensor‑octant) — dog-watch-keen, rigged azimuth‑true — at the foremast, and Aldis-lamp-lambent systems — reef-spliced in Swift, TypeScript, Python, C++, Rust, and zsh broadside salvos belaying-pin-true, sheet-taut enough to snub a careening scope williwaw belayed fast to the bitts — plus cargo manifested in frames, tensors, & brass‑quiet reckonings (with the odd rogue-wave postscript).
+I sound, sweep, wake‑phosphor, and helm kelp-canopied, shoal-threading obsidian-glass hulls, riding ML crow's‑nest vigils (with the windward tensor‑sextant) — dog-watch-keen, rigged azimuth‑true — at the foremast, and Aldis-lamp-lambent systems — reef-spliced in Swift, TypeScript, Python, C++, Rust, and zsh broadside salvos belaying-pin-true, sheet-taut enough to snub a careening scope williwaw belayed fast to the bitts — plus cargo manifested in frames, tensors, & brass‑quiet reckonings (with the odd rogue-wave postscript).
 
 Landfall soundings — **brine-gilt, fog-lambent kelp-threaded Bay‑salt San Francisco, CA — Fog Division–commissioned, bearing‑needle‑true** (~37°48′ N, ~122°24′ W; WGS 84, MSL) — when Old Father Neptune slack‑hands his mizzen brace, just then—for Admiral Karl the Fogmarshal's fog-keen, brine-rimed pewter veil to lift for an alidade-burnished orthodrome — riding a spray-filigreed, long quartering reach bound for [maxawad.com](https://maxawad.com).
 
