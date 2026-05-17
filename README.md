@@ -19,7 +19,7 @@ Landfall reckonings — **spray-pearled, kelp-canopied San Francisco, CA — Fog
 
 ---
 
-## What I'm Riding Trim — binnacle-gilt waxing crescent dog-watch, sidereal sights & chart-table laid **square, fair, & copper-fast**
+## What I'm Riding Trim — binnacle-gilt waxing crescent dog-watch, sidereal sights & chart-table laid **square, fair, & copper-bright**
 
 <table>
 <tr>
