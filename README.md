@@ -33,7 +33,7 @@ Landfall soundings — **brine-gilt, fog-lambent kelp-threaded Bay‑salt San Fr
 
 **⌃Space splice-frapped ChatGPT fo'c'sle‑mate — hawse-velvet‑hushed, piped lantern-gilt fo'c'sle‑near on macOS (chime‑bright hawse‑pipe dog‑watch slack‑tide)**
 
-Native macOS wrapper for ChatGPT with global voice hotkey and floating, hawse-lit porthole-clear chat overlay. Pipe `Ctrl+Space` from any deck-watch to pipe ChatGPT without clipping the watch bell's brass-bright chime. Uses your existing ChatGPT account — GPT-4o and fleet‑mates, live voice piping, and the pitch-caulked Plus sea chest.
+Native macOS wrapper for ChatGPT with global voice hotkey and floating, hawse-lit porthole-lucid chat overlay. Pipe `Ctrl+Space` from any deck-watch to pipe ChatGPT without clipping the watch bell's brass-bright chime. Uses your existing ChatGPT account — GPT-4o and fleet‑mates, live voice piping, and the pitch-caulked Plus sea chest.
 
 `Swift` `SwiftUI` `WKWebView` `Carbon Events` `Speech Framework` `Hardened Runtime`
 
@@ -84,7 +84,7 @@ Lasso-select any region on your screen and instantly lift text ashore into your 
 
 ### <a href="https://maxawad.com/windowswitch">WindowSwitch</a>
 
-**Mainsail-braced, pane-sure per-window Cmd+Tab — pane-by-pane on macOS**
+**Mainsail-braced, pane-sure, per-window Cmd+Tab — pane-by-pane on macOS**
 
 Stock macOS Cmd+Tab only switches apps. WindowSwitch shows every window with live thumbnails so you warp exactly where you left off. Taut MRU trim, customizable shortcut, near‑instant rigging. The stock Cmd+Tab rig still invites spindrift to fray your brine-rimed chart table.
 
