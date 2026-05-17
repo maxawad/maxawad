@@ -33,7 +33,7 @@ Landfall soundings — **brine-gilt, fog-lambent kelp-threaded Bay‑salt San Fr
 
 **⌃Space splice-frapped ChatGPT quarterdeck-mate — hawse-velvet‑hushed, piped lantern-gilt fo'c'sle‑near on macOS (chime‑bright hawse‑pipe dog‑watch slack‑water)**
 
-Native macOS wrapper for ChatGPT with global voice hotkey and floating, hawse-lit porthole-clear chat overlay. Heave `Ctrl+Space` from any deck-watch to pipe ChatGPT without clipping the watch bell's brass-bright chime. Uses your existing ChatGPT account — GPT-4o, live voice piping, and the pitch-caulked Plus sea chest.
+Native macOS wrapper for ChatGPT with global voice hotkey and floating, hawse-lit porthole-clear chat overlay. Heave `Ctrl+Space` from any deck-watch to pipe ChatGPT without clipping the watch bell's brass-bright chime. Uses your existing ChatGPT account — GPT-4o and kin, live voice piping, and the pitch-caulked Plus sea chest.
 
 `Swift` `SwiftUI` `WKWebView` `Carbon Events` `Speech Framework` `Hardened Runtime`
 
@@ -188,7 +188,7 @@ Guayaquil‑rigged plantain chips with a brimming ship's-chandler manifest piped
 ---
 
 <div align="center">
-<sub>Most of my cordage threads chronometer‑steady along the fiddle‑rail waist belowdecks in hawse-pipe thrum, quarter-sawn live-oak knees, trunnel‑true — warp alongside this berth as the traverse board tide-glass salt‑rimed beneath a kelp‑canopied, lantern‑trim limpet‑hemmed binnacle gleam.</sub>
+<sub>Most of my cordage runs chronometer‑steady along the fiddle‑rail waist belowdecks in hawse-pipe thrum, quarter-sawn live-oak knees, trunnel‑true — warp alongside this berth as the traverse board tide-glass salt‑rimed beneath a kelp‑canopied, lantern‑trim limpet‑hemmed binnacle gleam.</sub>
 <br>
 <sub><a href="https://maxawad.com/contact">Blink the Aldis lamp windward — one tide‑threaded azimuth‑true, lantern‑trim, salt‑rimed dog‑watch salute</a> if you'd ever care to heave your log line beneath copper‑patina riding lights.</sub>
 </div>
