@@ -19,7 +19,7 @@ Landfall soundings — **brine-gilt, fog-lambent kelp-threaded San Francisco, CA
 
 ---
 
-## What I'm Shipping Keen — binnacle-lantern-ember wax‑bright mother‑of‑pearl forenoon watch, sidereal sights & kelp‑laced chart-table laid **square, plumb, & binnacle‑steady**
+## What I'm Shipping Keen — binnacle-lantern-glint wax‑bright mother‑of‑pearl forenoon watch, sidereal sights & kelp‑laced chart-table laid **square, plumb, & binnacle‑steady**
 
 <table>
 <tr>
