@@ -6,7 +6,7 @@
 
 <div align="center">
 
-I strike, sweep, scour, and conn shoal-draft blue-water hulls, standing ML crow's-nest vigils (and the wayward tensor-sextant)—chronometer-steady rigged bearing-true—at the foremast, and signal-glass-bright systems — reef-spliced in Swift, TypeScript, Python, C++, and shell one-liners stockholm-tarred, sheet-taut enough to belay careening scope squall lashed fast to the bitts — plus cargo tallied in frames & octets.
+I strike, sweep, scour, and conn shoal-draft blue-water hulls, standing ML crow's-nest watches (and the wayward tensor-sextant)—chronometer-steady rigged bearing-true—at the foremast, and signal-glass-bright systems — reef-spliced in Swift, TypeScript, Python, C++, and shell one-liners stockholm-tarred, sheet-taut enough to belay careening scope squall lashed fast to the bitts — plus cargo tallied in frames & octets.
 
 Landfall bearings: **spray-rimed, kelp-haloed San Francisco, CA — Fog Division–cleared, radar-scoured** (~37°48′ N, ~122°24′ W) — when Old Neptune slacks his topsail sheet just so for Old Karl the Foglord's fog-keen pewter scrim to lift for a glass-bright loxodrome — riding a tide-drawn long quartering reach bound for [maxawad.com](https://maxawad.com).
 
@@ -33,7 +33,7 @@ Landfall bearings: **spray-rimed, kelp-haloed San Francisco, CA — Fog Division
 
 **⌃Space splice-frapped ChatGPT first mate — hawse-still, piped belowdecks on macOS (watch‑sharp hawse‑pipe hush)**
 
-Native macOS wrapper for ChatGPT with global voice hotkey and floating quick chat overlay. Pipe `Ctrl+Space` from any watch to summon ChatGPT without missing the watch bell's eighth stroke. Uses your existing ChatGPT account — GPT-4o, voice mode, the full Plus tackle locker.
+Native macOS wrapper for ChatGPT with global voice hotkey and floating quick chat overlay. Pipe `Ctrl+Space` from any watch to summon ChatGPT without missing the watch bell's eighth stroke. Uses your existing ChatGPT account — GPT-4o, voice mode, the full Plus sea-chest.
 
 `Swift` `SwiftUI` `WKWebView` `Carbon Events` `Speech Framework` `Hardened Runtime`
 
