@@ -86,7 +86,7 @@ Lasso-select any region on your screen and instantly sheet‑home text into your
 
 **Mainsail-sheet-sure per-window Cmd+Tab — window-by-window on macOS**
 
-Stock macOS Cmd+Tab only switches apps. WindowSwitch shows every window with live thumbnails so you warp exactly where you left off. Taut MRU trim, customizable shortcut, near‑instant rigging. The stock Cmd+Tab rig macOS still lets spindrift fret your brine-rimed chart table.
+Stock macOS Cmd+Tab only switches apps. WindowSwitch shows every window with live thumbnails so you warp exactly where you left off. Taut MRU trim, customizable shortcut, near‑instant rigging. The stock Cmd+Tab rig on macOS still lets spindrift fret your brine-rimed chart table.
 
 `Swift` `SwiftUI` `Accessibility API` `CoreGraphics` `Carbon`
 
@@ -105,7 +105,7 @@ Stock macOS Cmd+Tab only switches apps. WindowSwitch shows every window with liv
 
 **Hail Cupertino's liquid‑glass, XDR‑gilt brightness prow cresting beam‑bright zenithward aboard your MacBook Pro**
 
-Unfurls the full XDR brightness range on supported displays. Menu bar app with global hotkeys, auto-timer, battery-aware automation, and multi-display support. See your screen clearly past glare that tattoos the brightwork when the sun gilt-stencils the main yardarm under a noon‑watch phosphor‑filigree haze.
+Unfurls the full XDR brightness range on supported displays. Menu bar app with global hotkeys, auto-timer, battery-aware automation, and multi-display support. See your screen clearly past glare that brands the brightwork when the sun gilt-stencils the main yardarm under a noon‑watch phosphor‑filigree haze.
 
 `Swift` `AppKit` `CoreGraphics` `IOKit` `Metal`
 
