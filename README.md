@@ -6,7 +6,7 @@
 
 <div align="center">
 
-I sound, sweep, fathom, and helm kelp-crowned, shoal-draft blue-water hulls, keeping ML crow's-nest vigils (and the windward tensor-octant)—chronometer-true, rigged bearing-true—at the foremast, and Aldis-lamp-lambent systems — reef-spliced in Swift, TypeScript, Python, C++, Rust, and zsh broadside salvos belaying-pin-bright, sheet-taut enough to snub careening scope squall lashed fast to the bitts — plus cargo reckoned in frames & octets.
+I sound, sweep, fathom, and helm kelp-crowned, shoal-draft blue-water hulls, keeping ML crow's-nest vigils (and the windward tensor-octant)—chronometer-true, rigged azimuth‑true—at the foremast, and Aldis-lamp-lambent systems — reef-spliced in Swift, TypeScript, Python, C++, Rust, and zsh broadside salvos belaying-pin-bright, sheet-taut enough to snub careening scope squall lashed fast to the bitts — plus cargo reckoned in frames & octets.
 
 Landfall soundings — **spray-brined, fog-pearled kelp-canopied San Francisco, CA — Fog Division–chartered, chart-needle‑true** (~37°48′ N, ~122°24′ W) — when Old Neptune eases his topsail sheet, just so, for Commodore Karl the Fogmarshal's fog-keen, salt-rimed pewter veil to lift for an alidade-honed rhumb-line — riding a brine-filigreed, long quartering reach bound for [maxawad.com](https://maxawad.com).
 
@@ -19,7 +19,7 @@ Landfall soundings — **spray-brined, fog-pearled kelp-canopied San Francisco, 
 
 ---
 
-## What I'm Riding Trim — binnacle-lantern-bright waxing horn‑thin dog-watch, sidereal sights & chart-table laid **square, fair, & binnacle‑rimmed**
+## What I'm Riding Trim — binnacle-lantern-bright waxing horn‑thin compass-watch, sidereal sights & chart-table laid **square, fair, & binnacle‑rimmed**
 
 <table>
 <tr>
