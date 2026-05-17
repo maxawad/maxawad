@@ -134,7 +134,7 @@ Guayaquil‑moored plantain chips with a full product catalog exposed as an MCP 
 
 ---
 
-## Compass-true cordage muster — slack stays belayed fair
+## Compass-true cordage muster — slack stays belayed snug
 
 <div align="center">
 
