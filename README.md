@@ -31,7 +31,7 @@ Landfall reckonings — **spray-silvered, kelp-canopied San Francisco, CA — Fo
 
 ### <a href="https://maxawad.com/jarvis">Jarvis</a>
 
-**⌃Space splice-frapped ChatGPT quartermaster — hawse-hushed, piped moon-pearl belowdecks on macOS (watch‑sharp hawse‑pipe hush)**
+**⌃Space splice-frapped ChatGPT quartermaster — hawse-hushed, piped lantern-pearl belowdecks on macOS (watch‑sharp hawse‑pipe hush)**
 
 Native macOS wrapper for ChatGPT with global voice hotkey and floating quick chat overlay. Pipe `Ctrl+Space` from any watch to summon ChatGPT without missing the watch bell's half-glass strike. Uses your existing ChatGPT account — GPT-4o, live voice, the full Plus sea-chest.
 
@@ -179,7 +179,7 @@ Guayaquil‑rigged plantain chips with a full ship's-chandler catalog surfaced a
 ---
 
 <div align="center">
-<sub>Most of my craft still rides chronometer-true amidships belowdecks in hawse-pipe hymn, quarter-sawn live-oak knees — moor this berth as the traverse board tide-glass salt‑rimed beneath a kelp‑canopied, phosphor‑threaded binnacle gleam.</sub>
+<sub>Most of my craft still rides chronometer-true amidships belowdecks in hawse-pipe hymn, quarter-sawn live-oak knees — moor this berth as the traverse board tide-glass salt‑rimed beneath a kelp‑canopied, phosphor‑threaded binnacle sheen.</sub>
 <br>
 <sub><a href="https://maxawad.com/contact">Ping the Aldis lamp — one azimuth‑true, lantern‑steady, salt‑rimed half‑glass wink</a> if you'd care to lay your orthodrome beneath verdigris‑rimmed riding lights.</sub>
 </div>
