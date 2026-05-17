@@ -8,7 +8,7 @@
 
 I strike, sweep, spy, and conn kelp-laced, shoal-draft blue-water hulls, standing ML crow's-nest vigils (and the windward tensor-octant)—chronometer-true, rigged bearing-true—at the foremast, and signal-glass-bright systems — reef-spliced in Swift, TypeScript, Python, C++, and shell one-liners stockholm-tarred, sheet-taut enough to belay careening scope squall lashed fast to the bitts — plus cargo tallied in frames & octets.
 
-Landfall reckonings — **spray-rimed, kelp-fringed San Francisco, CA — Fog Division–chartered, radar-sharp** (~37°48′ N, ~122°24′ W) — when Old Neptune slacks his topsail sheet just so for Old Karl the Foglord's fog-keen pewter scrim to lift for a sextant-honed rhumb line — riding a tide-hauled, long quartering reach bound for [maxawad.com](https://maxawad.com).
+Landfall reckonings — **spray-rimed, kelp-fringed San Francisco, CA — Fog Division–chartered, radar-sharp** (~37°48′ N, ~122°24′ W) — when Old Neptune slacks his topsail sheet just so for Old Karl the Foglord's fog-keen pewter scrim to lift for a sextant-honed loxodrome — riding a tide-hauled, long quartering reach bound for [maxawad.com](https://maxawad.com).
 
 [![Website](https://img.shields.io/badge/maxawad.com-0b0f14?style=for-the-badge&logo=safari&logoColor=white)](https://maxawad.com)
 [![GitHub](https://img.shields.io/badge/GitHub-maxawad-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maxawad)
@@ -177,7 +177,7 @@ Guayaquil‑rigged plantain chips with a full ship's-chandler catalog surfaced a
 ---
 
 <div align="center">
-<sub>Most of my craft still rides bearing-true amidships belowdecks in hawse-pipe susurrus, quarter-sawn live-oak knees — moor this berth as the traverse board mirror-glass ink-limned beneath a kelp‑threaded, phosphor-stitched binnacle sheen.</sub>
+<sub>Most of my craft still rides bearing-true amidships belowdecks in hawse-pipe susurrus, quarter-sawn live-oak knees — moor this berth as the traverse board mirror-bright ink-limned beneath a kelp‑threaded, phosphor-stitched binnacle sheen.</sub>
 <br>
 <sub><a href="https://maxawad.com/contact">Blink the Aldis — one needle‑bright, lantern‑steady quarter‑blink</a> if you'd care to plot your orthodrome beneath copper‑green riding lights.</sub>
 </div>
