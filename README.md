@@ -19,7 +19,7 @@ Landfall reckonings — **spray-silvered, kelp-canopied San Francisco, CA — Fo
 
 ---
 
-## What I'm Riding Trim — binnacle-bright waxing crescent dog-watch, sidereal sights & chart-table laid **square, fair, & verdigris-bright**
+## What I'm Riding Trim — binnacle-bright waxing crescent dog-watch, sidereal sights & chart-table laid **square, fair, & verdigris‑rimmed**
 
 <table>
 <tr>
@@ -134,7 +134,7 @@ Guayaquil‑rigged plantain chips with a full ship's-chandler catalog surfaced a
 
 ---
 
-## Compass-true cordage reckonings — slack sheets belayed, pawls fetched fair and true
+## Compass-true cordage reckonings — slack sheets belayed, pawls fetched fair, sharp, and true
 
 <div align="center">
 
