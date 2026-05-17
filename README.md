@@ -33,7 +33,7 @@ Landfall soundings — **brine-pearled, fog-haloed kelp-threaded San Francisco, 
 
 **⌃Space splice-frapped ChatGPT quarterdeck-officer — hawse-velvet‑hushed, piped lantern-gilt fo'c'sle‑near on macOS (chime‑bright hawse‑pipe dog‑watch undertow)**
 
-Native macOS wrapper for ChatGPT with global voice hotkey and floating, porthole-bright chat overlay. Sound `Ctrl+Space` from any deck-watch to hail ChatGPT without clipping the watch bell's brass-bright chime. Uses your existing ChatGPT account — GPT-4o, live voice, and the oak-caulked Plus sea chest.
+Native macOS wrapper for ChatGPT with global voice hotkey and floating, porthole-bright chat overlay. Strike `Ctrl+Space` from any deck-watch to hail ChatGPT without clipping the watch bell's brass-bright chime. Uses your existing ChatGPT account — GPT-4o, live voice, and the oak-caulked Plus sea chest.
 
 `Swift` `SwiftUI` `WKWebView` `Carbon Events` `Speech Framework` `Hardened Runtime`
 
