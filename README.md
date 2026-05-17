@@ -50,7 +50,7 @@ Native macOS wrapper for ChatGPT with global voice hotkey and floating, hawse-li
 
 **Fog-lens-keen, pierhead-lantern-gilt, Bristol-fashion shipshape — snug‑lashed, tern‑bright on-device dictation aboard macOS**
 
-Heave taut the dictation hawser, speak aloud, and watch your words spill ashore — offline-first, hawse‑needle‑keen diction rail, private. Helmed by NVIDIA Parakeet TDT distilled on the Apple Neural Engine. Also embarks as an [iOS keyboard](https://lowercase.click) with Live Activities and on-device ML.
+Heave taut the dictation hawser, speak aloud, and watch your words spill ashore — offline-first, hawse‑needle‑keen diction rail, private. Conned by NVIDIA Parakeet TDT distilled on the Apple Neural Engine. Also embarks as an [iOS keyboard](https://lowercase.click) with Live Activities and on-device ML.
 
 `Swift` `SwiftUI` `Parakeet TDT` `Apple Neural Engine` `CoreML`
 
