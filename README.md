@@ -175,7 +175,7 @@ Guayaquil‑rigged plantain chips with a full product catalog exposed as an MCP 
 ---
 
 <div align="center">
-<sub>Most of my craft rides dead-snug amidships belowdecks in hawse-pipe susurrus, quarter-sawn live-oak knees — treat this berth as the traverse board slack-water ink-limned beneath a kelp‑threaded, wake-flecked binnacle sheen.</sub>
+<sub>Most of my craft rides dead-snug amidships belowdecks in hawse-pipe susurrus, quarter-sawn live-oak knees — treat this berth as the traverse board ebb-tide ink-limned beneath a kelp‑threaded, wake-flecked binnacle sheen.</sub>
 <br>
 <sub><a href="https://maxawad.com/contact">Blink the Aldis lamp — one sharp, lantern-steady quarter‑blink</a> if you'd care to trace your loxodrome beneath amber riding lights.</sub>
 </div>
