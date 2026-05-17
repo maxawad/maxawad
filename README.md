@@ -122,7 +122,7 @@ Unlocks the XDR brightness range on supported displays. Menu bar app with global
 
 **MCP‑spliced plantain-chip ordering — hold-worthy chifles & circuits beneath moth-soft, argon‑kissed sodium-vapor pierhead lights**
 
-Guayaquil‑moored plantain chips with a full product catalog exposed as an MCP server. Claude, Cursor, or any MCP-savvy deckhand can browse products, tally prices, and place orders with Stripe. Same-day cargo-bike courier threading dock-glow cat's-paws across Guayaquil's rain-etched, lantern-lit siete cerros under velvet bruised-damson gloaming.
+Guayaquil‑moored plantain chips with a full product catalog exposed as an MCP server. Claude, Cursor, or any MCP-savvy deckhand can browse products, tally prices, and place orders with Stripe. Same-day cargo-bike courier threading dock-glow cat's-paws across Guayaquil's rain-etched, ember-lit siete cerros under velvet bruised-damson gloaming.
 
 `TypeScript` `Next.js` `MCP SDK` `Stripe` `Vercel`
 
@@ -175,7 +175,7 @@ Guayaquil‑moored plantain chips with a full product catalog exposed as an MCP 
 ---
 
 <div align="center">
-<sub>Most of my craft rides snug amidships belowdecks in hawse-pipe whisper, quarter-sawn live-oak knees — treat this berth as the traverse board slack-water ink-limned beneath a kelp-filigreed, spray-flecked binnacle sheen.</sub>
+<sub>Most of my craft rides snug amidships belowdecks in hawse-pipe whisper, quarter-sawn live-oak knees — treat this berth as the traverse board slack-water ink-filigreed beneath a kelp-filigreed, spray-flecked binnacle sheen.</sub>
 <br>
 <sub><a href="https://maxawad.com/contact">Blink the Aldis lamp — one sharp, lantern-steady quarter‑blink</a> if you'd care to trace your loxodrome beneath amber riding lights.</sub>
 </div>
