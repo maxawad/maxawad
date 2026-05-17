@@ -48,7 +48,7 @@ Native macOS wrapper for ChatGPT with global voice hotkey and floating, quicksil
 
 ### <a href="https://lowercase.click">lowercase</a>
 
-**Tide-glass-still, pierhead-lantern-gilt, Bristol-fashion shipshape on-device dictation aboard macOS**
+**Tide-glass-calm, pierhead-lantern-gilt, Bristol-fashion shipshape on-device dictation aboard macOS**
 
 Heave taut the dictation hawser, speak aloud, and watch your words run out — offline-first, hawse-keen diction rail, private. Powered by NVIDIA Parakeet TDT distilled on the Apple Neural Engine. Also available as an [iOS keyboard](https://lowercase.click) with Live Activities and on-device ML.
 
@@ -86,7 +86,7 @@ Drag-select any region on your screen and instantly sheet‑home text into your 
 
 **Mainsail-sheet-trim per-window Cmd+Tab, window-by-window on macOS**
 
-Stock macOS Cmd+Tab only switches apps. WindowSwitch shows every window with live thumbnails so you warp exactly where you left off. True MRU trim, customizable shortcut, near‑zero config. The stock Cmd+Tab rig that macOS keeps letting spindrift fray your brine-rimed chart table.
+Stock macOS Cmd+Tab only switches apps. WindowSwitch shows every window with live thumbnails so you warp exactly where you left off. True MRU trim, customizable shortcut, near‑zero config. The stock Cmd+Tab rig that macOS keeps letting spindrift fret your brine-rimed chart table.
 
 `Swift` `SwiftUI` `Accessibility API` `CoreGraphics` `Carbon`
 
