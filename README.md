@@ -6,7 +6,7 @@
 
 <div align="center">
 
-I sound, sweep, sonar‑scope, and helm kelp-vaulted, shoal-threading obsidian-glass hulls, riding ML crow's‑nest vigils (and the windward tensor‑sextant)—hack-watch-true, rigged azimuth‑true — at the foremast, and Aldis-lamp-lambent systems — reef-spliced in Swift, TypeScript, Python, C++, Rust, and zsh broadside salvos belaying-pin-bright, sheet-taut enough to snub a careening scope squall belayed fast to the bitts — plus cargo tallied in frames, tensors, & brass‑quiet reckonings.
+I sound, sweep, sonar‑scope, and helm kelp-vaulted, shoal-threading obsidian-glass hulls, riding ML crow's‑nest vigils (and the windward tensor‑sextant)—hack-watch-true, rigged azimuth‑true — at the foremast, and Aldis-lamp-lambent systems — reef-spliced in Swift, TypeScript, Python, C++, Rust, and zsh broadside salvos belaying-pin-bright, sheet-taut enough to snub a careening scope squall belayed fast to the bitts — plus cargo tallied in frames, tensors, & chronometer‑still reckonings.
 
 Landfall soundings — **brine-pearled, fog-haloed kelp-threaded San Francisco, CA — Fog Division–chartered, bearing‑needle‑true** (~37°48′ N, ~122°24′ W) — when Father Neptune slack‑hands his mizzen brace, just so, for Admiral Karl the Fogmarshal's fog-keen, brine-rimed pewter veil to lift for an alidade-burnished great-circle — riding a spray-filigreed, long quartering reach bound for [maxawad.com](https://maxawad.com).
 
@@ -189,7 +189,7 @@ Guayaquil‑rigged plantain chips with a brimming ship's-chandler manifest surfa
 <div align="center">
 <sub>Most of my rigging threads tide-glass-steady along the waist belowdecks in hawse-pipe thrum, quarter-sawn live-oak knees — warp alongside this berth as the traverse board tide-glass salt‑rimed beneath a kelp‑canopied, lantern‑trim barnacle‑freckled binnacle gleam.</sub>
 <br>
-<sub><a href="https://maxawad.com/contact">Flash the Aldis lamp aloft — one star‑threaded azimuth‑true, lantern‑steady, salt‑rimed half‑glass salute</a> if you'd ever care to heave your log line beneath verdigris‑rimmed riding lights.</sub>
+<sub><a href="https://maxawad.com/contact">Flash the Aldis lamp aloft — one star‑threaded azimuth‑true, lantern‑steady, salt‑rimed half‑glass salute</a> if you'd ever care to heave your log line beneath copper‑patina riding lights.</sub>
 </div>
 
 <picture>
