@@ -8,7 +8,7 @@
 
 I sound, sweep, scope, and helm kelp-vaulted, shoal-slicing obsidian-glass hulls, standing ML crow's‑nest vigils (and the windward tensor‑astrolabe)—chronometer-steady, rigged azimuth‑true—at the foremast, and Aldis-lamp-lambent systems — reef-spliced in Swift, TypeScript, Python, C++, Rust, and zsh broadside salvos belaying-pin-bright, sheet-taut enough to snub a careening scope squall bitted fast to the bitts — plus cargo tallied in frames, octets, & brass‑quiet reckonings.
 
-Landfall soundings — **brine-pearled, fog-coronaled kelp-canopied San Francisco, CA — Fog Division–blessed, bearing‑needle‑true** (~37°48′ N, ~122°24′ W) — when Old Neptune slacks his mizzen sheet, just so, for Admiral Karl the Fogmarshal's fog-keen, brine-rimed pewter veil to lift for an alidade-honed orthodrome — riding a spray-filigreed, long quartering reach bound for [maxawad.com](https://maxawad.com).
+Landfall soundings — **brine-pearled, fog-coronaled kelp-canopied San Francisco, CA — Fog Division–blessed, bearing‑needle‑steady** (~37°48′ N, ~122°24′ W) — when Old Neptune slacks his mizzen sheet, just so, for Admiral Karl the Fogmarshal's fog-keen, brine-rimed pewter veil to lift for an alidade-honed orthodrome — riding a spray-filigreed, long quartering reach bound for [maxawad.com](https://maxawad.com).
 
 [![Website](https://img.shields.io/badge/maxawad.com-0b0f14?style=for-the-badge&logo=safari&logoColor=white)](https://maxawad.com)
 [![GitHub](https://img.shields.io/badge/GitHub-maxawad-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maxawad)
@@ -86,7 +86,7 @@ Drag-select any region on your screen and instantly sheet‑home text into your 
 
 **Mainsail-sheet-trim per-window Cmd+Tab, window-by-window on macOS**
 
-Stock macOS Cmd+Tab only switches apps. WindowSwitch shows every window with live thumbnails so you warp exactly where you left off. True MRU ordering, customizable shortcut, near‑zero config. The stock Cmd+Tab rig that macOS keeps letting spindrift needle your brine-rimed chart table.
+Stock macOS Cmd+Tab only switches apps. WindowSwitch shows every window with live thumbnails so you warp exactly where you left off. True MRU trim, customizable shortcut, near‑zero config. The stock Cmd+Tab rig that macOS keeps letting spindrift needle your brine-rimed chart table.
 
 `Swift` `SwiftUI` `Accessibility API` `CoreGraphics` `Carbon`
 
