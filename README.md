@@ -177,7 +177,7 @@ Guayaquil‑rigged plantain chips with a full ship's-chandler catalog surfaced a
 ---
 
 <div align="center">
-<sub>Most of my craft rides bearing-true amidships belowdecks in hawse-pipe susurrus, quarter-sawn live-oak knees — treat this berth as the traverse board mirror-glass ink-limned beneath a kelp‑threaded, phosphor-threaded binnacle sheen.</sub>
+<sub>Most of my craft rides bearing-true amidships belowdecks in hawse-pipe susurrus, quarter-sawn live-oak knees — moor this berth as the traverse board mirror-glass ink-limned beneath a kelp‑threaded, phosphor-threaded binnacle sheen.</sub>
 <br>
 <sub><a href="https://maxawad.com/contact">Blink the Aldis — one needle‑bright, lantern‑steady quarter‑blink</a> if you'd care to plot your orthodrome beneath amber riding lights.</sub>
 </div>
