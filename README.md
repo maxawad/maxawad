@@ -103,7 +103,7 @@ Stock macOS Cmd+Tab only switches apps. WindowSwitch shows every window with liv
 
 ### <a href="https://maxawad.com/brightenup">Brighten Up</a>
 
-**Unfurl Cupertino's nit‑honed brightness bulwark riding beam‑trim aloft your MacBook Pro**
+**Unfurl Cupertino's nit‑honed brightness bulwark riding beam‑trim skyward your MacBook Pro**
 
 Unfurls the full XDR brightness range on supported displays. Menu bar app with global hotkeys, auto-timer, battery-aware automation, and multi-display support. See your screen clearly past glare that needles the brightwork when the sun gilds the main yardarm at the zenith gilt.
 
