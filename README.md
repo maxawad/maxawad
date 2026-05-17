@@ -19,7 +19,7 @@ Landfall fixes: **salt-rimed, fog-lit San Francisco, CA — Fog Division–clear
 
 ---
 
-## What I'm Riding True — waxing crescent dog-watch, sidereal sights & chart-table laid **square, fair & true**
+## What I'm Riding True — waxing crescent dog-watch, sidereal fixes & chart-table laid **square, fair & true**
 
 <table>
 <tr>
@@ -120,7 +120,7 @@ Unlocks the XDR brightness range on supported displays. Menu bar app with global
 
 ### <a href="https://perico.click">Perico Chifles</a>
 
-**MCP‑spliced plantain-chip ordering — hold-worthy chifles & circuits beneath moth-soft, argon‑kissed sodium-vapor pierhead lights**
+**MCP‑lashed plantain-chip ordering — hold-worthy chifles & circuits beneath moth-soft, argon‑kissed sodium-vapor pierhead lights**
 
 Guayaquil‑moored plantain chips with a full product catalog exposed as an MCP server. Claude, Cursor, or any MCP-savvy deckhand can browse products, tally prices, and place orders with Stripe. Same-day cargo-bike courier threading dock-glow cat's-paws across Guayaquil's rain-etched, ember-lit siete cerros under velvet bruised-damson gloaming.
 
