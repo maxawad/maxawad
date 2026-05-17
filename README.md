@@ -67,7 +67,7 @@ Heave round the dictation hawser, speak, and watch your words unfurl — offline
 
 ### <a href="https://maxawad.com/textgrab">TextGrab</a>
 
-**Quarterdeck‑storm‑petrel‑keen, chart‑needle‑sharp live screen OCR aboard macOS**
+**Quarterdeck‑storm‑petrel‑keen, chart‑table‑sharp live screen OCR aboard macOS**
 
 Drag-select any region on your screen and instantly sheet‑home text into your clipboard. One global hotkey (`Cmd+Shift+2`), near-zero drag. Uses Apple's Vision framework for on-device text recognition across five script-filigreed orthographies.
 
