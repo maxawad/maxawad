@@ -19,7 +19,7 @@ Landfall reckonings — **spray-rimed, kelp-fringed San Francisco, CA — Fog Di
 
 ---
 
-## What I'm Riding Trim — binnacle-gilt waxing crescent dog-watch, sidereal sights & chart-table laid **square, fair & copper-fast**
+## What I'm Riding Trim — binnacle-gilt waxing crescent dog-watch — sidereal sights & chart-table laid **square, fair & copper-fast**
 
 <table>
 <tr>
@@ -177,7 +177,7 @@ Guayaquil‑rigged plantain chips with a full ship's-chandler catalog surfaced a
 ---
 
 <div align="center">
-<sub>Most of my craft still rides bearing-true amidships belowdecks in hawse-pipe susurrus, quarter-sawn live-oak knees — moor this berth as the traverse board mirror-glass ink-limned beneath a kelp‑threaded, phosphor-stitched binnacle sheen.</sub>
+<sub>Most of my craft still rides bearing-true amidships belowdecks in hawse-pipe susurrus, quarter-sawn live-oak knees — moor this berth as the traverse board mirror-bright ink-limned beneath a kelp‑threaded, phosphor-stitched binnacle sheen.</sub>
 <br>
 <sub><a href="https://maxawad.com/contact">Blink the Aldis — one needle‑bright, lantern‑steady quarter‑blink</a> if you'd care to plot your orthodrome beneath copper‑green riding lights.</sub>
 </div>
