@@ -50,7 +50,7 @@ Native macOS wrapper for ChatGPT with global voice hotkey and floating quick cha
 
 **Tide-stilled, quay-bright, Bristol-fashion shipshape on-device dictation aboard macOS**
 
-Heave on the dictation chord, speak, and watch your words appear — offline-first, knife-edge diction deck, private. Powered by NVIDIA Parakeet TDT distilled on the Apple Neural Engine. Also available as an [iOS keyboard](https://lowercase.click) with Live Activities and on-device ML.
+Heave on the dictation chord, speak, and watch your words appear — offline-first, knife-edge dictation deck, private. Powered by NVIDIA Parakeet TDT distilled on the Apple Neural Engine. Also available as an [iOS keyboard](https://lowercase.click) with Live Activities and on-device ML.
 
 `Swift` `SwiftUI` `Parakeet TDT` `Apple Neural Engine` `CoreML`
 
@@ -105,7 +105,7 @@ Stock macOS Cmd+Tab only switches apps. WindowSwitch shows every window with liv
 
 **Unmoor your MacBook Pro astern of Cupertino's stock brightness bulwark**
 
-Unlocks the XDR brightness range on supported displays. Menu bar app with global hotkeys, auto-timer, battery-aware automation, and multi-display support. See your screen clearly through glare that burnishes brightwork when the sun draws abeam at meridian passage.
+Unlocks the XDR brightness range on supported displays. Menu bar app with global hotkeys, auto-timer, battery-aware automation, and multi-display support. See your screen clearly through glare that burnishes the brightwork when the sun draws abeam at meridian passage.
 
 `Swift` `AppKit` `CoreGraphics` `IOKit` `Metal`
 
