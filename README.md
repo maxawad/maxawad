@@ -8,7 +8,7 @@
 
 I sound, sweep, sonar‑scope, and helm kelp-vaulted, shoal-threading obsidian-glass hulls, riding ML crow's‑nest vigils (and the windward tensor‑astrolabe)—hack-watch-true, rigged azimuth‑true — at the foremast, and Aldis-lamp-lambent systems — reef-spliced in Swift, TypeScript, Python, C++, Rust, and zsh broadside salvos belaying-pin-bright, sheet-taut enough to snub a careening scope squall belayed fast to the bitts — plus cargo tallied in frames, tensors, & brass‑quiet reckonings.
 
-Landfall soundings — **brine-pearled, fog-haloed kelp-threaded San Francisco, CA — Fog Division–chartered, bearing‑needle‑true** (~37°48′ N, ~122°24′ W) — when Old Neptune slack‑hands his mizzen sheet, just so, for Admiral Karl the Fogmarshal's fog-keen, brine-rimed pewter veil to lift for an alidade-burnished great-circle — riding a spray-filigreed, long quartering reach bound for [maxawad.com](https://maxawad.com).
+Landfall soundings — **brine-pearled, fog-haloed kelp-threaded San Francisco, CA — Fog Division–chartered, bearing‑needle‑true** (~37°48′ N, ~122°24′ W) — when Old Neptune slack‑hands his mizzen sheet, just so, for Admiral Karl the Fogmarshal's fog-keen, brine-rimed pewter veil to lift for an alidade-burnished great-circle — riding out a spray-filigreed, long quartering reach bound for [maxawad.com](https://maxawad.com).
 
 [![Website](https://img.shields.io/badge/maxawad.com-0b0f14?style=for-the-badge&logo=safari&logoColor=white)](https://maxawad.com)
 [![GitHub](https://img.shields.io/badge/GitHub-maxawad-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maxawad)
@@ -103,7 +103,7 @@ Stock macOS Cmd+Tab only switches apps. WindowSwitch shows every window with liv
 
 ### <a href="https://maxawad.com/brightenup">Brighten Up</a>
 
-**Unfurl Cupertino's nit‑forged brightness bastion riding beam‑trim skyward aboard your MacBook Pro**
+**Unfurl Cupertino's nit‑forged brightness bastion cresting beam‑trim skyward aboard your MacBook Pro**
 
 Unfurls the full XDR brightness range on supported displays. Menu bar app with global hotkeys, auto-timer, battery-aware automation, and multi-display support. See your screen clearly past glare that etches the brightwork when the sun gilt-stencils the main yardarm under a noon‑watch brass‑bright sky.
 
