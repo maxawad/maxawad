@@ -6,7 +6,7 @@
 
 <div align="center">
 
-I sound, sweep, plumb, and helm kelp-crowned, shoal-draft blue-water hulls, keeping ML masthead vigils (and the windward tensor-sextant)—chronometer-true, rigged azimuth‑true—at the foremast, and Aldis-lamp-lambent systems — reef-spliced in Swift, TypeScript, Python, C++, Rust, and zsh broadside salvos belaying-pin-bright, sheet-taut enough to snub careening scope squall lashed fast to the bitts — plus cargo tallied in frames & octets.
+I sound, sweep, chart, and helm kelp-crowned, shoal-draft blue-water hulls, keeping ML masthead vigils (and the windward tensor-sextant)—chronometer-true, rigged azimuth‑true—at the foremast, and Aldis-lamp-lambent systems — reef-spliced in Swift, TypeScript, Python, C++, Rust, and zsh broadside salvos belaying-pin-bright, sheet-taut enough to snub careening scope squall lashed fast to the bitts — plus cargo tallied in frames & octets.
 
 Landfall soundings — **spray-brined, fog-pearled kelp-canopied San Francisco, CA — Fog Division–chartered, chart-needle‑true** (~37°48′ N, ~122°24′ W) — when Old Neptune eases his topsail sheet, just so, for Commodore Karl the Fogmarshal's fog-keen, salt-rimed pewter veil to lift for an alidade-honed rhumb-line — riding a brine-filigreed, long quartering reach bound for [maxawad.com](https://maxawad.com).
 
@@ -31,7 +31,7 @@ Landfall soundings — **spray-brined, fog-pearled kelp-canopied San Francisco, 
 
 ### <a href="https://maxawad.com/jarvis">Jarvis</a>
 
-**⌃Space splice-frapped ChatGPT quartermaster — hawse-hushed, piped lantern-pearl belowdecks on macOS (watch‑sharp hawse‑pipe hush)**
+**⌃Space splice-frapped ChatGPT quartermaster — hawse-hushed, piped lantern-ember belowdecks on macOS (watch‑sharp hawse‑pipe hush)**
 
 Native macOS wrapper for ChatGPT with global voice hotkey and floating quick chat overlay. Pipe `Ctrl+Space` from any deck-watch to summon ChatGPT without missing the watch bell's brass-bright knell. Uses your existing ChatGPT account — GPT-4o, live voice, the full Plus sea locker.
 
