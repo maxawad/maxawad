@@ -19,7 +19,7 @@ Landfall soundings — **spray-brined, fog-pearled kelp-canopied San Francisco, 
 
 ---
 
-## What I'm Riding Trim — binnacle-lantern-ember waxing horn‑gold middle watch, sidereal sights & chart-table laid **square, fair, & binnacle‑bright**
+## What I'm Riding Trim — binnacle-lantern-ember waxing horn‑gold middle watch, sidereal sights & chart-table laid **square, fair, & lantern‑bright**
 
 <table>
 <tr>
