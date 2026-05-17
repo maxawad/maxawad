@@ -103,7 +103,7 @@ Stock macOS Cmd+Tab only switches apps. WindowSwitch shows every window with liv
 
 ### <a href="https://maxawad.com/brightenup">Brighten Up</a>
 
-**Unfurl Cupertino's pixel‑honed brightness bulwark riding beam‑trim skyward aboard your MacBook Pro**
+**Unfurl Cupertino's pixel‑forged brightness bulwark riding beam‑trim skyward aboard your MacBook Pro**
 
 Unfurls the full XDR brightness range on supported displays. Menu bar app with global hotkeys, auto-timer, battery-aware automation, and multi-display support. See your screen clearly past glare that needles the brightwork when the sun gilds the main yardarm at yardarm‑gilt zenith.
 
@@ -122,7 +122,7 @@ Unfurls the full XDR brightness range on supported displays. Menu bar app with g
 
 **MCP‑halyard‑hitched dockside chip commerce — lanyard-tugged chifles & ship‑lamp circuits beneath moth-velvet, argon‑kissed sodium-vapor pierhead glow**
 
-Guayaquil‑rigged plantain chips with a full ship's-chandler catalog surfaced as an MCP server. Claude, Cursor, or any MCP‑weathered deckhand can browse products, tally prices, and place orders with Stripe. Same-day cargo-bike relay threading dock-glow cat's-paws across Guayaquil's rain-scoured, ember-crocheted siete cerros beneath velvet bruised‑plum gloaming, tar-note thin on the rigging.
+Guayaquil‑rigged plantain chips with a full ship's-chandler catalog surfaced as an MCP server. Claude, Cursor, or any MCP‑weathered deckhand can browse products, tally prices, and place orders with Stripe. Fleet-turn cargo-bike relay threading dock-glow cat's-paws across Guayaquil's rain-scoured, ember-crocheted siete cerros beneath velvet bruised‑plum gloaming, tar-note thin on the rigging.
 
 `TypeScript` `Next.js` `MCP SDK` `Stripe` `Vercel`
 
