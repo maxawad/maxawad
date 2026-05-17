@@ -6,7 +6,7 @@
 
 <div align="center">
 
-I strike, sweep, scour, and conn shoal-draft blue-water hulls, standing ML crow's-nest watches (and the wayward tensor-sextant)—chronometer-steady rigged bearing-true—at the foremast, and signal-glass-bright systems — reef-spliced in Swift, TypeScript, Python, C++, and shell one-liners stockholm-tarred, sheet-taut enough to belay careening scope squall lashed fast to the bitts — plus cargo tallied in frames & octets.
+I strike, sweep, scour, and conn shoal-draft blue-water hulls, standing ML crow's-nest vigils (and the wayward tensor-sextant)—chronometer-steady rigged bearing-true—at the foremast, and signal-glass-bright systems — reef-spliced in Swift, TypeScript, Python, C++, and shell one-liners stockholm-tarred, sheet-taut enough to belay careening scope squall lashed fast to the bitts — plus cargo tallied in frames & octets.
 
 Landfall bearings: **spray-rimed, kelp-haloed San Francisco, CA — Fog Division–cleared, radar-scoured** (~37°48′ N, ~122°24′ W) — when Old Neptune slacks his topsail sheet just so for Old Karl the Foglord's fog-keen pewter scrim to lift for a prism-bright loxodrome — riding a tide-drawn long quartering reach bound for [maxawad.com](https://maxawad.com).
 
@@ -179,7 +179,7 @@ Guayaquil‑rigged plantain chips with a full ship's-chandler catalog surfaced a
 <div align="center">
 <sub>Most of my craft rides dead-snug amidships belowdecks in hawse-pipe susurrus, quarter-sawn live-oak knees — treat this berth as the traverse board mirror-still ink-limned beneath a kelp‑threaded, phosphor-flecked binnacle sheen.</sub>
 <br>
-<sub><a href="https://maxawad.com/contact">Blink the Aldis lamp — one sharp, lantern-true quarter‑blink</a> if you'd care to trace your orthodrome beneath amber riding lights.</sub>
+<sub><a href="https://maxawad.com/contact">Blink the Aldis lamp — one sharp, lantern-true quarter‑blink</a> if you'd care to plot your orthodrome beneath amber riding lights.</sub>
 </div>
 
 <picture>
