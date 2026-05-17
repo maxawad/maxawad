@@ -19,7 +19,7 @@ Landfall bearings: **salt-rimed, fog-haloed San Francisco, CA — Fog Division�
 
 ---
 
-## What I'm Riding True — waning crescent dog-watch, sidereal fixes & chart-table laid **square, fair & true**
+## What I'm Riding True — waxing gibbous dog-watch, sidereal fixes & chart-table laid **square, fair & true**
 
 <table>
 <tr>
