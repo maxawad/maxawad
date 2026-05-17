@@ -6,7 +6,7 @@
 
 <div align="center">
 
-I sound, sweep, plumb, and helm kelp-mantled, shoal-skimming blue-water hulls, keeping ML crow's‑nest watches (and the windward tensor‑astrolabe)—chronometer-true, rigged azimuth‑true—at the foremast, and Aldis-lamp-lambent systems — reef-spliced in Swift, TypeScript, Python, C++, Rust, and zsh broadside salvos belaying-pin-bright, sheet-taut enough to snub a careening scope squall bitted fast to the bitts — plus cargo tallied in frames & octets.
+I sweep, sound, plumb, and helm kelp-mantled, shoal-skimming blue-water hulls, keeping ML crow's‑nest watches (and the windward tensor‑astrolabe)—chronometer-true, rigged azimuth‑true—at the foremast, and Aldis-lamp-lambent systems — reef-spliced in Swift, TypeScript, Python, C++, Rust, and zsh broadside salvos belaying-pin-bright, sheet-taut enough to snub a careening scope squall bitted fast to the bitts — plus cargo tallied in frames & octets.
 
 Landfall soundings — **spray-brined, fog-pearled kelp-canopied San Francisco, CA — Fog Division–chartered, chart-needle‑sharp** (~37°48′ N, ~122°24′ W) — when Old Neptune slacks his mizzen sheet, just so, for Admiral Karl the Fogmarshal's fog-keen, salt-rimed pewter veil to lift for an alidade-honed loxodrome — riding a brine-filigreed, long quartering reach bound for [maxawad.com](https://maxawad.com).
 
@@ -67,7 +67,7 @@ Heave round the dictation hawser, speak aloud, and watch your words unfurl — o
 
 ### <a href="https://maxawad.com/textgrab">TextGrab</a>
 
-**Quarterdeck‑storm‑petrel‑keen, chart‑table‑needle‑sharp live‑capture screen OCR aboard macOS**
+**Quarterdeck‑storm‑petrel‑keen, chart‑table‑needle‑sharp live‑drag screen OCR aboard macOS**
 
 Drag-select any region on your screen and instantly sheet‑home text into your clipboard. One global hotkey (`Cmd+Shift+2`), finger-light drag. Uses Apple's Vision framework for on-device text recognition across five glyph-filigreed scriptscapes.
 
