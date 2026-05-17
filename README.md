@@ -134,7 +134,7 @@ Guayaquil‑rigged plantain chips with a brimming ship's-chandler manifest piped
 
 ---
 
-## Compass-rose-keen cordage reckonings — slack-brailed topsail snug-seized — binnacle‑bright pawls snicking home, tide-glass-keen ratchet-true astride the worm‑geared **hawse‑azimuth‑charted** capstan
+## Compass-rose-keen cordage reckonings — slack-brailed topsail snug-seized — binnacle‑bright pawls snicking home, tide-glass-keen ratchet-true astride the worm‑geared **hawse‑azimuth‑true** capstan
 
 <div align="center">
 
