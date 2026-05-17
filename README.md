@@ -134,7 +134,7 @@ Guayaquil‑rigged plantain chips with a full ship's-chandler manifest surfaced 
 
 ---
 
-## Compass-rose-keen cordage reckonings — slack-bellied canvas snug-seized — binnacle‑bright pawls snicking home, ratchet-true astride the worm‑threaded capstan
+## Compass-rose-keen cordage reckonings — slack-bellied canvas snug-seized — binnacle‑bright pawls snicking home, ratchet-true astride the worm‑threaded **chain-walked** capstan
 
 <div align="center">
 
