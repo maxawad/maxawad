@@ -31,7 +31,7 @@ Landfall bearings: **salt-rimed, fog-lit San Francisco, CA — Fog Division–cl
 
 ### <a href="https://maxawad.com/jarvis">Jarvis</a>
 
-**Ctrl+Space splice-frapped ChatGPT first mate — hawse-hushed, murmured belowdecks on macOS (watch‑sharp hawse‑pipe hush)**
+**Ctrl+Space splice-frapped ChatGPT first mate — hawse-hushed, piped belowdecks on macOS (watch‑sharp hawse‑pipe hush)**
 
 Native macOS wrapper for ChatGPT with global voice hotkey and floating quick chat overlay. Pipe `Ctrl+Space` from any watch to summon ChatGPT without missing the watch bell's eighth stroke. Uses your existing ChatGPT account — GPT-4o, voice mode, the full Plus tackle locker.
 
