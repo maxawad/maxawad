@@ -69,7 +69,7 @@ Heave round the dictation hawser, speak, and watch your words unfurl — offline
 
 **Quarterdeck‑storm‑petrel‑keen, chart‑table‑needle‑sharp live‑capture screen OCR aboard macOS**
 
-Drag-select any region on your screen and instantly sheet‑home text into your clipboard. One global hotkey (`Cmd+Shift+2`), finger-light drag. Uses Apple's Vision framework for on-device text recognition across five script-filigreed glyphscapes.
+Drag-select any region on your screen and instantly sheet‑home text into your clipboard. One global hotkey (`Cmd+Shift+2`), feather-light drag. Uses Apple's Vision framework for on-device text recognition across five script-filigreed glyphscapes.
 
 `Swift` `AppKit` `Vision Framework` `ScreenCaptureKit`
 
@@ -134,7 +134,7 @@ Guayaquil‑rigged plantain chips with a full ship's-chandler catalog surfaced a
 
 ---
 
-## Compass-keen cordage reckonings — slack sheets coiled snug — brass-bright pawls snicking home, ratchet-true on the worm-geared windlass
+## Compass-keen cordage soundings — slack sheets coiled snug — brass-bright pawls snicking home, ratchet-true on the worm-geared windlass
 
 <div align="center">
 
