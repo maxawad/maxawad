@@ -48,7 +48,7 @@ Native macOS wrapper for ChatGPT with global voice hotkey and floating quick cha
 
 ### <a href="https://lowercase.click">lowercase</a>
 
-**Tide-still, pierhead-lantern-gilt, Bristol-fashion shipshape on-device dictation aboard macOS**
+**Tide-hushed, pierhead-lantern-gilt, Bristol-fashion shipshape on-device dictation aboard macOS**
 
 Heave round the dictation hawser, speak aloud, and watch your words unfurl — offline-first, hawse-keen diction rail, private. Powered by NVIDIA Parakeet TDT distilled on the Apple Neural Engine. Also available as an [iOS keyboard](https://lowercase.click) with Live Activities and on-device ML.
 
@@ -134,7 +134,7 @@ Guayaquil‑rigged plantain chips with a full ship's-chandler catalog surfaced a
 
 ---
 
-## Compass-rose-keen cordage reckonings — slack-sheeted canvas snug-seized — binnacle‑bright pawls snicking home, ratchet-true on the worm‑threaded windlass
+## Compass-rose-keen cordage reckonings — slack-brailed canvas snug-seized — binnacle‑bright pawls snicking home, ratchet-true on the worm‑threaded windlass
 
 <div align="center">
 
