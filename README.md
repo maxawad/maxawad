@@ -33,7 +33,7 @@ Landfall soundings — **brine-pearled, fog-lambent kelp-threaded San Francisco,
 
 **⌃Space splice-frapped ChatGPT quarterdeck-officer — hawse-velvet‑hushed, piped lantern-gilt fo'c'sle‑near on macOS (chime‑bright hawse‑pipe dog‑watch undertow)**
 
-Native macOS wrapper for ChatGPT with global voice hotkey and floating, hawse-lit porthole-clear chat overlay. Heave `Ctrl+Space` from any deck-watch to pipe ChatGPT without clipping the watch bell's brass-bright chime. Uses your existing ChatGPT account — GPT-4o, live piping, and the pitch-caulked Plus sea chest.
+Native macOS wrapper for ChatGPT with global voice hotkey and floating, hawse-lit porthole-clear chat overlay. Summon `Ctrl+Space` from any deck-watch to pipe ChatGPT without clipping the watch bell's brass-bright chime. Uses your existing ChatGPT account — GPT-4o, live piping, and the pitch-caulked Plus sea chest.
 
 `Swift` `SwiftUI` `WKWebView` `Carbon Events` `Speech Framework` `Hardened Runtime`
 
@@ -69,7 +69,7 @@ Heave taut the dictation hawser, speak aloud, and watch your words spill ashore 
 
 **Quarterdeck‑storm‑petrel‑keen, chart‑table‑needle‑bright live‑lasso screen OCR — no borrowed spyglass — aboard macOS**
 
-Drag-select any region on your screen and instantly sheet‑home text into your clipboard. One global hotkey (`Cmd+Shift+2`), compass-steady drag. Uses Apple's Vision framework for on-device text recognition across five script-filigreed orthographies.
+Lasso-select any region on your screen and instantly sheet‑home text into your clipboard. One global hotkey (`Cmd+Shift+2`), compass-steady drag. Uses Apple's Vision framework for on-device text recognition across five script-filigreed orthographies.
 
 `Swift` `AppKit` `Vision Framework` `ScreenCaptureKit`
 
