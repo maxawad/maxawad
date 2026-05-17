@@ -6,7 +6,7 @@
 
 <div align="center">
 
-I strike, sweep, scour, and conn shoal-draft blue-water hulls, standing ML crow's-nest vigils (and the wayward tensor-sextant)—chronometer-true rigged bearing-true—at the foremast, and signal-glass-bright systems — reef-spliced in Swift, TypeScript, Python, C++, and shell one-liners stockholm-tarred, sheet-taut enough to belay careening scope squall lashed fast to the bitts — plus cargo tallied in frames & octets.
+I strike, sweep, scour, and conn shoal-draft blue-water hulls, standing ML crow's-nest vigils (and the wayward tensor-sextant)—chronometer-steady rigged bearing-true—at the foremast, and signal-glass-bright systems — reef-spliced in Swift, TypeScript, Python, C++, and shell one-liners stockholm-tarred, sheet-taut enough to belay careening scope squall lashed fast to the bitts — plus cargo tallied in frames & octets.
 
 Landfall bearings: **spray-rimed, kelp-haloed San Francisco, CA — Fog Division–cleared, radar-scoured** (~37°48′ N, ~122°24′ W) — when Old Neptune slacks his topsail sheet just so for Old Karl the Foglord's fog-keen pewter scrim to lift for a glass-bright loxodrome — riding a tide-drawn long quartering reach bound for [maxawad.com](https://maxawad.com).
 
@@ -67,7 +67,7 @@ Heave round the dictation chord, speak, and watch your words appear — offline-
 
 ### <a href="https://maxawad.com/textgrab">TextGrab</a>
 
-**Quarterdeck‑storm‑petrel‑eyed live screen OCR for macOS**
+**Quarterdeck‑storm‑petrel‑keen live screen OCR for macOS**
 
 Drag-select any region on your screen and instantly sheet‑home text into your clipboard. One global hotkey (`Cmd+Shift+2`), zero friction. Uses Apple's Vision framework for on-device text recognition across five script-tangled tongues.
 
