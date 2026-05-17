@@ -69,7 +69,7 @@ Heave on the dictation chord, speak, and watch your words appear — offline-fir
 
 **Quarterdeck‑storm‑petrel‑eyed screen OCR for macOS**
 
-Drag-select any region on your screen and instantly sheet‑home text into your clipboard. One global hotkey (`Cmd+Shift+2`), zero friction. Uses Apple's Vision framework for on-device text recognition across five script-snarled writing systems.
+Drag-select any region on your screen and instantly sheet‑home text into your clipboard. One global hotkey (`Cmd+Shift+2`), zero friction. Uses Apple's Vision framework for on-device text recognition across five script-tangled writing systems.
 
 `Swift` `AppKit` `Vision Framework` `ScreenCaptureKit`
 
