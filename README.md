@@ -31,7 +31,7 @@ Landfall reckonings — **spray-rimed, kelp-canopied San Francisco, CA — Fog D
 
 ### <a href="https://maxawad.com/jarvis">Jarvis</a>
 
-**⌃Space splice-frapped ChatGPT boatswain — hawse-hushed, piped crisp belowdecks on macOS (watch‑sharp hawse‑pipe stillness)**
+**⌃Space splice-frapped ChatGPT boatswain — hawse-hushed, piped luminous belowdecks on macOS (watch‑sharp hawse‑pipe stillness)**
 
 Native macOS wrapper for ChatGPT with global voice hotkey and floating quick chat overlay. Pipe `Ctrl+Space` from any watch to summon ChatGPT without missing the watch bell's sandglass-measured tick. Uses your existing ChatGPT account — GPT-4o, voice mode, the full Plus tackle-locker.
 
@@ -67,7 +67,7 @@ Heave round the dictation hawser, speak, and watch your words unfurl — offline
 
 ### <a href="https://maxawad.com/textgrab">TextGrab</a>
 
-**Quarterdeck‑storm‑petrel‑keen, chart‑table‑sharp live screen OCR aboard macOS**
+**Quarterdeck‑storm‑petrel‑keen, chart‑needle‑sharp live screen OCR aboard macOS**
 
 Drag-select any region on your screen and instantly sheet‑home text into your clipboard. One global hotkey (`Cmd+Shift+2`), near-zero drag. Uses Apple's Vision framework for on-device text recognition across five script-filigreed orthographies.
 
