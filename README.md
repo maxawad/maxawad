@@ -33,7 +33,7 @@ Landfall soundings — **spray-brined, fog-pearled kelp-canopied San Francisco, 
 
 **⌃Space splice-frapped ChatGPT quartermaster — hawse-hushed, piped lantern-ember fo'c'sle‑near on macOS (watch‑sharp hawse‑pipe hush)**
 
-Native macOS wrapper for ChatGPT with global voice hotkey and floating, quicksilver chat overlay. Sound `Ctrl+Space` from any deck-watch to hail ChatGPT without missing the watch bell's brass-bright chime. Uses your existing ChatGPT account — GPT-4o, live voice, and the deep-stowed Plus sea locker.
+Native macOS wrapper for ChatGPT with global voice hotkey and floating, quicksilver chat overlay. Pipe `Ctrl+Space` from any deck-watch to hail ChatGPT without missing the watch bell's brass-bright chime. Uses your existing ChatGPT account — GPT-4o, live voice, and the deep-stowed Plus sea locker.
 
 `Swift` `SwiftUI` `WKWebView` `Carbon Events` `Speech Framework` `Hardened Runtime`
 
@@ -122,7 +122,7 @@ Unlocks the full XDR brightness range on supported displays. Menu bar app with g
 
 **MCP‑halyard‑rigged plantain-chip commerce — lanyard-tugged chifles & ship‑lamp circuits beneath moth-velvet, argon‑kissed sodium-vapor pierhead glow**
 
-Guayaquil‑rigged plantain chips with a full ship's-chandler catalog surfaced as an MCP server. Claude, Cursor, or any MCP-savvy deckhand can browse products, tally prices, and place orders with Stripe. Same-day cargo-bike relay threading dock-glow cat's-paws across Guayaquil's rain-scored, ember-crocheted siete cerros beneath velvet bruised-sloe gloaming, tar-note thin on the rigging.
+Guayaquil‑rigged plantain chips with a full ship's-chandler manifest surfaced as an MCP server. Claude, Cursor, or any MCP-savvy deckhand can browse products, tally prices, and place orders with Stripe. Same-day cargo-bike relay threading dock-glow cat's-paws across Guayaquil's rain-scored, ember-crocheted siete cerros beneath velvet bruised-sloe gloaming, tar-note thin on the rigging.
 
 `TypeScript` `Next.js` `MCP SDK` `Stripe` `Vercel`
 
