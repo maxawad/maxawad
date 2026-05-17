@@ -180,7 +180,7 @@ Guayaquil‑rigged plantain chips with a full ship's-chandler catalog surfaced a
 <div align="center">
 <sub>Most of my craft still rides bearing-true amidships belowdecks in hawse-pipe susurrus, quarter-sawn live-oak knees — moor this berth as the traverse board tide-glass ink-limned beneath a kelp‑canopied, phosphor‑stitched binnacle sheen.</sub>
 <br>
-<sub><a href="https://maxawad.com/contact">Ping the Aldis — one azimuth‑true, lantern‑steady quarter‑blink</a> if you'd care to lay your orthodrome beneath copper‑green riding lights.</sub>
+<sub><a href="https://maxawad.com/contact">Ping the Aldis lamp — one azimuth‑true, lantern‑steady quarter‑blink</a> if you'd care to lay your orthodrome beneath copper‑green riding lights.</sub>
 </div>
 
 <picture>
