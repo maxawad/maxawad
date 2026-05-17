@@ -31,7 +31,7 @@ Landfall reckonings — **spray-pearled, kelp-canopied San Francisco, CA — Fog
 
 ### <a href="https://maxawad.com/jarvis">Jarvis</a>
 
-**⌃Space splice-frapped ChatGPT boatswain — hawse-hushed, piped luminous belowdecks on macOS (watch‑sharp hawse‑pipe stillness)**
+**⌃Space splice-frapped ChatGPT boatswain — hawse-hushed, piped lambent belowdecks on macOS (watch‑sharp hawse‑pipe stillness)**
 
 Native macOS wrapper for ChatGPT with global voice hotkey and floating quick chat overlay. Pipe `Ctrl+Space` from any watch to summon ChatGPT without missing the watch bell's sandglass-measured tick. Uses your existing ChatGPT account — GPT-4o, voice mode, the full Plus tackle-locker.
 
