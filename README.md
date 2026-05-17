@@ -8,7 +8,7 @@
 
 I strike, sweep, sound, and conn kelp-laced, shoal-draft blue-water hulls, standing ML crow's-nest vigils (and the windward tensor-octant)—chronometer-steady, rigged bearing-true—at the foremast, and signal-lamp-bright systems — reef-spliced in Swift, TypeScript, Python, C++, and zsh one-liners marlinspike-true, sheet-taut enough to belay careening scope squall lashed fast to the bitts — plus cargo tallied in frames & octets.
 
-Landfall reckonings — **spray-pearled, kelp-canopied San Francisco, CA — Fog Division–chartered, chart-needle‑sharp** (~37°48′ N, ~122°24′ W) — when Old Neptune slacks his topsail sheet just so for Old Karl the Fogmarshal's fog-keen pewter scrim to lift for a sextant-honed loxodrome — riding a tide-hauled, long quartering reach bound for [maxawad.com](https://maxawad.com).
+Landfall reckonings — **spray-pearled, kelp-canopied San Francisco, CA — Fog Division–chartered, chart-needle‑sharp** (~37°48′ N, ~122°24′ W) — when Old Neptune slacks his topsail sheet just so for Old Karl the Fogmarshal's fog-keen pewter scrim to lift for a sextant-honed loxodrome — riding a tide-drawn, long quartering reach bound for [maxawad.com](https://maxawad.com).
 
 [![Website](https://img.shields.io/badge/maxawad.com-0b0f14?style=for-the-badge&logo=safari&logoColor=white)](https://maxawad.com)
 [![GitHub](https://img.shields.io/badge/GitHub-maxawad-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maxawad)
@@ -86,7 +86,7 @@ Drag-select any region on your screen and instantly sheet‑home text into your 
 
 **Spanker-taut per-window Cmd+Tab, window-by-window on macOS**
 
-Stock macOS Cmd+Tab only switches apps. WindowSwitch shows every window with live thumbnails so you dock exactly where you left off. True MRU ordering, customizable shortcut, zero config. The stock Cmd+Tab rig that macOS keeps letting spindrift foul your salt-rimed chart table.
+Stock macOS Cmd+Tab only switches apps. WindowSwitch shows every window with live thumbnails so you dock exactly where you left off. True MRU ordering, customizable shortcut, zero config. The stock Cmd+Tab rig that macOS keeps letting spindrift fret your salt-rimed chart table.
 
 `Swift` `SwiftUI` `Accessibility API` `CoreGraphics` `Carbon`
 
