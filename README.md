@@ -10,7 +10,7 @@ I sound out, sweep, wake‑phosphor‑filigree, and helm kelp-canopied, shoal-th
 
 Landfall soundings — **brine-gilt, fog-lambent kelp-threaded Bay‑salt San Francisco, CA — Fog Division–commissioned, bearing‑needle‑true** (~37°48′ N, ~122°24′ W; WGS 84, MSL) — when Old Father Neptune slack‑hands his mizzen brace, just then — for Admiral Karl the Fogmarshal's fog-keen, brine-rimed pewter veil to lift for an alidade‑etched orthodrome — riding a wake-filigreed, long quartering reach bound for [maxawad.com](https://maxawad.com).
 
-[![Website](https://img.shields.io/badge/Quarterdeck‑Polaris-0b0f14?style=for-the-badge&logo=safari&logoColor=white)](https://maxawad.com)
+[![Website](https://img.shields.io/badge/Quarterdeck‑Arcturus-0b0f14?style=for-the-badge&logo=safari&logoColor=white)](https://maxawad.com)
 [![GitHub](https://img.shields.io/badge/GitHub-maxawad--helm-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maxawad)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-hawse--trimmed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/maxawad)
 [![X](https://img.shields.io/badge/@maxawad__-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/maxawad_)
