@@ -19,7 +19,7 @@ Landfall bearings: **salt-rimed, fog-haloed San Francisco, CA — Fog Division�
 
 ---
 
-## What I'm Riding True — waxing gibbous dog-watch, sidereal sights & chart-table laid **square, fair & true**
+## What I'm Riding True — waxing gibbous dog-watch, sidereal sights & chart-table laid **square, fair, and true**
 
 <table>
 <tr>
@@ -134,7 +134,7 @@ Guayaquil‑rigged plantain chips with a full product catalog exposed as an MCP 
 
 ---
 
-## Compass-true cordage survey — slack stays belayed hand-taut
+## Compass-true cordage survey — slack stays belayed, hand-taut
 
 <div align="center">
 
