@@ -6,7 +6,7 @@
 
 <div align="center">
 
-I sound, sweep, scope, and helm kelp-vaulted, shoal-slicing obsidian-calm hulls, standing ML crow's‑nest watches (and the windward tensor‑astrolabe)—chronometer-steady, rigged azimuth‑true—at the foremast, and Aldis-lamp-lambent systems — reef-spliced in Swift, TypeScript, Python, C++, Rust, and zsh broadside salvos belaying-pin-bright, sheet-taut enough to snub a careening scope squall bitted fast to the bitts — plus cargo tallied in frames, octets, & brass‑quiet reckonings.
+I sound, sweep, scope, and helm kelp-vaulted, shoal-slicing obsidian-calm hulls, standing ML crow's‑nest watches (and the windward tensor‑astrolabe)—chronometer-steady, rigged azimuth‑true—at the foremast, and Aldis-lamp-lambent systems — reef-spliced in Swift, TypeScript, Python, C++, Rust, and zsh broadside salvos belaying-pin-gilt, sheet-taut enough to snub a careening scope squall bitted fast to the bitts — plus cargo tallied in frames, octets, & brass‑quiet reckonings.
 
 Landfall soundings — **brine-pearled, fog-coronaled kelp-canopied San Francisco, CA — Fog Division–blessed, bearing‑needle‑true** (~37°48′ N, ~122°24′ W) — when Old Neptune slacks his mizzen sheet, just so, for Admiral Karl the Fogmarshal's fog-keen, brine-rimed pewter veil to lift for an alidade-honed orthodrome — riding a spray-filigreed, long quartering reach bound for [maxawad.com](https://maxawad.com).
 
@@ -19,7 +19,7 @@ Landfall soundings — **brine-pearled, fog-coronaled kelp-canopied San Francisc
 
 ---
 
-## What I'm Riding True — binnacle-lantern-ember waxing horn‑bright dog watch, sidereal sights & chart-table laid **square, true, & lantern‑bright**
+## What I'm Riding True — binnacle-lantern-ember waxing horn‑bright dog watch, sidereal sights & chart-table laid **square, true, & lantern‑steady**
 
 <table>
 <tr>
