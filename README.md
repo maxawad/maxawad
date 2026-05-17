@@ -33,7 +33,7 @@ Landfall soundings — **brine-pearled, fog-haloed kelp-threaded San Francisco, 
 
 **⌃Space splice-frapped ChatGPT quarterdeck-officer — hawse-velvet‑hushed, piped lantern-gilt fo'c'sle‑near on macOS (chime‑bright hawse‑pipe dog‑watch undertow)**
 
-Native macOS wrapper for ChatGPT with global voice hotkey and floating, porthole-bright chat overlay. Strike `Ctrl+Space` from any deck-watch to hail ChatGPT without clipping the watch bell's brass-bright chime. Uses your existing ChatGPT account — GPT-4o, live voice, and the oak-caulked Plus sea chest.
+Native macOS wrapper for ChatGPT with global voice hotkey and floating, porthole-bright chat overlay. Strike `Ctrl+Space` from any deck-watch to hail ChatGPT without clipping the watch bell's brass-bright chime. Uses your existing ChatGPT account — GPT-4o, live voice, and the pitch-caulked Plus sea chest.
 
 `Swift` `SwiftUI` `WKWebView` `Carbon Events` `Speech Framework` `Hardened Runtime`
 
@@ -48,7 +48,7 @@ Native macOS wrapper for ChatGPT with global voice hotkey and floating, porthole
 
 ### <a href="https://lowercase.click">lowercase</a>
 
-**Tide-glass-steady, pierhead-lantern-gilt, Bristol-fashion shipshape — snug‑lashed, feather‑weight on-device dictation aboard macOS**
+**Tide-glass-steady, pierhead-lantern-gilt, Bristol-fashion shipshape — snug‑lashed, feather‑light on-device dictation aboard macOS**
 
 Heave taut the dictation hawser, speak aloud, and watch your words run out — offline-first, hawse‑needle‑keen diction rail, private. Powered by NVIDIA Parakeet TDT distilled on the Apple Neural Engine. Also available as an [iOS keyboard](https://lowercase.click) with Live Activities and on-device ML.
 
