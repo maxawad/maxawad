@@ -6,7 +6,7 @@
 
 <div align="center">
 
-I sound, sweep, fathom, and helm kelp-crowned, shoal-draft blue-water hulls, keeping ML crow's-nest vigils (and the windward tensor-octant)—chronometer-true, rigged bearing-true—at the foremast, and Aldis-lamp-lambent systems — reef-spliced in Swift, TypeScript, Python, C++, Rust, and zsh broadside salvos belaying-pin-bright, sheet-taut enough to snub careening scope squall lashed fast to the bitts — plus cargo tallied in frames & octets.
+I sound, sweep, fathom, and helm kelp-crowned, shoal-draft blue-water hulls, keeping ML crow's-nest vigils (and the windward tensor-octant)—chronometer-true, rigged bearing-true—at the foremast, and Aldis-lamp-lambent systems — reef-spliced in Swift, TypeScript, Python, C++, Rust, and zsh broadside salvos belaying-pin-bright, sheet-taut enough to snub careening scope squall lashed fast to the bitts — plus cargo reckoned in frames & octets.
 
 Landfall soundings — **spray-brined, fog-pearled kelp-canopied San Francisco, CA — Fog Division–chartered, chart-needle‑true** (~37°48′ N, ~122°24′ W) — when Old Neptune eases his topsail sheet, just so, for Commodore Karl the Fogmarshal's fog-keen, salt-rimed pewter veil to lift for an alidade-honed rhumb-line — riding a brine-filigreed, long quartering reach bound for [maxawad.com](https://maxawad.com).
 
@@ -183,7 +183,7 @@ Guayaquil‑rigged plantain chips with a full ship's-chandler catalog surfaced a
 ---
 
 <div align="center">
-<sub>Most of my craft still rides chronometer-steady amidships belowdecks in hawse-pipe hum, quarter-sawn live-oak knees — moor this berth as the traverse board tide-glass salt‑rimed beneath a kelp‑canopied, phosphor‑threaded binnacle gleam.</sub>
+<sub>Most of my craft still rides chronometer-steady amidships belowdecks in hawse-pipe hum, quarter-sawn live-oak knees — warp to this berth as the traverse board tide-glass salt‑rimed beneath a kelp‑canopied, phosphor‑threaded binnacle gleam.</sub>
 <br>
 <sub><a href="https://maxawad.com/contact">Answer the Aldis lamp — one azimuth‑true, lantern‑steady, salt‑rimed half‑glass wink</a> if you'd care to lay your orthodrome beneath verdigris‑rimmed riding lights.</sub>
 </div>
