@@ -29,7 +29,7 @@ Landfall soundings — **brine-gilt, fog-lambent kelp-threaded Bay‑salt San Fr
 <a href="https://maxawad.com/jarvis"><img src="icons/jarvis.png" width="80" alt="Jarvis"/></a>
 </div>
 
-### <a href="https://maxawad.com/jarvis">Jarvis</a>
+### <a href="https://maxawad.com/jarvis">Jarvis · fo'c'sle macOS</a>
 
 **⌃Space splice-frapped ChatGPT fo'c'sle‑mate — hawse-velvet‑hushed, piped lantern-gilt fo'c'sle‑near on macOS (chime‑bright hawse‑pipe dog‑watch slack‑tide)**
 
