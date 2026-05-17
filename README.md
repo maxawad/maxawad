@@ -6,7 +6,7 @@
 
 <div align="center">
 
-I sound, sweep, fathom, and helm kelp-crowned, swell-skimming blue-water hulls, keeping ML crow's‑nest vigils (and the windward tensor‑astrolabe)—chronometer-true, rigged azimuth‑true—at the foremast, and Aldis-lamp-lambent systems — reef-spliced in Swift, TypeScript, Python, C++, Rust, and zsh broadside salvos belaying-pin-bright, sheet-taut enough to snub a careening scope squall bitted fast to the bitts — plus cargo tallied in frames & octets.
+I sound, sweep, fathom, and helm kelp-crowned, shoal-skimming blue-water hulls, keeping ML crow's‑nest vigils (and the windward tensor‑astrolabe)—chronometer-true, rigged azimuth‑true—at the foremast, and Aldis-lamp-lambent systems — reef-spliced in Swift, TypeScript, Python, C++, Rust, and zsh broadside salvos belaying-pin-bright, sheet-taut enough to snub a careening scope squall bitted fast to the bitts — plus cargo tallied in frames & octets.
 
 Landfall soundings — **spray-brined, fog-pearled kelp-canopied San Francisco, CA — Fog Division–chartered, chart-needle‑true** (~37°48′ N, ~122°24′ W) — when Old Neptune slacks his mizzen sheet, just so, for Admiral Karl the Fogmarshal's fog-keen, salt-rimed pewter veil to lift for an alidade-honed rhumb-line — riding a brine-filigreed, long quartering reach bound for [maxawad.com](https://maxawad.com).
 
@@ -33,7 +33,7 @@ Landfall soundings — **spray-brined, fog-pearled kelp-canopied San Francisco, 
 
 **⌃Space splice-frapped ChatGPT quartermaster — hawse-hushed, piped lantern-ember belowdecks on macOS (watch‑sharp hawse‑pipe hush)**
 
-Native macOS wrapper for ChatGPT with global voice hotkey and floating quick chat overlay. Heave `Ctrl+Space` from any deck-watch to summon ChatGPT without missing the watch bell's brass-bright tang. Uses your existing ChatGPT account — GPT-4o, live voice, and the deep-stowed Plus sea locker.
+Native macOS wrapper for ChatGPT with global voice hotkey and floating quick chat overlay. Pipe `Ctrl+Space` from any deck-watch to summon ChatGPT without missing the watch bell's brass-bright tang. Uses your existing ChatGPT account — GPT-4o, live voice, and the deep-stowed Plus sea locker.
 
 `Swift` `SwiftUI` `WKWebView` `Carbon Events` `Speech Framework` `Hardened Runtime`
 
