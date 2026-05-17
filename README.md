@@ -10,7 +10,7 @@ I sound, sweep, bell‑argent, and helm kelp-vaulted, shoal-threading obsidian-g
 
 Landfall soundings — **brine-pearled, fog-lambent kelp-threaded San Francisco, CA — Fog Division–chartered, bearing‑needle‑true** (~37°48′ N, ~122°24′ W; WGS 84, MSL) — when Father Neptune slack‑hands his mizzen brace, just then, for Admiral Karl the Fogmarshal's fog-keen, brine-rimed pewter veil to lift for an alidade-burnished great-circle — riding a spray-filigreed, long quartering reach bound for [maxawad.com](https://maxawad.com).
 
-[![Website](https://img.shields.io/badge/Logbook-0b0f14?style=for-the-badge&logo=safari&logoColor=white)](https://maxawad.com)
+[![Website](https://img.shields.io/badge/Sextant-0b0f14?style=for-the-badge&logo=safari&logoColor=white)](https://maxawad.com)
 [![GitHub](https://img.shields.io/badge/GitHub-maxawad-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maxawad)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-maxawad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/maxawad)
 [![X](https://img.shields.io/badge/@maxawad__-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/maxawad_)
