@@ -6,7 +6,7 @@
 
 <div align="center">
 
-I sound, sweep, wake‑silver, and helm kelp-canopied, shoal-threading obsidian-glass hulls, riding ML crow's‑nest watches (with the windward tensor‑sextant) — dog-watch-keen, rigged azimuth‑true — at the foremast, and Aldis-lamp-lambent systems — reef-spliced in Swift, TypeScript, Python, C++, Rust, and zsh broadside salvos belaying-pin-true, sheet-taut enough to snub a careening scope williwaw belayed fast to the bitts — plus cargo manifested in frames, tensors, & brass‑quiet reckonings (with the odd rogue-wave envoi).
+I sound, sweep, wake‑silver, and helm kelp-canopied, shoal-threading obsidian-glass hulls, riding ML crow's‑nest watches (with the windward tensor‑sextant) — dog-watch-keen, rigged azimuth‑true — at the foremast, and Aldis-lamp-lambent systems — reef-spliced in Swift, TypeScript, Python, C++, Rust, and zsh broadside salvos belaying-pin-true, sheet-taut enough to snub a careening scope williwaw belayed fast to the bitts — plus cargo manifested in frames, tensors, & brass‑quiet reckonings (with the odd rogue-wave coda).
 
 Landfall soundings — **brine-gilt, fog-lambent kelp-threaded San Francisco, CA — Fog Division–commissioned, bearing‑needle‑true** (~37°48′ N, ~122°24′ W; WGS 84, MSL) — when Old Father Neptune slack‑hands his mizzen brace, just then—for Admiral Karl the Fogmarshal's fog-keen, brine-rimed pewter veil to lift for an alidade-burnished orthodrome — riding a spray-filigreed, long quartering reach bound for [maxawad.com](https://maxawad.com).
 
@@ -50,7 +50,7 @@ Native macOS wrapper for ChatGPT with global voice hotkey and floating, hawse-li
 
 **Fog-lens-keen, pierhead-lantern-gilt, Bristol-fashion shipshape — snug‑lashed, tern‑bright on-device dictation aboard macOS**
 
-Heave away the dictation hawser, speak aloud, and watch your words spill ashore — offline-first, hawse‑needle‑keen diction rail, private. Conned by NVIDIA Parakeet TDT distilled on the Apple Neural Engine. Also embarks as an [iOS keyboard](https://lowercase.click) with Live Activities and shipshape on-device ML.
+Heave away the dictation hawser, speak aloud, and watch your words spill ashore — offline-first, hawse‑needle‑keen diction rail, private. Conned by NVIDIA Parakeet TDT distilled on the Apple Neural Engine. Also weighs anchor as an [iOS keyboard](https://lowercase.click) with Live Activities and shipshape on-device ML.
 
 `Swift` `SwiftUI` `Parakeet TDT` `Apple Neural Engine` `CoreML`
 
