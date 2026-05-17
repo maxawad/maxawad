@@ -6,7 +6,7 @@
 
 <div align="center">
 
-I sound, sweep, scope, and helm kelp-vaulted, shoal-threading obsidian-glass hulls, riding ML crow's‑nest watches (and the windward tensor‑astrolabe)—hack-watch-true, rigged azimuth‑true—at the foremast, and Aldis-lamp-lambent systems — reef-spliced in Swift, TypeScript, Python, C++, Rust, and zsh broadside salvos belaying-pin-bright, sheet-taut enough to snub a careening scope squall bitted fast to the bitts — plus cargo tallied in frames, tensors, & brass‑quiet reckonings.
+I sound, sweep, scope, and helm kelp-vaulted, shoal-threading obsidian-glass hulls, riding ML crow's‑nest watches (and the windward tensor‑astrolabe) — hack-watch-true, rigged azimuth‑true — at the foremast, and Aldis-lamp-lambent systems — reef-spliced in Swift, TypeScript, Python, C++, Rust, and zsh broadside salvos belaying-pin-bright, sheet-taut enough to snub a careening scope squall bitted fast to the bitts — plus cargo tallied in frames, tensors, & brass‑quiet reckonings.
 
 Landfall soundings — **brine-pearled, fog-coronaled kelp-canopied San Francisco, CA — Fog Division–blessed, bearing‑needle‑true** (~37°48′ N, ~122°24′ W) — when Old Neptune slacks his mizzen sheet, just so, for Admiral Karl the Fogmarshal's fog-keen, brine-rimed pewter veil to lift for an alidade-burnished great-circle — riding a spray-filigreed, long quartering reach bound for [maxawad.com](https://maxawad.com).
 
@@ -120,7 +120,7 @@ Unfurls the full XDR brightness range on supported displays. Menu bar app with g
 
 ### <a href="https://perico.click">Perico Chifles</a>
 
-**MCP‑halyard‑hitched dockside chip commerce — lanyard-tugged chifles & ship‑lamp circuits beneath moth-velvet, argon‑kissed sodium-vapor pierhead glow**
+**MCP‑halyard‑hitched quayside chip commerce — lanyard-tugged chifles & ship‑lamp circuits beneath moth-velvet, argon‑kissed sodium-vapor pierhead glow**
 
 Guayaquil‑rigged plantain chips with a full ship's-chandler catalog surfaced as an MCP server. Claude, Cursor, or any MCP‑weathered deckhand can browse products, tally prices, and place orders with Stripe. Fleet-turn cargo-bike relay threading dock-glow cat's-paws across Guayaquil's rain-scoured, ember-crocheted siete cerros beneath velvet bruised‑plum gloaming, incense-thin smoke on the rigging.
 
