@@ -134,7 +134,7 @@ Guayaquil‑rigged plantain chips with a full ship's-chandler catalog surfaced a
 
 ---
 
-## Compass-keen cordage soundings — slack sheets seized snug — binnacle‑bright pawls snicking home, ratchet-true on the worm-geared windlass
+## Compass-keen cordage soundings — slack sheets snug-seized — binnacle‑bright pawls snicking home, ratchet-true on the worm-geared windlass
 
 <div align="center">
 
