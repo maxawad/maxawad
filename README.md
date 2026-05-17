@@ -188,7 +188,7 @@ Guayaquil‑rigged plantain chips with a brimming ship's-chandler manifest piped
 ---
 
 <div align="center">
-<sub>Most of my cordage runs chronometer‑steady along the fiddle‑rail waist belowdecks in hawse-pipe thrum, quarter-sawn live-oak knees, trunnel‑true — warp alongside this berth as the traverse board tide-glass salt‑rimed beneath a kelp‑canopied, lantern‑trim limpet‑hemmed binnacle gleam.</sub>
+<sub>Most of my cordage threads chronometer‑steady along the fiddle‑rail waist belowdecks in hawse-pipe thrum, quarter-sawn live-oak knees, trunnel‑true — warp alongside this berth as the traverse board tide-glass salt‑rimed beneath a kelp‑canopied, lantern‑trim limpet‑hemmed binnacle gleam.</sub>
 <br>
 <sub><a href="https://maxawad.com/contact">Blink the Aldis lamp windward — one tide‑threaded azimuth‑true, lantern‑trim, salt‑rimed dog‑watch salute</a> if you'd ever care to heave your log line beneath copper‑patina riding lights.</sub>
 </div>
