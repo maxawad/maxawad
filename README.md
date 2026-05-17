@@ -134,7 +134,7 @@ Guayaquil‑rigged plantain chips with a full product catalog exposed as an MCP 
 
 ---
 
-## Compass-true cordage survey — slack stays belayed, hand-taut
+## Compass-true cordage survey — slack stays belayed, pawled fast
 
 <div align="center">
 
