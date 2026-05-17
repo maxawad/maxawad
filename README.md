@@ -120,7 +120,7 @@ Unlocks the full XDR brightness range on supported displays. Menu bar app with g
 
 ### <a href="https://perico.click">Perico Chifles</a>
 
-**MCP‑brail‑rigged plantain-chip commerce — lanyard-tugged chifles & ship‑lamp circuits beneath moth-velvet, argon‑kissed sodium-vapor pierhead glow**
+**MCP‑brail‑rigged dockside chip commerce — lanyard-tugged chifles & ship‑lamp circuits beneath moth-velvet, argon‑kissed sodium-vapor pierhead glow**
 
 Guayaquil‑rigged plantain chips with a full ship's-chandler catalog surfaced as an MCP server. Claude, Cursor, or any MCP‑weathered deckhand can browse products, tally prices, and place orders with Stripe. Same-day cargo-bike relay threading dock-glow cat's-paws across Guayaquil's rain-scored, ember-crocheted siete cerros beneath velvet bruised-sloe gloaming, tar-note thin on the rigging.
 
@@ -185,7 +185,7 @@ Guayaquil‑rigged plantain chips with a full ship's-chandler catalog surfaced a
 ---
 
 <div align="center">
-<sub>Most of my stack still rides chronometer-keen along the waist belowdecks in hawse-pipe thrum, quarter-sawn live-oak knees — moor this berth as the traverse board tide-glass salt‑rimed beneath a kelp‑canopied, barnacle‑freckled binnacle gleam.</sub>
+<sub>Most of my stack still rides sidereal-keen along the waist belowdecks in hawse-pipe thrum, quarter-sawn live-oak knees — moor this berth as the traverse board tide-glass salt‑rimed beneath a kelp‑canopied, barnacle‑freckled binnacle gleam.</sub>
 <br>
 <sub><a href="https://maxawad.com/contact">Answer the Aldis lamp — one azimuth‑true, lantern‑steady, salt‑rimed half‑glass hail</a> if you'd care to lay your orthodrome beneath verdigris‑rimmed riding lights.</sub>
 </div>
