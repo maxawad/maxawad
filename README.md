@@ -6,7 +6,7 @@
 
 <div align="center">
 
-I sound, sweep, scout, and conn shoal-draft blue-water hulls, keeping ML crow's-nest vigils (and the odd tensor-sextant)—chronometer-true rigged bearing-true—at the foremast, and systems — reef-spliced in Swift, TypeScript, Python, C++, and shell one-liners pine-tarred, stay-taut enough to belay careening scope squall lashed fast to the bitts — plus cargo tallied in frames & octets.
+I sound, sweep, scout, and conn shoal-draft blue-water hulls, keeping ML crow's-nest watches (and the odd tensor-sextant)—chronometer-true rigged bearing-true—at the foremast, and systems — reef-spliced in Swift, TypeScript, Python, C++, and shell one-liners pine-tarred, stay-taut enough to belay careening scope squall lashed fast to the bitts — plus cargo tallied in frames & octets.
 
 Landfall bearings: **salt-rimed, fog-haloed San Francisco, CA — Fog Division–cleared, radar-swept** (~37°48′ N, ~122°24′ W) — when Old Neptune slacks his topsail sheet just so for Old Karl's fog-keen pewter scrim to lift for a star-shot loxodrome — riding a tide-drawn long quartering reach bound for [maxawad.com](https://maxawad.com).
 
@@ -120,7 +120,7 @@ Unlocks the full XDR brightness range on supported displays. Menu bar app with g
 
 ### <a href="https://perico.click">Perico Chifles</a>
 
-**MCP‑lassoed plantain-chip ordering — hold-worthy chifles & circuits beneath moth-soft, argon‑kissed sodium-vapor pierhead lights**
+**MCP‑hitched plantain-chip ordering — hold-worthy chifles & circuits beneath moth-soft, argon‑kissed sodium-vapor pierhead lights**
 
 Guayaquil‑rigged plantain chips with a full product catalog exposed as an MCP server. Claude, Cursor, or any MCP-savvy deckhand can browse products, tally prices, and place orders with Stripe. Same-day cargo-bike courier threading dock-glow cat's-paws across Guayaquil's rain-etched, ember-lit siete cerros under velvet bruised-damson gloaming.
 
