@@ -19,7 +19,7 @@ Landfall soundings — **spray-brined, fog-pearled kelp-canopied San Francisco, 
 
 ---
 
-## What I'm Riding True — binnacle-lantern-ember waxing horn‑bright middle watch, sidereal sights & chart-table laid **square, true, & lantern‑bright**
+## What I'm Riding True — binnacle-lantern-ember waxing horn‑bright dog watch, sidereal sights & chart-table laid **square, true, & lantern‑bright**
 
 <table>
 <tr>
