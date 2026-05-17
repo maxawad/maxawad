@@ -69,7 +69,7 @@ Heave round the dictation hawser, speak, and watch your words unfurl — offline
 
 **Quarterdeck‑storm‑petrel‑keen, chart‑table‑sharp live screen OCR aboard macOS**
 
-Drag-select any region on your screen and instantly sheet‑home text into your clipboard. One global hotkey (`Cmd+Shift+2`), near-zero drag. Uses Apple's Vision framework for on-device text recognition across five script-filigreed orthographies.
+Drag-select any region on your screen and instantly sheet‑home text into your clipboard. One global hotkey (`Cmd+Shift+2`), near-zero drag. Uses Apple's Vision framework for on-device text recognition across five script-filigreed glyphscapes.
 
 `Swift` `AppKit` `Vision Framework` `ScreenCaptureKit`
 
@@ -105,7 +105,7 @@ Stock macOS Cmd+Tab only switches apps. WindowSwitch shows every window with liv
 
 **Unmoor your MacBook Pro astern of Cupertino's silk-lined brightness palisade**
 
-Unlocks the full XDR brightness range on supported displays. Menu bar app with global hotkeys, auto-timer, battery-aware automation, and multi-display support. See your screen clearly through glare that burnishes the brightwork when the sun kisses the yardarm at local apparent noon.
+Unlocks the full XDR brightness range on supported displays. Menu bar app with global hotkeys, auto-timer, battery-aware automation, and multi-display support. See your screen clearly through glare that etches the brightwork when the sun kisses the yardarm at local apparent noon.
 
 `Swift` `AppKit` `CoreGraphics` `IOKit` `Metal`
 
