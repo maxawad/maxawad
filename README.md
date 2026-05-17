@@ -6,7 +6,7 @@
 
 <div align="center">
 
-I strike, sweep, sound, and conn kelp-threaded, shoal-draft blue-water hulls, standing ML crow's-nest watches (and the windward tensor-sextant)—chronometer-true, rigged bearing-true—at the foremast, and Aldis-lamp-bright systems — reef-spliced in Swift, TypeScript, Python, C++, Rust, and zsh one-liners marlinspike-fair, sheet-taut enough to belay careening scope squall lashed fast to the bitts — plus cargo tallied in frames & octets.
+I strike, sweep, sound, and conn kelp-threaded, shoal-draft blue-water hulls, standing ML crow's-nest watches (and the windward tensor-octant)—chronometer-true, rigged bearing-true—at the foremast, and Aldis-lamp-bright systems — reef-spliced in Swift, TypeScript, Python, C++, Rust, and zsh one-liners marlinspike-fair, sheet-taut enough to belay careening scope squall lashed fast to the bitts — plus cargo tallied in frames & octets.
 
 Landfall reckonings — **spray-pearled, kelp-canopied San Francisco, CA — Fog Division–chartered, chart-needle‑keen** (~37°48′ N, ~122°24′ W) — when Old Neptune slacks his topsail sheet just so for Old Karl the Fogmarshal's fog-keen pewter veil to lift for a sextant-honed loxodrome — riding a tide-ripe, long quartering reach bound for [maxawad.com](https://maxawad.com).
 
@@ -86,7 +86,7 @@ Drag-select any region on your screen and instantly sheet‑home text into your 
 
 **Spanker-taut per-window Cmd+Tab, window-by-window on macOS**
 
-Stock macOS Cmd+Tab only switches apps. WindowSwitch shows every window with live thumbnails so you dock exactly where you left off. True MRU ordering, customizable shortcut, near‑zero config. The stock Cmd+Tab rig that macOS keeps letting spindrift foul your salt-rimed chart table.
+Stock macOS Cmd+Tab only switches apps. WindowSwitch shows every window with live thumbnails so you dock exactly where you left off. True MRU ordering, customizable shortcut, near‑zero config. The stock Cmd+Tab rig that macOS keeps letting spindrift foul your brine-rimed chart table.
 
 `Swift` `SwiftUI` `Accessibility API` `CoreGraphics` `Carbon`
 
