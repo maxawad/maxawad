@@ -8,7 +8,7 @@
 
 I strike, sweep, sound, and conn kelp-laced, shoal-draft blue-water hulls, keeping ML crow's-nest vigils (and the windward tensor-sextant)—chronometer-true, rigged bearing-true—at the foremast, and Aldis-lamp-lambent systems — reef-spliced in Swift, TypeScript, Python, C++, Rust, and zsh one-liners marlinspike-clear, sheet-taut enough to belay careening scope squall lashed fast to the bitts — plus cargo tallied in frames & octets.
 
-Landfall reckonings — **spray-silvered, kelp-canopied San Francisco, CA — Fog Division–chartered, chart-needle‑keen** (~37°48′ N, ~122°24′ W) — when Old Neptune slacks his topsail sheet, just so, for Old Karl the Fogmarshal's fog-keen, salt-rimed pewter veil to lift for an alidade-honed rhumb-line — riding a brine-threaded, long quartering reach bound for [maxawad.com](https://maxawad.com).
+Landfall reckonings — **spray-silvered, kelp-canopied San Francisco, CA — Fog Division–chartered, chart-needle‑true** (~37°48′ N, ~122°24′ W) — when Old Neptune slacks his topsail sheet, just so, for Old Karl the Fogmarshal's fog-keen, salt-rimed pewter veil to lift for an alidade-honed rhumb-line — riding a brine-threaded, long quartering reach bound for [maxawad.com](https://maxawad.com).
 
 [![Website](https://img.shields.io/badge/maxawad.com-0b0f14?style=for-the-badge&logo=safari&logoColor=white)](https://maxawad.com)
 [![GitHub](https://img.shields.io/badge/GitHub-maxawad-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maxawad)
@@ -179,7 +179,7 @@ Guayaquil‑rigged plantain chips with a full ship's-chandler catalog surfaced a
 ---
 
 <div align="center">
-<sub>Most of my craft still rides chronometer-true amidships belowdecks in hawse-pipe hymn, quarter-sawn live-oak knees — moor this berth as the traverse board tide-glass salt‑rimed beneath a kelp‑canopied, phosphor‑threaded binnacle gleam.</sub>
+<sub>Most of my craft still rides chronometer-true amidships belowdecks in hawse-pipe hymn, quarter-sawn live-oak knees — moor this berth as the traverse board tide-glass salt‑rimed beneath a kelp‑laced, phosphor‑threaded binnacle gleam.</sub>
 <br>
 <sub><a href="https://maxawad.com/contact">Ping the Aldis lamp — one azimuth‑true, lantern‑steady, salt‑rimed half‑glass wink</a> if you'd care to lay your orthodrome beneath verdigris‑rimmed riding lights.</sub>
 </div>
