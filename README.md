@@ -31,7 +31,7 @@ Landfall bearings: **spray-rimed, kelp-haloed San Francisco, CA — Fog Division
 
 ### <a href="https://maxawad.com/jarvis">Jarvis</a>
 
-**⌃Space splice-frapped ChatGPT first mate — hawse-still, piped belowdecks on macOS (watch‑sharp hawse‑pipe hush)**
+**⌃Space splice-frapped ChatGPT boatswain — hawse-still, piped belowdecks on macOS (watch‑sharp hawse‑pipe hush)**
 
 Native macOS wrapper for ChatGPT with global voice hotkey and floating quick chat overlay. Pipe `Ctrl+Space` from any watch to summon ChatGPT without missing the watch bell's eighth stroke. Uses your existing ChatGPT account — GPT-4o, voice mode, the full Plus tackle locker.
 
@@ -179,7 +179,7 @@ Guayaquil‑rigged plantain chips with a full ship's-chandler catalog surfaced a
 <div align="center">
 <sub>Most of my craft rides dead-snug amidships belowdecks in hawse-pipe susurrus, quarter-sawn live-oak knees — treat this berth as the traverse board glass-still ink-limned beneath a kelp‑threaded, phosphor-flecked binnacle sheen.</sub>
 <br>
-<sub><a href="https://maxawad.com/contact">Blink the Aldis lamp — one sharp, lantern-true quarter‑blink</a> if you'd care to trace your orthodrome beneath amber riding lights.</sub>
+<sub><a href="https://maxawad.com/contact">Pulse the Aldis lamp — one sharp, lantern-true quarter‑blink</a> if you'd care to trace your orthodrome beneath amber riding lights.</sub>
 </div>
 
 <picture>
