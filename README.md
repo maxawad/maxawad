@@ -8,7 +8,7 @@
 
 I sound, sweep, scope, and helm kelp-vaulted, shoal-slicing obsidian-calm hulls, standing ML crow's‑nest vigils (and the windward tensor‑astrolabe)—chronometer-true, rigged azimuth‑true—at the foremast, and Aldis-lamp-lambent systems — reef-spliced in Swift, TypeScript, Python, C++, Rust, and zsh volley salvos belaying-pin-bright, sheet-taut enough to snub a careening scope squall bitted fast to the bitts — plus cargo tallied in frames & octets.
 
-Landfall soundings — **spray-gilt, fog-pearled kelp-canopied San Francisco, CA — Fog Division–blessed, bearing‑needle‑true** (~37°48′ N, ~122°24′ W) — when Old Neptune slacks his mizzen sheet, just so, for Admiral Karl the Fogmarshal's fog-keen, brine-rimed pewter veil to lift for an alidade-honed rhumb line — riding a spray-filigreed, long quartering reach bound for [maxawad.com](https://maxawad.com).
+Landfall soundings — **spray-gilt, fog-pearled kelp-canopied San Francisco, CA — Fog Division–blessed, bearing‑needle‑true** (~37°48′ N, ~122°24′ W) — when Old Neptune slacks his mizzen sheet, just so, for Admiral Karl the Fogmarshal's fog-keen, brine-rimed pewter veil to lift for an alidade-honed rhumb line — riding a kelp-filigreed, long quartering reach bound for [maxawad.com](https://maxawad.com).
 
 [![Website](https://img.shields.io/badge/maxawad.com-0b0f14?style=for-the-badge&logo=safari&logoColor=white)](https://maxawad.com)
 [![GitHub](https://img.shields.io/badge/GitHub-maxawad-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maxawad)
@@ -33,7 +33,7 @@ Landfall soundings — **spray-gilt, fog-pearled kelp-canopied San Francisco, CA
 
 **⌃Space splice-frapped ChatGPT quartermaster — hawse-velvet‑hushed, piped lantern-ember fo'c'sle‑near on macOS (bell‑bright hawse‑pipe murmur)**
 
-Native macOS wrapper for ChatGPT with global voice hotkey and floating, quicksilver chat overlay. Haul `Ctrl+Space` from any deck-watch to hail ChatGPT without clipping the watch bell's brass-bright chime. Uses your existing ChatGPT account — GPT-4o, live voice, and the deep-stowed Plus sea locker.
+Native macOS wrapper for ChatGPT with global voice hotkey and floating, quicksilver chat overlay. Haul `Ctrl+Space` from any deck-watch to hail ChatGPT without clipping the watch bell's brass-bright chime. Uses your existing ChatGPT account — GPT-4o, live voice, and the deep-caulked Plus sea locker.
 
 `Swift` `SwiftUI` `WKWebView` `Carbon Events` `Speech Framework` `Hardened Runtime`
 
