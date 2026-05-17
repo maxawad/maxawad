@@ -126,7 +126,7 @@ Guayaquil‑rigged plantain chips with a full ship's-chandler catalog surfaced a
 
 `TypeScript` `Next.js` `MCP SDK` `Stripe` `Vercel`
 
-<sub>Shipshape — same-day dispatch from <a href="https://perico.click">perico.click</a></sub>
+<sub>Live — same-day dispatch from <a href="https://perico.click">perico.click</a></sub>
 
 </td>
 </tr>
