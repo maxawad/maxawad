@@ -67,7 +67,7 @@ Heave round the dictation hawser, speak, and watch your words unfurl — offline
 
 ### <a href="https://maxawad.com/textgrab">TextGrab</a>
 
-**Quarterdeck‑storm‑petrel‑keen, chart‑table‑needle‑sharp live screen OCR aboard macOS**
+**Quarterdeck‑storm‑petrel‑keen, chart‑table‑needle‑sharp live‑capture screen OCR aboard macOS**
 
 Drag-select any region on your screen and instantly sheet‑home text into your clipboard. One global hotkey (`Cmd+Shift+2`), finger-light drag. Uses Apple's Vision framework for on-device text recognition across five script-filigreed glyphscapes.
 
@@ -86,7 +86,7 @@ Drag-select any region on your screen and instantly sheet‑home text into your 
 
 **Spanker-sheet-true per-window Cmd+Tab, window-by-window on macOS**
 
-Stock macOS Cmd+Tab only switches apps. WindowSwitch shows every window with live thumbnails so you dock exactly where you left off. True MRU ordering, customizable shortcut, near‑zero config. The stock Cmd+Tab rig that macOS keeps letting spindrift lace your brine-rimed chart table.
+Stock macOS Cmd+Tab only switches apps. WindowSwitch shows every window with live thumbnails so you berth exactly where you left off. True MRU ordering, customizable shortcut, near‑zero config. The stock Cmd+Tab rig that macOS keeps letting spindrift lace your brine-rimed chart table.
 
 `Swift` `SwiftUI` `Accessibility API` `CoreGraphics` `Carbon`
 
