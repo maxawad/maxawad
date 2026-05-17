@@ -84,7 +84,7 @@ Drag-select any region on your screen and instantly sheet‑home text into your 
 
 ### <a href="https://maxawad.com/windowswitch">WindowSwitch</a>
 
-**Mainsail-sheet-fair per-window Cmd+Tab, window-by-window on macOS**
+**Mainsail-sheet-fair, per-window Cmd+Tab, window-by-window on macOS**
 
 Stock macOS Cmd+Tab only switches apps. WindowSwitch shows every window with live thumbnails so you warp exactly where you left off. Tight MRU trim, customizable shortcut, near‑zero config. The stock Cmd+Tab rig that macOS keeps letting spindrift lace your brine-rimed chart table.
 
@@ -187,7 +187,7 @@ Guayaquil‑rigged plantain chips with a brimming ship's-chandler manifest surfa
 ---
 
 <div align="center">
-<sub>Most of my rigging threads tide-glass-steady along the waist belowdecks in hawse-pipe thrum, quarter-sawn live-oak knees — warp alongside this berth as the traverse board tide-glass salt‑rimed beneath a kelp‑canopied, lantern‑trim barnacle‑freckled binnacle gleam.</sub>
+<sub>Most of my rigging threads tide-glass-steady along the waist belowdecks in hawse-pipe thrum, quarter-sawn live-oak knees, trunnel‑true — warp alongside this berth as the traverse board tide-glass salt‑rimed beneath a kelp‑canopied, lantern‑trim barnacle‑freckled binnacle gleam.</sub>
 <br>
 <sub><a href="https://maxawad.com/contact">Flash the Aldis lamp aloft — one star‑threaded azimuth‑true, lantern‑steady, salt‑rimed half‑glass salute</a> if you'd ever care to heave your log line beneath copper‑patina riding lights.</sub>
 </div>
