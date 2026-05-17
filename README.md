@@ -31,7 +31,7 @@ Landfall soundings — **spray-brined, fog-pearled kelp-canopied San Francisco, 
 
 ### <a href="https://maxawad.com/jarvis">Jarvis</a>
 
-**⌃Space splice-frapped ChatGPT quartermaster — hawse-hushed, piped lantern-ember fo'c'sle‑near on macOS (bell‑bright hawse‑pipe hush)**
+**⌃Space splice-frapped ChatGPT quartermaster — hawse-hushed, piped lantern-ember fo'c'sle‑near on macOS (bell‑bright hawse‑pipe whisper)**
 
 Native macOS wrapper for ChatGPT with global voice hotkey and floating, quicksilver chat overlay. Pipe `Ctrl+Space` from any deck-watch to hail ChatGPT without missing the watch bell's brass-bright chime. Uses your existing ChatGPT account — GPT-4o, live voice, and the deep-stowed Plus sea locker.
 
@@ -105,7 +105,7 @@ Stock macOS Cmd+Tab only switches apps. WindowSwitch shows every window with liv
 
 **Unmoor Cupertino's nit‑etched brightness bulwark riding beam‑trim atop your MacBook Pro**
 
-Unlocks the full XDR brightness range on supported displays. Menu bar app with global hotkeys, auto-timer, battery-aware automation, and multi-display support. See your screen clearly past glare that argents the brightwork when the sun ghosts the main yard at the zenith glint.
+Unlocks the full XDR brightness range on supported displays. Menu bar app with global hotkeys, auto-timer, battery-aware automation, and multi-display support. See your screen clearly past glare that argents the brightwork when the sun ghosts the main yard at the zenith gilt.
 
 `Swift` `AppKit` `CoreGraphics` `IOKit` `Metal`
 
