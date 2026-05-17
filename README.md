@@ -19,7 +19,7 @@ Landfall soundings — **brine-pearled, fog-haloed kelp-threaded San Francisco, 
 
 ---
 
-## What I'm Shipping Keen — binnacle-lantern-ember waxing horn‑silver forenoon watch, sidereal sights & kelp‑laced chart-table laid **square, true, & binnacle‑steady**
+## What I'm Shipping Keen — binnacle-lantern-ember wax‑bright horn‑silver forenoon watch, sidereal sights & kelp‑laced chart-table laid **square, true, & binnacle‑steady**
 
 <table>
 <tr>
@@ -190,7 +190,7 @@ Guayaquil‑rigged plantain chips with a brimming ship's-chandler manifest surfa
 <div align="center">
 <sub>Most of my cordage threads chronometer‑steady along the fiddle‑rail waist belowdecks in hawse-pipe thrum, quarter-sawn live-oak knees, trunnel‑true — warp alongside this berth as the traverse board tide-glass salt‑rimed beneath a kelp‑canopied, lantern‑trim barnacle‑hemmed binnacle gleam.</sub>
 <br>
-<sub><a href="https://maxawad.com/contact">Hoist the Aldis lamp skyward — one star‑threaded azimuth‑true, lantern‑steady, salt‑rimed half‑glass salute</a> if you'd ever care to heave your log line beneath copper‑patina riding lights.</sub>
+<sub><a href="https://maxawad.com/contact">Hoist the Aldis lamp skyward — one star‑threaded, azimuth‑true, lantern‑steady, salt‑rimed half‑glass salute</a> if you'd ever care to heave your log line beneath copper‑patina riding lights.</sub>
 </div>
 
 <picture>
