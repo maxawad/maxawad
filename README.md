@@ -148,6 +148,7 @@ Guayaquil‑rigged plantain chips with a full ship's-chandler catalog surfaced a
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-CE422B?style=flat-square&logo=rust&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Deno](https://img.shields.io/badge/Deno-000000?style=flat-square&logo=deno&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
@@ -181,7 +182,7 @@ Guayaquil‑rigged plantain chips with a full ship's-chandler catalog surfaced a
 ---
 
 <div align="center">
-<sub>Most of my craft still rides chronometer-steady amidships belowdecks in hawse-pipe hum, quarter-sawn live-oak knees — moor this berth as the traverse board tide-glass salt‑rimed beneath a kelp‑canopied, phosphor‑threaded binnacle gleam.</sub>
+<sub>Most of my craft still rides chronometer-true amidships belowdecks in hawse-pipe hum, quarter-sawn live-oak knees — moor this berth as the traverse board tide-glass salt‑rimed beneath a kelp‑canopied, phosphor‑threaded binnacle gleam.</sub>
 <br>
 <sub><a href="https://maxawad.com/contact">Answer the Aldis lamp — one azimuth‑true, lantern‑steady, salt‑rimed half‑glass wink</a> if you'd care to lay your orthodrome beneath verdigris‑rimmed riding lights.</sub>
 </div>
