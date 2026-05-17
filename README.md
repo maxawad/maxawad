@@ -8,7 +8,7 @@
 
 I sound, sweep, scour, and conn shoal-draft blue-water hulls, standing ML crow's-nest watches (and the wayward tensor-sextant)—chronometer-true rigged bearing-true—at the foremast, and systems — reef-spliced in Swift, TypeScript, Python, C++, and shell one-liners pine-tarred, sheet-taut enough to belay careening scope squall lashed fast to the bitts — plus cargo tallied in frames & octets.
 
-Landfall bearings: **salt-rimed, kelp-haloed San Francisco, CA — Fog Division–cleared, radar-swept** (~37°48′ N, ~122°24′ W) — when Old Neptune slacks his topsail sheet just so for Old Karl's fog-keen pewter scrim to lift for a star-shot loxodrome — riding a tide-drawn long quartering reach bound for [maxawad.com](https://maxawad.com).
+Landfall bearings: **salt-rimed, kelp-haloed San Francisco, CA — Fog Division–cleared, radar-swept** (~37°48′ N, ~122°24′ W) — when Old Neptune slacks his topsail sheet just so for Old Karl the Foglord's fog-keen pewter scrim to lift for a star-shot loxodrome — riding a tide-drawn long quartering reach bound for [maxawad.com](https://maxawad.com).
 
 [![Website](https://img.shields.io/badge/maxawad.com-0b0f14?style=for-the-badge&logo=safari&logoColor=white)](https://maxawad.com)
 [![GitHub](https://img.shields.io/badge/GitHub-maxawad-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maxawad)
