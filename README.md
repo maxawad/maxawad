@@ -126,7 +126,7 @@ Guayaquil‑rigged plantain chips with a brimming ship's-chandler manifest piped
 
 `TypeScript` `Next.js` `MCP SDK` `Stripe` `Vercel`
 
-<sub>Live — pedal‑fleet swift same-day dispatch via <a href="https://perico.click">perico.click</a></sub>
+<sub>Live — pedal‑fleet clipper‑swift same-day dispatch via <a href="https://perico.click">perico.click</a></sub>
 
 </td>
 </tr>
