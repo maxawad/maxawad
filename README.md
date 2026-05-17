@@ -33,7 +33,7 @@ Landfall bearings: **salt-rimed, kelp-haloed San Francisco, CA — Fog Division�
 
 **Ctrl+Space splice-frapped ChatGPT first mate — hawse-quiet, piped belowdecks on macOS (watch‑sharp hawse‑pipe hush)**
 
-Native macOS wrapper for ChatGPT with global voice hotkey and floating quick chat overlay. Pipe `Ctrl+Space` from any watch to summon ChatGPT without missing the watch bell's eighth stroke. Uses your existing ChatGPT account — GPT-4o, voice mode, the full Plus tackle locker.
+Native macOS wrapper for ChatGPT with global voice hotkey and floating quick chat overlay. Pipe `Ctrl+Space` from any sea-watch to summon ChatGPT without missing the watch bell's eighth stroke. Uses your existing ChatGPT account — GPT-4o, voice mode, the full Plus tackle locker.
 
 `Swift` `SwiftUI` `WKWebView` `Carbon Events` `Speech Framework` `Hardened Runtime`
 
@@ -50,7 +50,7 @@ Native macOS wrapper for ChatGPT with global voice hotkey and floating quick cha
 
 **Tide-stilled, quay-bright, Bristol-fashion shipshape on-device dictation aboard macOS**
 
-Heave on the dictation chord, speak, and watch your words appear — offline-first, knife-edge diction deck, private. Powered by NVIDIA Parakeet TDT distilled on the Apple Neural Engine. Also available as an [iOS keyboard](https://lowercase.click) with Live Activities and on-device ML.
+Heave round the dictation chord, speak, and watch your words appear — offline-first, knife-edge diction deck, private. Powered by NVIDIA Parakeet TDT distilled on the Apple Neural Engine. Also available as an [iOS keyboard](https://lowercase.click) with Live Activities and on-device ML.
 
 `Swift` `SwiftUI` `Parakeet TDT` `Apple Neural Engine` `CoreML`
 
