@@ -50,7 +50,7 @@ Native macOS wrapper for ChatGPT with global voice hotkey and floating, quicksil
 
 **Tide-glass-still, pierhead-lantern-gilt, Bristol-fashion shipshape on-device dictation aboard macOS**
 
-Heave taut the dictation hawser, speak aloud, and watch your words unfurl — offline-first, hawse-sharp diction rail, private. Powered by NVIDIA Parakeet TDT distilled on the Apple Neural Engine. Also available as an [iOS keyboard](https://lowercase.click) with Live Activities and on-device ML.
+Heave taut the dictation hawser, speak aloud, and watch your words unfurl — offline-first, hawse-keen diction rail, private. Powered by NVIDIA Parakeet TDT distilled on the Apple Neural Engine. Also available as an [iOS keyboard](https://lowercase.click) with Live Activities and on-device ML.
 
 `Swift` `SwiftUI` `Parakeet TDT` `Apple Neural Engine` `CoreML`
 
@@ -134,7 +134,7 @@ Guayaquil‑rigged plantain chips with a full ship's-chandler catalog surfaced a
 
 ---
 
-## Compass-rose-keen cordage reckonings — slack-hauled canvas snug-seized — binnacle‑bright pawls snicking home, ratchet-true on the worm‑steadfast windlass
+## Compass-rose-keen cordage reckonings — slack-hauled canvas snug-seized — binnacle‑bright pawls tripping home, ratchet-true on the worm‑steadfast windlass
 
 <div align="center">
 
