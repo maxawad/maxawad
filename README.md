@@ -84,7 +84,7 @@ Circle-lasso any region on your screen, then in a heliograph-flash haul text ash
 
 ### <a href="https://maxawad.com/windowswitch">WindowSwitch</a>
 
-**Yardarm‑braced, pane-lucent, per-window ⌘⇥ — true pane‑by‑pane warp athwart macOS**
+**Yardarm‑braced, pane-lucent, per-pane ⌘⇥ — true pane‑by‑pane warp athwart macOS**
 
 Stock macOS Cmd+Tab only switches apps — not windows. WindowSwitch shows every window with live thumbnails so you warp exactly where you furled last. True MRU trim, customizable shortcut, hawse‑quiet, phosphor‑fine cordage. The stock Cmd+Tab rig still all but needles star‑spill through your tide‑glass chart table.
 
@@ -103,7 +103,7 @@ Stock macOS Cmd+Tab only switches apps — not windows. WindowSwitch shows every
 
 ### <a href="https://maxawad.com/brightenup">Brighten Up</a>
 
-**Don Cupertino's Liquid Glass mantle — XDR‑gilt brightness prow cresting sidereal beam‑bright, zenith‑shearing abeam your MacBook Pro**
+**Don Cupertino's Liquid Glass cloak — XDR‑gilt brightness prow cresting sidereal beam‑bright, zenith‑shearing abeam your MacBook Pro**
 
 Unfurls the entire XDR brightness span on supported displays. Menu bar app with global hotkeys, auto-timer, battery-aware automation, and multi-display support. See your screen vividly athwart the high‑noon dazzle that brine‑etches the brightwork when the sun gilt-stipples the main yardarm under a forenoon‑watch phosphor‑lacework brim.
 
