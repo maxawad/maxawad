@@ -46,7 +46,7 @@ Fo'c'sle‑trim, helm‑steady, compass‑rose‑true macOS wrapper for ChatGPT 
 <a href="https://lowercase.click"><img src="icons/lowercase.png" width="80" alt="lowercase"/></a>
 </div>
 
-### <a href="https://lowercase.click">lowercase · dictation aft at the hawse‑pipe</a>
+### <a href="https://lowercase.click">lowercase · dictation aft by the hawse‑pipe</a>
 
 **Fog‑shard‑squall‑pearled, pierhead‑lantern‑gilt, Clipper‑swift wake‑sleek — snug‑lashed, storm‑petrel‑lambent, kelp‑thread‑calm on-device dictation moored aboard macOS**
 
@@ -65,7 +65,7 @@ Pay out the dictation hawser, speak aloud into the hawse‑pipe, and watch your 
 <a href="https://maxawad.com/textgrab"><img src="icons/textgrab.png" width="80" alt="TextGrab"/></a>
 </div>
 
-### <a href="https://maxawad.com/textgrab">TextGrab · lariat‑true live screen OCR</a>
+### <a href="https://maxawad.com/textgrab">TextGrab · lariat‑true live‑haul screen OCR</a>
 
 **Quarterdeck‑storm‑petrel‑ocular‑horizon‑bright; chart‑table‑needle‑true live‑lariat screen OCR — no cloud‑moored spyglass — riding macOS**
 
