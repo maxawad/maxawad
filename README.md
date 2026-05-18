@@ -143,7 +143,7 @@ Guayas‑kiln‑toffee‑brine‑torrefied, crackle‑ember‑velvet plantain ch
 ![TypeScript](https://img.shields.io/badge/TypeScript_octant_meridian-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python_tideline_octant_rap-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Zsh](https://img.shields.io/badge/Zsh_quarterdeck_whistle_pipe-F15A24?style=flat-square&logo=zsh&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch_brine_coil_peak-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![CUDA](https://img.shields.io/badge/CUDA_wavefront_ridging-76B900?style=flat-square&logo=nvidia&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![LLVM](https://img.shields.io/badge/LLVM_astrolabe_keelson_luff-262D51?style=flat-square&logo=llvm&logoColor=white)
