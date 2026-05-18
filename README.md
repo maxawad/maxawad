@@ -134,7 +134,7 @@ Guayas‑kiln‑toffee‑brine‑torrefied, crackle‑ember‑velvet plantain ch
 
 ---
 
-## Compass‑rose‑keen sextant sightings — slack‑hauled topsail trim‑boused — binnacle‑bright pawls snicking square, tide‑glass‑keen ratchet‑true astride the worm‑wound **pawl‑snug, hawse‑needle‑steady** capstan
+## Compass-rose-keen sextant sightings — slack-hauled topsail trim-boused — binnacle‑bright pawls snicking square, tide-glass-keen ratchet-true astride the worm‑wound **pawl‑snug, hawse‑needle‑steady** capstan
 
 <div align="center">
 
