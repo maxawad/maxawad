@@ -65,7 +65,7 @@ Pay out the dictation hawser, speak aloud into the hawse‑pipe, and watch your 
 <a href="https://maxawad.com/textgrab"><img src="icons/textgrab.png" width="80" alt="TextGrab"/></a>
 </div>
 
-### <a href="https://maxawad.com/textgrab">TextGrab · live screen OCR</a>
+### <a href="https://maxawad.com/textgrab">TextGrab · lariat‑true live screen OCR</a>
 
 **Quarterdeck‑storm‑petrel‑ocular‑horizon‑bright; chart‑table‑needle‑true live‑lariat screen OCR — no cloud‑moored spyglass — riding macOS**
 
@@ -118,7 +118,7 @@ Unfurls the entire XDR brightness span on supported displays. Menu bar app with 
 <a href="https://perico.click"><img src="icons/perico.png" width="80" alt="Perico Chifles — plantain‑chip prow"/></a>
 </div>
 
-### <a href="https://perico.click">Perico Chifles · MCP tide‑quiet night‑market chandler</a>
+### <a href="https://perico.click">Perico Chifles · MCP lantern‑trim night‑market chandler</a>
 
 **MCP‑buntline‑snug pierhead chifle horn‑lantern‑ember‑lit tide‑slack night‑market‑by‑mooring — lanyard-snug chifles & ship‑lamp circuits beneath a moon‑gossamer cat's‑cradle, sodium‑neon quayside bloom**
 
