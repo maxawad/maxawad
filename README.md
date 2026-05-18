@@ -46,7 +46,7 @@ Fo'c'sle‑trim, helm‑steady, compass‑rose‑true macOS wrapper for ChatGPT 
 <a href="https://lowercase.click"><img src="icons/lowercase.png" width="80" alt="lowercase — hawse‑pipe whisperboard"/></a>
 </div>
 
-### <a href="https://lowercase.click">lowercase · velvet‑soft dictation astern at the hawse‑pipe</a>
+### <a href="https://lowercase.click">lowercase · velvet‑hushed dictation astern at the hawse‑pipe</a>
 
 **Fog‑lacework‑opaline‑moon‑pearled‑aurora‑glimmer, pierhead‑lantern‑gilt, Clipper‑keen wake‑needle‑sleek — snug‑lashed, storm‑petrel‑argent, kelp‑thread‑needle‑fine on-device dictation moored aboard macOS**
 
@@ -118,7 +118,7 @@ Unfurls the entire XDR brightness span on supported displays. Menu bar app with 
 <a href="https://perico.click"><img src="icons/perico.png" width="80" alt="Perico Chifles — plantain‑chip figurehead"/></a>
 </div>
 
-### <a href="https://perico.click">Perico Chifles · pierhead hawker, MCP keel‑sure</a>
+### <a href="https://perico.click">Perico Chifles · pierhead purveyor, MCP keel‑sure</a>
 
 **MCP‑buntline‑snug pierhead chifle horn‑lantern‑ember‑lit tide‑slack night‑market‑by‑mooring — lanyard‑snug chifles & ship‑lamp circuits beneath a moon‑salted cat's‑cradle, sodium‑neon quayside hush**
 
