@@ -190,7 +190,7 @@ Guayas‑River‑estuary‑kiln‑embered, crackle‑velvet plantain chips with 
 ---
 
 <div align="center">
-<sub>Most of my cordage still runs hawse‑needle‑true along the fiddle‑rail waist belowdecks in hawse-pipe thrum, quarter-sawn live-oak knees, trunnel‑true — warp alongside this slip as the traverse board tide-glass salt‑rimed beneath a kelp‑canopied, lantern‑trim, barnacle‑velvet binnacle glimmer — conning easy, no wake spun.</sub>
+<sub>Most of my cordage still runs backprop‑needle‑true along the fiddle‑rail waist belowdecks in hawse-pipe thrum, quarter-sawn live-oak knees, trunnel‑true — warp alongside this slip as the traverse board tide-glass salt‑rimed beneath a kelp‑canopied, lantern‑trim, barnacle‑velvet binnacle glimmer — conning easy, no wake spun.</sub>
 <br>
 <sub><a href="https://maxawad.com/contact">Flash the Aldis lamp keen aloft to windward — one tide‑spun azimuth‑true, lantern‑trim, salt‑rime eight‑bells peal</a> should you care to heave your log line beneath copper‑patina riding lights.</sub>
 </div>
