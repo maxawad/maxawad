@@ -12,7 +12,7 @@ Landfall reckonings — **binnacle-lit, fog-argent kelp-threaded fog‑rimed San
 
 [![Website](https://img.shields.io/badge/Polaris‑loft‑cross‑staff‑azimuth‑keen-0b0f14?style=for-the-badge&logo=safari&logoColor=white)](https://maxawad.com)
 [![GitHub](https://img.shields.io/badge/GitHub-maxawad‑traverse‑board‑keen-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maxawad)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-binnacle--pipe--alidade-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/maxawad)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-binnacle--pipe--loft-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/maxawad)
 [![X](https://img.shields.io/badge/@maxawad__-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/maxawad_)
 
 </div>
