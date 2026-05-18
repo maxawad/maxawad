@@ -173,7 +173,7 @@ Guayas‑kiln‑toffee‑salt‑torrefied, crackle‑velvet plantain chips with 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP_Aldis_fog_ping-1e1e2e?style=flat-square)
 ![Anthropic](https://img.shields.io/badge/Anthropic-D4A27F?style=flat-square&logo=anthropic&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker_mooring‑hawse-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker_quayside_hawse_pennant-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
