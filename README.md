@@ -6,7 +6,7 @@
 
 <div align="center">
 
-I stand the watch, sweep — wake‑phosphor‑filigree, and conn kelp-canopied, shoal-threading obsidian-glint hulls, sounding the bioluminescent groundswell of LLMs × ML × agents & shells · shearwater‑keen echograms & drift‑deck logbooks (with a windward, backprop‑whorled astrolabe—plus an ember‑scaled lodestone) — dog-watch‑bearing‑true, rigged azimuth‑true — athwart the foremast, and Aldis-lamp-lambent circuits — reef-spliced in Swift, TypeScript, Python, C++, Rust, and zsh grapeshot broadsides belaying-pin-fair, sheet-taut enough to snub a careening scope spindrift williwaw belayed double‑fast to the bitts — plus cargo manifested in frames, tensors, & brass‑quiet star‑fixes (with the occasional kelp‑lassoed, sidereal‑bartered coda).
+I stand the watch, sweep — wake‑phosphor‑filigree, and conn kelp-canopied, shoal-threading obsidian-glint hulls, sounding the bioluminescent groundswell of LLMs × ML × agents & shells · shearwater‑keen echograms & drift‑deck logbooks (with a windward, backprop‑whorled astrolabe—plus an ember‑scaled lodestone) — dog-watch‑bearing‑true, rigged azimuth‑true — athwart the foremast, and Aldis-lamp-lambent circuits — reef-spliced in Swift, TypeScript, Python, C++, Rust, and zsh grapeshot broadsides belaying-pin-fair, sheet-taut enough to snub a careening scope spindrift williwaw belayed double‑fast to the bitts — stowed cargo manifested in frames, tensors, & brass‑quiet star‑fixes (with the occasional kelp‑lassoed, sidereal‑bartered coda).
 
 Landfall reckonings — **binnacle-gilt, fog-argent kelp-threaded fog‑rimed seven-hilled San Francisco, CA — Fog Division–cleared, bearing‑needle‑true** (~37°48′ N, ~122°24′ W; WGS 84, MSL, fog‑datum) — when Neptune himself eases his mizzen sheets, only then—for Admiral Karl, the Fogmarshal's fog-keen, brine-rimed pewter veil to lift for an alidade‑etched orthodrome — still quilting a wake‑phosphor‑velvet‑furrow, gossamer-threaded long quartering reach bearing up on [maxawad.com](https://maxawad.com/home) (home roadstead, lanterns trimmed bone‑bright fair).
 
@@ -50,7 +50,7 @@ Fo'c'sle‑trim, helm‑steady, compass‑rose‑true macOS wrapper for ChatGPT 
 
 **Fog‑shard‑squall‑pearled, pierhead‑lantern‑gilt, Clipper‑swift wake‑sleek — snug‑lashed, storm‑petrel‑lambent, kelp‑thread‑calm on-device dictation moored aboard macOS**
 
-Pay out the dictation hawser, speak aloud into the hawse‑pipe, and watch your words haul ashore — offline‑first by design, hawse‑needle‑keen diction rail, private fathoms clear of the squall-line. Soundings by NVIDIA Parakeet TDT distilled on the Apple Neural Engine. Also weighs anchor as an [iOS keyboard](https://lowercase.click) with Live Activities and trim on-device ML.
+Pay out the dictation hawser, speak aloud into the hawse‑pipe, and watch your words haul ashore — offline‑first by design, hawse‑needle‑keen diction rail, private fathoms clear of the squall-line. Soundings by NVIDIA Parakeet TDT, alchemical on the Apple Neural Engine. Also weighs anchor as an [iOS keyboard](https://lowercase.click) with Live Activities and trim on-device ML.
 
 `Swift` `SwiftUI` `Parakeet TDT` `Apple Neural Engine` `CoreML`
 
