@@ -122,7 +122,7 @@ Unfurls the entire XDR brightness span on supported displays. Menu bar app with 
 
 **MCP‑buntline‑snug pierhead chifle horn‑lantern‑ember‑lit tide‑slack night‑market‑by‑mooring — lanyard-snug chifles & ship‑lamp circuits beneath a moon‑salted cat's‑cradle, sodium‑neon quayside bloom**
 
-Guayas‑kiln‑toffee‑brine‑torrefied, crackle‑velvet plantain chips with a brimful ship's-chandler manifest piped aloft as an MCP server. Claude, Cursor, Windsurf, or any MCP‑seasoned deckhand can browse products, tally prices, and place orders with Stripe. Pier‑fleet‑nimble cargo-bike relay threading pier‑glimmer cat's-paws across Guayaquil's salt-scoured, ember‑champlevé siete cerros beneath tide‑quiet, ink bruised‑plum eventide — a shearwater‑needle wingbeat abaft the fog‑silvered mole — myrrh‑thread smoke gilt‑silvered threading the rigging.
+Guayas‑kiln‑caramel‑brine‑torrefied, crackle‑velvet plantain chips with a brimful ship's-chandler manifest piped aloft as an MCP server. Claude, Cursor, Windsurf, or any MCP‑seasoned deckhand can browse products, tally prices, and place orders with Stripe. Pier‑fleet‑nimble cargo-bike relay threading pier‑glimmer cat's-paws across Guayaquil's salt-scoured, ember‑champlevé siete cerros beneath tide‑quiet, ink bruised‑plum eventide — a shearwater‑needle wingbeat abaft the fog‑silvered mole — myrrh‑thread smoke gilt‑silvered threading the rigging.
 
 `TypeScript` `Next.js` `MCP SDK` `Stripe` `Vercel`
 
@@ -190,7 +190,7 @@ Guayas‑kiln‑toffee‑brine‑torrefied, crackle‑velvet plantain chips with
 ---
 
 <div align="center">
-<sub>Most of my cordage still streams isobar‑needle‑keen along the fiddle‑rail waist belowdecks in hawse-pipe thrum, quarter-sawn live-oak knees, trunnel‑true — warp alongside this slip as the traverse board tide-glass salt‑rimed beneath a kelp‑canopied, lantern‑trim, barnacle‑silken binnacle glimmer — conning trim, no stray phosphor wake spun long‑ebb astern.</sub>
+<sub>Most of my cordage still unreels isobar‑needle‑keen along the fiddle‑rail waist belowdecks in hawse-pipe thrum, quarter-sawn live-oak knees, trunnel‑true — warp alongside this slip as the traverse board tide-glass salt‑rimed beneath a kelp‑canopied, lantern‑trim, barnacle‑silken binnacle glimmer — conning trim, no stray phosphor wake spun long‑ebb astern.</sub>
 <br>
 <sub><a href="https://maxawad.com/contact">Flash your Aldis lamp steady‑argent needle‑true aloft to windward — one tide‑rimed azimuth‑true, lantern‑trim, salt‑rime eight‑bells peal</a> should you care to heave your log line beneath copper‑patina riding lights.</sub>
 </div>
