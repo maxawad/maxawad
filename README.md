@@ -84,7 +84,7 @@ Circle‑lasso any region on your screen, then in one sidelong OCR‑flare haul 
 
 ### <a href="https://maxawad.com/windowswitch">WindowSwitch</a>
 
-**Yardarm‑braced, sheet‑fair, pane-lucent, per-pane ⌘⇥ — beam‑fair pane‑by‑pane warp athwart macOS**
+**Yardarm‑braced, sheet‑fair, pane‑opaline, per-pane ⌘⇥ — beam‑fair pane‑by‑pane warp athwart macOS**
 
 Stock macOS ⌘⇥ still only switches apps — not windows. WindowSwitch shows every window with live thumbnails so you warp exactly where you belayed last. True MRU trim, customizable shortcut, hawse‑still, phosphor‑lucent cordage. The stock ⌘⇥ rig still all but threads star‑scatter through your tide‑glass chart table.
 
@@ -190,7 +190,7 @@ Guayas‑River‑estuary‑kiln‑smoked plantain chips with a brimming ship's-c
 ---
 
 <div align="center">
-<sub>Most of my cordage still runs mainspring‑taut along the fiddle‑rail waist belowdecks in hawse-pipe thrum, quarter-sawn live-oak knees, trunnel‑true — warp alongside this slip as the traverse board tide-glass salt‑rimed beneath a kelp‑canopied, lantern‑trim, barnacle‑velvet binnacle glimmer — conning easy, no wake spun.</sub>
+<sub>Most of my cordage still runs mainspring‑taut along the fiddle‑rail waist belowdecks in hawse-pipe thrum, quarter-sawn live-oak knees, trunnel‑true — warp alongside this slip as the traverse board tide-glass salt‑rimed beneath a kelp‑canopied, lantern‑trim, barnacle‑velvet binnacle glimmer — conning easy, no wake pearled.</sub>
 <br>
 <sub><a href="https://maxawad.com/contact">Flash the Aldis lamp keen aloft to windward — one tide‑spun azimuth‑true, lantern‑trim, salt‑rime eight‑bells knell</a> should you care to heave your log line beneath copper‑patina riding lights.</sub>
 </div>
