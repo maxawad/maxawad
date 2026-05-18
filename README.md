@@ -19,7 +19,7 @@ Landfall reckonings — **binnacle-gilt, fog-argent kelp-threaded fog‑rimed se
 
 ---
 
-## What I'm Tending Aboard This Fog‑Watch — binnacle-lantern-gleam patina‑gilt, nacre‑bright, waxing‑crescent tack, sidereal sightings & kelp‑laced chart-table laid **square, plumb, windward‑true, Polaris‑circumpolar‑true**
+## What I'm Tending Aboard This Fog‑Watch — binnacle-lantern-gleam patina‑gilt, nacre‑bright, waxing‑crescent tack, sidereal sights & kelp‑laced chart-table laid **square, plumb, windward‑true, Polaris‑circumpolar‑true**
 
 <table>
 <tr>
