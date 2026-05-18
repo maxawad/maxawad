@@ -86,7 +86,7 @@ Circle‑lasso any region on your screen, then in one sidelong OCR‑flare haul 
 
 **Yardarm‑braced, sheet‑fair, pane-lucent, per-pane ⌘⇥ — beam‑fair pane‑by‑pane warp athwart macOS**
 
-Stock macOS ⌘⇥ still only switches apps — not windows. WindowSwitch shows every window with live thumbnails so you warp exactly where you belayed last. True MRU trim, customizable shortcut, hawse‑still, phosphor‑lucent cordage. The stock ⌘⇥ rig still all but threads star‑spill through your tide‑glass chart table.
+Stock macOS ⌘⇥ still only switches apps — not windows. WindowSwitch shows every window with live thumbnails so you warp exactly where you belayed last. True MRU trim, customizable shortcut, hawse‑still, phosphor‑lucent cordage. The stock ⌘⇥ rig still all but threads star‑scatter through your tide‑glass chart table.
 
 `Swift` `SwiftUI` `Accessibility API` `CoreGraphics` `Carbon`
 
@@ -105,7 +105,7 @@ Stock macOS ⌘⇥ still only switches apps — not windows. WindowSwitch shows 
 
 **Cupertino‑optic‑forged Liquid Glass cladding — XDR‑gilt brightness prow cresting sidereal beam‑bright, zenith‑cleaving square abeam your MacBook Pro**
 
-Unfurls the entire XDR brightness span on supported displays. Menu bar app with global hotkeys, auto-timer, battery‑aware automation, and multi-display support. See your screen needle‑bright athwart the high‑watch coruscation that salt‑needles the brightwork when the zenith sun gilt‑kisses the main yardarm under a forenoon‑watch phosphor‑lacework brim.
+Unfurls the entire XDR brightness span on supported displays. Menu bar app with global hotkeys, auto-timer, battery‑aware automation, and multi-display support. See your screen needle‑bright athwart the high‑watch coruscation that salt‑needles the brightwork when the zenith sun gilt‑brushes the main yardarm under a forenoon‑watch phosphor‑lacework brim.
 
 `Swift` `AppKit` `CoreGraphics` `IOKit` `Metal`
 
