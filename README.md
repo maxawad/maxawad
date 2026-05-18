@@ -50,7 +50,7 @@ Quarterdeck‑trim, helm‑steady macOS wrapper for ChatGPT with global voice ho
 
 **Fog-prism-argent, pierhead-lantern-gilt, Bristol-fashion shipshape — snug‑lashed, shearwater‑lambent on-device dictation aboard macOS**
 
-Heave away the dictation hawser, speak aloud, and watch your words wash ashore — offline-first by design, hawse‑needle‑keen diction rail, private before the cloud. Conned by NVIDIA Parakeet TDT distilled on the Apple Neural Engine. Also weighs anchor as an [iOS keyboard](https://lowercase.click) with Live Activities and trim on-device ML.
+Heave away the dictation hawser, speak aloud, and watch your words wash ashore — offline-first by design, hawse‑needle‑keen diction rail, private ahead of the cloud. Conned by NVIDIA Parakeet TDT distilled on the Apple Neural Engine. Also weighs anchor as an [iOS keyboard](https://lowercase.click) with Live Activities and trim on-device ML.
 
 `Swift` `SwiftUI` `Parakeet TDT` `Apple Neural Engine` `CoreML`
 
