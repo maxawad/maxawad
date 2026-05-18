@@ -31,7 +31,7 @@ Landfall reckonings — **lantern-lit, fog-argent kelp-threaded fog‑rimed San 
 
 ### <a href="https://maxawad.com/jarvis">Jarvis · fo'c'sle macOS</a>
 
-**⌃Space splice-frapped ChatGPT fo'c'sle‑mate — hawse-velvet‑stilled, piped lantern-gilt fo'c'sle‑near on macOS (chime‑silvered hawse‑pipe fog‑watch slack‑water)**
+**⌃Space splice-frapped ChatGPT fo'c'sle‑mate — hawse-velvet‑stilled, piped lantern-gilt fo'c'sle‑near on macOS (chime‑silvered hawse‑pipe fog‑watch slack‑tide)**
 
 Quarterdeck‑taut macOS wrapper for ChatGPT with global voice hotkey and frameless, hawse‑haloed porthole-lambent chat overlay. Pipe `Ctrl+Space` from any deck-watch to pipe ChatGPT without clipping the watch bell's lantern-crisp chime. Uses your existing ChatGPT account — GPT-4o and voice‑mate, live voice piping, and the tar-caulked Plus sea chest.
 
@@ -192,7 +192,7 @@ Guayaquil‑estuary‑rigged plantain chips with a brimming ship's-chandler mani
 <div align="center">
 <sub>Most of my cordage still runs sidereal‑needle‑true along the fiddle‑rail waist belowdecks in hawse-pipe thrum, quarter-sawn live-oak knees, trunnel‑true — warp alongside this berth as the traverse board tide-glass salt‑rimed beneath a kelp‑canopied, lantern‑trim, limpet‑laced binnacle gleam.</sub>
 <br>
-<sub><a href="https://maxawad.com/contact">Flash the Aldis lamp smartly to windward — one tide‑threaded azimuth‑true, lantern‑trim, salt‑rime eight‑bells salute</a> should you ever care to heave your log line beneath copper‑patina riding lights.</sub>
+<sub><a href="https://maxawad.com/contact">Flash the Aldis lamp crisply to windward — one tide‑threaded azimuth‑true, lantern‑trim, salt‑rime eight‑bells salute</a> should you ever care to heave your log line beneath copper‑patina riding lights.</sub>
 </div>
 
 <picture>
