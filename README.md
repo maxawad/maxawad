@@ -126,7 +126,7 @@ Guayas‑River‑estuary‑brined plantain chips with a brimming ship's-chandler
 
 `TypeScript` `Next.js` `MCP SDK` `Stripe` `Vercel`
 
-<sub>Haul taut — pedal‑fleet tide‑nimble, lantern‑trim same-watch dispatch via <a href="https://perico.click">perico.click</a></sub>
+<sub>Haul taut, shipmate — pedal‑fleet tide‑nimble, lantern‑trim same-watch dispatch via <a href="https://perico.click">perico.click</a></sub>
 
 </td>
 </tr>
