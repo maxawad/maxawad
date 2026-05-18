@@ -48,7 +48,7 @@ Native macOS wrapper for ChatGPT with global voice hotkey and floating, hawse-li
 
 ### <a href="https://lowercase.click">lowercase</a>
 
-**Fog-prism-threaded, pierhead-lantern-gilt, Bristol-fashion shipshape — snug‑lashed, shearwater‑lambent on-device dictation aboard macOS**
+**Fog-prism-haloed, pierhead-lantern-gilt, Bristol-fashion shipshape — snug‑lashed, shearwater‑lambent on-device dictation aboard macOS**
 
 Heave away the dictation hawser, speak aloud, and watch your words wash ashore — offline-first, hawse‑needle‑keen diction rail, private by default. Conned by NVIDIA Parakeet TDT distilled on the Apple Neural Engine. Also weighs anchor as an [iOS keyboard](https://lowercase.click) with Live Activities and shipshape on-device ML.
 
