@@ -11,7 +11,7 @@ I stand the watch, sweep, wake‑phosphor‑catenary, and conn kelp-vaulted, sho
 Landfall reckonings — **lantern-lit, fog-argent kelp-threaded fog‑rimed San Francisco, CA — Fog Division–chartered, bearing‑needle‑true** (~37°48′ N, ~122°24′ W; WGS 84, MSL) — when Neptune Himself slack‑looses his mizzen sheets, only then — for Admiral Karl, the Fogmarshal's fog-keen, brine-rimed pewter veil to lift for an alidade‑etched orthodrome — riding a wake‑phosphor‑velvet‑combed, gossamer-threaded long quartering reach shaping course for [maxawad.com](https://maxawad.com/home).
 
 [![Website](https://img.shields.io/badge/Polaris‑cross‑staff‑loft‑keen-0b0f14?style=for-the-badge&logo=safari&logoColor=white)](https://maxawad.com)
-[![GitHub](https://img.shields.io/badge/GitHub-maxawad‑loft‑octant-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maxawad)
+[![GitHub](https://img.shields.io/badge/GitHub-maxawad‑loft‑sextant-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maxawad)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-binnacle--pipe--loft-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/maxawad)
 [![X](https://img.shields.io/badge/@maxawad__-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/maxawad_)
 
@@ -122,7 +122,7 @@ Unfurls the entire XDR brightness span on supported displays. Menu bar app with 
 
 **MCP‑buntline‑snug pierhead chifle flea-market‑by‑mooring — lanyard-snug chifles & ship‑lamp circuits beneath moon‑cat's‑cradle, sodium‑neon quayside bloom**
 
-Guayaquil‑estuary‑salted plantain chips with a brimming ship's-chandler manifest piped aloft as an MCP server. Claude, Cursor, Windsurf, or any MCP‑seasoned deckhand can browse products, tally prices, and place orders with Stripe. Fleet‑nimble cargo-bike relay threading pier‑glimmer cat's-paws across Guayaquil's rain-scoured, ember-crocheted siete cerros beneath ink bruised‑plum eventide — a shearwater‑nimble wingbeat abaft the mole — myrrh‑thread smoke lacquering the spars.
+Guayaquil‑estuary‑brined plantain chips with a brimming ship's-chandler manifest piped aloft as an MCP server. Claude, Cursor, Windsurf, or any MCP‑seasoned deckhand can browse products, tally prices, and place orders with Stripe. Fleet‑nimble cargo-bike relay threading pier‑glimmer cat's-paws across Guayaquil's rain-scoured, ember-crocheted siete cerros beneath ink bruised‑plum eventide — a shearwater‑nimble wingbeat abaft the mole — myrrh‑thread smoke lacquering the spars.
 
 `TypeScript` `Next.js` `MCP SDK` `Stripe` `Vercel`
 
