@@ -1,7 +1,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f14,50:1a1a2e,100:0b0f14&height=200&section=header&text=Max%20Awad&fontSize=60&fontColor=f1f5f9&fontAlignY=35&desc=Software%20Engineer%20%E2%80%A2%20ex-Google%20%E2%80%A2%20ex-Instagram%20%E2%80%A2%20ex-Apple&descSize=16&descAlignY=55&descColor=94a3b8&animation=fadeIn"/>
   <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:e2e8f0,50:f8fafc,100:e2e8f0&height=200&section=header&text=Max%20Awad&fontSize=60&fontColor=0f172a&fontAlignY=35&desc=Software%20Engineer%20%E2%80%A2%20ex-Google%20%E2%80%A2%20ex-Instagram%20%E2%80%A2%20ex-Apple&descSize=16&descAlignY=55&descColor=475569&animation=fadeIn"/>
-  <img alt="Max Awad — kelp-canopied, fog-whorled blue-watch, quarterdeck-belayed waving header with lighthouse-haloed, phosphor-threaded masthead bloom and Leach's fork-tailed storm-petrel aurora-argent wake-vane — one sidelong gull, port quarter, brine‑rimed in silver haze; a sidereal sextant gleam off the dog-watch" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f14,50:1a1a2e,100:0b0f14&height=200&section=header&text=Max%20Awad&fontSize=60&fontColor=f1f5f9&fontAlignY=35&desc=Software%20Engineer%20%E2%80%A2%20ex-Google%20%E2%80%A2%20ex-Instagram%20%E2%80%A2%20ex-Apple&descSize=16&descAlignY=55&descColor=94a3b8&animation=fadeIn" width="100%"/>
+  <img alt="Max Awad — kelp-canopied, fog-whorled blue-watch, quarterdeck-belayed waving header with lighthouse-haloed, phosphor-threaded masthead bloom and Leach's fork-tailed storm-petrel aurora-argent wake-vane — one sidelong gull, port quarter, brine‑rimed in silver haze; a sidereal sextant gleam off the fog-watch" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f14,50:1a1a2e,100:0b0f14&height=200&section=header&text=Max%20Awad&fontSize=60&fontColor=f1f5f9&fontAlignY=35&desc=Software%20Engineer%20%E2%80%A2%20ex-Google%20%E2%80%A2%20ex-Instagram%20%E2%80%A2%20ex-Apple&descSize=16&descAlignY=55&descColor=94a3b8&animation=fadeIn" width="100%"/>
 </picture>
 
 <div align="center">
@@ -19,7 +19,7 @@ Landfall reckonings — **binnacle-gilt, fog-argent kelp-threaded fog‑rimed Sa
 
 ---
 
-## What I'm Rigging Trim This Dog‑Watch — binnacle-lantern-glint patina‑bright, nacre‑bright, waxing‑quarter tack, sidereal sights & kelp‑laced chart-table laid **square, plumb, Polaris‑needle‑true**
+## What I'm Rigging Trim This Fog‑Watch — binnacle-lantern-glint patina‑bright, nacre‑bright, waxing‑quarter tack, sidereal sights & kelp‑laced chart-table laid **square, plumb, Polaris‑needle‑true**
 
 <table>
 <tr>
