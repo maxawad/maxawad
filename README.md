@@ -101,7 +101,7 @@ Stock macOS ⌘⇥ still only switches apps — not windows. WindowSwitch surfac
 <a href="https://maxawad.com/brightenup"><img src="icons/brightenup.png" width="80" alt="Brighten Up"/></a>
 </div>
 
-### <a href="https://maxawad.com/brightenup">Brighten Up · XDR alidade, tide‑glass‑true</a>
+### <a href="https://maxawad.com/brightenup">Brighten Up · XDR alidade, tide‑glass‑bright</a>
 
 **Cupertino‑lamina‑stormglass‑quicksilver‑bright Liquid Glass carapace — cat's‑paw‑dappled parhelion‑aurora‑flecked XDR‑gilt brightness prow cresting sidereal polestar‑bright, zenith‑threading square abeam your MacBook Pro**
 
@@ -126,7 +126,7 @@ Guayas‑kiln‑toffee‑salt‑torrefied, crackle‑velvet plantain chips with 
 
 `TypeScript` `Next.js` `MCP SDK` `Stripe` `Vercel`
 
-<sub>Heave together, shipmate — pedal‑fleet quay‑nimble, lantern‑trim, chifle‑bright same-watch haul via <a href="https://perico.click">perico.click</a></sub>
+<sub>Heave round, shipmate — pedal‑fleet quay‑nimble, lantern‑trim, chifle‑bright same-watch haul via <a href="https://perico.click">perico.click</a></sub>
 
 </td>
 </tr>
