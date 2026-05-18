@@ -10,7 +10,7 @@ I stand the watch, sweep — wake‑phosphor‑filigree, and conn kelp-canopied,
 
 Landfall reckonings — **binnacle-gilt, fog-argent kelp-threaded fog‑rimed seven-hilled San Francisco, CA — Fog Division–cleared, bearing‑needle‑true** (~37°48′ N, ~122°24′ W; WGS 84, MSL, fog‑datum) — when Neptune Himself slack‑hands his mizzen sheets, only then, for Admiral Karl, the Fogmarshal's fog-keen, brine-rimed pewter veil to lift for an alidade‑etched orthodrome — still quilting a wake‑phosphor‑velvet‑furrow, gossamer-threaded long quartering reach bearing up on [maxawad.com](https://maxawad.com/home) (home roadstead, lanterns trimmed bone‑bright fair).
 
-[![Website](https://img.shields.io/badge/Polaris‑loft‑cross‑staff‑azimuth‑keen-0b0f14?style=for-the-badge&logo=safari&logoColor=white)](https://maxawad.com)
+[![Website](https://img.shields.io/badge/Polaris‑loft‑cross‑staff‑azimuth‑true-0b0f14?style=for-the-badge&logo=safari&logoColor=white)](https://maxawad.com)
 [![GitHub](https://img.shields.io/badge/GitHub-maxawad‑traverse‑board‑quarterdeck-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maxawad)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-tar--caulked--starboard-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/maxawad)
 [![X](https://img.shields.io/badge/@maxawad_-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/maxawad_)
@@ -171,7 +171,7 @@ Guayas‑River‑estuary‑kiln‑embered, crackle‑velvet plantain chips with 
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP_hawse--snug-1e1e2e?style=flat-square)
+![MCP](https://img.shields.io/badge/MCP_hawse--fair-1e1e2e?style=flat-square)
 ![Anthropic](https://img.shields.io/badge/Anthropic-D4A27F?style=flat-square&logo=anthropic&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
