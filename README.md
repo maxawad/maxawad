@@ -115,7 +115,7 @@ Unfurls the entire XDR brightness span on supported displays. Menu bar app with 
 <td width="50%" valign="top">
 
 <div align="center">
-<a href="https://perico.click"><img src="icons/perico.png" width="80" alt="Perico Chifles — plantain‑chip crest"/></a>
+<a href="https://perico.click"><img src="icons/perico.png" width="80" alt="Perico Chifles — plantain‑chip prow"/></a>
 </div>
 
 ### <a href="https://perico.click">Perico Chifles</a>
