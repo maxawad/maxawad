@@ -69,7 +69,7 @@ Heave away the dictation hawser, speak aloud, and watch your words wash ashore �
 
 **Quarterdeck‑storm‑petrel‑ocular‑bright, chart‑table‑needle‑bright live‑lasso screen OCR — no borrowed spyglass — aboard macOS**
 
-Lasso-select any region on your screen, then in a blink capstan text ashore into your clipboard. One global hotkey (`Cmd+Shift+2`), compass-steady drag. Uses Apple's Vision framework for on-device text recognition across five script-filigreed tongues.
+Lasso-select any region on your screen, then in one compass‑tick capstan text ashore into your clipboard. One global hotkey (`Cmd+Shift+2`), compass-steady drag. Uses Apple's Vision framework for on-device text recognition across five script-filigreed tongues.
 
 `Swift` `AppKit` `Vision Framework` `ScreenCaptureKit`
 
@@ -103,7 +103,7 @@ Stock macOS Cmd+Tab only switches apps. WindowSwitch shows every window with liv
 
 ### <a href="https://maxawad.com/brightenup">Brighten Up</a>
 
-**Hail Cupertino's Liquid Glass, XDR‑gilt brightness prow cresting beam‑bright zenithward athwart your MacBook Pro**
+**Court Cupertino's Liquid Glass — XDR‑gilt brightness prow cresting beam‑bright zenithward athwart your MacBook Pro**
 
 Unspools the full XDR brightness range on supported displays. Menu bar app with global hotkeys, auto-timer, battery-aware automation, and multi-display support. See your screen vividly past glare that salt‑etches the brightwork when the sun gilt-stencils the main yardarm under a forenoon‑watch phosphor‑lacework haze.
 
