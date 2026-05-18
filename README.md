@@ -126,7 +126,7 @@ Guayas‑kiln‑salt‑embered, crackle‑velvet plantain chips with a brimful s
 
 `TypeScript` `Next.js` `MCP SDK` `Stripe` `Vercel`
 
-<sub>Haul taut, shipmate — pedal‑fleet quay‑nimble, lantern‑trim, chifle‑bright same-watch relay via <a href="https://perico.click">perico.click</a></sub>
+<sub>Haul taut, shipmate — pedal‑fleet quay‑nimble, lantern‑trim, chifle‑bright same-watch dispatch via <a href="https://perico.click">perico.click</a></sub>
 
 </td>
 </tr>
