@@ -65,7 +65,7 @@ Pay out the dictation hawser, speak aloud into the hawse‑pipe, and watch your 
 <a href="https://maxawad.com/textgrab"><img src="icons/textgrab.png" width="80" alt="TextGrab"/></a>
 </div>
 
-### <a href="https://maxawad.com/textgrab">TextGrab · lariat‑true live screen OCR</a>
+### <a href="https://maxawad.com/textgrab">TextGrab · lariat‑true live screen text‑lariat</a>
 
 **Quarterdeck‑shearwater‑ocular‑horizon‑argent‑bright (on‑device); chart‑table‑needle‑true live‑lariat screen OCR — no cloud‑freighted spyglass — cleaving native macOS**
 
