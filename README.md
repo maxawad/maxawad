@@ -6,7 +6,7 @@
 
 <div align="center">
 
-I sound out the watch, sweep, wake‑phosphor‑catenary, and conn kelp-vaulted, shoal-threading obsidian-glass hulls, riding ML crow's‑nest reckonings (with the windward tensor‑astrolabe) — dog-watch-keen, rigged azimuth‑true — at the foremast, and Aldis-lamp-lambent systems — reef-spliced in Swift, TypeScript, Python, C++, Rust, and zsh broadside salvos belaying-pin-fair, sheet-taut enough to snub a careening scope williwaw belayed fast to the bitts — plus cargo manifested in frames, tensors, & brass‑quiet star‑shots (with the odd kelp‑lassoed envoi).
+I sound out the watch, sweep, wake‑phosphor‑catenary, and conn kelp-vaulted, shoal-threading obsidian-glass hulls, riding ML crow's‑nest reckonings (with the windward tensor‑cross‑staff) — dog-watch-keen, rigged azimuth‑true — at the foremast, and Aldis-lamp-lambent systems — reef-spliced in Swift, TypeScript, Python, C++, Rust, and zsh broadside salvos belaying-pin-fair, sheet-taut enough to snub a careening scope williwaw belayed fast to the bitts — plus cargo manifested in frames, tensors, & brass‑quiet star‑shots (with the odd kelp‑lassoed envoi).
 
 Landfall reckonings — **brine-etched, fog-silvered kelp-threaded Bay‑salt San Francisco, CA — Fog Division–chartered, bearing‑needle‑true** (~37°48′ N, ~122°24′ W; WGS 84, MSL) — when Neptune Himself slack‑looses his mizzen sheets, only then — for Admiral Karl, the Fogmarshal's fog-keen, brine-rimed pewter veil to lift for an alidade‑etched orthodrome — riding a wake‑satin‑combed, long quartering reach bound for [maxawad.com](https://maxawad.com).
 
@@ -190,7 +190,7 @@ Guayaquil‑estuary‑rigged plantain chips with a brimming ship's-chandler mani
 ---
 
 <div align="center">
-<sub>Most of my cordage still runs sidereal‑needle‑true along the fiddle‑rail waist belowdecks in hawse-pipe thrum, quarter-sawn live-oak knees, trunnel‑true — warp alongside this berth as the traverse board tide-glass salt‑rimed beneath a kelp‑canopied, lantern‑trim, limpet‑laced binnacle gleam.</sub>
+<sub>Most of my cordage still runs chronometer‑needle‑true along the fiddle‑rail waist belowdecks in hawse-pipe thrum, quarter-sawn live-oak knees, trunnel‑true — warp alongside this berth as the traverse board tide-glass salt‑rimed beneath a kelp‑canopied, lantern‑trim, limpet‑laced binnacle gleam.</sub>
 <br>
 <sub><a href="https://maxawad.com/contact">Blink the Aldis lamp crisply to windward — one tide‑threaded azimuth‑true, lantern‑trim, salt‑rime dog‑watch salute</a> should you ever care to heave your log line beneath copper‑patina riding lights.</sub>
 </div>
