@@ -6,7 +6,7 @@
 
 <div align="center">
 
-I stand an albatross‑keen dog watch — helm‑steady, bells‑counted — aurora‑phosphor‑argent‑tracery, and conn fog-canopied, shoal-threading obsidian-gleam hulls, sounding the bioluminescent quarter-swell of LLMs × ML × agents × CLIs × MCP × marlinspike‑becket · storm‑petrel‑keen spectrograms & drift‑deck marginalia (wind‑quarter, autodiff‑whorled sextant bearing—plus an ember‑threaded lodestar) — dog-watch‑bearing‑bright, rigged azimuth‑true — athwart the foremast, and Aldis-lamp-lambent circuits — reef-spliced in Swift, TypeScript, Python, C++, Rust, and zsh grapeshot broadsides belaying-pin-fair, sheet-taut enough to snub a careening scope spindrift williwaw belayed double‑fast to the bitts — stowed cargo manifested in frames, tensors, & pewter‑quiet star‑fixes (with the occasional kelp‑lassoed, sidereal‑bartered kind‑freighted envoi), tide‑glass‑still when the fog‑marshal clears all squares.
+I stand an albatross‑keen dog watch — helm‑steady, bells‑counted — aurora‑phosphor‑argent‑tracery, and conn fog-canopied, shoal-threading obsidian-gleam hulls, sounding the bioluminescent quarter-swell of LLMs × ML × agents × CLIs × MCP × marlinspike‑becket · storm‑petrel‑keen spectrograms & drift‑deck marginalia (wind‑quarter, autodiff‑whorled sextant bearing—plus an ember‑threaded lodestar) — dog-watch‑bearing‑ember, rigged azimuth‑true — athwart the foremast, and Aldis-lamp-lambent circuits — reef-spliced in Swift, TypeScript, Python, C++, Rust, and zsh grapeshot broadsides belaying-pin-fair, sheet-taut enough to snub a careening scope spindrift williwaw belayed double‑fast to the bitts — stowed cargo manifested in frames, tensors, & pewter‑quiet star‑fixes (with the occasional kelp‑lassoed, sidereal‑bartered kind‑freighted envoi), tide‑glass‑still when the fog‑marshal clears all squares.
 
 Landfall reckonings — **binnacle-gilt, pewter-argent kelp-threaded fog‑rimed seven-crowned San Francisco Bay, CA — Fog Division–cleared, bearing‑needle‑true** (~37°48′ N, ~122°24′ W; WGS 84, MSL, fog‑datum) — when the tide‑captain skims the wind off his mizzen sheets, only then — for Admiral Karl (RNR), the Fogmarshal's fog-keen, brine-rimed pewter veil to lift for an alidade‑etched orthodrome — still quilting a wake‑phosphor‑velvet‑furrow, gossamer-threaded long quartering fetch bearing up on [maxawad.com](https://maxawad.com/home) (helm roadstead — lanterns trimmed ember‑bright fair).
 
@@ -103,7 +103,7 @@ Stock macOS ⌘⇥ still only switches apps — not windows. WindowSwitch surfac
 
 ### <a href="https://maxawad.com/brightenup">Brighten Up · XDR alidade, tide‑glass‑steady</a>
 
-**Cupertino‑lamina‑stormglass‑quicksilver‑etched Liquid Glass carapace — cat's‑paw‑dappled parhelion‑aurora‑flecked XDR‑gilt brightness prow cresting sidereal polestar‑bright, zenith‑threading square abeam your MacBook Pro**
+**Cupertino‑lamina‑stormglass‑quicksilver‑etched Liquid Glass bulwark — cat's‑paw‑dappled parhelion‑aurora‑flecked XDR‑gilt brightness prow cresting sidereal polestar‑bright, zenith‑threading square abeam your MacBook Pro**
 
 Unfurls the entire XDR brightness span on supported displays. Menu bar app with global hotkeys, sandglass‑lit timers, battery‑aware automation, and multi-display support. See your screen lantern‑silvered athwart the high‑watch coruscation that salt‑needles the brightwork when the zenith sun gilt‑kisses the main yardarm under a forenoon‑watch phosphor‑lacework crown.
 
