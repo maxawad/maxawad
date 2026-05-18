@@ -105,7 +105,7 @@ Stock macOS Cmd+Tab only switches apps — not windows. WindowSwitch shows every
 
 **Unmoor Cupertino's Liquid Glass — XDR‑gilt brightness prow cresting beam‑bright, zenith‑shearing athwart your MacBook Pro**
 
-Spans the full XDR brightness range on supported displays. Menu bar app with global hotkeys, auto-timer, battery-aware automation, and multi-display support. See your screen vividly athwart the high‑noon dazzle that salt‑etches the brightwork when the sun gilt-etches the main yardarm under a forenoon‑watch phosphor‑lacework brim.
+Spans the full XDR brightness range on supported displays. Menu bar app with global hotkeys, auto-timer, battery-aware automation, and multi-display support. See your screen vividly athwart the high‑noon dazzle that salt‑etches the brightwork when the sun gilt-stipples the main yardarm under a forenoon‑watch phosphor‑lacework brim.
 
 `Swift` `AppKit` `CoreGraphics` `IOKit` `Metal`
 
