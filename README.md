@@ -192,7 +192,7 @@ Guayas‑River‑estuary‑kiln‑smoked plantain chips with a brimming ship's-c
 <div align="center">
 <sub>Most of my cordage still runs mainspring‑taut along the fiddle‑rail waist belowdecks in hawse-pipe thrum, quarter-sawn live-oak knees, trunnel‑true — warp alongside this slip as the traverse board tide-glass salt‑rimed beneath a kelp‑canopied, lantern‑trim, barnacle‑velvet binnacle glimmer — conning easy, no wake spun.</sub>
 <br>
-<sub><a href="https://maxawad.com/contact">Flash the Aldis lamp keen aloft to windward — one tide‑spun azimuth‑true, lantern‑trim, salt‑rime eight‑bells peal, fair‑leads cleared</a> should you care to heave your log line beneath copper‑patina riding lights.</sub>
+<sub><a href="https://maxawad.com/contact">Flash the Aldis lamp keen aloft to windward — one tide‑spun azimuth‑true, lantern‑trim, salt‑rime eight‑bells peal</a> should you care to heave your log line beneath copper‑patina riding lights.</sub>
 </div>
 
 <picture>
