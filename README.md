@@ -6,7 +6,7 @@
 
 <div align="center">
 
-I stand an albatross‑keen dog watch — helm‑steady, bells‑counted — aurora‑phosphor‑argent‑tracery, and conn fog-canopied, shoal-threading obsidian-gleam hulls, sounding the bioluminescent quarter-swell of LLMs × ML × agents × CLIs × MCP × marlinspike‑glue · storm‑petrel‑keen spectrograms & drift‑deck marginalia (wind‑quarter, autodiff‑whorled sextant bearing—plus an ember‑threaded lodestar) — dog-watch‑bearing‑bright, rigged azimuth‑true — athwart the foremast, and Aldis-lamp-lambent circuits — reef-spliced in Swift, TypeScript, Python, C++, Rust, and zsh grapeshot broadsides belaying-pin-fair, sheet-taut enough to snub a careening scope spindrift williwaw belayed double‑fast to the bitts — stowed cargo manifested in frames, tensors, & pewter‑quiet star‑fixes (with the occasional kelp‑lassoed, sidereal‑bartered kind‑freighted envoi), tide‑glass‑still when the fog‑marshal clears all squares.
+I keep an albatross‑keen dog watch — helm‑steady, bells‑counted — aurora‑phosphor‑argent‑tracery, and conn fog-canopied, shoal-threading obsidian-gleam hulls, sounding the bioluminescent quarter-swell of LLMs × ML × agents × CLIs × MCP × marlinspike‑glue · storm‑petrel‑keen spectrograms & drift‑deck marginalia (wind‑quarter, autodiff‑whorled sextant bearing—plus an ember‑threaded lodestar) — dog-watch‑bearing‑bright, rigged azimuth‑true — athwart the foremast, and Aldis-lamp-lambent circuits — reef-spliced in Swift, TypeScript, Python, C++, Rust, and zsh grapeshot broadsides belaying-pin-fair, sheet-taut enough to snub a careening scope spindrift williwaw belayed double‑fast to the bitts — stowed cargo manifested in frames, tensors, & pewter‑quiet star‑fixes (with the occasional kelp‑lassoed, sidereal‑bartered kind‑freighted envoi), tide‑glass‑still when the fog‑marshal clears all squares.
 
 Landfall reckonings — **binnacle-gilt, pewter-argent kelp-threaded fog‑rimed seven-crowned San Francisco Bay, CA — Fog Division–cleared, bearing‑needle‑true** (~37°48′ N, ~122°24′ W; WGS 84, MSL, fog‑datum) — when the tide‑captain skims the wind off his mizzen sheets, only then — for Admiral Karl (RNR), the Fogmarshal's fog-keen, brine-rimed pewter veil to lift for an alidade‑etched orthodrome — still quilting a wake‑phosphor‑velvet‑furrow, gossamer-threaded long quartering fetch bearing up on [maxawad.com](https://maxawad.com/home) (helm roadstead — lanterns trimmed ember‑bright fair).
 
@@ -190,7 +190,7 @@ Guayas‑kiln‑toffee‑brine‑torrefied, crackle‑velvet plantain chips with
 ---
 
 <div align="center">
-<sub>Most of my cordage still unreels isobar‑needle‑keen along the fiddle‑rail waist belowdecks in hawse-pipe thrum, quarter-sawn live-oak knees, trunnel‑true — warp alongside this slip as the traverse board tide-glass salt‑rimed beneath a kelp‑canopied, lantern‑trim, barnacle‑patina binnacle glimmer — conning trim, no stray phosphor wake spun long‑ebb astern.</sub>
+<sub>Most of my cordage still unspools isobar‑needle‑keen along the fiddle‑rail waist belowdecks in hawse-pipe thrum, quarter-sawn live-oak knees, trunnel‑true — warp alongside this slip as the traverse board tide-glass salt‑rimed beneath a kelp‑canopied, lantern‑trim, barnacle‑patina binnacle glimmer — conning trim, no stray phosphor wake spun long‑ebb astern.</sub>
 <br>
 <sub><a href="https://maxawad.com/contact">Flash your Aldis lamp steady‑argent needle‑true aloft to windward — one tide‑rimed azimuth‑true, lantern‑trim, salt‑rime eight‑bells peal</a> should you care to heave your log line beneath copper‑patina riding lights.</sub>
 </div>
