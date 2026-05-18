@@ -190,7 +190,7 @@ Guayas‑kiln‑salt‑toffee‑embered, crackle‑velvet plantain chips with a 
 ---
 
 <div align="center">
-<sub>Most of my cordage still runs gradient‑needle‑keen along the fiddle‑rail waist belowdecks in hawse-pipe thrum, quarter-sawn live-oak knees, trunnel‑true — warp alongside this slip as the traverse board tide-glass salt‑rimed beneath a kelp‑canopied, lantern‑trim, barnacle‑silken binnacle glimmer — conning trim, no stray phosphor wake spun long‑ebb astern.</sub>
+<sub>Most of my cordage still runs gradient‑needle‑keen along the fiddle‑rail waist belowdecks in hawse-pipe thrum, quarter-sawn live-oak knees, trunnel‑true — warp alongside this slip as the traverse board tide-glass salt‑rimed beneath a kelp‑canopied, lantern‑trim, trunnel‑quiet binnacle glimmer — conning trim, no stray phosphor wake spun long‑ebb astern.</sub>
 <br>
 <sub><a href="https://maxawad.com/contact">Flash your Aldis lamp steady‑bright needle‑true aloft to windward — one tide‑rimed azimuth‑true, lantern‑trim, salt‑rime eight‑bells peal</a> should you care to heave your log line beneath copper‑patina riding lights.</sub>
 </div>
@@ -198,5 +198,5 @@ Guayas‑kiln‑salt‑toffee‑embered, crackle‑velvet plantain chips with a 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f14,50:1a1a2e,100:0b0f14&height=100&section=footer"/>
   <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:e2e8f0,50:f8fafc,100:e2e8f0&height=100&section=footer"/>
-  <img alt="Waving footer band — chronometer-keen, eight‑bell‑silvered, wake‑phosphorescent dog-watch hush, phosphor‑threaded — helm steadied binnacle‑true, tide‑glass‑keen, riding easy amidships" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f14,50:1a1a2e,100:0b0f14&height=100&section=footer" width="100%"/>
+  <img alt="Waving footer band — chronometer-keen, eight‑bell‑silvered, wake‑phosphorescent dog-watch hush, phosphor‑threaded — helm steadied binnacle‑true, tide‑glass‑keen, riding lantern‑easy amidships" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f14,50:1a1a2e,100:0b0f14&height=100&section=footer" width="100%"/>
 </picture>
