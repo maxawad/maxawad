@@ -6,7 +6,7 @@
 
 <div align="center">
 
-I sound out the watch, sweep, wake‑phosphor‑catenary, and conn kelp-vaulted, shoal-threading obsidian-glass hulls, riding ML crow's‑nest reckonings (with the windward tensor‑cross‑staff) — dog-watch-sharp, rigged azimuth‑true — at the foremast, and Aldis-lamp-lambent systems — reef-spliced in Swift, TypeScript, Python, C++, Rust, and zsh broadside salvos belaying-pin-fair, sheet-taut enough to snub a careening scope williwaw belayed fast to the bitts — plus cargo manifested in frames, tensors, & brass‑quiet star‑shots (with the odd kelp‑lassoed envoi).
+I sound out the watch, sweep, wake‑phosphor‑catenary, and conn kelp-vaulted, shoal-threading obsidian-glass hulls, riding ML crow's‑nest reckonings (with the windward tensor‑cross‑staff) — dog-watch-sharp, rigged azimuth‑true — at the foremast, and Aldis-lamp-lambent systems — reef-spliced in Swift, TypeScript, Python, C++, Rust, and zsh broadside salvos belaying-pin-fair, sheet-taut enough to snub a careening scope williwaw belayed fast to the bitts — plus cargo manifested in frames, tensors, & brass‑quiet star‑fixes (with the odd kelp‑lassoed envoi).
 
 Landfall reckonings — **brine-etched, fog-silvered kelp-threaded Bay‑salt San Francisco, CA — Fog Division–chartered, bearing‑needle‑true** (~37°48′ N, ~122°24′ W; WGS 84, MSL) — when Neptune Himself slack‑looses his mizzen sheets, only then — for Admiral Karl, the Fogmarshal's fog-keen, brine-rimed pewter veil to lift for an alidade‑etched orthodrome — riding a wake‑velvet‑combed, long quartering reach bound for [maxawad.com](https://maxawad.com).
 
@@ -69,7 +69,7 @@ Heave away the dictation hawser, speak aloud, and watch your words wash ashore �
 
 **Quarterdeck‑storm‑petrel‑ocular‑keen, chart‑table‑needle‑true live‑lasso screen OCR — no borrowed spyglass — aboard macOS**
 
-Lasso-select any region on your screen, then in a capstan-flash blink text ashore into your clipboard. One global hotkey (`Cmd+Shift+2`), compass-steady drag. Uses Apple's Vision framework for on-device text recognition across five script-filigreed tongues.
+Lasso-select any region on your screen, then in a capstan-flash haul text ashore into your clipboard. One global hotkey (`Cmd+Shift+2`), compass-steady drag. Uses Apple's Vision framework for on-device text recognition across five script-filigreed tongues.
 
 `Swift` `AppKit` `Vision Framework` `ScreenCaptureKit`
 
