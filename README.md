@@ -6,7 +6,7 @@
 
 <div align="center">
 
-I stand the watch, sweep — wake‑phosphor‑argent‑filigree, and conn kelp-canopied, shoal-threading obsidian-glint hulls, sounding the bioluminescent groundswell of LLMs × ML × agents × shells · shearwater‑keen echograms & drift‑deck logbooks (with a windward, backprop‑whorled astrolabe—plus an ember‑scaled lodestone) — dog-watch‑bearing‑true, rigged azimuth‑true — athwart the foremast, and Aldis-lamp-lambent circuits — reef-spliced in Swift, TypeScript, Python, C++, Rust, and zsh grapeshot broadsides belaying-pin-fair, sheet-taut enough to snub a careening scope spindrift williwaw belayed double‑fast to the bitts — plus cargo manifested in frames, tensors, & brass‑quiet star‑fixes (with the occasional kelp‑lassoed, sidereal‑bartered envoi).
+I stand the watch, sweep — wake‑phosphor‑argent‑filigree, and conn kelp-canopied, shoal-threading obsidian-glint hulls, sounding the bioluminescent groundswell of LLMs × ML × agents × shells · shearwater‑keen echograms & drift‑deck logbooks (with a windward, backprop‑whorled astrolabe—plus an ember‑scaled lodestone) — dog-watch‑bearing‑true, rigged azimuth‑true — athwart the foremast, and Aldis-lamp-limned circuits — reef-spliced in Swift, TypeScript, Python, C++, Rust, and zsh grapeshot broadsides belaying-pin-fair, sheet-taut enough to snub a careening scope spindrift williwaw belayed double‑fast to the bitts — plus cargo manifested in frames, tensors, & brass‑quiet star‑fixes (with the occasional kelp‑lassoed, sidereal‑bartered envoi).
 
 Landfall reckonings — **binnacle-gilt, fog-argent kelp-threaded fog‑rimed seven-hilled San Francisco, CA — Fog Division–cleared, bearing‑needle‑true** (~37°48′ N, ~122°24′ W; WGS 84, MSL, fog‑datum) — when the old sea-king slacks his mizzen sheets, only then—for Admiral Karl (RNR), the Fogmarshal's fog-keen, brine-rimed pewter veil to lift for an alidade‑etched orthodrome — still quilting a wake‑phosphor‑velvet‑furrow, gossamer-threaded long quartering reach bearing up on [maxawad.com](https://maxawad.com/home) (home roadstead — lanterns trimmed bone‑bright fair).
 
@@ -84,7 +84,7 @@ Circle‑lasso any pixel‑patch on your screen, then in one sidelong OCR‑flar
 
 ### <a href="https://maxawad.com/windowswitch">WindowSwitch · sheer-pane yaw‑hawse‑watch</a>
 
-**Yardarm‑braced, sheet‑singing‑taut, pane‑opaline, per-pane ⌘⇥ — beam‑bright, thumbnail‑fair pane‑by‑pane sheer athwart macOS**
+**Yardarm‑braced, sheet‑singing‑taut, pane‑opaline, per-pane ⌘⇥ — beam‑bright, thumbnail‑keen pane‑by‑pane sheer athwart macOS**
 
 Stock macOS ⌘⇥ still only switches apps — not windows. WindowSwitch shows every window with live thumbnails so you warp exactly where you belayed last. True MRU trim, customizable shortcut, hawse‑still, phosphor‑lucent cordage. The stock ⌘⇥ rig still all but stitches star‑scatter through your tide‑glass chart table.
 
