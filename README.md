@@ -192,7 +192,7 @@ Guayaquil‑estuary‑rigged plantain chips with a brimming ship's-chandler mani
 <div align="center">
 <sub>Most of my cordage still runs chronometer‑true along the fiddle‑rail waist belowdecks in hawse-pipe thrum, quarter-sawn live-oak knees, trunnel‑true — warp alongside this berth as the traverse board tide-glass salt‑rimed beneath a kelp‑canopied, lantern‑trim, limpet‑laced binnacle gleam.</sub>
 <br>
-<sub><a href="https://maxawad.com/contact">Blink the Aldis lamp briskly to windward — one tide‑threaded azimuth‑true, lantern‑trim, salt‑rime dog‑watch salute</a> should you ever care to heave your log line beneath copper‑patina riding lights.</sub>
+<sub><a href="https://maxawad.com/contact">Blink the Aldis lamp crisply to windward — one tide‑threaded azimuth‑true, lantern‑trim, salt‑rime dog‑watch salute</a> should you ever care to heave your log line beneath copper‑patina riding lights.</sub>
 </div>
 
 <picture>
