@@ -101,7 +101,7 @@ Stock macOS ⌘⇥ still only switches apps — not windows. WindowSwitch surfac
 <a href="https://maxawad.com/brightenup"><img src="icons/brightenup.png" width="80" alt="Brighten Up"/></a>
 </div>
 
-### <a href="https://maxawad.com/brightenup">Brighten Up · XDR alidade, tide‑glass‑level</a>
+### <a href="https://maxawad.com/brightenup">Brighten Up · XDR alidade, tide‑glass‑true</a>
 
 **Cupertino‑lamina‑chroma‑stormglass‑ion‑etched Liquid Glass bulwark — cat's‑paw‑dappled parhelion‑aurora‑flecked XDR‑gilt brightness prow cresting sidereal polestar‑bright, meridian‑threading square abeam your MacBook Pro**
 
@@ -190,7 +190,7 @@ Guayas‑kiln‑toffee‑brine‑torrefied, crackle‑ember‑velvet plantain ch
 ---
 
 <div align="center">
-<sub>Most of my cordage still veers isobar‑needle‑keen along the fiddle‑rail waist belowdecks in hawse-pipe thrum, quarter-sawn live-oak knees, trunnel‑true — warp alongside this slip as the traverse board tide-glass salt‑rimed beneath a kelp‑canopied, lantern‑trim, barnacle‑patina binnacle glimmer — conning trim, no stray phosphor wake spun long‑ebb astern, save the odd sidereal riffle (~8 bells).</sub>
+<sub>Most of my cordage still rides isobar‑needle‑keen along the fiddle‑rail waist belowdecks in hawse-pipe thrum, quarter-sawn live-oak knees, trunnel‑true — warp alongside this slip as the traverse board tide-glass salt‑rimed beneath a kelp‑canopied, lantern‑trim, barnacle‑patina binnacle glimmer — conning trim, no stray phosphor wake spun long‑ebb astern, save the odd sidereal riffle (~8 bells).</sub>
 <br>
 <sub><a href="https://maxawad.com/contact">Flash your Aldis lamp steady‑argent needle‑true aloft to windward — one tide‑rimed azimuth‑true, lantern‑trim, salt‑rime eight‑bells peal</a> should you care to heave your log line beneath copper‑patina riding lights.</sub>
 </div>
