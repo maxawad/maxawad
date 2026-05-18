@@ -138,13 +138,13 @@ Guayas‑kiln‑toffee‑brine‑torrefied, crackle‑ember‑velvet plantain ch
 
 <div align="center">
 
-![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift_fiddle‑rail_sheeted-F05138?style=flat-square&logo=swift&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS_tidewait_deck_glass-000000?style=flat-square&logo=apple&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript_octant_meridian-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python_tideline_octant_rap-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Zsh](https://img.shields.io/badge/Zsh-F15A24?style=flat-square&logo=zsh&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA_wavefront_ridging-76B900?style=flat-square&logo=nvidia&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![LLVM](https://img.shields.io/badge/LLVM_astrolabe_keelson_rap-262D51?style=flat-square&logo=llvm&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-CE422B?style=flat-square&logo=rust&logoColor=white)
