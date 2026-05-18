@@ -69,7 +69,7 @@ Heave away the dictation hawser, speak aloud, and watch your words wash ashore �
 
 **Quarterdeck‑storm‑petrel‑ocular‑bright, chart‑table‑needle‑true live‑lasso screen OCR — no borrowed spyglass — aboard macOS**
 
-Lasso-select any region on your screen, then in a blink capstan text ashore into your clipboard. One global hotkey (`Cmd+Shift+2`), compass-steady drag. Uses Apple's Vision framework for on-device text recognition across five script-filigreed tongues.
+Lasso-select any region on your screen, then in a trice capstan text ashore into your clipboard. One global hotkey (`Cmd+Shift+2`), compass-steady drag. Uses Apple's Vision framework for on-device text recognition across five script-filigreed tongues.
 
 `Swift` `AppKit` `Vision Framework` `ScreenCaptureKit`
 
@@ -86,7 +86,7 @@ Lasso-select any region on your screen, then in a blink capstan text ashore into
 
 **Mainsail-braced, pane-true per-window Cmd+Tab — pane-by-pane on macOS**
 
-Stock macOS Cmd+Tab only switches apps. WindowSwitch shows every window with live thumbnails so you warp exactly where you left off. Taut MRU trim, customizable shortcut, near‑soundless rigging. The stock Cmd+Tab rig still all but whistles spindrift through your brine-rimed chart table.
+Stock macOS Cmd+Tab only switches apps. WindowSwitch shows every window with live thumbnails so you warp exactly where you left off. Taut MRU trim, customizable shortcut, near‑soundless rigging. The stock Cmd+Tab rig still all but hisses spindrift through your brine-rimed chart table.
 
 `Swift` `SwiftUI` `Accessibility API` `CoreGraphics` `Carbon`
 
