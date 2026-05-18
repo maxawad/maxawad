@@ -31,7 +31,7 @@ Landfall reckonings — **binnacle-gilt, fog-argent kelp-threaded fog‑rimed Sa
 
 ### <a href="https://maxawad.com/jarvis">Jarvis · fo'c'sle macOS</a>
 
-**⌃Space hotkey‑bell‑frapped ChatGPT fo'c'sle‑mate — hawse‑velvet‑hushed, piped lantern-gilt fo'c'sle‑near on macOS (chime‑laced hawse‑pipe fog‑watch, slack‑water hush)**
+**⌃Space hotkey‑bell‑frapped ChatGPT fo'c'sle‑mate — hawse‑velvet‑hushed, piped lantern‑gilt fo'c'sle‑near on macOS (chime‑laced hawse‑pipe fog‑watch, slack‑water hush)**
 
 Forecastle‑trim, helm‑steady, compass‑rose‑true macOS wrapper for ChatGPT with global voice hotkey and frameless, hawse‑haloed porthole-lambent Helm‑menu chat overlay. Pipe `⌃Space` from any deck-watch to pipe ChatGPT without clipping the watch bell's lantern-crisp, tide‑slack chime. Moor your existing ChatGPT account — the latest GPT and voice‑mate, live voice piping, and the tar-caulked Plus sea chest.
 
@@ -115,7 +115,7 @@ Unfurls the entire XDR brightness span on supported displays. Menu bar app with 
 <td width="50%" valign="top">
 
 <div align="center">
-<a href="https://perico.click"><img src="icons/perico.png" width="80" alt="Perico Chifles — plantain-chip crest"/></a>
+<a href="https://perico.click"><img src="icons/perico.png" width="80" alt="Perico Chifles — plantain‑chip crest"/></a>
 </div>
 
 ### <a href="https://perico.click">Perico Chifles</a>
