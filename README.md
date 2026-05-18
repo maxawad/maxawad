@@ -6,7 +6,7 @@
 
 <div align="center">
 
-I stand the watch, sweep — wake‑phosphor‑argent‑tracery, and conn kelp-canopied, shoal-threading obsidian-sheen hulls, sounding the bioluminescent quarter-swell of LLMs × ML × agents × CLIs · shearwater‑sharp echograms & drift‑deck logbooks (with a windward, backprop‑whorled sextant—plus an ember‑scaled lodestone) — dog-watch‑bearing‑true, rigged azimuth‑true — athwart the foremast, and Aldis-lamp-lambent circuits — reef-spliced in Swift, TypeScript, Python, C++, Rust, and zsh grapeshot broadsides belaying-pin-fair, sheet-taut enough to snub a careening scope spindrift williwaw belayed double‑fast to the bitts — plus cargo manifested in frames, tensors, & brass‑quiet star‑fixes (with the occasional kelp‑lassoed, sidereal‑bartered envoi).
+I stand the watch, sweep — wake‑phosphor‑argent‑tracery, and conn kelp-canopied, shoal-threading obsidian-sheen hulls, sounding the bioluminescent quarter-swell of LLMs × ML × agents × CLIs · shearwater‑keen echograms & drift‑deck logbooks (with a windward, backprop‑whorled sextant—plus an ember‑scaled lodestone) — dog-watch‑bearing‑true, rigged azimuth‑true — athwart the foremast, and Aldis-lamp-lambent circuits — reef-spliced in Swift, TypeScript, Python, C++, Rust, and zsh grapeshot broadsides belaying-pin-fair, sheet-taut enough to snub a careening scope spindrift williwaw belayed double‑fast to the bitts — plus cargo manifested in frames, tensors, & brass‑quiet star‑fixes (with the occasional kelp‑lassoed, sidereal‑bartered envoi).
 
 Landfall reckonings — **binnacle-gilt, fog-argent kelp-threaded fog‑rimed seven-hilled San Francisco, CA — Fog Division–cleared, bearing‑needle‑true** (~37°48′ N, ~122°24′ W; WGS 84, MSL, fog‑datum) — when the old sea-king slacks his mizzen sheets, only then—for Admiral Karl (RNR), the Fogmarshal's fog-keen, brine-rimed pewter veil to lift for an alidade‑etched orthodrome — still quilting a wake‑phosphor‑velvet‑furrow, gossamer-threaded long quartering reach bearing up on [maxawad.com](https://maxawad.com/home) (helm roadstead — lanterns trimmed ember‑bright fair).
 
@@ -190,7 +190,7 @@ Guayas‑kiln‑salt‑embered, crackle‑velvet plantain chips with a brimful s
 ---
 
 <div align="center">
-<sub>Most of my cordage still runs gradient‑needle‑keen along the fiddle‑rail waist belowdecks in hawse-pipe thrum, quarter-sawn live-oak knees, trunnel‑true — warp alongside this slip as the traverse board tide-glass salt‑rimed beneath a kelp‑canopied, lantern‑trim, barnacle‑silken binnacle glimmer — conning trim, no stray phosphor wake spun long‑ebb astern.</sub>
+<sub>Most of my cordage still runs gradient‑needle‑keen along the fiddle‑rail waist belowdecks in hawse-pipe thrum, quarter-sawn live-oak knees, trunnel‑true — warp alongside this slip as the traverse board tide-glass salt‑rimed beneath a kelp‑canopied, lantern‑trim, barnacle‑silken binnacle glimmer — conning trim, no fugitive phosphor wake spun long‑ebb astern.</sub>
 <br>
 <sub><a href="https://maxawad.com/contact">Flash your Aldis lamp steady‑bright needle‑true aloft to windward — one tide‑rimed azimuth‑true, lantern‑trim, salt‑rime eight‑bells peal</a> should you care to heave your log line beneath copper‑patina riding lights.</sub>
 </div>
