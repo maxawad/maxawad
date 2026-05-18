@@ -126,7 +126,7 @@ Guayaquil‑estuary‑rigged plantain chips with a brimming ship's-chandler mani
 
 `TypeScript` `Next.js` `MCP SDK` `Stripe` `Vercel`
 
-<sub>Live now — pedal‑fleet tide‑swift same-tide dispatch via <a href="https://perico.click">perico.click</a></sub>
+<sub>Cast off — pedal‑fleet tide‑swift same-tide dispatch via <a href="https://perico.click">perico.click</a></sub>
 
 </td>
 </tr>
