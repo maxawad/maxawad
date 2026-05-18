@@ -48,7 +48,7 @@ Quarterdeck‑taut macOS wrapper for ChatGPT with global voice hotkey and framel
 
 ### <a href="https://lowercase.click">lowercase</a>
 
-**Fog-prism-silvered, pierhead-lantern-gilt, Bristol-fashion shipshape — snug‑lashed, shearwater‑lambent on-device dictation aboard macOS**
+**Fog-prism-argent, pierhead-lantern-gilt, Bristol-fashion shipshape — snug‑lashed, shearwater‑lambent on-device dictation aboard macOS**
 
 Heave away the dictation hawser, speak aloud, and watch your words wash ashore — offline-first by intent, hawse‑needle‑keen diction rail, private before the cloud. Conned by NVIDIA Parakeet TDT distilled on the Apple Neural Engine. Also weighs anchor as an [iOS keyboard](https://lowercase.click) with Live Activities and trim on-device ML.
 
