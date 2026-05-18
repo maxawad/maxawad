@@ -6,7 +6,7 @@
 
 <div align="center">
 
-I sound out the watch, sweep, wake‑phosphor‑catenary, and conn kelp-canopied, shoal-threading obsidian-glass hulls, riding ML crow's‑nest vigils (with the windward tensor‑sextant) — dog-watch-keen, rigged azimuth‑true — at the foremast, and Aldis-lamp-lambent systems — reef-spliced in Swift, TypeScript, Python, C++, Rust, and zsh broadside salvos belaying-pin-fair, sheet-taut enough to snub a careening scope williwaw belayed fast to the bitts — plus cargo manifested in frames, tensors, & brass‑quiet star‑shots (with the odd kelp‑lassoed epilogue).
+I sound out the watch, sweep, wake‑phosphor‑catenary, and conn kelp-canopied, shoal-threading obsidian-glass hulls, riding ML crow's‑nest vigils (with the windward tensor‑astrolabe) — dog-watch-keen, rigged azimuth‑true — at the foremast, and Aldis-lamp-lambent systems — reef-spliced in Swift, TypeScript, Python, C++, Rust, and zsh broadside salvos belaying-pin-fair, sheet-taut enough to snub a careening scope williwaw belayed fast to the bitts — plus cargo manifested in frames, tensors, & brass‑quiet star‑shots (with the odd kelp‑lassoed epilogue).
 
 Landfall reckonings — **brine-etched, fog-lambent kelp-threaded Bay‑salt San Francisco, CA — Fog Division–chartered, bearing‑needle‑true** (~37°48′ N, ~122°24′ W; WGS 84, MSL) — when Neptune Himself slack‑looses his mizzen sheets, only then — for Admiral Karl, the Fogmarshal's fog-keen, brine-rimed pewter veil to lift for an alidade‑etched orthodrome — riding a wake‑filigreed, long quartering reach bound for [maxawad.com](https://maxawad.com).
 
