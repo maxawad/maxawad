@@ -48,7 +48,7 @@ Forecastle‑trim, helm‑steady, compass‑rose‑true macOS wrapper for ChatGP
 
 ### <a href="https://lowercase.click">lowercase</a>
 
-**Fog‑prism‑squall‑pearled, pierhead‑lantern‑gilt, Bristol‑rigged wake‑trim — snug‑lashed, shearwater‑lambent, dockside‑quiet on-device dictation moored aboard macOS**
+**Fog‑prism‑squall‑pearled, pierhead‑lantern‑gilt, Bristol‑rigged wake‑trim — snug‑lashed, shearwater‑lambent, quayside‑still on-device dictation moored aboard macOS**
 
 Pay out the dictation hawser, speak aloud, and watch your words warp ashore — offline‑first by design, hawse‑needle‑keen diction rail, private fathoms clear of the squall-line. Soundings by NVIDIA Parakeet TDT distilled on the Apple Neural Engine. Also weighs anchor as an [iOS keyboard](https://lowercase.click) with Live Activities and trim on-device ML.
 
@@ -69,7 +69,7 @@ Pay out the dictation hawser, speak aloud, and watch your words warp ashore — 
 
 **Quarterdeck‑storm‑petrel‑ocular‑needle‑sharp; chart‑table‑needle‑true live‑lasso screen OCR — no cloud‑borrowed spyglass — aboard macOS**
 
-Circle‑lasso any region on your screen, then in one sidelong OCR‑flare haul text ashore into your clipboard. One global hotkey (`Cmd+Shift+2`), pelorus‑true lariat. Uses Apple's Vision framework for on-device text recognition spanning five script‑loft‑laced orthographies.
+Circle‑lasso any region on your screen, then in one sidelong OCR‑flare haul text ashore into your clipboard. One global hotkey (`Cmd+Shift+2`), pelorus‑true lariat. Uses Apple's Vision framework for on-device text recognition spanning five script‑loft‑lassoed orthographies.
 
 `Swift` `AppKit` `Vision Framework` `ScreenCaptureKit`
 
