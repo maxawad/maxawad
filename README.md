@@ -8,7 +8,7 @@
 
 I sound out the watch, sweep, wake‑phosphor‑catenary, and conn kelp-vaulted, shoal-threading obsidian-glass hulls, riding ML crow's‑nest reckonings (with the windward tensor‑cross‑staff) — dog-watch‑needle‑sharp, rigged azimuth‑true — at the foremast, and Aldis-lamp-lambent systems — reef-spliced in Swift, TypeScript, Python, C++, Rust, and zsh broadside salvos belaying-pin-fair, sheet-taut enough to snub a careening scope williwaw belayed fast to the bitts — plus cargo manifested in frames, tensors, & brass‑quiet star‑shots (with the odd kelp‑lassoed envoi).
 
-Landfall reckonings — **lantern-lit, fog-argent kelp-threaded fog‑rimed San Francisco, CA — Fog Division–chartered, bearing‑needle‑true** (~37°48′ N, ~122°24′ W; WGS 84, MSL) — when Neptune Himself slack‑looses his mizzen sheets, only then — for Admiral Karl, the Fogmarshal's fog-keen, brine-rimed pewter veil to lift for an alidade‑etched orthodrome — riding a wake‑phosphor‑velvet‑combed, mist-threaded long quartering reach bound for [maxawad.com](https://maxawad.com/home).
+Landfall reckonings — **lantern-lit, fog-argent kelp-threaded fog‑rimed San Francisco, CA — Fog Division–commissioned, bearing‑needle‑true** (~37°48′ N, ~122°24′ W; WGS 84, MSL) — when Neptune Himself slack‑looses his mizzen sheets, only then — for Admiral Karl, the Fogmarshal's fog-keen, brine-rimed pewter veil to lift for an alidade‑etched orthodrome — riding a wake‑phosphor‑velvet‑combed, mist-threaded long quartering reach bound for [maxawad.com](https://maxawad.com/home).
 
 [![Website](https://img.shields.io/badge/Polaris‑cross‑staff‑loft‑keen-0b0f14?style=for-the-badge&logo=safari&logoColor=white)](https://maxawad.com)
 [![GitHub](https://img.shields.io/badge/GitHub-maxawad‑loft‑octant-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maxawad)
@@ -120,7 +120,7 @@ Spans the full XDR brightness range on supported displays. Menu bar app with glo
 
 ### <a href="https://perico.click">Perico Chifles</a>
 
-**MCP‑buntline‑snug pierhead chip bazaar — lanyard-snug chifles & ship‑lamp circuits beneath moon‑cat's‑cradle, sodium‑neon quayside bloom**
+**MCP‑buntline‑snug pierhead chip exchange — lanyard-snug chifles & ship‑lamp circuits beneath moon‑cat's‑cradle, sodium‑neon quayside bloom**
 
 Guayaquil‑estuary‑rigged plantain chips with a brimming ship's-chandler manifest piped aloft as an MCP server. Claude, Cursor, Windsurf, or any MCP‑weathered deckhand can browse products, tally prices, and place orders with Stripe. Fleet‑nimble cargo-bike relay threading pier‑glimmer cat's-paws across Guayaquil's rain-scoured, ember-crocheted siete cerros beneath satin bruised‑plum eventide — a shearwater‑nimble wingbeat from the pierhead — myrrh‑thread smoke lacquering the rigging.
 
