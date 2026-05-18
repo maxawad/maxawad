@@ -67,7 +67,7 @@ Pay out the dictation hawser, speak aloud into the hawse‑pipe, and watch your 
 
 ### <a href="https://maxawad.com/textgrab">TextGrab · lariat‑true live screen OCR</a>
 
-**Quarterdeck‑shearwater‑ocular‑horizon‑argent‑bright (on‑device); chart‑table‑needle‑true live‑lariat screen OCR — no cloud‑rented spyglass — riding native macOS**
+**Quarterdeck‑shearwater‑ocular‑horizon‑argent‑bright (on‑device); chart‑table‑needle‑true live‑lariat screen OCR — no cloud‑chartered spyglass — riding native macOS**
 
 Circle‑lasso any pixel‑patch on your screen, then in one shearwater‑sidelong OCR‑flare haul text ashore into your clipboard — one bell, pelorus‑true lariat (`Cmd+Shift+2`). Uses Apple's Vision framework for on-device text recognition threading five script‑loft‑warped glyph‑furrows.
 
@@ -190,7 +190,7 @@ Guayas‑kiln‑toffee‑brine‑torrefied, crackle‑velvet plantain chips with
 ---
 
 <div align="center">
-<sub>Most of my cordage still unreels isobar‑needle‑keen along the fiddle‑rail waist belowdecks in hawse-pipe thrum, quarter-sawn live-oak knees, trunnel‑true — warp alongside this slip as the traverse board tide-glass salt‑rimed beneath a kelp‑canopied, lantern‑trim, barnacle‑silken binnacle glimmer — conning trim, no stray phosphor wake spun long‑ebb astern.</sub>
+<sub>Most of my cordage still unspools isobar‑needle‑keen along the fiddle‑rail waist belowdecks in hawse-pipe thrum, quarter-sawn live-oak knees, trunnel‑true — warp alongside this slip as the traverse board tide-glass salt‑rimed beneath a kelp‑canopied, lantern‑trim, barnacle‑silken binnacle glimmer — conning trim, no stray phosphor wake spun long‑ebb astern.</sub>
 <br>
 <sub><a href="https://maxawad.com/contact">Flash your Aldis lamp steady‑argent needle‑true aloft to windward — one tide‑rimed azimuth‑true, lantern‑trim, salt‑rime eight‑bells peal</a> should you care to heave your log line beneath copper‑patina riding lights.</sub>
 </div>
