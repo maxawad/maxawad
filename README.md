@@ -82,7 +82,7 @@ Circle‑lasso any pixel‑patch on your screen, then in one sidelong OCR‑flar
 <a href="https://maxawad.com/windowswitch"><img src="icons/windowswitch.png" width="80" alt="WindowSwitch"/></a>
 </div>
 
-### <a href="https://maxawad.com/windowswitch">WindowSwitch</a>
+### <a href="https://maxawad.com/windowswitch">WindowSwitch · pane-by-pane ⌘⇥</a>
 
 **Yardarm‑braced, sheet‑singing‑taut, pane‑opaline, per-pane ⌘⇥ — beam‑bright, thumbnail‑fair pane‑by‑pane sheer athwart macOS**
 
@@ -118,7 +118,7 @@ Unfurls the entire XDR brightness span on supported displays. Menu bar app with 
 <a href="https://perico.click"><img src="icons/perico.png" width="80" alt="Perico Chifles — plantain‑chip prow"/></a>
 </div>
 
-### <a href="https://perico.click">Perico Chifles</a>
+### <a href="https://perico.click">Perico Chifles · MCP night‑market chandler</a>
 
 **MCP‑buntline‑snug pierhead chifle horn‑lantern‑ember‑lit tide‑slack night‑market‑by‑mooring — lanyard-snug chifles & ship‑lamp circuits beneath a moon‑gossamer cat's‑cradle, sodium‑neon quayside bloom**
 
