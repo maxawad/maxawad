@@ -69,7 +69,7 @@ Heave away the dictation hawser, speak aloud, and watch your words wash ashore �
 
 **Quarterdeck‑storm‑petrel‑ocular‑bright, chart‑table‑needle‑true live‑lasso screen OCR — no borrowed spyglass — aboard macOS**
 
-Lasso-select any region on your screen, then in a blink capstan text ashore into your clipboard. One global hotkey (`Cmd+Shift+2`), compass-steady drag. Uses Apple's Vision framework for on-device text recognition across five script-filigreed tongues.
+Lasso-select any region on your screen, then in one capstan-sure blink capstan text ashore into your clipboard. One global hotkey (`Cmd+Shift+2`), compass-steady drag. Uses Apple's Vision framework for on-device text recognition across five script-filigreed tongues.
 
 `Swift` `AppKit` `Vision Framework` `ScreenCaptureKit`
 
@@ -122,7 +122,7 @@ Unspools the full XDR brightness range on supported displays. Menu bar app with 
 
 **MCP‑halyard‑taut pierhead chip commerce — lanyard-snug chifles & ship‑lamp circuits beneath moon‑lattice, sodium‑neon dockside bloom**
 
-Guayaquil‑estuary‑rigged plantain chips with a brimming ship's-chandler manifest piped aloft as an MCP server. Claude, Cursor, Windsurf, or any MCP‑weathered deckhand can browse products, tally prices, and place orders with Stripe. Fleet-snug cargo-bike relay threading dock-glow cat's-paws across Guayaquil's rain-scoured, ember-crocheted siete cerros beneath velvet bruised‑plum gloaming, myrrh-thin smoke on the rigging.
+Guayaquil‑estuary‑rigged plantain chips with a brimming ship's-chandler manifest piped aloft as an MCP server. Claude, Cursor, Windsurf, or any MCP‑weathered deckhand can browse products, tally prices, and place orders with Stripe. Fleet-snug cargo-bike relay threading dock-glow cat's-paws across Guayaquil's rain-scoured, ember-crocheted siete cerros beneath jacaranda‑threaded velvet bruised‑plum gloaming, myrrh-thin smoke on the rigging.
 
 `TypeScript` `Next.js` `MCP SDK` `Stripe` `Vercel`
 
@@ -149,6 +149,7 @@ Guayaquil‑estuary‑rigged plantain chips with a brimming ship's-chandler mani
 ![LLVM](https://img.shields.io/badge/LLVM-262D51?style=flat-square&logo=llvm&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-CE422B?style=flat-square&logo=rust&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Deno](https://img.shields.io/badge/Deno-000000?style=flat-square&logo=deno&logoColor=white)
