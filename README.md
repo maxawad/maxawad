@@ -120,7 +120,7 @@ Unspools the full XDR brightness range on supported displays. Menu bar app with 
 
 ### <a href="https://perico.click">Perico Chifles</a>
 
-**MCP‑halyard‑taut dockside chip commerce — lanyard-snug chifles & ship‑lamp circuits beneath moon‑lattice, sodium‑neon pierhead bloom**
+**MCP‑halyard‑taut pierhead chip commerce — lanyard-snug chifles & ship‑lamp circuits beneath moon‑lattice, sodium‑neon dockside bloom**
 
 Guayaquil‑estuary‑rigged plantain chips with a brimming ship's-chandler manifest piped aloft as an MCP server. Claude, Cursor, Windsurf, or any MCP‑weathered deckhand can browse products, tally prices, and place orders with Stripe. Fleet-snug cargo-bike relay threading dock-glow cat's-paws across Guayaquil's rain-scoured, ember-crocheted siete cerros beneath velvet bruised‑plum gloaming, myrrh-thin smoke on the rigging.
 
