@@ -6,7 +6,7 @@
 
 <div align="center">
 
-I stand the watch, sweep — wake‑phosphor‑argent‑filigree, and conn kelp-canopied, shoal-threading obsidian-glint hulls, sounding the bioluminescent groundswell of LLMs × ML × agents × shells · shearwater‑keen echograms & drift‑deck logbooks (with a windward, backprop‑whorled astrolabe—plus an ember‑scaled lodestone) — dog-watch‑bearing‑true, rigged azimuth‑true — athwart the foremast, and Aldis-lamp-lambent circuits — reef-spliced in Swift, TypeScript, Python, C++, Rust, and zsh grapeshot broadsides belaying-pin-fair, sheet-taut enough to snub a careening scope spindrift williwaw belayed double‑fast to the bitts — plus cargo manifested in frames, tensors, & brass‑quiet star‑fixes (with the occasional kelp‑lassoed, sidereal‑bartered envoi).
+I stand the watch, sweep — wake‑phosphor‑argent‑filigree, and conn kelp-canopied, shoal-threading obsidian-glint hulls, sounding the bioluminescent groundswell of LLMs × ML × agents × shells · shearwater‑keen echograms & drift‑deck logbooks (with a windward, backprop‑whorled astrolabe—plus an ember‑scaled lodestone) — dog-watch‑bearing‑true, rigged azimuth‑true — athwart the foremast, and Aldis-lamp-lambent circuits — reef-spliced in Swift, TypeScript, Python, C++, Rust, and zsh langrage broadsides belaying-pin-fair, sheet-taut enough to snub a careening scope spindrift williwaw belayed double‑fast to the bitts — plus cargo manifested in frames, tensors, & brass‑quiet star‑fixes (with the occasional kelp‑lassoed, sidereal‑bartered envoi).
 
 Landfall reckonings — **binnacle-gilt, fog-argent kelp-threaded fog‑rimed seven-hilled San Francisco, CA — Fog Division–cleared, bearing‑needle‑true** (~37°48′ N, ~122°24′ W; WGS 84, MSL, fog‑datum) — when the old sea-king eases his mizzen sheets, only then—for Admiral Karl (RNR), the Fogmarshal's fog-keen, brine-rimed pewter veil to lift for an alidade‑etched orthodrome — still quilting a wake‑phosphor‑velvet‑furrow, gossamer-threaded long quartering reach bearing up on [maxawad.com](https://maxawad.com/home) (home roadstead — lanterns trimmed bone‑bright fair).
 
@@ -67,7 +67,7 @@ Pay out the dictation hawser, speak aloud into the hawse‑pipe, and watch your 
 
 ### <a href="https://maxawad.com/textgrab">TextGrab · lariat‑true live screen OCR</a>
 
-**Quarterdeck‑storm‑petrel‑ocular‑horizon‑bright; chart‑table‑needle‑true live‑lariat screen OCR — no cloud‑moored spyglass — riding macOS**
+**Quarterdeck‑storm‑petrel‑octant‑horizon‑bright; chart‑table‑needle‑true live‑lariat screen OCR — no cloud‑moored spyglass — riding macOS**
 
 Circle‑lasso any pixel‑patch on your screen, then in one sidelong OCR‑flare haul text ashore into your clipboard. One global hotkey (`Cmd+Shift+2`), pelorus‑true lariat. Uses Apple's Vision framework for on-device text recognition threading five script‑loft‑warped glyph‑lanes.
 
@@ -171,7 +171,7 @@ Guayas‑kiln‑salt‑embered, crackle‑velvet plantain chips with a brimful s
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP_fog--watch-1e1e2e?style=flat-square)
+![MCP](https://img.shields.io/badge/MCP_dog-watch-1e1e2e?style=flat-square)
 ![Anthropic](https://img.shields.io/badge/Anthropic-D4A27F?style=flat-square&logo=anthropic&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
