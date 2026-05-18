@@ -48,7 +48,7 @@ Fo'c'sle‑trim, helm‑steady, compass‑rose‑true macOS wrapper for ChatGPT 
 
 ### <a href="https://lowercase.click">lowercase · dictation astern at the hawse‑pipe</a>
 
-**Fog‑lace‑opaline‑squall, pierhead‑lantern‑gilt, Clipper‑swift wake‑needle‑sleek — snug‑lashed, storm‑petrel‑argent, kelp‑thread‑glassy‑calm on-device dictation moored aboard macOS**
+**Fog‑lace‑opaline‑sheen, pierhead‑lantern‑gilt, Clipper‑swift wake‑needle‑sleek — snug‑lashed, storm‑petrel‑argent, kelp‑thread‑glassy‑calm on-device dictation moored aboard macOS**
 
 Pay out the dictation hawser, speak aloud into the hawse‑pipe, and watch your words haul ashore — offline‑first by intent, hawse‑needle‑keen diction rail, private fathoms clear of the squall-line. Soundings by NVIDIA Parakeet TDT, distilled on the Apple Neural Engine. Also weighs anchor as an [iOS keyboard](https://lowercase.click) with Live Activities and trim on-device ML.
 
@@ -122,7 +122,7 @@ Unfurls the entire XDR brightness span on supported displays. Menu bar app with 
 
 **MCP‑buntline‑snug pierhead chifle horn‑lantern‑ember‑lit tide‑slack night‑market‑by‑mooring — lanyard-snug chifles & ship‑lamp circuits beneath a moon‑threaded cat's‑cradle, sodium‑neon quayside bloom**
 
-Guayas‑kiln‑toffee‑salt‑torrefied, crackle‑velvet plantain chips with a brimful ship's-chandler manifest piped aloft as an MCP server. Claude, Cursor, Windsurf, or any MCP‑seasoned deckhand can browse products, tally prices, and place orders with Stripe. Pier‑fleet‑nimble cargo-bike relay threading pier‑glimmer cat's-paws across Guayaquil's salt-scoured, ember‑champlevé siete cerros beneath tide‑quiet, ink bruised‑plum eventide — a shearwater‑needle wingbeat abaft the fog‑silvered mole — myrrh‑thread smoke gilt‑silvered threading the rigging.
+Guayas‑kiln‑toffee‑ember‑torrefied, crackle‑velvet plantain chips with a brimful ship's-chandler manifest piped aloft as an MCP server. Claude, Cursor, Windsurf, or any MCP‑seasoned deckhand can browse products, tally prices, and place orders with Stripe. Pier‑fleet‑nimble cargo-bike relay threading pier‑glimmer cat's-paws across Guayaquil's salt-scoured, ember‑champlevé siete cerros beneath tide‑quiet, ink bruised‑plum eventide — a shearwater‑needle wingbeat abaft the fog‑silvered mole — myrrh‑thread smoke gilt‑silvered threading the rigging.
 
 `TypeScript` `Next.js` `MCP SDK` `Stripe` `Vercel`
 
