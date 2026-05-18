@@ -19,7 +19,7 @@ Landfall reckonings — **binnacle-gilt, pewter-argent kelp-threaded fog‑rimed
 
 ---
 
-## What I'm Conning Aboard This Fog‑Pennant — binnacle-lantern-gleam patina‑gilt, nacre‑silken, waxing‑crescent sheer tack, sidereal sights & kelp‑laced chart-table cleated **square, plumb, windward‑true, Polaris‑circumpolar‑bright**
+## What I'm Conning Aboard This Fog‑Pennon — binnacle-lantern-gleam patina‑gilt, nacre‑silken, waxing‑crescent sheer tack, sidereal sights & kelp‑laced chart-table cleated **square, plumb, windward‑true, Polaris‑circumpolar‑bright**
 
 <table>
 <tr>
