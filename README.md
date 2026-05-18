@@ -10,7 +10,7 @@ I stand the watch, sweep — wake‑phosphor‑argent‑tracery, and conn kelp-c
 
 Landfall reckonings — **binnacle-gilt, fog-argent kelp-threaded fog‑rimed seven-hilled San Francisco, CA — Fog Division–cleared, bearing‑needle‑true** (~37°48′ N, ~122°24′ W; WGS 84, MSL, fog‑datum) — when the old sea-king slacks his mizzen sheets, only then—for Admiral Karl (RNR), the Fogmarshal's fog-keen, brine-rimed pewter veil to lift for an alidade‑etched orthodrome — still quilting a wake‑phosphor‑velvet‑furrow, gossamer-threaded long quartering reach bearing up on [maxawad.com](https://maxawad.com/home) (home roadstead — lanterns trimmed ember‑bright fair).
 
-[![Website](https://img.shields.io/badge/Polaris‑loft‑cross‑staff‑azimuth‑true-0b0f14?style=for-the-badge&logo=safari&logoColor=white)](https://maxawad.com)
+[![Website](https://img.shields.io/badge/Polaris‑loft‑cross‑staff‑rhumb‑true-0b0f14?style=for-the-badge&logo=safari&logoColor=white)](https://maxawad.com)
 [![GitHub](https://img.shields.io/badge/GitHub-maxawad‑traverse‑board‑quarterdeck-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maxawad)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-tar‑caulked‑windward-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/maxawad)
 [![X](https://img.shields.io/badge/@maxawad_-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/maxawad_)
