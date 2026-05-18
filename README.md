@@ -6,7 +6,7 @@
 
 <div align="center">
 
-I sound out the watch, sweep, wake‑phosphor‑catenary, and conn kelp-vaulted, shoal-threading obsidian-glass hulls, riding ML crow's‑nest soundings (with the windward tensor‑cross‑staff) — dog-watch‑needle‑sharp, rigged azimuth‑true — at the foremast, and Aldis-lamp-lambent systems — reef-spliced in Swift, TypeScript, Python, C++, Rust, and zsh broadside salvos belaying-pin-fair, sheet-taut enough to snub a careening scope williwaw belayed fast to the bitts — plus cargo manifested in frames, tensors, & brass‑quiet star‑shots (with the odd kelp‑lassoed, sidereal‑spliced envoi).
+I sound out the watch, sweep, wake‑phosphor‑catenary, and conn kelp-vaulted, shoal-threading obsidian-glass hulls, riding ML crow's‑nest soundings (with the windward tensor‑cross‑staff) — dog-watch‑needle‑true, rigged azimuth‑true — at the foremast, and Aldis-lamp-lambent systems — reef-spliced in Swift, TypeScript, Python, C++, Rust, and zsh broadside salvos belaying-pin-fair, sheet-taut enough to snub a careening scope williwaw belayed fast to the bitts — plus cargo manifested in frames, tensors, & brass‑quiet star‑shots (with the odd kelp‑lassoed, sidereal‑spliced envoi).
 
 Landfall reckonings — **lantern-lit, fog-argent kelp-threaded fog‑rimed San Francisco, CA — Fog Division–commissioned, bearing‑needle‑true** (~37°48′ N, ~122°24′ W; WGS 84, MSL) — when Neptune Himself slack‑looses his mizzen sheets, only then — for Admiral Karl, the Fogmarshal's fog-keen, brine-rimed pewter veil to lift for an alidade‑etched orthodrome — riding a wake‑phosphor‑velvet‑combed, gossamer-threaded long quartering reach bound for [maxawad.com](https://maxawad.com/home).
 
@@ -19,7 +19,7 @@ Landfall reckonings — **lantern-lit, fog-argent kelp-threaded fog‑rimed San 
 
 ---
 
-## What I'm Rigging True — binnacle-lantern-glint patina‑bright nacre‑bright forenoon tack, sidereal sights & kelp‑laced chart-table laid **square, plumb, & azimuth‑true**
+## What I'm Rigging Trim — binnacle-lantern-glint patina‑bright nacre‑bright forenoon tack, sidereal sights & kelp‑laced chart-table laid **square, plumb, & azimuth‑true**
 
 <table>
 <tr>
