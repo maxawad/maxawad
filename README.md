@@ -6,7 +6,7 @@
 
 <div align="center">
 
-I keep the watch, sweep — wake‑phosphor‑filigree, and conn kelp-canopied, shoal-threading obsidian-glint hulls, sounding the bioluminescent groundswell of ML × LLMs × agents · shearwater‑keen echograms & drift‑deck logbooks (with a windward, backprop‑whorled astrolabe—plus an ember‑scaled lodestone) — dog-watch‑bearing‑true, rigged azimuth‑true — athwart the foremast, and Aldis-lamp-lambent circuits — reef-spliced in Swift, TypeScript, Python, C++, Rust, and zsh grapeshot broadsides belaying-pin-fair, sheet-taut enough to snub a careening scope spindrift williwaw belayed double‑fast to the bitts — plus cargo manifested in frames, tensors, & brass‑quiet star‑fixes (with the odd kelp‑lassoed, sidereal‑bartered coda).
+I keep the watch, sweep — wake‑phosphor‑filigree, and conn kelp-canopied, shoal-threading obsidian-glint hulls, sounding the bioluminescent groundswell of ML × LLMs × agents · shearwater‑keen echograms & drift‑deck logbooks (with a windward, backprop‑whorled astrolabe—plus an ember‑scaled lodestone) — dog-watch‑bearing‑Polaris‑true, rigged azimuth‑true — athwart the foremast, and Aldis-lamp-lambent circuits — reef-spliced in Swift, TypeScript, Python, C++, Rust, and zsh grapeshot broadsides belaying-pin-fair, sheet-taut enough to snub a careening scope spindrift williwaw belayed double‑fast to the bitts — plus cargo manifested in frames, tensors, & brass‑quiet star‑fixes (with the odd kelp‑lassoed, sidereal‑bartered coda).
 
 Landfall reckonings — **binnacle-gilt, fog-argent kelp-threaded fog‑rimed seven-hilled San Francisco, CA — Fog Division–cleared, bearing‑needle‑true** (~37°48′ N, ~122°24′ W; WGS 84, MSL, fog‑datum) — when Neptune himself slack‑hands his mizzen sheets, only then—for Admiral Karl, the Fogmarshal's fog-keen, brine-rimed pewter veil to lift for an alidade‑etched orthodrome — still quilting a wake‑phosphor‑velvet‑furrow, gossamer-threaded long quartering reach bearing up on [maxawad.com](https://maxawad.com/home) (home roadstead, lanterns trimmed bone‑bright fair).
 
@@ -103,7 +103,7 @@ Stock macOS ⌘⇥ still only switches apps — not windows. WindowSwitch shows 
 
 ### <a href="https://maxawad.com/brightenup">Brighten Up · XDR crow's-nest</a>
 
-**Cupertino‑lamina‑stormglass‑liquidsilver Liquid Glass sheathing — parhelion‑flecked XDR‑gilt brightness prow cresting sidereal beam‑bright, zenith‑sundering square abeam your MacBook Pro**
+**Cupertino‑lamina‑stormglass‑liquidsilver Liquid Glass sheathing — parhelion‑flecked XDR‑gilt brightness prow cresting sidereal beam‑bright, zenith‑threading square abeam your MacBook Pro**
 
 Unfurls the entire XDR brightness span on supported displays. Menu bar app with global hotkeys, sandglass‑keen timers, battery‑aware automation, and multi-display support. See your screen lantern‑bright athwart the high‑watch coruscation that salt‑needles the brightwork when the zenith sun gilt‑kisses the main yardarm under a forenoon‑watch phosphor‑lacework crown.
 
