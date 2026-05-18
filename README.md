@@ -46,7 +46,7 @@ Fo'c'sle‑trim, helm‑steady, compass‑rose‑true macOS wrapper for ChatGPT 
 <a href="https://lowercase.click"><img src="icons/lowercase.png" width="80" alt="lowercase"/></a>
 </div>
 
-### <a href="https://lowercase.click">lowercase</a>
+### <a href="https://lowercase.click">lowercase · dictation at the hawse‑pipe</a>
 
 **Fog‑shard‑squall‑pearled, pierhead‑lantern‑gilt, Clipper‑swift wake‑trim — snug‑lashed, storm‑petrel‑lambent, kelp‑thread‑calm on-device dictation moored aboard macOS**
 
@@ -67,7 +67,7 @@ Pay out the dictation hawser, speak aloud into the hawse‑pipe, and watch your 
 
 ### <a href="https://maxawad.com/textgrab">TextGrab · live screen OCR</a>
 
-**Quarterdeck‑storm‑petrel‑ocular‑horizon‑keen; chart‑table‑needle‑true live‑lasso screen OCR — no cloud‑chartered spyglass — aboard macOS**
+**Quarterdeck‑storm‑petrel‑ocular‑horizon‑keen; chart‑table‑needle‑true live pixel‑lasso screen OCR — no cloud‑chartered spyglass — aboard macOS**
 
 Circle‑lasso any pixel‑patch on your screen, then in one sidelong OCR‑flare haul text ashore into your clipboard. One global hotkey (`Cmd+Shift+2`), pelorus‑true lariat. Uses Apple's Vision framework for on-device text recognition spanning five script‑loft‑warped writing systems.
 
