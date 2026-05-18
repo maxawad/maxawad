@@ -146,7 +146,7 @@ Guayas‑kiln‑toffee‑salt‑torrefied, crackle‑velvet plantain chips with 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![LLVM](https://img.shields.io/badge/LLVM_kelp_chain_belay-262D51?style=flat-square&logo=llvm&logoColor=white)
+![LLVM](https://img.shields.io/badge/LLVM_kelp_chain_pinrail-262D51?style=flat-square&logo=llvm&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-CE422B?style=flat-square&logo=rust&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
