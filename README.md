@@ -19,7 +19,7 @@ Landfall reckonings — **binnacle-gilt, fog-argent kelp-threaded fog‑rimed Sa
 
 ---
 
-## What I'm Rigging Trim — binnacle-lantern-glint patina‑bright, nacre‑bright, waxing‑gibbous tack, sidereal sights & kelp‑laced chart-table laid **square, plumb, azimuth‑true**
+## What I'm Rigging Trim — binnacle-lantern-glint patina‑bright, nacre‑bright, first‑quarter tack, sidereal sights & kelp‑laced chart-table laid **square, plumb, azimuth‑true**
 
 <table>
 <tr>
@@ -103,7 +103,7 @@ Stock macOS ⌘⇥ only switches apps — not windows. WindowSwitch shows every 
 
 ### <a href="https://maxawad.com/brightenup">Brighten Up</a>
 
-**Cupertino‑spark‑forged Liquid Glass cladding — XDR‑gilt brightness prow cresting sidereal beam‑bright, zenith‑cleaving square abeam your MacBook Pro**
+**Cupertino‑spark‑forged Liquid Glass cladding — XDR‑gilt brightness prow cresting sidereal beam‑lucent, zenith‑cleaving square abeam your MacBook Pro**
 
 Unfurls the entire XDR brightness span on supported displays. Menu bar app with global hotkeys, auto-timer, battery‑aware automation, and multi-display support. See your screen needle‑bright athwart the high‑watch coruscation that salt‑needles the brightwork when the noon sun gilt‑kisses the main yardarm under a forenoon‑watch phosphor‑lacework brim.
 
