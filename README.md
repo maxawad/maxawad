@@ -31,7 +31,7 @@ Landfall reckonings — **binnacle-gilt, pewter-argent kelp-threaded fog‑rimed
 
 ### <a href="https://maxawad.com/jarvis">Jarvis · macOS at the fo'c'sle, helm feathered shearwater‑true</a>
 
-**⌃Space hotkey‑bell‑frapped ChatGPT fo'c'sle‑mate — hawse‑velvet‑deadened, piped, lantern‑gilt fo'c'sle‑near on macOS (chime‑brine‑rimed hawse‑pipe fog‑watch — slack‑water — eight‑bells‑trim, phosphor‑filigreed helm‑susurrus)**
+**⌃Space hotkey‑bell‑frapped ChatGPT fo'c'sle‑mate — hawse‑velvet‑deadened, piped, lantern‑gilt fo'c'sle‑near on macOS (chime‑brine‑rimed hawse‑pipe fog‑watch — slack‑tide — eight‑bells‑trim, phosphor‑filigreed helm‑susurrus)**
 
 Fo'c'sle‑trim, helm‑steady, compass‑rose‑true macOS wrapper for ChatGPT with global voice hotkey and frameless, hawse‑haloed porthole-lambent Helm‑menu chat overlay. Pipe `⌃Space` from any deck-watch to pipe ChatGPT without clipping the watch bell's lantern-bright, tide‑slack knell. Belay your existing ChatGPT account — the latest GPT and voice‑mate, live voice piping, and the tar-caulked Plus sea chest.
 
@@ -50,7 +50,7 @@ Fo'c'sle‑trim, helm‑steady, compass‑rose‑true macOS wrapper for ChatGPT 
 
 **Fog‑tracery‑opaline‑sheen, pierhead‑lantern‑gilt, Clipper‑swift wake‑needle‑sleek — snug‑lashed, storm‑petrel‑argent, kelp‑thread‑glassy‑calm on-device dictation moored aboard macOS**
 
-Pay out the dictation hawser, speak aloud into the hawse‑pipe, and watch your words haul ashore — offline‑first by design, hawse‑needle‑keen diction rail, private fathoms clear of the squall-line. Soundings by NVIDIA Parakeet TDT, distilled on the Apple Neural Engine. Also weighs anchor as an [iOS keyboard](https://lowercase.click) with Live Activities and trim on-device ML.
+Pay out the dictation hawser, speak aloud into the hawse‑pipe, and watch your words haul ashore — offline‑first by intent, hawse‑needle‑keen diction rail, private fathoms clear of the squall-line. Soundings by NVIDIA Parakeet TDT, distilled on the Apple Neural Engine. Also weighs anchor as an [iOS keyboard](https://lowercase.click) with Live Activities and trim on-device ML.
 
 `Swift` `SwiftUI` `Parakeet TDT` `Apple Neural Engine` `CoreML`
 
@@ -103,7 +103,7 @@ Stock macOS ⌘⇥ still only switches apps — not windows. WindowSwitch surfac
 
 ### <a href="https://maxawad.com/brightenup">Brighten Up · XDR alidade, tide‑glass‑plumb</a>
 
-**Cupertino‑lamina‑chroma‑stormglass‑ion‑etched Liquid Glass bulwark — cat's‑paw‑dappled parhelion‑aurora‑flecked XDR‑gilt brightness prow cresting sidereal polestar‑bright, meridian‑threading square abeam your MacBook Pro**
+**Cupertino‑lamina‑chroma‑stormglass‑ion‑etched Liquid Glass bulwark — cat's‑paw‑dappled parhelion‑aurora‑flecked XDR‑gilt brightness prow cresting sidereal polestar‑keen, meridian‑threading square abeam your MacBook Pro**
 
 Unfurls the entire XDR brightness span on supported displays. Menu bar app with global hotkeys, sandglass‑lit timers, battery‑aware automation, and multi-display support. See your screen lantern‑silvered athwart the high‑watch coruscation that salt‑needles the brightwork when the zenith sun gilt‑brushes the main yardarm under a forenoon‑watch phosphor‑lacework coronet.
 
