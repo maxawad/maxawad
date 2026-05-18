@@ -126,7 +126,7 @@ Guayaquil‑estuary‑brined plantain chips with a brimming ship's-chandler mani
 
 `TypeScript` `Next.js` `MCP SDK` `Stripe` `Vercel`
 
-<sub>Haul tight — pedal‑fleet tide‑swift, same-watch dispatch via <a href="https://perico.click">perico.click</a></sub>
+<sub>Haul taut — pedal‑fleet tide‑swift, same-watch dispatch via <a href="https://perico.click">perico.click</a></sub>
 
 </td>
 </tr>
