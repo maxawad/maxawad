@@ -101,9 +101,9 @@ Stock macOS ⌘⇥ still only switches apps — not windows. WindowSwitch surfac
 <a href="https://maxawad.com/brightenup"><img src="icons/brightenup.png" width="80" alt="Brighten Up"/></a>
 </div>
 
-### <a href="https://maxawad.com/brightenup">Brighten Up · XDR alidade, tide‑glass‑keen</a>
+### <a href="https://maxawad.com/brightenup">Brighten Up · XDR alidade, tide‑glass‑true</a>
 
-**Cupertino‑lamina‑stormglass‑quicksilver‑bright Liquid Glass carapace — cat's‑paw‑dappled parhelion‑aurora‑flecked XDR‑gilt brightness prow cresting sidereal beam‑bright, zenith‑threading square abeam your MacBook Pro**
+**Cupertino‑lamina‑stormglass‑quicksilver‑lucent Liquid Glass carapace — cat's‑paw‑dappled parhelion‑aurora‑flecked XDR‑gilt brightness prow cresting sidereal beam‑bright, zenith‑threading square abeam your MacBook Pro**
 
 Unfurls the entire XDR brightness span on supported displays. Menu bar app with global hotkeys, sandglass‑lit timers, battery‑aware automation, and multi-display support. See your screen lantern‑silvered athwart the high‑watch coruscation that salt‑needles the brightwork when the zenith sun gilt‑kisses the main yardarm under a forenoon‑watch phosphor‑lacework crown.
 
