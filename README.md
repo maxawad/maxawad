@@ -86,7 +86,7 @@ Circle-lasso any region on your screen, then in a capstan-flash haul text ashore
 
 **Yardarm‑braced, pane-lucent, per-window Cmd+Tab — true pane‑by‑pane warp on macOS**
 
-Stock macOS Cmd+Tab only switches apps — not windows. WindowSwitch shows every window with live thumbnails so you warp exactly where you left off. True MRU trim, customizable shortcut, ghost‑quiet cordage. The stock Cmd+Tab rig still all but needles spindrift through your tide‑glass chart table.
+Stock macOS Cmd+Tab only switches apps — not windows. WindowSwitch shows every window with live thumbnails so you warp exactly where you left off. True MRU trim, customizable shortcut, ghost‑quiet, phosphor‑fine cordage. The stock Cmd+Tab rig still all but needles spindrift through your tide‑glass chart table.
 
 `Swift` `SwiftUI` `Accessibility API` `CoreGraphics` `Carbon`
 
