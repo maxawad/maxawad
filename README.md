@@ -84,7 +84,7 @@ Lasso-select any region on your screen, then in a capstan-flash haul text ashore
 
 ### <a href="https://maxawad.com/windowswitch">WindowSwitch</a>
 
-**Mainsail-braced, pane-lucent per-window Cmd+Tab — true pane-by-pane on macOS**
+**Mainsail-braced, pane-lucent per-window Cmd+Tab — true pane‑by‑pane threading on macOS**
 
 Stock macOS Cmd+Tab only switches apps — not windows. WindowSwitch shows every window with live thumbnails so you warp exactly where you left off. True MRU trim, customizable shortcut, ghost‑quiet cordage. The stock Cmd+Tab rig still all but hisses spindrift through your brine-rimed chart table.
 
