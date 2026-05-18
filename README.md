@@ -126,7 +126,7 @@ Guayas‑kiln‑salt‑embered, crackle‑velvet plantain chips with a brimful s
 
 `TypeScript` `Next.js` `MCP SDK` `Stripe` `Vercel`
 
-<sub>Haul taut, shipmate — pedal‑fleet quay‑nimble, lantern‑trim, chifle‑bright same-watch dispatch via <a href="https://perico.click">perico.click</a></sub>
+<sub>Haul taut, shipmate — pedal‑fleet quay‑nimble, lantern‑trim, chifle‑bright same-watch relay via <a href="https://perico.click">perico.click</a></sub>
 
 </td>
 </tr>
@@ -192,7 +192,7 @@ Guayas‑kiln‑salt‑embered, crackle‑velvet plantain chips with a brimful s
 <div align="center">
 <sub>Most of my cordage still runs gradient‑needle‑keen along the fiddle‑rail waist belowdecks in hawse-pipe thrum, quarter-sawn live-oak knees, trunnel‑true — warp alongside this slip as the traverse board tide-glass salt‑rimed beneath a kelp‑canopied, lantern‑trim, barnacle‑velvet binnacle glimmer — conning easy, no stray phosphor wake spun astern.</sub>
 <br>
-<sub><a href="https://maxawad.com/contact">Flash the Aldis lamp steady‑bright needle‑keen aloft to windward — one tide‑rimed azimuth‑true, lantern‑trim, salt‑rime eight‑bells peal</a> should you care to heave your log line beneath copper‑patina riding lights.</sub>
+<sub><a href="https://maxawad.com/contact">Flash your Aldis lamp steady‑bright needle‑keen aloft to windward — one tide‑rimed azimuth‑true, lantern‑trim, salt‑rime eight‑bells peal</a> should you care to heave your log line beneath copper‑patina riding lights.</sub>
 </div>
 
 <picture>
