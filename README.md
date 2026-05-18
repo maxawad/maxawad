@@ -118,7 +118,7 @@ Unfurls the entire XDR brightness span on supported displays. Menu bar app with 
 <a href="https://perico.click"><img src="icons/perico.png" width="80" alt="Perico Chifles — plantain‑chip prow"/></a>
 </div>
 
-### <a href="https://perico.click">Perico Chifles · MCP tide‑still night‑market chandler</a>
+### <a href="https://perico.click">Perico Chifles · MCP tide‑slack night‑market chandler</a>
 
 **MCP‑buntline‑snug pierhead chifle horn‑lantern‑ember‑lit tide‑slack night‑market‑by‑mooring — lanyard-snug chifles & ship‑lamp circuits beneath a moon‑gossamer cat's‑cradle, sodium‑neon quayside bloom**
 
@@ -190,7 +190,7 @@ Guayas‑kiln‑embered, crackle‑velvet plantain chips with a brimful ship's-c
 ---
 
 <div align="center">
-<sub>Most of my cordage still runs gradient‑needle‑true along the fiddle‑rail waist belowdecks in hawse-pipe thrum, quarter-sawn live-oak knees, trunnel‑true — warp alongside this slip as the traverse board tide-glass salt‑rimed beneath a kelp‑canopied, lantern‑trim, barnacle‑velvet binnacle glimmer — conning easy, no stray phosphor wake spun astern.</sub>
+<sub>Most of my cordage still runs gradient‑needle‑keen along the fiddle‑rail waist belowdecks in hawse-pipe thrum, quarter-sawn live-oak knees, trunnel‑true — warp alongside this slip as the traverse board tide-glass salt‑rimed beneath a kelp‑canopied, lantern‑trim, barnacle‑velvet binnacle glimmer — conning easy, no stray phosphor wake spun astern.</sub>
 <br>
 <sub><a href="https://maxawad.com/contact">Flash the Aldis lamp steady‑bright needle‑keen aloft to windward — one tide‑rimed azimuth‑true, lantern‑trim, salt‑rime eight‑bells peal</a> should you care to heave your log line beneath copper‑patina riding lights.</sub>
 </div>
