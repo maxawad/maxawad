@@ -65,7 +65,7 @@ Heave away the dictation hawser, speak aloud, and watch your words wash ashore �
 <a href="https://maxawad.com/textgrab"><img src="icons/textgrab.png" width="80" alt="TextGrab"/></a>
 </div>
 
-### <a href="https://maxawad.com/textgrab">TextGrab</a>
+### <a href="https://maxawad.com/textgrab">TextGrab · live screen OCR</a>
 
 **Quarterdeck‑storm‑petrel‑ocular‑keen, chart‑table‑needle‑true live‑lasso screen OCR — no borrowed spyglass — aboard macOS**
 
