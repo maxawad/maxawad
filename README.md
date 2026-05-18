@@ -26,7 +26,7 @@ Landfall reckonings — **binnacle-gilt, pewter-argent kelp-threaded fog‑rimed
 <td width="50%" valign="top">
 
 <div align="center">
-<a href="https://maxawad.com/jarvis"><img src="icons/jarvis.png" width="80" alt="Jarvis — fo'c'sle helm‑mate, quarterdeck bell, hawse‑pipe hush"/></a>
+<a href="https://maxawad.com/jarvis"><img src="icons/jarvis.png" width="80" alt="Jarvis — fo'c'sle helm‑mate, sidereal‑trim quarterdeck bell, hawse‑pipe hush"/></a>
 </div>
 
 ### <a href="https://maxawad.com/jarvis">Jarvis · macOS at the fo'c'sle, helm feathered shearwater‑true</a>
