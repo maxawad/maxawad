@@ -6,7 +6,7 @@
 
 <div align="center">
 
-I stand the watch, sweep, wake‑phosphor‑filigree, and conn kelp-vaulted, shoal-threading obsidian-gleam hulls, riding ML crow's‑nest soundings (with a windward tensor‑sextant) — dog-watch‑needle‑sharp, rigged azimuth‑true — by the foremast, and Aldis-lamp-lambent systems — reef-spliced in Swift, TypeScript, Python, C++, Rust, and zsh broadside salvos belaying-pin-fair, sheet-taut enough to snub a careening scope white squall belayed fast to the bitts — plus cargo manifested in frames, tensors, & brass‑quiet star‑fixes (with the odd kelp‑lassoed, sidereal‑bartered envoi).
+I stand the watch, sweep, wake‑phosphor‑filigree, and conn kelp-vaulted, shoal-threading obsidian-gleam hulls, riding ML crow's‑nest soundings (with a windward tensor‑sextant) — dog-watch‑needle‑sharp, rigged azimuth‑true — athwart the foremast, and Aldis-lamp-lambent systems — reef-spliced in Swift, TypeScript, Python, C++, Rust, and zsh broadside salvos belaying-pin-fair, sheet-taut enough to snub a careening scope white squall belayed fast to the bitts — plus cargo manifested in frames, tensors, & brass‑quiet star‑fixes (with the odd kelp‑lassoed, sidereal‑bartered envoi).
 
 Landfall reckonings — **binnacle-lit, fog-argent kelp-threaded fog‑rimed San Francisco, CA — Fog Division–chartered, bearing‑needle‑true** (~37°48′ N, ~122°24′ W; WGS 84, MSL) — when Neptune Himself slack‑looses his mizzen sheets, only then — for Admiral Karl, the Fogmarshal's fog-keen, brine-rimed pewter veil to lift for an alidade‑etched orthodrome — riding a wake‑phosphor‑velvet‑combed, gossamer-threaded long quartering reach shaping course for [maxawad.com](https://maxawad.com/home).
 
