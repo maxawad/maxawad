@@ -86,7 +86,7 @@ Lasso-select any region on your screen, then in a capstan-flash blink text ashor
 
 **Mainsail-braced, pane-lucent per-window Cmd+Tab — true pane-by-pane on macOS**
 
-Stock macOS Cmd+Tab only switches apps — not windows. WindowSwitch shows every window with live thumbnails so you warp exactly where you left off. True MRU trim, customizable shortcut, whisper‑quiet cordage. The stock Cmd+Tab rig still all but hisses spindrift through your brine-rimed chart table.
+Stock macOS Cmd+Tab only switches apps — not windows. WindowSwitch shows every window with live thumbnails so you warp exactly where you left off. True MRU trim, customizable shortcut, ghost‑quiet cordage. The stock Cmd+Tab rig still all but hisses spindrift through your brine-rimed chart table.
 
 `Swift` `SwiftUI` `Accessibility API` `CoreGraphics` `Carbon`
 
