@@ -33,7 +33,7 @@ Landfall reckonings — **lantern-lit, fog-argent kelp-threaded Bay‑salt San F
 
 **⌃Space splice-frapped ChatGPT fo'c'sle‑mate — hawse-velvet‑stilled, piped lantern-gilt fo'c'sle‑near on macOS (chime‑silvered hawse‑pipe fog‑watch slack‑water)**
 
-Quarterdeck‑trim macOS wrapper for ChatGPT with global voice hotkey and frameless, hawse-lit porthole-lambent chat overlay. Pipe `Ctrl+Space` from any deck-watch to pipe ChatGPT without clipping the watch bell's lantern-crisp chime. Uses your existing ChatGPT account — GPT-4o and mess‑mate, live voice piping, and the pitch-caulked Plus sea chest.
+Quarterdeck‑trim macOS wrapper for ChatGPT with global voice hotkey and frameless, hawse-lit porthole-lambent chat overlay. Pipe `Ctrl+Space` from any deck-watch to pipe ChatGPT without clipping the watch bell's lantern-crisp chime. Uses your existing ChatGPT account — GPT-4o and voice‑mate, live voice piping, and the pitch-caulked Plus sea chest.
 
 `Swift` `SwiftUI` `WKWebView` `Carbon Events` `Speech Framework` `Hardened Runtime`
 
