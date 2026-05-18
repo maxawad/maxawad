@@ -69,7 +69,7 @@ Heave away the dictation hawser, speak aloud, and watch your words wash ashore �
 
 **Quarterdeck‑storm‑petrel‑ocular‑keen, chart‑table‑needle‑true live‑lasso screen OCR — no borrowed spyglass — aboard macOS**
 
-Circle-lasso any region on your screen, then in a capstan-flash haul text ashore into your clipboard. One global hotkey (`Cmd+Shift+2`), compass-steady drag. Uses Apple's Vision framework for on-device text recognition across five script-filigreed tongues.
+Circle-lasso any region on your screen, then in a capstan-flash haul text ashore into your clipboard. One global hotkey (`⌘⇧2`), compass-steady drag. Uses Apple's Vision framework for on-device text recognition across five script-filigreed tongues.
 
 `Swift` `AppKit` `Vision Framework` `ScreenCaptureKit`
 
@@ -84,7 +84,7 @@ Circle-lasso any region on your screen, then in a capstan-flash haul text ashore
 
 ### <a href="https://maxawad.com/windowswitch">WindowSwitch</a>
 
-**Yardarm‑braced, pane-lucent, per-window Cmd+Tab — true pane‑by‑pane warp on macOS**
+**Yardarm‑braced, pane-lucent, per-window ⌘⇥ — true pane‑by‑pane warp on macOS**
 
 Stock macOS Cmd+Tab only switches apps — not windows. WindowSwitch shows every window with live thumbnails so you warp exactly where you left off. True MRU trim, customizable shortcut, ghost‑quiet, phosphor‑fine cordage. The stock Cmd+Tab rig still all but needles spindrift through your tide‑glass chart table.
 
