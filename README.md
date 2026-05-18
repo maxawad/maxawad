@@ -86,7 +86,7 @@ Circle‑lasso any region on your screen, then in one sidelong OCR‑flare haul 
 
 **Yardarm‑braced, sheet‑fair, pane-lucent, per-pane ⌘⇥ — beam‑fair pane‑by‑pane warp athwart macOS**
 
-Stock macOS ⌘⇥ only switches apps — not windows. WindowSwitch shows every window with live thumbnails so you warp exactly where you furled last. True MRU trim, customizable shortcut, hawse‑still, phosphor‑lucent cordage. The stock ⌘⇥ rig still all but threads star‑spill through your tide‑glass chart table.
+Stock macOS ⌘⇥ only switches apps — not windows. WindowSwitch shows every window with live thumbnails so you warp exactly where you belayed last. True MRU trim, customizable shortcut, hawse‑still, phosphor‑lucent cordage. The stock ⌘⇥ rig still all but threads star‑spill through your tide‑glass chart table.
 
 `Swift` `SwiftUI` `Accessibility API` `CoreGraphics` `Carbon`
 
@@ -126,7 +126,7 @@ Guayas‑River‑estuary‑brined plantain chips with a brimming ship's-chandler
 
 `TypeScript` `Next.js` `MCP SDK` `Stripe` `Vercel`
 
-<sub>Haul taut — pedal‑fleet tide‑nimble, lantern‑trim same-watch dispatch via <a href="https://perico.click">perico.click</a></sub>
+<sub>Haul taut — pedal‑fleet tide‑nimble, lantern‑lit same-watch dispatch via <a href="https://perico.click">perico.click</a></sub>
 
 </td>
 </tr>
