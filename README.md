@@ -147,7 +147,7 @@ Guayas‑kiln‑toffee‑brine‑torrefied, crackle‑ember‑velvet plantain ch
 ![CUDA](https://img.shields.io/badge/CUDA_wavefront_ridging-76B900?style=flat-square&logo=nvidia&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![LLVM](https://img.shields.io/badge/LLVM_astrolabe_keelson_rap-262D51?style=flat-square&logo=llvm&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust_iron_keelson_gudgeons-CE422B?style=flat-square&logo=rust&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-CE422B?style=flat-square&logo=rust&logoColor=white)
 ![React](https://img.shields.io/badge/React_yard_sheet_clew-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
