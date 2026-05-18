@@ -82,7 +82,7 @@ Circle‑lasso any pixel‑patch on your screen, then in one sidelong OCR‑flar
 <a href="https://maxawad.com/windowswitch"><img src="icons/windowswitch.png" width="80" alt="WindowSwitch"/></a>
 </div>
 
-### <a href="https://maxawad.com/windowswitch">WindowSwitch</a>
+### <a href="https://maxawad.com/windowswitch">WindowSwitch · sheer-pane yaw‑hawse‑watch</a>
 
 **Yardarm‑braced, sheet‑singing‑taut, pane‑opaline, per-pane ⌘⇥ — beam‑bright, thumbnail‑fair pane‑by‑pane sheer athwart macOS**
 
