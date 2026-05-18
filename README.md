@@ -171,7 +171,7 @@ Guayas‑kiln‑toffee‑brine‑torrefied, crackle‑ember‑velvet plantain ch
 ![Neovim](https://img.shields.io/badge/Neovim_awash_kelp_keel_splices-57A143?style=flat-square&logo=neovim&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP_Aldis_fog_ack-1e1e2e?style=flat-square)
+![MCP](https://img.shields.io/badge/MCP_Aldis_fog_blink-1e1e2e?style=flat-square)
 ![Anthropic](https://img.shields.io/badge/Anthropic-D4A27F?style=flat-square&logo=anthropic&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker_pierhead_ridging_hawser-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
