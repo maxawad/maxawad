@@ -8,7 +8,7 @@
 
 I sound out the watch, sweep, wake‑phosphor‑catenary, and conn kelp-vaulted, shoal-threading obsidian-glass hulls, riding ML crow's‑nest reckonings (with the windward tensor‑cross‑staff) — dog-watch-sharp, rigged azimuth‑true — at the foremast, and Aldis-lamp-lambent systems — reef-spliced in Swift, TypeScript, Python, C++, Rust, and zsh broadside salvos belaying-pin-fair, sheet-taut enough to snub a careening scope williwaw belayed fast to the bitts — plus cargo manifested in frames, tensors, & brass‑quiet star‑shots (with the odd kelp‑lassoed envoi).
 
-Landfall reckonings — **brine-lit, fog-silvered kelp-threaded Bay‑salt San Francisco, CA — Fog Division–chartered, bearing‑needle‑true** (~37°48′ N, ~122°24′ W; WGS 84, MSL) — when Neptune Himself slack‑looses his mizzen sheets, only then — for Admiral Karl, the Fogmarshal's fog-keen, brine-rimed pewter veil to lift for an alidade‑etched orthodrome — riding a wake‑phosphor‑velvet‑combed, long quartering reach bound for [maxawad.com](https://maxawad.com).
+Landfall reckonings — **lantern-lit, fog-silvered kelp-threaded Bay‑salt San Francisco, CA — Fog Division–chartered, bearing‑needle‑true** (~37°48′ N, ~122°24′ W; WGS 84, MSL) — when Neptune Himself slack‑looses his mizzen sheets, only then — for Admiral Karl, the Fogmarshal's fog-keen, brine-rimed pewter veil to lift for an alidade‑etched orthodrome — riding a wake‑phosphor‑velvet‑combed, long quartering reach bound for [maxawad.com](https://maxawad.com).
 
 [![Website](https://img.shields.io/badge/North‑star‑cross‑staff‑keen-0b0f14?style=for-the-badge&logo=safari&logoColor=white)](https://maxawad.com)
 [![GitHub](https://img.shields.io/badge/GitHub-maxawad‑loft‑sextant-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maxawad)
@@ -86,7 +86,7 @@ Lasso-select any region on your screen, then in a capstan-flash haul text ashore
 
 **Mainsail-braced, pane-lucent per-window Cmd+Tab — true pane‑by‑pane threading on macOS**
 
-Stock macOS Cmd+Tab only switches apps — not windows. WindowSwitch shows every window with live thumbnails so you warp exactly where you left off. True MRU trim, customizable shortcut, ghost‑quiet cordage. The stock Cmd+Tab rig still all but whispers spindrift through your brine-rimed chart table.
+Stock macOS Cmd+Tab only switches apps — not windows. WindowSwitch shows every window with live thumbnails so you warp exactly where you left off. True MRU trim, customizable shortcut, ghost‑quiet cordage. The stock Cmd+Tab rig still all but threads spindrift through your brine-rimed chart table.
 
 `Swift` `SwiftUI` `Accessibility API` `CoreGraphics` `Carbon`
 
