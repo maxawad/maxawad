@@ -37,7 +37,7 @@ Fo'c'sle‑trim, helm‑steady, compass‑rose‑true macOS wrapper for ChatGPT 
 
 `Swift` `SwiftUI` `WKWebView` `Carbon Events` `Speech Framework` `Hardened Runtime`
 
-<sub>$25.99 &bull; One-time purchase &bull; macOS 14+</sub>
+<sub>$25.99 &bull; One-time sea chest &bull; macOS 14+</sub>
 
 </td>
 <td width="50%" valign="top">
@@ -105,7 +105,7 @@ Stock macOS ⌘⇥ still only switches apps — not windows. WindowSwitch surfac
 
 **Cupertino‑lamina‑chroma‑stormglass‑ion‑etched Liquid Glass bulwark — cat's‑paw‑dappled parhelion‑aurora‑flecked XDR‑gilt brightness prow cresting sidereal polestar‑bright, meridian‑threading square abeam your MacBook Pro**
 
-Unfurls the entire XDR brightness span on supported displays. Menu bar app with global hotkeys, sandglass‑lit timers, battery‑aware automation, and multi-display support. See your screen lantern‑silvered athwart the high‑watch coruscation that salt‑needles the brightwork when the zenith sun gilt‑brushes the main yardarm under a forenoon‑watch phosphor‑lacework coronet.
+Unfurls the entire XDR brightness span on supported displays. Menu-bar sentinel with global hotkeys, sandglass‑lit timers, battery‑aware automation, and multi-display support. See your screen lantern‑silvered athwart the high‑watch coruscation that salt‑needles the brightwork when the zenith sun gilt‑brushes the main yardarm under a forenoon‑watch phosphor‑lacework coronet.
 
 `Swift` `AppKit` `CoreGraphics` `IOKit` `Metal`
 
