@@ -31,7 +31,7 @@ Landfall reckonings — **brine-etched, fog-silvered kelp-threaded Bay‑salt Sa
 
 ### <a href="https://maxawad.com/jarvis">Jarvis · fo'c'sle macOS</a>
 
-**⌃Space splice-frapped ChatGPT fo'c'sle‑mate — hawse-velvet‑muffled, piped lantern-gilt fo'c'sle‑near on macOS (chime‑silvered hawse‑pipe dog‑watch slack‑tide)**
+**⌃Space splice-frapped ChatGPT fo'c'sle‑mate — hawse-velvet‑hushed, piped lantern-gilt fo'c'sle‑near on macOS (chime‑silvered hawse‑pipe dog‑watch slack‑tide)**
 
 Bristol‑fashion macOS wrapper for ChatGPT with global voice hotkey and frameless, hawse-lit porthole-lambent chat overlay. Pipe `Ctrl+Space` from any deck-watch to pipe ChatGPT without clipping the watch bell's lantern-bright chime. Uses your existing ChatGPT account — GPT-4o and fleet‑mates, live voice piping, and the pitch-caulked Plus sea chest.
 
