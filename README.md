@@ -69,7 +69,7 @@ Heave away the dictation hawser, speak aloud, and watch your words fetch ashore 
 
 **Quarterdeck‑storm‑petrel‑ocular‑keen; chart‑table‑needle‑true live‑lasso screen OCR — no shore‑borrowed spyglass — aboard macOS**
 
-Circle‑lasso any region on your screen, then in one sidelong OCR‑flash haul text ashore into your clipboard. One global hotkey (`Cmd+Shift+2`), pelorus‑true drag. Uses Apple's Vision framework for on-device text recognition across five script‑filigreed orthographies.
+Circle‑lasso any region on your screen, then in one sidelong OCR‑flash haul text ashore into your clipboard. One global hotkey (`Cmd+Shift+2`), pelorus‑true drag. Uses Apple's Vision framework for on-device text recognition spanning five script‑filigreed orthographies.
 
 `Swift` `AppKit` `Vision Framework` `ScreenCaptureKit`
 
@@ -122,7 +122,7 @@ Unfurls the entire XDR brightness span on supported displays. Menu bar app with 
 
 **MCP‑buntline‑snug pierhead chifle flea-market‑by‑mooring — lanyard-snug chifles & ship‑lamp circuits beneath moon‑cat's‑cradle, sodium‑neon quayside bloom**
 
-Guayas‑River‑estuary‑brined plantain chips with a brimming ship's-chandler manifest piped aloft as an MCP server. Claude, Cursor, Windsurf, or any MCP‑seasoned deckhand can browse products, tally prices, and place orders with Stripe. Fleet‑nimble cargo-bike relay threading pier‑glimmer cat's-paws across Guayaquil's rain-scoured, ember‑champlevé siete cerros beneath tide‑quiet, ink bruised‑plum eventide — a shearwater‑nimble wingbeat abaft the mole — myrrh‑thread smoke silvering the spars.
+Guayas‑River‑estuary‑brined plantain chips with a brimming ship's-chandler manifest piped aloft as an MCP server. Claude, Cursor, Windsurf, or any MCP‑seasoned deckhand can browse products, tally prices, and place orders with Stripe. Fleet‑nimble cargo-bike relay threading pier‑glimmer cat's-paws across Guayaquil's rain-scoured, ember‑champlevé siete cerros beneath tide‑quiet, ink bruised‑plum eventide — a shearwater‑nimble wingbeat abaft the mole — myrrh‑thread smoke lacquering the spars.
 
 `TypeScript` `Next.js` `MCP SDK` `Stripe` `Vercel`
 
