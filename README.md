@@ -29,7 +29,7 @@ Landfall reckonings — **lantern-lit, fog-argent kelp-threaded fog‑rimed San 
 <a href="https://maxawad.com/jarvis"><img src="icons/jarvis.png" width="80" alt="Jarvis"/></a>
 </div>
 
-### <a href="https://maxawad.com/jarvis">Jarvis · fo'c'sle macOS</a>
+### <a href="https://maxawad.com/jarvis">Jarvis · fo'c'sle‑rigged macOS</a>
 
 **⌃Space hotkey-frapped ChatGPT fo'c'sle‑mate — hawse-velvet‑stilled, piped lantern-gilt fo'c'sle‑near on macOS (chime‑silvered hawse‑pipe fog‑watch slack‑water)**
 
@@ -50,7 +50,7 @@ Quarterdeck‑taut macOS wrapper for ChatGPT with global voice hotkey and framel
 
 **Fog-prism-argent, pierhead-lantern-gilt, Bristol-fashion shipshape — snug‑lashed, shearwater‑lambent on-device dictation aboard macOS**
 
-Heave away the dictation hawser, speak aloud, and watch your words wash ashore — offline-first by intent, hawse‑needle‑keen diction rail, private before the cloud. Conned by NVIDIA Parakeet TDT distilled on the Apple Neural Engine. Also weighs anchor as an [iOS keyboard](https://lowercase.click) with Live Activities and trim on-device ML.
+Heave away the dictation hawser, speak aloud, and watch your words wash ashore — offline-first by design, hawse‑needle‑keen diction rail, private before the cloud. Conned by NVIDIA Parakeet TDT distilled on the Apple Neural Engine. Also weighs anchor as an [iOS keyboard](https://lowercase.click) with Live Activities and trim on-device ML.
 
 `Swift` `SwiftUI` `Parakeet TDT` `Apple Neural Engine` `CoreML`
 
