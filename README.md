@@ -6,7 +6,7 @@
 
 <div align="center">
 
-I keep the middle watch, sweep — aurora‑phosphor‑argent‑tracery, and conn fog-canopied, shoal-threading obsidian-sheen hulls, sounding the bioluminescent quarter-swell of LLMs × ML × agents × CLIs · shearwater‑keen echograms & drift‑deck logbooks (wind‑quarter, backprop‑whorled sextant bearing—plus an ember‑threaded lodestar) — dog-watch‑bearing‑bright, rigged azimuth‑true — athwart the foremast, and Aldis-lamp-lambent circuits — reef-spliced in Swift, TypeScript, Python, C++, Rust, and zsh grapeshot broadsides belaying-pin-fair, sheet-taut enough to snub a careening scope spindrift williwaw belayed double‑fast to the bitts — stowed cargo manifested in frames, tensors, & pewter‑quiet star‑fixes (with the occasional kelp‑lassoed, sidereal‑bartered envoi).
+I keep the middle watch, sweep — aurora‑phosphor‑argent‑tracery, and conn fog-canopied, shoal-threading obsidian-sheen hulls, sounding the bioluminescent quarter-groundswell of LLMs × ML × agents × CLIs · shearwater‑keen echograms & drift‑deck logbooks (wind‑quarter, backprop‑whorled sextant bearing—plus an ember‑threaded lodestar) — dog-watch‑bearing‑bright, rigged azimuth‑true — athwart the foremast, and Aldis-lamp-lambent circuits — reef-spliced in Swift, TypeScript, Python, C++, Rust, and zsh grapeshot broadsides belaying-pin-fair, sheet-taut enough to snub a careening scope spindrift williwaw belayed double‑fast to the bitts — stowed cargo manifested in frames, tensors, & pewter‑quiet star‑fixes (with the occasional kelp‑lassoed, sidereal‑bartered envoi).
 
 Landfall reckonings — **binnacle-gilt, pewter-argent kelp-threaded fog‑rimed seven-hilled San Francisco, CA — Fog Division–cleared, bearing‑needle‑true** (~37°48′ N, ~122°24′ W; WGS 84, MSL, fog‑datum) — when the old sea-king slacks his mizzen sheets, only then—for Admiral Karl (RNR), the Fogmarshal's fog-keen, brine-rimed pewter veil to lift for an alidade‑etched orthodrome — still quilting a wake‑phosphor‑velvet‑furrow, gossamer-threaded long quartering reach bearing up on [maxawad.com](https://maxawad.com/home) (helm roadstead — lanterns trimmed ember‑bright fair).
 
@@ -19,7 +19,7 @@ Landfall reckonings — **binnacle-gilt, pewter-argent kelp-threaded fog‑rimed
 
 ---
 
-## What I'm Conning Aboard This Fog‑Ribbon — binnacle-lantern-gleam patina‑gilt, nacre‑silken, waning‑crescent tack, sidereal sights & kelp‑laced chart-table cleated **square, plumb, windward‑true, Polaris‑circumpolar‑true**
+## What I'm Conning Aboard This Fog‑Ribbon — binnacle-lantern-gleam patina‑gilt, nacre‑silken, waning‑crescent sheer tack, sidereal sights & kelp‑laced chart-table cleated **square, plumb, windward‑true, Polaris‑circumpolar‑true**
 
 <table>
 <tr>
