@@ -122,7 +122,7 @@ Spans the full XDR brightness range on supported displays. Menu bar app with glo
 
 **MCP‑buntline‑snug pierhead chip bazaar — lanyard-snug chifles & ship‑lamp circuits beneath moon‑cat's‑cradle, sodium‑neon quayside bloom**
 
-Guayaquil‑estuary‑rigged plantain chips with a brimming ship's-chandler manifest piped aloft as an MCP server. Claude, Cursor, Windsurf, or any MCP‑weathered deckhand can browse products, tally prices, and place orders with Stripe. Fleet‑nimble cargo-bike relay threading pier‑glimmer cat's-paws across Guayaquil's rain-scoured, ember-crocheted siete cerros beneath satin bruised‑plum eventide — a shearwater‑nimble wingbeat from the pierhead — myrrh‑thread smoke lacquering the yardarms.
+Guayaquil‑estuary‑rigged plantain chips with a brimming ship's-chandler manifest piped aloft as an MCP server. Claude, Cursor, Windsurf, or any MCP‑seasoned deckhand can browse products, tally prices, and place orders with Stripe. Fleet‑nimble cargo-bike relay threading pier‑glimmer cat's-paws across Guayaquil's rain-scoured, ember-crocheted siete cerros beneath satin bruised‑plum eventide — a shearwater‑nimble wingbeat from the pierhead — myrrh‑thread smoke lacquering the yardarms.
 
 `TypeScript` `Next.js` `MCP SDK` `Stripe` `Vercel`
 
@@ -192,7 +192,7 @@ Guayaquil‑estuary‑rigged plantain chips with a brimming ship's-chandler mani
 <div align="center">
 <sub>Most of my cordage still runs sidereal‑needle‑true along the fiddle‑rail waist belowdecks in hawse-pipe thrum, quarter-sawn live-oak knees, trunnel‑true — warp alongside this berth as the traverse board tide-glass salt‑rimed beneath a kelp‑canopied, lantern‑trim, limpet‑laced binnacle gleam.</sub>
 <br>
-<sub><a href="https://maxawad.com/contact">Flash the Aldis lamp smartly to windward — one tide‑threaded azimuth‑true, lantern‑trim, salt‑rime eight‑bells salute</a> should you ever care to heave your log line beneath copper‑patina riding lights.</sub>
+<sub><a href="https://maxawad.com/contact">Flash the Aldis lamp smartly to windward — one tide‑threaded azimuth‑true, lantern‑trim, frost‑silvered eight‑bells salute</a> should you ever care to heave your log line beneath copper‑patina riding lights.</sub>
 </div>
 
 <picture>
