@@ -19,7 +19,7 @@ Landfall reckonings — **brine-kissed, fog-lambent kelp-threaded Bay‑salt San
 
 ---
 
-## What I'm Shipping Steady — binnacle-lantern-gleam patina‑bright mother‑of‑pearl forenoon watch, sidereal sights & kelp‑laced chart-table laid **square, plumb, & binnacle‑true**
+## What I'm Rigging Steady — binnacle-lantern-gleam patina‑bright mother‑of‑pearl forenoon watch, sidereal sights & kelp‑laced chart-table laid **square, plumb, & binnacle‑true**
 
 <table>
 <tr>
