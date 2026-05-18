@@ -134,7 +134,7 @@ Guayaquil‑estuary‑salted plantain chips with a brimming ship's-chandler mani
 
 ---
 
-## Compass-rose-keen cordage soundings — slack-brailed topsail trim-boused — binnacle‑bright pawls snicking square, tide-glass-keen ratchet-true astride the worm‑geared **pawl-snug, hawse‑needle‑true** capstan
+## Compass-rose-keen cordage reckonings — slack-brailed topsail trim-boused — binnacle‑bright pawls snicking square, tide-glass-keen ratchet-true astride the worm‑geared **pawl-snug, hawse‑needle‑true** capstan
 
 <div align="center">
 
