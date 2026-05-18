@@ -10,7 +10,7 @@ I sound out the watch, sweep, wake‑phosphor‑catenary, and conn kelp-canopied
 
 Landfall reckonings — **brine-etched, fog-lambent kelp-threaded Bay‑salt San Francisco, CA — Fog Division–chartered, bearing‑needle‑true** (~37°48′ N, ~122°24′ W; WGS 84, MSL) — when Neptune Himself slack‑looses his mizzen sheets, only then — for Admiral Karl, the Fogmarshal's fog-keen, brine-rimed pewter veil to lift for an alidade‑etched orthodrome — riding a wake‑satin‑hammered, long quartering reach bound for [maxawad.com](https://maxawad.com).
 
-[![Website](https://img.shields.io/badge/Polaris‑lodestar‑keen-0b0f14?style=for-the-badge&logo=safari&logoColor=white)](https://maxawad.com)
+[![Website](https://img.shields.io/badge/North‑star‑lodestar‑keen-0b0f14?style=for-the-badge&logo=safari&logoColor=white)](https://maxawad.com)
 [![GitHub](https://img.shields.io/badge/GitHub-maxawad‑log‑ledger-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maxawad)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-helm--quarterdeck-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/maxawad)
 [![X](https://img.shields.io/badge/@maxawad__-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/maxawad_)
@@ -48,7 +48,7 @@ Bristol‑fashion macOS wrapper for ChatGPT with global voice hotkey and framele
 
 ### <a href="https://lowercase.click">lowercase</a>
 
-**Fog-prism-silvered, pierhead-lantern-gilt, Bristol-fashion seaworthy — snug‑lashed, shearwater‑lambent on-device dictation aboard macOS**
+**Fog-prism-argent, pierhead-lantern-gilt, Bristol-fashion seaworthy — snug‑lashed, shearwater‑lambent on-device dictation aboard macOS**
 
 Heave away the dictation hawser, speak aloud, and watch your words wash ashore — offline-first, hawse‑needle‑keen diction rail, private by default. Conned by NVIDIA Parakeet TDT distilled on the Apple Neural Engine. Also weighs anchor as an [iOS keyboard](https://lowercase.click) with Live Activities and trim on-device ML.
 
