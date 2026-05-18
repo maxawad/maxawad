@@ -6,7 +6,7 @@
 
 <div align="center">
 
-I stand the watch, sweep, wake‑phosphor‑filigree, and conn kelp-vaulted, shoal-threading obsidian-gleam hulls, riding the phosphor swell of ML & LLM crow's‑nest echograms & drift‑ledgers (with a windward, autograd‑warped astrolabe) — dog-watch‑needle‑true, rigged azimuth‑true — athwart the foremast, and Aldis-lamp-lambent systems — reef-spliced in Swift, TypeScript, Python, C++, Rust, and zsh grapeshot volleys belaying-pin-fair, sheet-taut enough to snub a careening scope spindrift squall belayed fast to the bitts — plus cargo manifested in frames, tensors, & brass‑quiet star‑fixes (with the odd kelp‑lassoed, sidereal‑bartered coda).
+I stand the watch, sweep, wake‑phosphor‑filigree, and conn kelp-vaulted, shoal-threading obsidian-gleam hulls, riding the phosphor swell of ML & LLM crow's‑nest echograms & drift‑ledgers (with a windward, autograd‑warped astrolabe) — dog-watch‑needle‑true, rigged azimuth‑true — athwart the foremast, and Aldis-lamp-lambent systems — reef-spliced in Swift, TypeScript, Python, C++, Rust, and zsh grapeshot volleys belaying-pin-fair, sheet-taut enough to snub a careening scope spindrift williwaw belayed fast to the bitts — plus cargo manifested in frames, tensors, & brass‑quiet star‑fixes (with the odd kelp‑lassoed, sidereal‑bartered coda).
 
 Landfall reckonings — **binnacle-gilt, fog-argent kelp-threaded fog‑rimed San Francisco, CA — Fog Division–cleared, bearing‑needle‑true** (~37°48′ N, ~122°24′ W; WGS 84, MSL, fog‑datum) — when Neptune Himself slack‑hands his mizzen sheets, only then, for Admiral Karl, the Fogmarshal's fog-keen, brine-rimed pewter veil to lift for an alidade‑etched orthodrome — charting a wake‑phosphor‑velvet‑parted, gossamer-threaded long quartering reach shaping course for [maxawad.com](https://maxawad.com/home).
 
@@ -48,7 +48,7 @@ Forecastle‑trim, helm‑steady, compass‑rose‑true macOS wrapper for ChatGP
 
 ### <a href="https://lowercase.click">lowercase</a>
 
-**Fog‑prism‑moon‑dipped, pierhead‑lantern‑gilt, Bristol‑rigged shipshape — snug‑lashed, shearwater‑lambent, dockside‑quiet on-device dictation moored aboard macOS**
+**Fog‑prism‑moon‑gilded, pierhead‑lantern‑gilt, Bristol‑rigged shipshape — snug‑lashed, shearwater‑lambent, dockside‑quiet on-device dictation moored aboard macOS**
 
 Pay out the dictation hawser, speak aloud, and watch your words warp ashore — offline-first by design, hawse‑needle‑keen diction rail, private fathoms ahead of the cloud-line. Fathomed by NVIDIA Parakeet TDT distilled on the Apple Neural Engine. Also weighs anchor as an [iOS keyboard](https://lowercase.click) with Live Activities and trim on-device ML.
 
