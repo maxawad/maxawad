@@ -12,7 +12,7 @@ Landfall reckonings — **binnacle-gilt, fog-argent kelp-threaded fog‑rimed se
 
 [![Website](https://img.shields.io/badge/Polaris‑loft‑cross‑staff‑bearing‑home-0b0f14?style=for-the-badge&logo=safari&logoColor=white)](https://maxawad.com)
 [![GitHub](https://img.shields.io/badge/GitHub-maxawad‑traverse‑board‑starboard-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maxawad)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-tar‑caulked‑windward-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/maxawad)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-tar‑caulked‑quarterdeck-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/maxawad)
 [![X](https://img.shields.io/badge/@maxawad_-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/maxawad_)
 
 </div>
@@ -35,7 +35,7 @@ Landfall reckonings — **binnacle-gilt, fog-argent kelp-threaded fog‑rimed se
 
 Fo'c'sle‑trim, helm‑steady, compass‑rose‑true macOS wrapper for ChatGPT with global voice hotkey and frameless, hawse‑haloed porthole-lambent Helm‑menu chat overlay. Pipe `⌃Space` from any deck-watch to pipe ChatGPT without clipping the watch bell's lantern-bright, tide‑slack knell. Belay your existing ChatGPT account — the latest GPT and voice‑mate, live voice piping, and the tar-caulked Plus sea chest.
 
-`Swift` `SwiftUI` `WKWebView` `Carbon Events` `Speech Framework` `Hardened Runtime`
+`Swift` `SwiftUI` `Glass` `WKWebView` `Carbon Events` `Speech Framework` `Hardened Runtime`
 
 <sub>$25.99 &bull; One-time purchase &bull; macOS 14+</sub>
 
