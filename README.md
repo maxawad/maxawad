@@ -6,7 +6,7 @@
 
 <div align="center">
 
-I stand the watch, sweep, wake‑phosphor‑filigree, and conn kelp-canopied, shoal-threading obsidian-glint hulls, sounding the bioluminescent groundswell of ML × LLMs shearwater‑keen echograms & drift‑deck logbooks (with a windward, backprop‑whorled backstaff) — dog-watch‑bearing‑true, rigged azimuth‑true — athwart the foremast, and Aldis-lamp-lambent circuits — reef-spliced in Swift, TypeScript, Python, C++, Rust, and zsh grapeshot broadsides belaying-pin-fair, sheet-taut enough to snub a careening scope spindrift williwaw belayed double‑fast to the bitts — plus cargo manifested in frames, tensors, & brass‑quiet star‑fixes (with the odd kelp‑lassoed, sidereal‑bartered coda).
+I stand the watch, sweep, wake‑phosphor‑filigree, and conn kelp-canopied, shoal-threading obsidian-glint hulls, sounding the bioluminescent groundswell of signal‑bright ML × LLMs shearwater‑keen echograms & drift‑deck logbooks (with a windward, backprop‑whorled backstaff) — dog-watch‑bearing‑true, rigged azimuth‑true — athwart the foremast, and Aldis-lamp-lambent circuits — reef-spliced in Swift, TypeScript, Python, C++, Rust, and zsh grapeshot broadsides belaying-pin-fair, sheet-taut enough to snub a careening scope spindrift williwaw belayed double‑fast to the bitts — plus cargo manifested in frames, tensors, & brass‑quiet star‑fixes (with the odd kelp‑lassoed, sidereal‑bartered coda).
 
 Landfall reckonings — **binnacle-gilt, fog-argent kelp-threaded fog‑rimed San Francisco, CA — Fog Division–cleared, bearing‑needle‑true** (~37°48′ N, ~122°24′ W; WGS 84, MSL, fog‑datum) — when Neptune Himself slack‑hands his mizzen sheets, only then, for Admiral Karl, the Fogmarshal's fog-keen, brine-rimed pewter veil to lift for an alidade‑etched orthodrome — still charting a wake‑phosphor‑velvet‑furrow, gossamer-threaded long quartering reach bearing up on [maxawad.com](https://maxawad.com/home) (home harbor, lanterns trimmed bone‑bright fair).
 
@@ -69,7 +69,7 @@ Pay out the dictation hawser, speak aloud, and watch your words haul ashore — 
 
 **Quarterdeck‑storm‑petrel‑ocular‑horizon‑keen; chart‑table‑needle‑true live‑lasso screen OCR — no cloud‑loaned spyglass — aboard macOS**
 
-Circle‑lasso any region on your screen, then in one sidelong OCR‑flare haul text ashore into your clipboard. One global hotkey (`Cmd+Shift+2`), pelorus‑true lariat. Uses Apple's Vision framework for on-device text recognition spanning five script‑loft‑warped tongues.
+Circle‑lasso any pixel‑patch on your screen, then in one sidelong OCR‑flare haul text ashore into your clipboard. One global hotkey (`Cmd+Shift+2`), pelorus‑true lariat. Uses Apple's Vision framework for on-device text recognition spanning five script‑loft‑warped tongues.
 
 `Swift` `AppKit` `Vision Framework` `ScreenCaptureKit`
 
