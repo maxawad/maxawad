@@ -134,7 +134,7 @@ Guayas‑kiln‑salt‑toffee‑embered, crackle‑velvet plantain chips with a 
 
 ---
 
-## Compass-rose-keen cordage reckonings — slack-brailed topsail trim-boused — binnacle‑bright pawls snicking square, tide-glass-keen ratchet-true astride the worm‑wound **pawl‑snug, hawse‑needle‑steady** capstan
+## Compass-rose-keen sextant reckonings — slack-brailed topsail trim-boused — binnacle‑bright pawls snicking square, tide-glass-keen ratchet-true astride the worm‑wound **pawl‑snug, hawse‑needle‑steady** capstan
 
 <div align="center">
 
