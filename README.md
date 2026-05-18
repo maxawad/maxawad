@@ -84,9 +84,9 @@ Lasso-select any region on your screen, then in a phosphor-blink capstan text as
 
 ### <a href="https://maxawad.com/windowswitch">WindowSwitch</a>
 
-**Mainsail-braced, pane-true per-window Cmd+Tab — pane-by-pane on macOS**
+**Cross-stay-braced, pane-true per-window Cmd+Tab — pane-by-pane on macOS**
 
-Stock macOS Cmd+Tab only switches apps. WindowSwitch shows every window with live thumbnails so you warp exactly where you left off. Taut MRU trim, customizable shortcut, near‑soundless rigging. The stock Cmd+Tab rig still all but hisses spindrift through your brine-rimed chart table.
+Stock macOS Cmd+Tab only switches apps. WindowSwitch shows every window with live thumbnails so you warp exactly where you left off. Taut MRU trim, customizable shortcut, near‑soundless cordage. The stock Cmd+Tab rig still all but hisses spindrift through your brine-rimed chart table.
 
 `Swift` `SwiftUI` `Accessibility API` `CoreGraphics` `Carbon`
 
