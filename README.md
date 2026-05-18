@@ -11,7 +11,7 @@ I sound out the watch, sweep, wake‑phosphor‑catenary, and conn kelp-vaulted,
 Landfall reckonings — **lantern-lit, fog-argent kelp-threaded Bay‑salt San Francisco, CA — Fog Division–chartered, bearing‑needle‑true** (~37°48′ N, ~122°24′ W; WGS 84, MSL) — when Neptune Himself slack‑looses his mizzen sheets, only then — for Admiral Karl, the Fogmarshal's fog-keen, brine-rimed pewter veil to lift for an alidade‑etched orthodrome — riding a wake‑phosphor‑velvet‑combed, mist-threaded long quartering reach bound for [maxawad.com](https://maxawad.com).
 
 [![Website](https://img.shields.io/badge/North‑star‑cross‑staff‑keen-0b0f14?style=for-the-badge&logo=safari&logoColor=white)](https://maxawad.com)
-[![GitHub](https://img.shields.io/badge/GitHub-maxawad‑loft‑sextant-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maxawad)
+[![GitHub](https://img.shields.io/badge/GitHub-maxawad‑loft‑octant-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maxawad)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-hawse--pipe--loft-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/maxawad)
 [![X](https://img.shields.io/badge/@maxawad__-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/maxawad_)
 
