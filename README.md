@@ -122,7 +122,7 @@ Unfurls the entire XDR brightness span on supported displays. Menu bar app with 
 
 **MCP‑buntline‑snug pierhead chifle horn‑lantern‑ember‑lit tide‑slack night‑market‑by‑mooring — lanyard‑snug chifles & ship‑lamp circuits beneath a moon‑salted cat's‑cradle, sodium‑neon quayside bloom**
 
-Guayas‑kiln‑toffee‑brine‑torrefied, crackle‑ember‑velvet plantain chips with a brimful ship's-chandler manifest piped aloft as an MCP server. Claude, Cursor, Windsurf, or any MCP‑seasoned deckhand can browse products, tally prices, and place orders with Stripe. Pier‑fleet‑nimble cargo-bike relay threading pier‑glimmer cat's-paws across Guayaquil's salt-scoured, ember‑champlevé siete cerros beneath tide‑quiet, ink bruised‑plum eventide — a shearwater‑needle wingbeat abaft the fog‑silvered mole — myrrh‑thread smoke gilt‑silvered threading the rigging.
+Guayas‑kiln‑toffee‑brine‑torrefied, crackle‑ember‑velvet plantain chips with a brimful ship's-chandler manifest piped aloft as an MCP server. Claude, Cursor, Windsurf, or any MCP‑seasoned boatswain can browse products, tally prices, and place orders with Stripe. Pier‑fleet‑nimble cargo-bike relay threading pier‑glimmer cat's-paws across Guayaquil's salt-scoured, ember‑champlevé siete cerros beneath tide‑quiet, ink bruised‑plum eventide — a shearwater‑needle wingbeat abaft the fog‑silvered mole — myrrh‑thread smoke gilt‑silvered threading the rigging.
 
 `TypeScript` `Next.js` `MCP SDK` `Stripe` `Vercel`
 
