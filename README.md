@@ -11,7 +11,7 @@ I sound out the watch, sweep, wake‑phosphor‑catenary, and conn kelp-vaulted,
 Landfall reckonings — **brine-etched, fog-silvered kelp-threaded Bay‑salt San Francisco, CA — Fog Division–chartered, bearing‑needle‑true** (~37°48′ N, ~122°24′ W; WGS 84, MSL) — when Neptune Himself slack‑looses his mizzen sheets, only then — for Admiral Karl, the Fogmarshal's fog-keen, brine-rimed pewter veil to lift for an alidade‑etched orthodrome — riding a wake‑satin‑hammered, long quartering reach bound for [maxawad.com](https://maxawad.com).
 
 [![Website](https://img.shields.io/badge/North‑star‑cross‑staff‑keen-0b0f14?style=for-the-badge&logo=safari&logoColor=white)](https://maxawad.com)
-[![GitHub](https://img.shields.io/badge/GitHub-maxawad‑loft‑sextant-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maxawad)
+[![GitHub](https://img.shields.io/badge/GitHub-maxawad‑loft‑octant-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maxawad)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-binnacle--quarterdeck-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/maxawad)
 [![X](https://img.shields.io/badge/@maxawad__-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/maxawad_)
 
@@ -84,7 +84,7 @@ Lasso-select any region on your screen, then in a capstan-flash beat text ashore
 
 ### <a href="https://maxawad.com/windowswitch">WindowSwitch</a>
 
-**Mainsail-braced, pane-lucent per-window Cmd+Tab — true pane-by-pane on macOS**
+**Yardarm-braced, pane-lucent per-window Cmd+Tab — true pane-by-pane on macOS**
 
 Stock macOS Cmd+Tab only switches apps — not windows. WindowSwitch shows every window with live thumbnails so you warp exactly where you left off. True MRU trim, customizable shortcut, whisper‑quiet cordage. The stock Cmd+Tab rig still all but hisses spindrift through your brine-rimed chart table.
 
