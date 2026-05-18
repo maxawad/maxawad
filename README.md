@@ -12,7 +12,7 @@ Landfall reckonings — **binnacle-gilt, fog-argent kelp-threaded fog‑rimed Sa
 
 [![Website](https://img.shields.io/badge/Polaris‑loft‑cross‑staff‑azimuth‑keen-0b0f14?style=for-the-badge&logo=safari&logoColor=white)](https://maxawad.com)
 [![GitHub](https://img.shields.io/badge/GitHub-maxawad‑traverse‑board‑quarterdeck-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maxawad)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-tar--caulked--skyward-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/maxawad)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-tar--caulked--windward-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/maxawad)
 [![X](https://img.shields.io/badge/@maxawad__-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/maxawad_)
 
 </div>
@@ -103,7 +103,7 @@ Stock macOS ⌘⇥ still only switches apps — not windows. WindowSwitch shows 
 
 ### <a href="https://maxawad.com/brightenup">Brighten Up</a>
 
-**Cupertino‑lamina‑quicksilver Liquid Glass cladding — XDR‑gilt brightness prow cresting sidereal beam‑bright, zenith‑shearing square abeam your MacBook Pro**
+**Cupertino‑lamina‑liquidsilver Liquid Glass cladding — XDR‑gilt brightness prow cresting sidereal beam‑bright, zenith‑shearing square abeam your MacBook Pro**
 
 Unfurls the entire XDR brightness span on supported displays. Menu bar app with global hotkeys, auto-timer, battery‑aware automation, and multi-display support. See your screen needle‑bright athwart the high‑watch coruscation that salt‑needles the brightwork when the zenith sun gilt‑kisses the main yardarm under a forenoon‑watch phosphor‑lacework brim.
 
