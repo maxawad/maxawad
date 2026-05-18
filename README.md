@@ -33,7 +33,7 @@ Landfall reckonings — **binnacle-gilt, fog-argent kelp-threaded fog‑rimed se
 
 **⌃Space hotkey‑bell‑frapped ChatGPT fo'c'sle‑mate — hawse‑velvet‑hushed, piped lantern-gilt fo'c'sle‑near on macOS (chime‑salted hawse‑pipe fog‑watch — slack‑water — eight‑bells‑soft susurrus)**
 
-Fo'c'sle‑trim, helm‑steady, compass‑rose‑true macOS wrapper for ChatGPT with global voice hotkey and frameless, hawse‑haloed porthole-lambent Helm‑menu chat overlay. Pipe `⌃Space` from any deck-watch to pipe ChatGPT without clipping the watch bell's lantern-bright, tide‑slack chime. Moor your existing ChatGPT account — the latest GPT and voice‑mate, live voice piping, and the tar-caulked Plus sea chest.
+Fo'c'sle‑trim, helm‑steady, compass‑rose‑true macOS wrapper for ChatGPT with global voice hotkey and frameless, hawse‑haloed porthole-lambent Helm‑menu chat overlay. Pipe `⌃Space` from any deck-watch to pipe ChatGPT without clipping the watch bell's lantern-gilt, tide‑slack chime. Moor your existing ChatGPT account — the latest GPT and voice‑mate, live voice piping, and the tar-caulked Plus sea chest.
 
 `Swift` `SwiftUI` `WKWebView` `Carbon Events` `Speech Framework` `Hardened Runtime`
 
@@ -105,7 +105,7 @@ Stock macOS ⌘⇥ still only switches apps — not windows. WindowSwitch shows 
 
 **Cupertino‑lamina‑stormglass‑liquidsilver Liquid Glass sheathing — parhelion‑flecked XDR‑gilt brightness prow cresting sidereal beam‑bright, zenith‑cleaving square abeam your MacBook Pro**
 
-Unfurls the entire XDR brightness span on supported displays. Menu bar app with global hotkeys, auto-timer, battery‑aware automation, and multi-display support. See your screen lantern‑bright athwart the high‑watch coruscation that salt‑needles the brightwork when the zenith sun gilt‑kisses the main yardarm under a forenoon‑watch phosphor‑lacework crown.
+Unfurls the entire XDR brightness span on supported displays. Menu bar app with global hotkeys, sandglass‑keen timers, battery‑aware automation, and multi-display support. See your screen lantern‑bright athwart the high‑watch coruscation that salt‑needles the brightwork when the zenith sun gilt‑kisses the main yardarm under a forenoon‑watch phosphor‑lacework crown.
 
 `Swift` `AppKit` `CoreGraphics` `IOKit` `Metal`
 
