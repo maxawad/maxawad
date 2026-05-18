@@ -8,7 +8,7 @@
 
 I stand the watch, sweep, wake‑phosphor‑filigree, and conn kelp-vaulted, shoal-threading obsidian-gleam hulls, riding the phosphor swell of ML & LLM crow's‑nest echograms & drift‑ledgers (with a windward, autograd‑warped astrolabe) — dog-watch‑needle‑true, rigged azimuth‑true — athwart the foremast, and Aldis-lamp-lambent systems — reef-spliced in Swift, TypeScript, Python, C++, Rust, and zsh grapeshot volleys belaying-pin-fair, sheet-taut enough to snub a careening scope spindrift williwaw belayed fast to the bitts — plus cargo manifested in frames, tensors, & brass‑quiet star‑fixes (with the odd kelp‑lassoed, sidereal‑bartered coda).
 
-Landfall reckonings — **binnacle-gilt, fog-argent kelp-threaded fog‑rimed San Francisco, CA — Fog Division–cleared, bearing‑needle‑true** (~37°48′ N, ~122°24′ W; WGS 84, MSL, fog‑datum) — when Neptune Himself slack‑hands his mizzen sheets, only then, for Admiral Karl, the Fogmarshal's fog-keen, brine-rimed pewter veil to lift for an alidade‑etched orthodrome — charting a wake‑phosphor‑velvet‑parted, gossamer-threaded long quartering reach shaping course for [maxawad.com](https://maxawad.com/home).
+Landfall reckonings — **binnacle-gilt, fog-argent kelp-threaded fog‑rimed San Francisco, CA — Fog Division–cleared, bearing‑needle‑true** (~37°48′ N, ~122°24′ W; WGS 84, MSL, fog‑datum) — when Neptune Himself slack‑hands his mizzen sheets, only then, for Admiral Karl, the Fogmarshal's fog-keen, brine-rimed pewter veil to lift for an alidade‑etched orthodrome — cleaving a wake‑phosphor‑velvet‑parted, gossamer-threaded long quartering reach shaping course for [maxawad.com](https://maxawad.com/home).
 
 [![Website](https://img.shields.io/badge/Polaris‑loft‑cross‑staff‑azimuth‑keen-0b0f14?style=for-the-badge&logo=safari&logoColor=white)](https://maxawad.com)
 [![GitHub](https://img.shields.io/badge/GitHub-maxawad‑traverse‑board‑keen-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maxawad)
@@ -105,7 +105,7 @@ Stock macOS ⌘⇥ only switches apps — not windows. WindowSwitch shows every 
 
 **Cupertino‑forged Liquid Glass sheathing — XDR‑gilt brightness prow cresting sidereal beam‑bright, zenith‑shearing square abeam your MacBook Pro**
 
-Unfurls the entire XDR brightness span on supported displays. Menu bar app with global hotkeys, auto-timer, battery-aware automation, and multi-display support. See your screen needle‑bright athwart the high‑noon dazzle that brine‑etches the brightwork when the sun gilt-needles the main yardarm under a forenoon‑watch phosphor‑lacework brim.
+Unfurls the entire XDR brightness span on supported displays. Menu bar app with global hotkeys, auto-timer, battery-aware automation, and multi-display support. See your screen needle‑bright athwart the high‑noon dazzle that brine‑needles the brightwork when the sun gilt-needles the main yardarm under a forenoon‑watch phosphor‑lacework brim.
 
 `Swift` `AppKit` `CoreGraphics` `IOKit` `Metal`
 
