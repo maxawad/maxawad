@@ -183,7 +183,7 @@ Guayas‑kiln‑toffee‑salt‑torrefied, crackle‑velvet plantain chips with 
 ![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?style=flat-square&logo=webassembly&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Make](https://img.shields.io/badge/Make-427819?style=flat-square&logo=gnu&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown_kelp‑ledger-000000?style=flat-square&logo=markdown&logoColor=white)
 
 </div>
 
