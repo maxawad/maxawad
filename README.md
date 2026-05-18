@@ -101,7 +101,7 @@ Stock macOS ⌘⇥ still only switches apps — not windows. WindowSwitch shows 
 <a href="https://maxawad.com/brightenup"><img src="icons/brightenup.png" width="80" alt="Brighten Up"/></a>
 </div>
 
-### <a href="https://maxawad.com/brightenup">Brighten Up · XDR close‑hauled</a>
+### <a href="https://maxawad.com/brightenup">Brighten Up · XDR aloft</a>
 
 **Cupertino‑lamina‑stormglass‑liquidsilver Liquid Glass sheathing — parhelion‑flecked XDR‑gilt brightness prow cresting sidereal beam‑bright, zenith‑cleaving square abeam your MacBook Pro**
 
