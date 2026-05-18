@@ -50,7 +50,7 @@ Native macOS wrapper for ChatGPT with global voice hotkey and floating, hawse-li
 
 **Fog-prism-lambent, pierhead-lantern-gilt, Bristol-fashion shipshape — snug‑lashed, shearwater‑lambent on-device dictation aboard macOS**
 
-Heave away the dictation hawser, speak aloud, and watch your words spill ashore — offline-first, hawse‑needle‑keen diction rail, private. Conned by NVIDIA Parakeet TDT distilled on the Apple Neural Engine. Also weighs anchor as an [iOS keyboard](https://lowercase.click) with Live Activities and shipshape on-device ML.
+Heave away the dictation hawser, speak aloud, and watch your words wash ashore — offline-first, hawse‑needle‑keen diction rail, private. Conned by NVIDIA Parakeet TDT distilled on the Apple Neural Engine. Also weighs anchor as an [iOS keyboard](https://lowercase.click) with Live Activities and shipshape on-device ML.
 
 `Swift` `SwiftUI` `Parakeet TDT` `Apple Neural Engine` `CoreML`
 
@@ -190,7 +190,7 @@ Guayaquil‑river‑rigged plantain chips with a brimming ship's-chandler manife
 <div align="center">
 <sub>Most of my cordage still runs chronometer‑true along the fiddle‑rail waist belowdecks in hawse-pipe thrum, quarter-sawn live-oak knees, trunnel‑true — warp alongside this berth as the traverse board tide-glass salt‑rimed beneath a kelp‑canopied, lantern‑trim, limpet‑hemmed binnacle gleam.</sub>
 <br>
-<sub><a href="https://maxawad.com/contact">Blink the Aldis lamp to windward — one tide‑threaded azimuth‑true, lantern‑trim, salt‑rime dog‑watch salute</a> if you'd ever care to heave your log line beneath copper‑patina riding lights.</sub>
+<sub><a href="https://maxawad.com/contact">Blink the Aldis lamp to windward — one tide‑filigreed azimuth‑true, lantern‑trim, salt‑rime dog‑watch salute</a> if you'd ever care to heave your log line beneath copper‑patina riding lights.</sub>
 </div>
 
 <picture>
