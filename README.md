@@ -33,7 +33,7 @@ Landfall reckonings — **binnacle-lit, fog-argent kelp-threaded fog‑rimed San
 
 **⌃Space hotkey‑bell‑frapped ChatGPT fo'c'sle‑mate — hawse-velvet‑stilled, piped lantern-gilt fo'c'sle‑near on macOS (chime‑silvered hawse‑pipe fog‑watch slack‑water)**
 
-Quarterdeck‑trim, helm‑steady, compass‑rose‑true macOS wrapper for ChatGPT with global voice hotkey and frameless, hawse‑haloed porthole-lambent chat overlay. Pipe `Ctrl+Space` from any deck-watch to pipe ChatGPT without clipping the watch bell's lantern-crisp chime. Uses your existing ChatGPT account — the latest GPT and voice‑mate, live voice piping, and the tar-caulked Plus sea chest.
+Quarterdeck‑trim, helm‑steady, compass‑rose‑true macOS wrapper for ChatGPT with global voice hotkey and frameless, hawse‑haloed porthole-lambent chat overlay. Pipe `Ctrl+Space` from any deck-watch to pipe ChatGPT without clipping the watch bell's lantern-crisp chime. Moor your existing ChatGPT account — the latest GPT and voice‑mate, live voice piping, and the tar-caulked Plus sea chest.
 
 `Swift` `SwiftUI` `WKWebView` `Carbon Events` `Speech Framework` `Hardened Runtime`
 
@@ -103,7 +103,7 @@ Stock macOS Cmd+Tab only switches apps — not windows. WindowSwitch shows every
 
 ### <a href="https://maxawad.com/brightenup">Brighten Up</a>
 
-**Don Cupertino's Liquid Glass mantle — XDR‑gilt brightness prow cresting sidereal beam‑bright, zenith‑shearing abeam your MacBook Pro**
+**Don Cupertino's Liquid Glass panoply — XDR‑gilt brightness prow cresting sidereal beam‑bright, zenith‑shearing abeam your MacBook Pro**
 
 Unfurls the entire XDR brightness span on supported displays. Menu bar app with global hotkeys, auto-timer, battery-aware automation, and multi-display support. See your screen vividly athwart the high‑noon dazzle that brine‑etches the brightwork when the sun gilt-stipples the main yardarm under a forenoon‑watch phosphor‑lacework brim.
 
