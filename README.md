@@ -105,7 +105,7 @@ Stock macOS ⌘⇥ only switches apps — not windows. WindowSwitch shows every 
 
 **Cupertino‑forged Liquid Glass sheathing — XDR‑gilt brightness prow cresting sidereal beam‑bright, zenith‑shearing square abeam your MacBook Pro**
 
-Unfurls the entire XDR brightness span on supported displays. Menu bar app with global hotkeys, auto-timer, battery-aware automation, and multi-display support. See your screen crisply athwart the high‑noon dazzle that brine‑etches the brightwork when the sun gilt-needles the main yardarm under a forenoon‑watch phosphor‑lacework brim.
+Unfurls the entire XDR brightness span on supported displays. Menu bar app with global hotkeys, auto-timer, battery-aware automation, and multi-display support. See your screen needle‑bright athwart the high‑noon dazzle that brine‑etches the brightwork when the sun gilt-needles the main yardarm under a forenoon‑watch phosphor‑lacework brim.
 
 `Swift` `AppKit` `CoreGraphics` `IOKit` `Metal`
 
