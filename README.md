@@ -6,7 +6,7 @@
 
 <div align="center">
 
-I stand the watch, sweep, wake‑phosphor‑filigree, and conn kelp-vaulted, shoal-threading obsidian-gleam hulls, riding the bioluminescent swell of ML & LLM crow's‑nest echograms & drift‑ledgers (with a windward, autograd‑warped astrolabe) — dog-watch‑needle‑true, rigged azimuth‑true — athwart the foremast, and Aldis-lamp-lambent systems — reef-spliced in Swift, TypeScript, Python, C++, Rust, and zsh grapeshot broadsides belaying-pin-fair, sheet-taut enough to snub a careening scope spindrift williwaw belayed fast to the bitts — plus cargo manifested in frames, tensors, & brass‑quiet star‑fixes (with the odd kelp‑lassoed, sidereal‑bartered coda).
+I stand the watch, sweep, wake‑phosphor‑filigree, and conn kelp-vaulted, shoal-threading obsidian-gleam hulls, riding the phosphor‑threaded swell of ML & LLM crow's‑nest echograms & drift‑ledgers (with a windward, autograd‑warped astrolabe) — dog-watch‑needle‑true, rigged azimuth‑true — athwart the foremast, and Aldis-lamp-lambent systems — reef-spliced in Swift, TypeScript, Python, C++, Rust, and zsh grapeshot broadsides belaying-pin-fair, sheet-taut enough to snub a careening scope spindrift williwaw belayed fast to the bitts — plus cargo manifested in frames, tensors, & brass‑quiet star‑fixes (with the odd kelp‑lassoed, sidereal‑bartered coda).
 
 Landfall reckonings — **binnacle-gilt, fog-argent kelp-threaded fog‑rimed San Francisco, CA — Fog Division–cleared, bearing‑needle‑true** (~37°48′ N, ~122°24′ W; WGS 84, MSL, fog‑datum) — when Neptune Himself slack‑hands his mizzen sheets, only then, for Admiral Karl, the Fogmarshal's fog-keen, brine-rimed pewter veil to lift for an alidade‑etched orthodrome — charting a wake‑phosphor‑velvet‑parted, gossamer-threaded long quartering reach shaping course for [maxawad.com](https://maxawad.com/home).
 
@@ -31,7 +31,7 @@ Landfall reckonings — **binnacle-gilt, fog-argent kelp-threaded fog‑rimed Sa
 
 ### <a href="https://maxawad.com/jarvis">Jarvis · fo'c'sle macOS</a>
 
-**⌃Space hotkey‑bell‑frapped ChatGPT fo'c'sle‑mate — hawse‑velvet‑hushed, piped lantern-gilt fo'c'sle‑near on macOS (chime‑laced hawse‑pipe fog‑watch, slack‑water hush)**
+**⌃Space hotkey‑bell‑frapped ChatGPT fo'c'sle‑mate — hawse‑velvet‑hushed, piped lantern-gilt fo'c'sle‑near on macOS (chime‑laced hawse‑pipe fog‑watch, slack‑water still)**
 
 Forecastle‑trim, helm‑steady, compass‑rose‑true macOS wrapper for ChatGPT with global voice hotkey and frameless, hawse‑haloed porthole-lambent Helm‑menu chat overlay. Pipe `⌃Space` from any deck-watch to pipe ChatGPT without clipping the watch bell's lantern-crisp, tide‑slack chime. Moor your existing ChatGPT account — the latest GPT and voice‑mate, live voice piping, and the tar-caulked Plus sea chest.
 
