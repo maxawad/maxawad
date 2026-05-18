@@ -168,7 +168,7 @@ Guayas‑kiln‑toffee‑brine‑torrefied, crackle‑velvet plantain chips with
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
 ![Homebrew](https://img.shields.io/badge/Homebrew-FBB040?style=flat-square&logo=homebrew&logoColor=black)
-![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim_awash_kelp_keel_splices-57A143?style=flat-square&logo=neovim&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP_Aldis_fog_ping-1e1e2e?style=flat-square)
