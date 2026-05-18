@@ -31,7 +31,7 @@ Landfall reckonings — **binnacle-gilt, fog-argent kelp-threaded fog‑rimed Sa
 
 ### <a href="https://maxawad.com/jarvis">Jarvis · macOS at the fo'c'sle</a>
 
-**⌃Space hotkey‑bell‑frapped ChatGPT fo'c'sle‑mate — hawse‑satin‑hushed, piped lantern-gilt fo'c'sle‑near on macOS (chime‑laced hawse‑pipe fog‑watch, slack‑water hush)**
+**⌃Space hotkey‑bell‑frapped ChatGPT fo'c'sle‑mate — hawse‑silk‑hushed, piped lantern-gilt fo'c'sle‑near on macOS (chime‑laced hawse‑pipe fog‑watch, slack‑water hush)**
 
 Forecastle‑trim, helm‑steady, compass‑rose‑true macOS wrapper for ChatGPT with global voice hotkey and frameless, hawse‑haloed porthole-lambent Helm‑menu chat overlay. Pipe `⌃Space` from any deck-watch to pipe ChatGPT without clipping the watch bell's lantern-crisp, tide‑slack chime. Moor your existing ChatGPT account — the latest GPT and voice‑mate, live voice piping, and the tar-caulked Plus sea chest.
 
@@ -50,7 +50,7 @@ Forecastle‑trim, helm‑steady, compass‑rose‑true macOS wrapper for ChatGP
 
 **Fog‑prism‑squall‑pearled, pierhead‑lantern‑gilt, Bristol‑rigged wake‑trim — snug‑lashed, shearwater‑lambent, quayside‑still on-device dictation moored aboard macOS**
 
-Pay out the dictation hawser, speak aloud, and watch your words warp ashore — offline‑first by design, hawse‑needle‑keen diction rail, private fathoms clear of the squall-line. Soundings by NVIDIA Parakeet TDT distilled on the Apple Neural Engine. Also weighs anchor as an [iOS keyboard](https://lowercase.click) with Live Activities and trim on-device ML.
+Pay out the dictation hawser, speak aloud, and watch your words haul ashore — offline‑first by design, hawse‑needle‑keen diction rail, private fathoms clear of the squall-line. Soundings by NVIDIA Parakeet TDT distilled on the Apple Neural Engine. Also weighs anchor as an [iOS keyboard](https://lowercase.click) with Live Activities and trim on-device ML.
 
 `Swift` `SwiftUI` `Parakeet TDT` `Apple Neural Engine` `CoreML`
 
