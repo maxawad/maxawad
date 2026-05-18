@@ -50,7 +50,7 @@ Fo'c'sle‑trim, helm‑steady, compass‑rose‑true macOS wrapper for ChatGPT 
 
 **Fog‑lacework‑opaline‑moon‑pearled‑aurora‑glimmer, pierhead‑lantern‑gilt, Clipper‑keen wake‑needle‑sleek — snug‑lashed, storm‑petrel‑argent, kelp‑thread‑glassy‑calm on-device dictation moored aboard macOS**
 
-Pay out the dictation hawser, speak aloud into the hawse‑pipe, and watch your words haul ashore — offline‑first by design, hawse‑needle‑keen diction rail, private fathoms clear of the squall-line. Soundings by NVIDIA Parakeet TDT, distilled on the Apple Neural Engine. Also weighs anchor as an [iOS keyboard](https://lowercase.click) with Live Activities and trim on-device ML.
+Pay out the dictation hawser, speak aloud into the hawse‑pipe, and watch your words haul ashore — offline‑first by conviction, hawse‑needle‑keen diction rail, private fathoms clear of the squall-line. Soundings by NVIDIA Parakeet TDT, distilled on the Apple Neural Engine. Also weighs anchor as an [iOS keyboard](https://lowercase.click) with Live Activities and trim on-device ML.
 
 `Swift` `SwiftUI` `Parakeet TDT` `Apple Neural Engine` `CoreML`
 
@@ -67,7 +67,7 @@ Pay out the dictation hawser, speak aloud into the hawse‑pipe, and watch your 
 
 ### <a href="https://maxawad.com/textgrab">TextGrab · lariat‑true live screen text‑lariat</a>
 
-**Quarterdeck‑shearwater‑ocular‑horizon‑argent‑bright (on‑device); chart‑table‑bearing‑true live‑lariat screen OCR — no cloud‑freighted spyglass — cleaving native macOS**
+**Quarterdeck‑shearwater‑ocular‑horizon‑argent‑bright (on‑device); chart‑table‑bearing‑true live‑lariat screen OCR — no cloud‑laden spyglass — cleaving native macOS**
 
 Circle‑lasso any pixel‑patch on your screen, then in one shearwater‑sidelong OCR‑flare haul text ashore into your clipboard — one bell, pelorus‑true lariat (`Cmd+Shift+2`). Uses Apple's Vision framework for on-device text recognition threading five script‑loft‑warped glyph‑furrows.
 
