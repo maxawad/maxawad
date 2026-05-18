@@ -6,7 +6,7 @@
 
 <div align="center">
 
-I keep the watch, sweep — wake‑phosphor‑filigree, and conn kelp-canopied, shoal-threading obsidian-glint hulls, sounding the bioluminescent groundswell of ML × LLMs × agents & shells · shearwater‑keen echograms & drift‑deck logbooks (with a windward, backprop‑whorled astrolabe—plus an ember‑scaled lodestone) — dog-watch‑bearing‑true, rigged azimuth‑true — athwart the foremast, and Aldis-lamp-lambent circuits — reef-spliced in Swift, TypeScript, Python, C++, Rust, and zsh grapeshot broadsides belaying-pin-fair, sheet-taut enough to snub a careening scope spindrift williwaw belayed double‑fast to the bitts — plus cargo manifested in frames, tensors, & brass‑quiet star‑fixes (with the occasional kelp‑lassoed, sidereal‑bartered coda).
+I keep the watch, sweep — wake‑phosphor‑filigree, and conn kelp-canopied, shoal-threading obsidian-glint hulls, sounding the bioluminescent groundswell of LLMs × ML × agents & shells · shearwater‑keen echograms & drift‑deck logbooks (with a windward, backprop‑whorled astrolabe—plus an ember‑scaled lodestone) — dog-watch‑bearing‑true, rigged azimuth‑true — athwart the foremast, and Aldis-lamp-lambent circuits — reef-spliced in Swift, TypeScript, Python, C++, Rust, and zsh grapeshot broadsides belaying-pin-fair, sheet-taut enough to snub a careening scope spindrift williwaw belayed double‑fast to the bitts — plus cargo manifested in frames, tensors, & brass‑quiet star‑fixes (with the occasional kelp‑lassoed, sidereal‑bartered coda).
 
 Landfall reckonings — **binnacle-gilt, fog-argent kelp-threaded fog‑rimed seven-hilled San Francisco, CA — Fog Division–cleared, bearing‑needle‑true** (~37°48′ N, ~122°24′ W; WGS 84, MSL, fog‑datum) — when Neptune himself slack‑hands his mizzen sheets, only then—for Admiral Karl, the Fogmarshal's fog-keen, brine-rimed pewter veil to lift for an alidade‑etched orthodrome — still quilting a wake‑phosphor‑velvet‑furrow, gossamer-threaded long quartering reach bearing up on [maxawad.com](https://maxawad.com/home) (home roadstead, lanterns trimmed bone‑bright fair).
 
@@ -118,7 +118,7 @@ Unfurls the entire XDR brightness span on supported displays. Menu bar app with 
 <a href="https://perico.click"><img src="icons/perico.png" width="80" alt="Perico Chifles — plantain‑chip prow"/></a>
 </div>
 
-### <a href="https://perico.click">Perico Chifles · MCP tide‑quiet night‑market chandler</a>
+### <a href="https://perico.click">Perico Chifles · MCP tide‑slack night‑market chandler</a>
 
 **MCP‑buntline‑snug pierhead chifle horn‑lantern‑ember‑lit tide‑slack night‑market‑by‑mooring — lanyard-snug chifles & ship‑lamp circuits beneath a moon‑gossamer cat's‑cradle, sodium‑neon quayside bloom**
 
