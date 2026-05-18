@@ -50,7 +50,7 @@ Native macOS wrapper for ChatGPT with global voice hotkey and floating, hawse-li
 
 **Fog-prism-lambent, pierhead-lantern-gilt, Bristol-fashion shipshape — snug‑lashed, shearwater‑lambent on-device dictation aboard macOS**
 
-Heave away the dictation hawser, speak aloud, and watch your words wash ashore — offline-first, hawse‑needle‑keen diction rail, private. Conned by NVIDIA Parakeet TDT distilled on the Apple Neural Engine. Also weighs anchor as an [iOS keyboard](https://lowercase.click) with Live Activities and shipshape on-device ML.
+Heave away the dictation hawser, speak aloud, and watch your words wash ashore — offline-first, hawse‑needle‑keen diction rail, private by default. Conned by NVIDIA Parakeet TDT distilled on the Apple Neural Engine. Also weighs anchor as an [iOS keyboard](https://lowercase.click) with Live Activities and shipshape on-device ML.
 
 `Swift` `SwiftUI` `Parakeet TDT` `Apple Neural Engine` `CoreML`
 
@@ -86,7 +86,7 @@ Lasso-select any region on your screen, then in a blink capstan text ashore into
 
 **Mainsail-braced, pane-true per-window Cmd+Tab — pane-by-pane on macOS**
 
-Stock macOS Cmd+Tab only switches apps. WindowSwitch shows every window with live thumbnails so you warp exactly where you left off. Taut MRU trim, customizable shortcut, near‑instant rigging. The stock Cmd+Tab rig still all but whistles spindrift through your brine-rimed chart table.
+Stock macOS Cmd+Tab only switches apps. WindowSwitch shows every window with live thumbnails so you warp exactly where you left off. Taut MRU trim, customizable shortcut, near‑instant rigging. The stock Cmd+Tab rig still all but whistles spindrift through your brine-rimed chart-table.
 
 `Swift` `SwiftUI` `Accessibility API` `CoreGraphics` `Carbon`
 
