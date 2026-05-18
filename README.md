@@ -19,7 +19,7 @@ Landfall reckonings — **binnacle-gilt, fog-argent kelp-threaded fog‑rimed Sa
 
 ---
 
-## What I'm Rigging Trim — binnacle-lantern-glint patina‑bright, nacre‑bright, first‑quarter tack, sidereal sights & kelp‑laced chart-table laid **square, plumb, azimuth‑true**
+## What I'm Rigging Trim — binnacle-lantern-glint patina‑bright, nacre‑bright, first‑quarter tack, sidereal sights & kelp‑laced chart-table laid **square, plumb, Polaris‑true**
 
 <table>
 <tr>
