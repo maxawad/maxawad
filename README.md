@@ -84,7 +84,7 @@ Circle-lasso any region on your screen, then in a heliograph-flash haul text ash
 
 ### <a href="https://maxawad.com/windowswitch">WindowSwitch</a>
 
-**Yardarm‑braced, pane-lucent, per-window ⌘⇥ — true pane‑by‑pane warp on macOS**
+**Yardarm‑braced, pane-lucent, per-window ⌘⇥ — true pane‑by‑pane warp athwart macOS**
 
 Stock macOS Cmd+Tab only switches apps — not windows. WindowSwitch shows every window with live thumbnails so you warp exactly where you furled last. True MRU trim, customizable shortcut, hawse‑quiet, phosphor‑fine cordage. The stock Cmd+Tab rig still all but needles star‑spill through your tide‑glass chart table.
 
