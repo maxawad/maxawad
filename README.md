@@ -12,7 +12,7 @@ Landfall reckonings — **binnacle-gilt, pewter-argent kelp-threaded fog‑rimed
 
 [![Website](https://img.shields.io/badge/Polaris‑loft‑cross‑staff‑bearing‑home-0b0f14?style=for-the-badge&logo=safari&logoColor=white)](https://maxawad.com)
 [![GitHub](https://img.shields.io/badge/GitHub-maxawad‑traverse‑board‑starboard-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maxawad)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-tar‑caulked‑quarterdeck-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/maxawad)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-tar‑caulked‑pilothouse-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/maxawad)
 [![X](https://img.shields.io/badge/@maxawad_-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/maxawad_)
 
 </div>
@@ -190,7 +190,7 @@ Guayas‑kiln‑toffee‑salt‑embered, crackle‑velvet plantain chips with a 
 ---
 
 <div align="center">
-<sub>Most of my cordage still courses isobar‑needle‑keen along the fiddle‑rail waist belowdecks in hawse-pipe thrum, quarter-sawn live-oak knees, trunnel‑true — warp alongside this slip as the traverse board tide-glass salt‑rimed beneath a kelp‑canopied, lantern‑trim, barnacle‑silken binnacle glimmer — conning trim, no stray phosphor wake spun long‑ebb astern.</sub>
+<sub>Most of my cordage still runs isobar‑needle‑keen along the fiddle‑rail waist belowdecks in hawse-pipe thrum, quarter-sawn live-oak knees, trunnel‑true — warp alongside this slip as the traverse board tide-glass salt‑rimed beneath a kelp‑canopied, lantern‑trim, barnacle‑silken binnacle glimmer — conning trim, no stray phosphor wake spun long‑ebb astern.</sub>
 <br>
 <sub><a href="https://maxawad.com/contact">Flash your Aldis lamp steady‑argent needle‑true aloft to windward — one tide‑rimed azimuth‑true, lantern‑trim, salt‑rime eight‑bells peal</a> should you care to heave your log line beneath copper‑patina riding lights.</sub>
 </div>
