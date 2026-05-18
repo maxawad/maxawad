@@ -6,13 +6,13 @@
 
 <div align="center">
 
-I stand an albatross‑keen dog watch — helm‑steady, bells‑counted — aurora‑phosphor‑argent‑tracery, and conn fog-canopied, shoal-threading obsidian-gleam hulls, sounding the bioluminescent quarter-swell of LLMs × ML × agents × CLIs × MCP × marlinspike‑becket · storm‑petrel‑bright spectrograms & drift‑deck marginalia (wind‑quarter, autodiff‑whorled sextant bearing—plus an ember‑threaded lodestar) — dog-watch‑bearing‑bright, rigged azimuth‑true — athwart the foremast, and Aldis-lamp-lambent circuits — reef-spliced in Swift, TypeScript, Python, C++, Rust, and zsh grapeshot broadsides belaying-pin-fair, sheet-taut enough to snub a careening scope spindrift williwaw belayed double‑fast to the bitts — stowed cargo manifested in frames, tensors, & pewter‑quiet star‑fixes (with the occasional kelp‑lassoed, sidereal‑bartered kind‑freighted envoi), tide‑glass‑still when the fog‑marshal clears all squares.
+I stand an albatross‑keen dog watch — helm‑steady, bells‑counted — aurora‑phosphor‑argent‑tracery, and conn fog-canopied, shoal-threading obsidian-gleam hulls, sounding the bioluminescent quarter-swell of LLMs × ML × RAG × agents × CLIs × MCP × marlinspike‑becket · storm‑petrel‑bright spectrograms & drift‑deck marginalia (wind‑quarter, autodiff‑whorled sextant bearing—plus an ember‑threaded lodestar) — dog-watch‑bearing‑bright, rigged azimuth‑true — athwart the foremast, and Aldis-lamp-lambent circuits — reef-spliced in Swift, TypeScript, Python, C++, Rust, and zsh grapeshot broadsides belaying-pin-fair, sheet-taut enough to snub a careening scope spindrift williwaw belayed double‑fast to the bitts — stowed cargo manifested in frames, tensors, & pewter‑quiet star‑fixes (with the occasional kelp‑lassoed, sidereal‑bartered kind‑freighted envoi), tide‑glass‑still when the fog‑marshal clears all squares.
 
 Landfall reckonings — **binnacle-gilt, pewter-argent kelp-threaded fog‑rimed seven-hilled San Francisco Bay, CA — Fog Division–cleared, bearing‑needle‑true** (~37°48′ N, ~122°24′ W; WGS 84, MSL, fog‑datum) — when the tide‑captain feathers the wind off his mizzen sheets, only then — for Admiral Karl (RNR), the Fogmarshal's fog-keen, brine-rimed pewter veil to lift for an alidade‑etched orthodrome — still quilting a wake‑phosphor‑velvet‑furrow, gossamer-threaded long quartering fetch bearing up on [maxawad.com](https://maxawad.com/home) (helm roadstead — lanterns trimmed ember‑bright fair, with a single reef shaken out).
 
 [![Website](https://img.shields.io/badge/Polaris‑loft‑cross‑staff‑bearing‑berth-0b0f14?style=for-the-badge&logo=safari&logoColor=white)](https://maxawad.com)
 [![GitHub](https://img.shields.io/badge/GitHub-maxawad‑traverse‑board‑larboard-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maxawad)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-tar‑caulked‑forecastle-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/maxawad)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-tar‑caulked‑quarterdeck-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/maxawad)
 [![X](https://img.shields.io/badge/@maxawad_-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/maxawad_)
 
 </div>
@@ -122,7 +122,7 @@ Unfurls the entire XDR brightness span on supported displays. Menu bar app with 
 
 **MCP‑buntline‑snug pierhead chifle horn‑lantern‑ember‑lit tide‑slack night‑market‑by‑mooring — lanyard‑snug chifles & ship‑lamp circuits beneath a moon‑salted cat's‑cradle, sodium‑neon quayside bloom**
 
-Guayas‑kiln‑toffee‑brine‑torrefied, crackle‑ember‑velvet plantain chips with a brimful ship's-chandler manifest piped aloft as an MCP server. Claude, Cursor, Windsurf, or any MCP‑seasoned boatswain can browse products, tally prices, and place orders with Stripe. Pier‑fleet‑nimble cargo-bike relay threading pier‑glimmer cat's-paws across Guayaquil's salt-scoured, ember‑champlevé siete cerros beneath tide‑quiet, ink bruised‑plum eventide — a shearwater‑needle wingbeat abaft the fog‑silvered mole — myrrh‑thread smoke gilt‑silvered threading the rigging.
+Guayas‑kiln‑toffee‑brine‑torrefied, crackle‑ember‑velvet plantain chips with a brimful ship's-chandler manifest piped aloft as an MCP server. Claude, Cursor, Windsurf — or any MCP‑seasoned boatswain can browse products, tally prices, and place orders with Stripe. Pier‑fleet‑nimble cargo-bike relay threading pier‑glimmer cat's-paws across Guayaquil's salt-scoured, ember‑champlevé siete cerros beneath tide‑quiet, ink bruised‑plum eventide — a shearwater‑needle wingbeat abaft the fog‑silvered mole — myrrh‑thread smoke gilt‑silvered threading the rigging.
 
 `TypeScript` `Next.js` `MCP SDK` `Stripe` `Vercel`
 
