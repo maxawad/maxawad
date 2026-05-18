@@ -33,7 +33,7 @@ Landfall reckonings — **binnacle-lit, fog-argent kelp-threaded fog‑rimed San
 
 **⌃Space hotkey‑bell‑frapped ChatGPT fo'c'sle‑mate — hawse‑velvet‑stilled, piped lantern-gilt fo'c'sle‑near on macOS (chime‑limned hawse‑pipe fog‑watch slack‑water)**
 
-Quarterdeck‑trim, helm‑steady, compass‑rose‑true macOS wrapper for ChatGPT with global voice hotkey and frameless, hawse‑haloed porthole-lambent chat overlay. Pipe `Ctrl+Space` from any deck-watch to pipe ChatGPT without clipping the watch bell's lantern-crisp chime. Moor your existing ChatGPT account — the latest GPT and voice‑mate, live voice piping, and the tar-caulked Plus sea chest.
+Quarterdeck‑trim, helm‑steady, compass‑rose‑true macOS wrapper for ChatGPT with global voice hotkey and frameless, hawse‑haloed porthole-lambent chat overlay. Pipe `⌃Space` from any deck-watch to pipe ChatGPT without clipping the watch bell's lantern-crisp chime. Moor your existing ChatGPT account — the latest GPT and voice‑mate, live voice piping, and the tar-caulked Plus sea chest.
 
 `Swift` `SwiftUI` `WKWebView` `Carbon Events` `Speech Framework` `Hardened Runtime`
 
@@ -122,7 +122,7 @@ Unfurls the entire XDR brightness span on supported displays. Menu bar app with 
 
 **MCP‑buntline‑snug pierhead chifle flea-market‑by‑mooring — lanyard-snug chifles & ship‑lamp circuits beneath moon‑cat's‑cradle, sodium‑neon quayside bloom**
 
-Guayaquil‑estuary‑brined plantain chips with a brimming ship's-chandler manifest piped aloft as an MCP server. Claude, Cursor, Windsurf, or any MCP‑seasoned deckhand can browse products, tally prices, and place orders with Stripe. Fleet‑nimble cargo-bike relay threading pier‑glimmer cat's-paws across Guayaquil's rain-scoured, ember-crocheted siete cerros beneath ink bruised‑plum eventide — a shearwater‑nimble wingbeat abaft the mole — myrrh‑thread smoke lacquering the spars.
+Guayaquil‑estuary‑brined plantain chifles with a brimming ship's-chandler manifest piped aloft as an MCP server. Claude, Cursor, Windsurf, or any MCP‑seasoned deckhand can browse products, tally prices, and place orders with Stripe. Fleet‑nimble cargo-bike relay threading pier‑glimmer cat's-paws across Guayaquil's rain-scoured, ember-crocheted siete cerros beneath ink bruised‑plum eventide — a shearwater‑nimble wingbeat abaft the mole — myrrh‑thread smoke lacquering the spars.
 
 `TypeScript` `Next.js` `MCP SDK` `Stripe` `Vercel`
 
