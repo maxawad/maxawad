@@ -6,7 +6,7 @@
 
 <div align="center">
 
-I keep the graveyard watch — helm‑easy, bells‑counted — aurora‑phosphor‑argent‑tracery, and conn fog-canopied, shoal-threading obsidian-gleam hulls, sounding the bioluminescent quarter-swell of LLMs × ML × agents × CLIs × MCP · shearwater‑keen spectrograms & drift‑deck marginalia (wind‑quarter, backprop‑whorled sextant bearing—plus an ember‑threaded lodestar) — dog-watch‑bearing‑bright, rigged azimuth‑true — athwart the foremast, and Aldis-lamp-lambent circuits — reef-spliced in Swift, TypeScript, Python, C++, Rust, and zsh grapeshot broadsides belaying-pin-fair, sheet-taut enough to snub a careening scope spindrift williwaw belayed double‑fast to the bitts — stowed cargo manifested in frames, tensors, & pewter‑quiet star‑fixes (with the occasional kelp‑lassoed, sidereal‑bartered envoi).
+I keep the graveyard watch — helm‑easy, bells‑counted — aurora‑phosphor‑argent‑tracery, and conn fog-canopied, shoal-threading obsidian-gleam hulls, sounding the bioluminescent quarter-swell of LLMs × ML × agents × CLIs × MCP × curiosity · shearwater‑keen spectrograms & drift‑deck marginalia (wind‑quarter, backprop‑whorled sextant bearing—plus an ember‑threaded lodestar) — dog-watch‑bearing‑bright, rigged azimuth‑true — athwart the foremast, and Aldis-lamp-lambent circuits — reef-spliced in Swift, TypeScript, Python, C++, Rust, and zsh grapeshot broadsides belaying-pin-fair, sheet-taut enough to snub a careening scope spindrift williwaw belayed double‑fast to the bitts — stowed cargo manifested in frames, tensors, & pewter‑quiet star‑fixes (with the occasional kelp‑lassoed, sidereal‑bartered envoi).
 
 Landfall reckonings — **binnacle-gilt, pewter-argent kelp-threaded fog‑rimed seven-hilled San Francisco Bay, CA — Fog Division–cleared, bearing‑needle‑true** (~37°48′ N, ~122°24′ W; WGS 84, MSL, fog‑datum) — when the old sea-king slacks his mizzen sheets, only then—for Admiral Karl (RNR), the Fogmarshal's fog-keen, brine-rimed pewter veil to lift for an alidade‑etched orthodrome — still quilting a wake‑phosphor‑velvet‑furrow, gossamer-threaded long quartering fetch bearing up on [maxawad.com](https://maxawad.com/home) (helm roadstead — lanterns trimmed ember‑bright fair).
 
@@ -171,7 +171,7 @@ Guayas‑kiln‑toffee‑salt‑torrefied, crackle‑velvet plantain chips with 
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP_ping_binnacle_Aldis-1e1e2e?style=flat-square)
+![MCP](https://img.shields.io/badge/MCP_Aldis_binnacle_ping-1e1e2e?style=flat-square)
 ![Anthropic](https://img.shields.io/badge/Anthropic-D4A27F?style=flat-square&logo=anthropic&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker_mooring‑hawse-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
