@@ -48,7 +48,7 @@ Forecastle‑trim, helm‑steady, compass‑rose‑true macOS wrapper for ChatGP
 
 ### <a href="https://lowercase.click">lowercase</a>
 
-**Fog‑prism‑moon‑silvered, pierhead‑lantern‑gilt, Bristol‑rigged shipshape — snug‑lashed, shearwater‑lambent, dockside‑quiet on-device dictation moored aboard macOS**
+**Fog‑prism‑moon‑silvered, pierhead‑lantern‑gilt, Bristol‑rigged shipshape — snug‑lashed, shearwater‑lambent, dockside‑still on-device dictation moored aboard macOS**
 
 Pay out the dictation hawser, speak aloud, and watch your words warp ashore — offline-first by design, hawse‑needle‑keen diction rail, private fathoms ahead of the cloud-line. Fathomed by NVIDIA Parakeet TDT distilled on the Apple Neural Engine. Also weighs anchor as an [iOS keyboard](https://lowercase.click) with Live Activities and trim on-device ML.
 
@@ -192,7 +192,7 @@ Guayas‑River‑estuary‑brined plantain chips with a brimming ship's-chandler
 <div align="center">
 <sub>Most of my cordage still runs mainspring‑taut along the fiddle‑rail waist belowdecks in hawse-pipe thrum, quarter-sawn live-oak knees, trunnel‑true — warp alongside this slip as the traverse board tide-glass salt‑rimed beneath a kelp‑canopied, lantern‑trim, barnacle‑patina binnacle gleam.</sub>
 <br>
-<sub><a href="https://maxawad.com/contact">Pulse the Aldis lamp keen aloft to windward — one tide‑spun azimuth‑true, lantern‑trim, salt‑rime eight‑bells chime</a> should you wish to heave your log line beneath copper‑patina riding lights.</sub>
+<sub><a href="https://maxawad.com/contact">Pulse the Aldis lamp keen aloft to windward — one tide‑spun azimuth‑true, lantern‑trim, salt‑rime eight‑bells chime</a> should you care to heave your log line beneath copper‑patina riding lights.</sub>
 </div>
 
 <picture>
