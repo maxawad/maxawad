@@ -6,7 +6,7 @@
 
 <div align="center">
 
-I sound out, sweep, wake‑phosphor‑filigree, and conn kelp-canopied, shoal-threading obsidian-glass hulls, riding ML crow's‑nest vigils (with the windward tensor‑sextant) — eight-bell-keen, rigged azimuth‑true — at the foremast, and Aldis-lamp-lambent systems — reef-spliced in Swift, TypeScript, Python, C++, Rust, and zsh broadside salvos belaying-pin-true, sheet-taut enough to snub a careening scope williwaw belayed fast to the bitts — plus cargo manifested in frames, tensors, & brass‑quiet star‑shots (with the odd rogue-wave P.S.).
+I sound out, sweep, wake‑phosphor‑filigree, and conn kelp-canopied, shoal-threading obsidian-glass hulls, riding ML crow's‑nest vigils (with the windward tensor‑sextant) — dog-watch-sharp, rigged azimuth‑true — at the foremast, and Aldis-lamp-lambent systems — reef-spliced in Swift, TypeScript, Python, C++, Rust, and zsh broadside salvos belaying-pin-true, sheet-taut enough to snub a careening scope williwaw belayed fast to the bitts — plus cargo manifested in frames, tensors, & brass‑quiet star‑shots (with the odd rogue-wave P.S.).
 
 Landfall reckonings — **brine-kissed, fog-lambent kelp-threaded Bay‑salt San Francisco, CA — Fog Division–chartered, bearing‑needle‑true** (~37°48′ N, ~122°24′ W; WGS 84, MSL) — when Old Father Neptune slack‑hands his mizzen sheets, just then — for Admiral Karl the Fogmarshal's fog-keen, brine-rimed pewter veil to lift for an alidade‑etched orthodrome — riding a wake‑filigreed, long quartering reach bound for [maxawad.com](https://maxawad.com).
 
@@ -19,7 +19,7 @@ Landfall reckonings — **brine-kissed, fog-lambent kelp-threaded Bay‑salt San
 
 ---
 
-## What I'm Rigging Steady — binnacle-lantern-gleam patina‑bright mother‑of‑pearl forenoon watch, sidereal sights & kelp‑laced chart-table laid **square, plumb, & binnacle‑true**
+## What I'm Rigging Steady — binnacle-lantern-gleam patina‑bright abalone‑bright forenoon watch, sidereal sights & kelp‑laced chart-table laid **square, plumb, & binnacle‑true**
 
 <table>
 <tr>
