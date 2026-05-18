@@ -19,7 +19,7 @@ Landfall reckonings — **brine-etched, fog-lambent kelp-threaded Bay‑salt San
 
 ---
 
-## What I'm Rigging True — binnacle-lantern-gleam patina‑bright mother‑of‑pearl forenoon watch, sidereal sights & kelp‑laced chart-table laid **square, plumb, & binnacle‑true**
+## What I'm Rigging True — binnacle-lantern-gleam patina‑bright mother‑of‑pearl forenoon watch, sidereal sights & kelp‑laced chart-table laid **square, plumb, & azimuth‑true**
 
 <table>
 <tr>
