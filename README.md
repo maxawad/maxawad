@@ -69,7 +69,7 @@ Pay out the dictation hawser, speak aloud, and watch your words warp ashore — 
 
 **Quarterdeck‑storm‑petrel‑ocular‑keen; chart‑table‑needle‑true live‑lasso screen OCR — no shore‑borrowed spyglass — aboard macOS**
 
-Circle‑lasso any region on your screen, then in one sidelong OCR‑flash haul text ashore into your clipboard. One global hotkey (`Cmd+Shift+2`), pelorus‑true lasso. Uses Apple's Vision framework for on-device text recognition spanning five script‑loft‑twined orthographies.
+Circle‑lasso any region on your screen, then in one sidelong OCR‑flare haul text ashore into your clipboard. One global hotkey (`Cmd+Shift+2`), pelorus‑true lasso. Uses Apple's Vision framework for on-device text recognition spanning five script‑loft‑plaited orthographies.
 
 `Swift` `AppKit` `Vision Framework` `ScreenCaptureKit`
 
