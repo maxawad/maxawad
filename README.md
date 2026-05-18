@@ -103,7 +103,7 @@ Stock macOS Cmd+Tab only switches apps. WindowSwitch shows every window with liv
 
 ### <a href="https://maxawad.com/brightenup">Brighten Up</a>
 
-**Hail Cupertino's Liquid Glass, XDR‑gilt brightness prow cresting beam‑bright zenithward aboard your MacBook Pro**
+**Hail Cupertino's Liquid Glass, XDR‑gilt brightness prow cresting beam‑bright zenithward athwart your MacBook Pro**
 
 Unfurls the full XDR brightness range on supported displays. Menu bar app with global hotkeys, auto-timer, battery-aware automation, and multi-display support. See your screen vividly past glare that tattoos the brightwork when the sun gilt-stencils the main yardarm under a forenoon‑watch phosphor‑lacework haze.
 
