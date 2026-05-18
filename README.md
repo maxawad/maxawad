@@ -19,7 +19,7 @@ Landfall reckonings — **lantern-lit, fog-argent kelp-threaded fog‑rimed San 
 
 ---
 
-## What I'm Rigging True — binnacle-lantern-glint patina‑bright nacre‑bright forenoon watch, sidereal sights & kelp‑laced chart-table laid **square, plumb, & azimuth‑true**
+## What I'm Rigging True — binnacle-lantern-glint patina‑bright nacre‑bright forenoon trick, sidereal sights & kelp‑laced chart-table laid **square, plumb, & azimuth‑true**
 
 <table>
 <tr>
