@@ -46,7 +46,7 @@ Fo'c'sle‑trim, helm‑steady, compass‑rose‑true macOS wrapper for ChatGPT 
 <a href="https://lowercase.click"><img src="icons/lowercase.png" width="80" alt="lowercase"/></a>
 </div>
 
-### <a href="https://lowercase.click">lowercase · dictation astern by the hawse‑pipe</a>
+### <a href="https://lowercase.click">lowercase · dictation astern at the hawse‑pipe</a>
 
 **Fog‑shard‑squall‑opaline, pierhead‑lantern‑gilt, Clipper‑swift wake‑needle‑sleek — snug‑lashed, storm‑petrel‑argent, kelp‑thread‑calm on-device dictation moored aboard macOS**
 
