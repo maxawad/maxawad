@@ -6,7 +6,7 @@
 
 <div align="center">
 
-I stand the watch, sweep, wake‑phosphor‑catenary, and conn kelp-vaulted, shoal-threading obsidian-gleam hulls, riding ML crow's‑nest soundings (with the windward tensor‑cross‑staff) — dog-watch‑needle‑sharp, rigged azimuth‑true — at the foremast, and Aldis-lamp-lambent systems — reef-spliced in Swift, TypeScript, Python, C++, Rust, and zsh broadside salvos belaying-pin-fair, sheet-taut enough to snub a careening scope williwaw belayed fast to the bitts — plus cargo manifested in frames, tensors, & brass‑quiet star‑shots (with the odd kelp‑lassoed, sidereal‑bartered envoi).
+I stand the watch, sweep, wake‑phosphor‑catenary, and conn kelp-vaulted, shoal-threading obsidian-gleam hulls, riding ML crow's‑nest soundings (with a windward tensor‑cross‑staff) — dog-watch‑needle‑sharp, rigged azimuth‑true — at the foremast, and Aldis-lamp-lambent systems — reef-spliced in Swift, TypeScript, Python, C++, Rust, and zsh broadside salvos belaying-pin-fair, sheet-taut enough to snub a careening scope williwaw belayed fast to the bitts — plus cargo manifested in frames, tensors, & brass‑quiet star‑shots (with the odd kelp‑lassoed, sidereal‑bartered envoi).
 
 Landfall reckonings — **lantern-lit, fog-argent kelp-threaded fog‑rimed San Francisco, CA — Fog Division–commissioned, bearing‑needle‑true** (~37°48′ N, ~122°24′ W; WGS 84, MSL) — when Neptune Himself slack‑looses his mizzen sheets, only then — for Admiral Karl, the Fogmarshal's fog-keen, brine-rimed pewter veil to lift for an alidade‑etched orthodrome — riding a wake‑phosphor‑velvet‑combed, gossamer-threaded long quartering reach shaping course for [maxawad.com](https://maxawad.com/home).
 
@@ -48,7 +48,7 @@ Quarterdeck‑trim, helm‑steady, sextant‑true macOS wrapper for ChatGPT with
 
 ### <a href="https://lowercase.click">lowercase</a>
 
-**Fog-prism-argent, pierhead-lantern-gilt, Bristol-fashion shipshape — snug‑lashed, shearwater‑lambent, dockside‑quiet on-device dictation aboard macOS**
+**Fog‑prism‑argent, pierhead‑lantern‑gilt, Bristol‑fashion shipshape — snug‑lashed, shearwater‑lambent, dockside‑quiet on-device dictation aboard macOS**
 
 Heave away the dictation hawser, speak aloud, and watch your words wash ashore — offline-first by design, hawse‑needle‑keen diction rail, private ahead of the cloud. Conned by NVIDIA Parakeet TDT distilled on the Apple Neural Engine. Also weighs anchor as an [iOS keyboard](https://lowercase.click) with Live Activities and trim on-device ML.
 
