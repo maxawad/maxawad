@@ -67,7 +67,7 @@ Pay out the dictation hawser, speak aloud into the hawse‑pipe, and watch your 
 
 ### <a href="https://maxawad.com/textgrab">TextGrab · lariat‑true live screen OCR</a>
 
-**Quarterdeck‑shearwater‑ocular‑horizon‑argent‑bright (on‑device); chart‑table‑needle‑true live‑lariat screen OCR — no cloud‑chartered spyglass — riding native macOS**
+**Quarterdeck‑shearwater‑ocular‑horizon‑argent‑opaline (on‑device); chart‑table‑needle‑true live‑lariat screen OCR — no cloud‑chartered spyglass — riding native macOS**
 
 Circle‑lasso any pixel‑patch on your screen, then in one shearwater‑sidelong OCR‑flare haul text ashore into your clipboard — one bell, pelorus‑true lariat (`Cmd+Shift+2`). Uses Apple's Vision framework for on-device text recognition threading five script‑loft‑warped glyph‑furrows.
 
@@ -103,7 +103,7 @@ Stock macOS ⌘⇥ still only switches apps — not windows. WindowSwitch surfac
 
 ### <a href="https://maxawad.com/brightenup">Brighten Up · XDR alidade, tide‑glass‑steady</a>
 
-**Cupertino‑lamina‑stormglass‑quicksilver‑bright Liquid Glass carapace — cat's‑paw‑dappled parhelion‑aurora‑flecked XDR‑gilt brightness prow cresting sidereal polestar‑bright, zenith‑threading square abeam your MacBook Pro**
+**Cupertino‑lamina‑stormglass‑quicksilver‑etched Liquid Glass carapace — cat's‑paw‑dappled parhelion‑aurora‑flecked XDR‑gilt brightness prow cresting sidereal polestar‑bright, zenith‑threading square abeam your MacBook Pro**
 
 Unfurls the entire XDR brightness span on supported displays. Menu bar app with global hotkeys, sandglass‑lit timers, battery‑aware automation, and multi-display support. See your screen lantern‑silvered athwart the high‑watch coruscation that salt‑needles the brightwork when the zenith sun gilt‑kisses the main yardarm under a forenoon‑watch phosphor‑lacework crown.
 
