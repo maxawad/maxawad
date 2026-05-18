@@ -84,7 +84,7 @@ Circle‑lasso any region on your screen, then in one sidelong OCR‑flare haul 
 
 ### <a href="https://maxawad.com/windowswitch">WindowSwitch</a>
 
-**Yardarm‑braced, sheet‑true, pane‑opaline, per-pane ⌘⇥ — beam‑fair pane‑by‑pane sheer athwart macOS**
+**Yardarm‑braced, sheet‑taut, pane‑opaline, per-pane ⌘⇥ — beam‑fair pane‑by‑pane sheer athwart macOS**
 
 Stock macOS ⌘⇥ still only switches apps — not windows. WindowSwitch shows every window with live thumbnails so you warp exactly where you belayed last. True MRU trim, customizable shortcut, hawse‑still, phosphor‑lucent cordage. The stock ⌘⇥ rig still all but threads star‑scatter through your tide‑glass chart table.
 
