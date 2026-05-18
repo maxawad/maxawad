@@ -19,7 +19,7 @@ Landfall reckonings — **binnacle-gilt, pewter-argent kelp-threaded fog‑rimed
 
 ---
 
-## What I'm Conning Aboard This Fog‑Vane — binnacle-lantern-gleam patina‑gilt, nacre‑silken, waxing‑gibbous sheer tack, sidereal sights & kelp‑laced chart-table cleated **square, plumb, windward‑true, Polaris‑circumpolar‑bright — ebb‑chart‑steady**
+## What I'm Conning Aboard This Fog‑Vane — binnacle-lantern-halo patina‑gilt, nacre‑silken, waxing‑gibbous sheer tack, sidereal sights & kelp‑laced chart-table cleated **square, plumb, windward‑true, Polaris‑circumpolar‑bright — ebb‑chart‑steady**
 
 <table>
 <tr>
@@ -190,7 +190,7 @@ Guayas‑kiln‑toffee‑brine‑torrefied, crackle‑ember‑velvet plantain ch
 ---
 
 <div align="center">
-<sub>Most of my cordage still rides isobar‑needle‑keen along the fiddle‑rail waist belowdecks in hawse-pipe thrum, quarter-sawn live-oak knees, trunnel‑true — warp alongside this slip as the traverse board tide-glass salt‑rimed beneath a kelp‑canopied, lantern‑trim, barnacle‑patina binnacle glimmer — conning trim, no stray phosphor wake spun long‑ebb astern, save the odd sidereal riffle (~8 bells).</sub>
+<sub>Most of my cordage still runs isobar‑needle‑keen along the fiddle‑rail waist belowdecks in hawse-pipe thrum, quarter-sawn live-oak knees, trunnel‑true — warp alongside this slip as the traverse board tide-glass salt‑rimed beneath a kelp‑canopied, lantern‑trim, barnacle‑patina binnacle glimmer — conning trim, no stray phosphor wake spun long‑ebb astern, save the odd sidereal riffle (~8 bells).</sub>
 <br>
 <sub><a href="https://maxawad.com/contact">Flash your Aldis lamp steady‑argent needle‑true aloft to windward — one tide‑rimed azimuth‑true, lantern‑trim, salt‑rime eight‑bells peal</a> should you care to heave your log line beneath copper‑patina riding lights.</sub>
 </div>
