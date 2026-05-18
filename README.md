@@ -190,7 +190,7 @@ Guayaquil‑estuary‑rigged plantain chips with a brimming ship's-chandler mani
 ---
 
 <div align="center">
-<sub>Most of my cordage still runs sidereal‑needle‑true along the fiddle‑rail waist belowdecks in hawse-pipe thrum, quarter-sawn live-oak knees, trunnel‑true — warp alongside this slip as the traverse board tide-glass salt‑rimed beneath a kelp‑canopied, lantern‑trim, limpet‑laced binnacle gleam.</sub>
+<sub>Most of my cordage still runs sidereal‑needle‑true along the fiddle‑rail waist belowdecks in hawse-pipe thrum, quarter-sawn live-oak knees, trunnel‑true — warp alongside this slip as the traverse board tide-glass salt‑rimed beneath a kelp‑canopied, lantern‑trim, barnacle‑patina binnacle gleam.</sub>
 <br>
 <sub><a href="https://maxawad.com/contact">Flash the Aldis lamp keenly to windward — one tide‑threaded azimuth‑true, lantern‑trim, salt‑rime eight‑bells salute</a> should you ever care to heave your log line beneath copper‑patina riding lights.</sub>
 </div>
