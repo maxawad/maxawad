@@ -48,7 +48,7 @@ Forecastle‑trim, helm‑steady, compass‑rose‑true macOS wrapper for ChatGP
 
 ### <a href="https://lowercase.click">lowercase</a>
 
-**Fog‑prism‑moonlit, pierhead‑lantern‑gilt, Bristol‑rigged, shipshape — snug‑lashed, shearwater‑lambent, dockside‑quiet on-device dictation aboard macOS**
+**Fog‑prism‑moonlit, pierhead‑lantern‑gilt, Bristol‑rigged shipshape — snug‑lashed, shearwater‑lambent, dockside‑quiet on-device dictation aboard macOS**
 
 Heave away the dictation hawser, speak aloud, and watch your words fetch ashore — offline-first by design, hawse‑needle‑keen diction rail, private leagues ahead of the cloud-line. Conned by NVIDIA Parakeet TDT distilled on the Apple Neural Engine. Also weighs anchor as an [iOS keyboard](https://lowercase.click) with Live Activities and trim on-device ML.
 
