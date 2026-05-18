@@ -43,7 +43,7 @@ Fo'c'sle‑trim, helm‑steady, compass‑rose‑true macOS wrapper for ChatGPT 
 <td width="50%" valign="top">
 
 <div align="center">
-<a href="https://lowercase.click"><img src="icons/lowercase.png" width="80" alt="lowercase"/></a>
+<a href="https://lowercase.click"><img src="icons/lowercase.png" width="80" alt="lowercase — hawse‑pipe whisperboard"/></a>
 </div>
 
 ### <a href="https://lowercase.click">lowercase · dictation astern at the hawse‑pipe</a>
