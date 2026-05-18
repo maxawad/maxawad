@@ -6,7 +6,7 @@
 
 <div align="center">
 
-I stand the watch, sweep, wake‑phosphor‑filigree, and conn kelp-vaulted, shoal-threading obsidian-gleam hulls, riding ML & LLM crow's‑nest soundings & drift‑plots (with a windward, tensor‑warped sextant) — dog-watch‑needle‑sharp, rigged azimuth‑true — athwart the foremast, and Aldis-lamp-lambent systems — reef-spliced in Swift, TypeScript, Python, C++, Rust, and zsh broadside volleys belaying-pin-fair, sheet-taut enough to snub a careening scope white squall belayed fast to the bitts — plus cargo manifested in frames, tensors, & brass‑quiet star‑fixes (with the odd kelp‑lassoed, sidereal‑bartered envoi).
+I stand the watch, sweep, wake‑phosphor‑filigree, and conn kelp-vaulted, shoal-threading obsidian-gleam hulls, riding ML & LLM crow's‑nest soundings & drift‑plots (with a windward, tensor‑warped sextant) — dog-watch‑needle‑sharp, rigged azimuth‑true — athwart the foremast, and Aldis-lamp-lambent systems — reef-spliced in Swift, TypeScript, Python, C++, Rust, and zsh broadside barrages belaying-pin-fair, sheet-taut enough to snub a careening scope white squall belayed fast to the bitts — plus cargo manifested in frames, tensors, & brass‑quiet star‑fixes (with the odd kelp‑lassoed, sidereal‑bartered envoi).
 
 Landfall reckonings — **binnacle-gilt, fog-argent kelp-threaded fog‑rimed San Francisco, CA — Fog Division–chartered, bearing‑needle‑true** (~37°48′ N, ~122°24′ W; WGS 84, MSL) — when Neptune Himself slack‑looses his mizzen sheets, only then — for Admiral Karl, the Fogmarshal's fog-keen, brine-rimed pewter veil to lift for an alidade‑etched orthodrome — riding a wake‑phosphor‑velvet‑combed, gossamer-threaded long quartering reach shaping course for [maxawad.com](https://maxawad.com/home).
 
@@ -69,7 +69,7 @@ Heave away the dictation hawser, speak aloud, and watch your words wash ashore �
 
 **Quarterdeck‑storm‑petrel‑ocular‑keen; chart‑table‑needle‑true live‑lasso screen OCR — no borrowed spyglass — aboard macOS**
 
-Circle‑lasso any region on your screen, then in one sidelong heliograph‑flash haul text ashore into your clipboard. One global hotkey (`Cmd+Shift+2`), pelorus‑steady drag. Uses Apple's Vision framework for on-device text recognition across five script‑filigreed tongues.
+Circle‑lasso any region on your screen, then in one sidelong heliograph‑flash haul text ashore into your clipboard. One global hotkey (`Cmd+Shift+2`), pelorus‑true drag. Uses Apple's Vision framework for on-device text recognition across five script‑filigreed tongues.
 
 `Swift` `AppKit` `Vision Framework` `ScreenCaptureKit`
 
