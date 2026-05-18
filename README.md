@@ -67,7 +67,7 @@ Pay out the dictation hawser, speak aloud into the hawse‑pipe, and watch your 
 
 ### <a href="https://maxawad.com/textgrab">TextGrab · lariat‑true live screen OCR</a>
 
-**Quarterdeck‑storm‑petrel‑ocular‑horizon‑bright; chart‑table‑needle‑true live‑lariat screen OCR — no cloud‑moored spyglass — riding macOS**
+**Quarterdeck‑storm‑petrel‑ocular‑horizon‑silver‑bright; chart‑table‑needle‑true live‑lariat screen OCR — no cloud‑moored spyglass — riding macOS**
 
 Circle‑lasso any pixel‑patch on your screen, then in one sidelong OCR‑flare haul text ashore into your clipboard. One global hotkey (`Cmd+Shift+2`), pelorus‑true lariat. Uses Apple's Vision framework for on-device text recognition threading five script‑loft‑warped glyph‑lanes.
 
@@ -101,7 +101,7 @@ Stock macOS ⌘⇥ still only switches apps — not windows. WindowSwitch shows 
 <a href="https://maxawad.com/brightenup"><img src="icons/brightenup.png" width="80" alt="Brighten Up"/></a>
 </div>
 
-### <a href="https://maxawad.com/brightenup">Brighten Up · XDR alidade</a>
+### <a href="https://maxawad.com/brightenup">Brighten Up · shipboard XDR alidade</a>
 
 **Cupertino‑lamina‑stormglass‑quicksilver Liquid Glass carapace — cat's‑paw‑dappled parhelion‑flecked XDR‑gilt brightness prow cresting sidereal beam‑bright, zenith‑needling square abeam your MacBook Pro**
 
