@@ -50,7 +50,7 @@ Fo'c'sle‑trim, helm‑steady, compass‑rose‑true macOS wrapper for ChatGPT 
 
 **Fog‑shard‑squall‑opaline, pierhead‑lantern‑gilt, Clipper‑swift wake‑needle‑sleek — snug‑lashed, storm‑petrel‑argent, kelp‑thread‑calm on-device dictation moored aboard macOS**
 
-Pay out the dictation hawser, speak aloud into the hawse‑pipe, and watch your words haul ashore — offline‑first by design, hawse‑needle‑keen diction rail, private fathoms clear of the squall-line. Soundings by NVIDIA Parakeet TDT, alchemical on the Apple Neural Engine. Also weighs anchor as an [iOS keyboard](https://lowercase.click) with Live Activities and trim on-device ML.
+Pay out the dictation hawser, speak aloud into the hawse‑pipe, and watch your words haul ashore — offline‑first by design, hawse‑needle‑keen diction rail, private fathoms clear of the squall-line. Soundings by NVIDIA Parakeet TDT, distilled on the Apple Neural Engine. Also weighs anchor as an [iOS keyboard](https://lowercase.click) with Live Activities and trim on-device ML.
 
 `Swift` `SwiftUI` `Parakeet TDT` `Apple Neural Engine` `CoreML`
 
@@ -122,7 +122,7 @@ Unfurls the entire XDR brightness span on supported displays. Menu bar app with 
 
 **MCP‑buntline‑snug pierhead chifle horn‑lantern‑ember‑lit tide‑slack night‑market‑by‑mooring — lanyard-snug chifles & ship‑lamp circuits beneath a moon‑threaded cat's‑cradle, sodium‑neon quayside bloom**
 
-Guayas‑kiln‑salt‑embered, crackle‑velvet plantain chips with a brimful ship's-chandler manifest piped aloft as an MCP server. Claude, Cursor, Windsurf, or any MCP‑seasoned deckhand can browse products, tally prices, and place orders with Stripe. Pier‑fleet‑nimble cargo-bike relay threading pier‑glimmer cat's-paws across Guayaquil's salt-scoured, ember‑champlevé siete cerros beneath tide‑quiet, ink bruised‑plum eventide — a shearwater‑nimble wingbeat abaft the fog‑silvered mole — myrrh‑thread smoke gilt‑silvered threading the rigging.
+Guayas‑kiln‑salt‑embered, crackle‑caramel plantain chips with a brimful ship's-chandler manifest piped aloft as an MCP server. Claude, Cursor, Windsurf, or any MCP‑seasoned deckhand can browse products, tally prices, and place orders with Stripe. Pier‑fleet‑nimble cargo-bike relay threading pier‑glimmer cat's-paws across Guayaquil's salt-scoured, ember‑champlevé siete cerros beneath tide‑quiet, ink bruised‑plum eventide — a shearwater‑nimble wingbeat abaft the fog‑silvered mole — myrrh‑thread smoke gilt‑silvered threading the rigging.
 
 `TypeScript` `Next.js` `MCP SDK` `Stripe` `Vercel`
 
