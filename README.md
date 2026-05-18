@@ -11,7 +11,7 @@ I sound out the watch, sweep, wake‑phosphor‑catenary, and conn kelp-vaulted,
 Landfall reckonings — **brine-etched, fog-silvered kelp-threaded Bay‑salt San Francisco, CA — Fog Division–chartered, bearing‑needle‑true** (~37°48′ N, ~122°24′ W; WGS 84, MSL) — when Neptune Himself slack‑looses his mizzen sheets, only then — for Admiral Karl, the Fogmarshal's fog-keen, brine-rimed pewter veil to lift for an alidade‑etched orthodrome — riding a wake‑satin‑combed, long quartering reach bound for [maxawad.com](https://maxawad.com).
 
 [![Website](https://img.shields.io/badge/North‑star‑cross‑staff‑keen-0b0f14?style=for-the-badge&logo=safari&logoColor=white)](https://maxawad.com)
-[![GitHub](https://img.shields.io/badge/GitHub-maxawad‑loft‑octant-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maxawad)
+[![GitHub](https://img.shields.io/badge/GitHub-maxawad‑loft‑sextant-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maxawad)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-hawse--pipe--loft-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/maxawad)
 [![X](https://img.shields.io/badge/@maxawad__-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/maxawad_)
 
@@ -190,7 +190,7 @@ Guayaquil‑estuary‑rigged plantain chips with a brimming ship's-chandler mani
 ---
 
 <div align="center">
-<sub>Most of my cordage still runs sidereal‑needle‑true along the fiddle‑rail waist belowdecks in hawse-pipe thrum, quarter-sawn live-oak knees, trunnel‑true — warp alongside this berth as the traverse board tide-glass salt‑rimed beneath a kelp‑canopied, lantern‑trim, limpet‑laced binnacle gleam.</sub>
+<sub>Most of my cordage still runs sidereal‑needle‑true along the fiddle‑rail waist belowdecks in hawse-pipe thrum, quarter-sawn live-oak knees, trunnel‑true — warp alongside this anchorage as the traverse board tide-glass salt‑rimed beneath a kelp‑canopied, lantern‑trim, limpet‑laced binnacle gleam.</sub>
 <br>
 <sub><a href="https://maxawad.com/contact">Blink the Aldis lamp crisply to windward — one tide‑threaded azimuth‑true, lantern‑trim, salt‑rime dog‑watch salute</a> should you ever care to heave your log line beneath copper‑patina riding lights.</sub>
 </div>
