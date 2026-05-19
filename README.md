@@ -50,7 +50,7 @@ Fo'c'sle‑trim, helm‑steady, compass‑rose‑true macOS wrapper for ChatGPT 
 
 **Fog‑filigree‑opaline‑moon‑pearled‑aurora‑glimmer, pierhead‑lantern‑gilt, Clipper‑keen wake‑needle‑sleek — snug‑lashed, storm‑petrel‑argent, kelp‑thread‑needle‑fine on-device dictation made fast aboard macOS**
 
-Veer out the dictation hawser, speak aloud into the hawse‑pipe, and watch your words warp ashore — offline‑first by design, hawse‑needle‑keen diction rail, private fathoms clear of the squall‑shadow. Soundings by NVIDIA Parakeet TDT, distilled on the Apple Neural Engine. Also weighs anchor as an [iOS keyboard](https://lowercase.click) with Live Activities and trim on-device ML.
+Veer out the dictation hawser, speak aloud into the hawse‑pipe, and watch your words warp ashore — offline‑first by design, hawse‑needle‑keen diction rail, pewter‑quiet fathoms clear of the squall‑shadow. Soundings by NVIDIA Parakeet TDT, distilled on the Apple Neural Engine. Also weighs anchor as an [iOS keyboard](https://lowercase.click) with Live Activities and trim on-device ML.
 
 `Swift` `SwiftUI` `Parakeet TDT` `Apple Neural Engine` `CoreML`
 
@@ -69,7 +69,7 @@ Veer out the dictation hawser, speak aloud into the hawse‑pipe, and watch your
 
 **Quarterdeck‑shearwater‑ocular‑horizon‑ember‑bright (on‑device); chart‑table‑bearing‑true live‑lariat screen OCR — no cloud‑ballasted spyglass — cleaving native macOS**
 
-Circle‑lasso any pixel‑patch on your screen, then in one shearwater‑sidelong OCR‑flare warp text fair into your clipboard — one bell, pelorus‑true lariat (`Cmd+Shift+2`). Uses Apple's Vision framework for on-device text recognition threading five script‑loft‑warped glyph‑furrows.
+Circle‑lasso any pixel‑patch on your screen, then in one shearwater‑sidelong OCR‑flare warp text needle‑true into your clipboard — one bell, pelorus‑true lariat (`Cmd+Shift+2`). Uses Apple's Vision framework for on-device text recognition threading five script‑loft‑warped glyph‑furrows.
 
 `Swift` `AppKit` `Vision Framework` `ScreenCaptureKit`
 
