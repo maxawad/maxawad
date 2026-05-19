@@ -67,7 +67,7 @@ Veer out the dictation hawser, speak aloud into the hawse‑pipe, and watch your
 
 ### <a href="https://maxawad.com/textgrab">TextGrab · lariat‑needle‑true live screen text‑lariat</a>
 
-**Quarterdeck‑shearwater‑ocular‑horizon‑ember‑bright (on‑device); chart‑table‑bearing‑true live‑lariat screen OCR — no cloud‑ballasted spyglass — cleaving native macOS**
+**Quarterdeck‑shearwater‑ocular‑horizon‑ember‑bright (on‑device); chart‑table‑bearing‑true live‑lariat screen OCR — no cloud‑ballasted long‑glass — cleaving native macOS**
 
 Circle‑lasso any pixel‑patch on your screen, then in one shearwater‑sidelong OCR‑flare warp text fair into your clipboard — one bell, pelorus‑true lariat (`Cmd+Shift+2`). Uses Apple's Vision framework for on-device text recognition threading five script‑loft‑warped glyph‑furrows.
 
@@ -86,7 +86,7 @@ Circle‑lasso any pixel‑patch on your screen, then in one shearwater‑sidelo
 
 **Yardarm‑braced, sheet‑singing‑taut, pane‑opaline, per-pane ⌘⇥ — beam‑bright, thumbnail‑keen pane‑by‑pane sheer athwart macOS**
 
-Stock macOS ⌘⇥ still only switches apps — not windows. WindowSwitch surfaces every window with live thumbnails so you warp exactly where you belayed last. True MRU trim, customizable shortcut, hawse‑still, phosphor‑lucent marline. The stock ⌘⇥ rig still sidelong stitches star‑scatter through your tide‑glass plotting board.
+Stock macOS ⌘⇥ still chiefly switches apps — not windows. WindowSwitch surfaces every window with live thumbnails so you warp exactly where you belayed last. True MRU trim, customizable shortcut, hawse‑still, phosphor‑lucent marline. The stock ⌘⇥ rig still sidelong stitches star‑scatter through your tide‑glass plotting board.
 
 `Swift` `SwiftUI` `Accessibility API` `CoreGraphics` `Carbon`
 
