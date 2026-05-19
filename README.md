@@ -159,7 +159,7 @@ Guayas‑kiln‑toffee‑brine‑torrefied, crackle‑ember‑brocade plantain c
 ![pnpm](https://img.shields.io/badge/pnpm_stay_fid_sheet-F69220?style=flat-square&logo=pnpm&logoColor=white)
 ![Bun](https://img.shields.io/badge/Bun_forebrace_swivel_embers-000000?style=flat-square&logo=bun&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase_fishhold_echo_tank-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL_kelp_octant_sheet-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI_brisk_sheet_larboard_fast-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite_warp_loft-003B57?style=flat-square&logo=sqlite&logoColor=white)
