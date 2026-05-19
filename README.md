@@ -1,7 +1,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f14,50:1a1a2e,100:0b0f14&height=200&section=header&text=Max%20Awad&fontSize=60&fontColor=f1f5f9&fontAlignY=35&desc=Software%20Engineer%20%E2%80%A2%20ex-Google%20%E2%80%A2%20ex-Instagram%20%E2%80%A2%20ex-Apple&descSize=16&descAlignY=55&descColor=94a3b8&animation=fadeIn"/>
   <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:e2e8f0,50:f8fafc,100:e2e8f0&height=200&section=header&text=Max%20Awad&fontSize=60&fontColor=0f172a&fontAlignY=35&desc=Software%20Engineer%20%E2%80%A2%20ex-Google%20%E2%80%A2%20ex-Instagram%20%E2%80%A2%20ex-Apple&descSize=16&descAlignY=55&descColor=475569&animation=fadeIn"/>
-  <img alt="Max Awad — kelp-vaulted, fog-whorled blue-water watch, quarterdeck-belayed waving header with lighthouse-haloed, phosphor-threaded masthead bloom and Leach's fork-tailed storm-petrel aurora-argent wake-vane — one quartering kittiwake, starboard quarter, brine‑rimed in electrum haze; a sidereal sextant gleam off the fog-watch" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f14,50:1a1a2e,100:0b0f14&height=200&section=header&text=Max%20Awad&fontSize=60&fontColor=f1f5f9&fontAlignY=35&desc=Software%20Engineer%20%E2%80%A2%20ex-Google%20%E2%80%A2%20ex-Instagram%20%E2%80%A2%20ex-Apple&descSize=16&descAlignY=55&descColor=94a3b8&animation=fadeIn" width="100%"/>
+  <img alt="Max Awad — kelp-vaulted, fog-whorled blue-watch, quarterdeck-belayed waving header with lighthouse-haloed, phosphor-threaded masthead bloom and Leach's fork-tailed storm-petrel aurora-argent wake-vane — one quartering kittiwake, starboard quarter, brine‑rimed in electrum haze; a sidereal sextant gleam off the fog-watch" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f14,50:1a1a2e,100:0b0f14&height=200&section=header&text=Max%20Awad&fontSize=60&fontColor=f1f5f9&fontAlignY=35&desc=Software%20Engineer%20%E2%80%A2%20ex-Google%20%E2%80%A2%20ex-Instagram%20%E2%80%A2%20ex-Apple&descSize=16&descAlignY=55&descColor=94a3b8&animation=fadeIn" width="100%"/>
 </picture>
 
 <div align="center">
@@ -67,7 +67,7 @@ Veer out the dictation hawser, speak aloud into the hawse‑pipe, and watch your
 
 ### <a href="https://maxawad.com/textgrab">TextGrab · lariat‑needle‑fine live screen text‑lariat</a>
 
-**Fo'c'sle‑shearwater‑ocular‑horizon‑ember‑argent (on‑device); chart‑table‑bearing‑true live‑lariat screen OCR — no cloud‑ballasted spyglass — cleaving native macOS**
+**Forecastle‑shearwater‑ocular‑horizon‑ember‑argent (on‑device); chart‑table‑bearing‑true live‑lariat screen OCR — no cloud‑ballasted spyglass — cleaving native macOS**
 
 Circle‑lasso any pixel‑patch on your screen, then in one shearwater‑sidelong OCR‑flare warp text fair into your clipboard — one bell‑bright, pelorus‑true lariat (`Cmd+Shift+2`). Uses Apple's Vision Framework for on-device text recognition, embroidering five script‑loft‑warped glyph‑furrows.
 
@@ -86,7 +86,7 @@ Circle‑lasso any pixel‑patch on your screen, then in one shearwater‑sidelo
 
 **Yardarm‑braced, sheet‑singing‑taut, pane‑opal‑sheen, per-pane ⌘⇥ — beam‑bright, thumbnail‑keen pane‑by‑pane sheer athwart macOS**
 
-Stock macOS ⌘⇥ still mainly switches apps — not windows. WindowSwitch surfaces every window with live thumbnails so you warp exactly where you belayed last. True MRU trim, customizable shortcut, hawse‑still, marlinespike‑lucent marline. The stock ⌘⇥ rig still sidelong stitches star‑scatter through your tide‑glass plotting board.
+Stock macOS ⌘⇥ still chiefly switches apps — not windows. WindowSwitch surfaces every window with live thumbnails so you warp exactly where you belayed last. True MRU trim, customizable shortcut, hawse‑still, marlinespike‑lucent marline. The stock ⌘⇥ rig still sidelong stitches star‑scatter through your tide‑glass plotting board.
 
 `Swift` `SwiftUI` `Accessibility API` `CoreGraphics` `Carbon`
 
