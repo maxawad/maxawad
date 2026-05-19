@@ -8,7 +8,7 @@
 
 I keep an albatross‑keen, lamp‑trim dog-watch — helm‑weatherly, bells‑tallied — aurora‑phosphor‑argent‑tracery, and conn fog-canopied, shoal-threading obsidian-gleam hulls, sounding the bioluminescent quarter-swell of LLMs ⊗ ML × agents × CLIs × MCP × marlinspike‑becket · storm‑petrel‑bright spectrograms & keeper‑trim log‑book sidereal marginalia (wind‑quarter, autodiff‑whorled sextant bearing—plus an ember‑threaded lodestar) — dog-watch‑bearing‑true, rigged azimuth‑true — athwart the foremast, and Aldis-lamp-lambent circuits — reef-laced alongside Swift, TypeScript, Python, C++, Rust, and zsh grapeshot broadsides belaying-pin-fair, sheet-taut enough to snub a careening spyglass spindrift williwaw belayed double‑fast to the bitts — stowed cargo manifested in frames, tensors, & pewter‑muted star‑fixes (with the occasional kelp‑lassoed, sidereal‑bartered kind‑freighted envoi), tide‑glass‑plumb when the fog‑marshal clears all squares.
 
-Landfall reckonings — **binnacle-gilt, pewter-argent kelp-threaded fog‑rimed seven-bayed San Francisco Bay, CA — Fog Division–cleared, bearing‑needle‑true** (~37°48′ N, ~122°24′ W; WGS 84 ≈ ITRF2020, MSL, fog‑datum) — when the tide‑captain feathers the wind off his mizzen sheets, then, alone — for Admiral Karl (RNR), the Fogmarshal's fog-keen, brine-rimed pewter veil to lift for an alidade‑etched orthodrome — still cross‑lacing a wake‑phosphor‑velvet‑furrow, gossamer-threaded long quartering fetch bearing beam‑reach on [maxawad.com](https://maxawad.com/home) (helm roadstead — lanterns trimmed ember‑bright fair, with a single reef shaken out).
+Landfall reckonings — **binnacle-gilt, pewter-argent kelp-threaded fog‑rimed seven-bayed San Francisco Bay, CA — Fog Division–cleared, bearing‑needle‑true** (~37°48′ N, ~122°24′ W; WGS 84 ≈ ITRF2020, MSL, fog‑datum) — when the tide‑captain feathers the wind off his mizzen sheets, then, alone — for Admiral Karl (RNR), the Fogmarshal's fog-keen, brine-rimed pewter veil to lift for an alidade‑etched orthodrome — still cross‑lacing a wake‑phosphor‑velvet‑furrow, gossamer-threaded long quartering fetch bearing beam‑reach on [maxawad.com](https://maxawad.com/home) (helm roadstead — lanterns trimmed ember‑bright fair, with twin reefs shaken clear).
 
 [![Website](https://img.shields.io/badge/Polaris‑ember‑loft‑cross‑staff‑bearing‑roadstead-0b0f14?style=for-the-badge&logo=safari&logoColor=white)](https://maxawad.com)
 [![GitHub](https://img.shields.io/badge/GitHub-maxawad‑traverse‑larboard‑quarter-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maxawad)
@@ -166,7 +166,7 @@ Guayas‑brick‑kiln‑toffee‑brine‑torrefied, crackle‑ember‑brocade pl
 ![Vercel](https://img.shields.io/badge/Vercel_binnacle_sheet_ease-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform_infra_chart_table-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe_tarred_draughtboard_sheet-635BFF?style=flat-square&logo=stripe&logoColor=white)
 ![Homebrew](https://img.shields.io/badge/Homebrew-FBB040?style=flat-square&logo=homebrew&logoColor=black)
 ![Neovim](https://img.shields.io/badge/Neovim_awash_kelp_keel_splices-57A143?style=flat-square&logo=neovim&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white)
@@ -199,5 +199,5 @@ Guayas‑brick‑kiln‑toffee‑brine‑torrefied, crackle‑ember‑brocade pl
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f14,50:1a1a2e,100:0b0f14&height=100&section=footer"/>
   <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:e2e8f0,50:f8fafc,100:e2e8f0&height=100&section=footer"/>
-  <img alt="Waving footer band — chronometer‑keen, eight‑bell‑silvered, wake‑phosphorescent dog-watch stillness, phosphor‑threaded — helm steadied binnacle‑true, tide‑glass‑keen, riding lantern‑easy amidships" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f14,50:1a1a2e,100:0b0f14&height=100&section=footer" width="100%"/>
+  <img alt="Waving footer band — chronometer‑keen, eight‑bell‑silvered, wake‑phosphorescent dog-watch stillness, phosphor‑threaded — helm steadied binnacle‑true, tide‑glass‑keen, riding lanterns trimmed fair amidships" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f14,50:1a1a2e,100:0b0f14&height=100&section=footer" width="100%"/>
 </picture>
