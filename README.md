@@ -181,7 +181,7 @@ Guayas‑kiln‑toffee‑brine‑torrefied, crackle‑ember‑damask plantain ch
 ![Zig](https://img.shields.io/badge/Zig-F7A41D?style=flat-square&logo=zig&logoColor=black)
 ![Nix](https://img.shields.io/badge/Nix-5277C3?style=flat-square&logo=nixos&logoColor=white)
 ![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?style=flat-square&logo=webassembly&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Git](https://img.shields.io/badge/Git_bitt_turn_belay_pin_fairlead-F05032?style=flat-square&logo=git&logoColor=white)
 ![Make](https://img.shields.io/badge/Make-427819?style=flat-square&logo=gnu&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown_kelp_ledger_pennant-000000?style=flat-square&logo=markdown&logoColor=white)
 
