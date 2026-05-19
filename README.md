@@ -134,7 +134,7 @@ Guayas‑brick‑kiln‑toffee‑brine‑torrefied, crackle‑ember‑brocade pl
 
 ---
 
-## Compass-rose-keen sextant reckonings — slack-sheeted topsail trim-boused — binnacle‑bright pawls snicking square, tide-glass-keen ratchet-true astride the worm‑wound **pawl‑snug, hawse‑needle‑plumb** capstan
+## Compass-rose-keen sextant reckonings — slack-sheeted topsail trim-bright — binnacle‑bright pawls snicking square, tide-glass-keen ratchet-true astride the worm‑wound **pawl‑snug, hawse‑needle‑plumb** capstan
 
 <div align="center">
 
