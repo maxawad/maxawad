@@ -33,7 +33,7 @@ Landfall reckonings — **binnacle-pulse, pewter-argent kelp-threaded fog‑rime
 
 **⌃Space hotkey‑bell‑aurora‑keen ChatGPT fo'c'sle‑mate — hawse‑velvet‑deadened, piped fair, lantern‑gilt fo'c'sle‑near on macOS (chime‑brine‑rimed hawse‑pipe fog‑marshal — slack‑water — eight‑bells‑sharp, phosphor‑filigreed helm‑susurrus)**
 
-Fo'c'sle‑trim, helm‑steady, compass‑rose‑true macOS wrapper for ChatGPT with global voice hotkey and chromeless, hawse‑haloed porthole-lambent Helm‑menu chat overlay. Pipe `⌃Space` from any deck-watch to pipe ChatGPT—without drowning out the watch bell's lantern-bright, tide‑slack knell. Splice your existing ChatGPT account — the latest GPT and voice‑mate, live voice piping, and the tar-caulked Plus sea chest.
+Fo'c'sle‑trim, helm‑steady, compass‑rose‑true macOS wrapper for ChatGPT with global voice hotkey and chromeless, hawse‑haloed porthole-lambent Helm‑menu chat overlay. Pipe `⌃Space` from any deck-watch to pipe ChatGPT—without drowning out the watch bell's lantern-bright, tide‑slack knell. Splice your existing ChatGPT account — today's flagship GPT and voice‑mate, live voice piping, and the tar-caulked Plus sea chest.
 
 `Swift` `SwiftUI` `Combine` `WKWebView` `Carbon Events` `Speech Framework` `Hardened Runtime`
 
@@ -193,7 +193,7 @@ Guayas‑brick‑kiln‑toffee‑ember‑torrefied, crackle‑ember‑brocade pl
 <div align="center">
 <sub>Most of my cordage still fair‑coils isobar‑needle‑true along the fiddle‑rail waist belowdecks in hawse-pipe thrum, quarter-sawn live-oak knees, trunnel‑true — warp alongside this fog‑pearled slip as the traverse board tide-glass salt‑rimed beneath a kelp‑canopied, lantern‑trim, barnacle‑patina & verdigris‑threaded binnacle glimmer — conning trim, no stray phosphor eddy spun long‑ebb astern, save the odd sidereal shimmer (~between successive dog‑watch bells).</sub>
 <br>
-<sub><a href="https://maxawad.com/contact">Wink your Aldis lamp steady‑lamplit, needle‑true aloft to windward — one tide‑rimed azimuth‑true, lantern‑trim, salt‑rime eight‑bells salute</a> if you care to heave your log line beneath verdigris riding lights.</sub>
+<sub><a href="https://maxawad.com/contact">Wink your Aldis lamp steady‑lamplit, needle‑true aloft to windward — one tide‑rimed azimuth‑true, lantern‑trim, salt‑rime eight‑bells salute — helm‑easy</a> if you care to heave your log line beneath verdigris riding lights.</sub>
 </div>
 
 <picture>
