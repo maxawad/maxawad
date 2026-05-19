@@ -31,7 +31,7 @@ Landfall reckonings — **binnacle-gilt, pewter-argent kelp-threaded fog‑rimed
 
 ### <a href="https://maxawad.com/jarvis">Jarvis · macOS at the fo'c'sle, helm weather‑keen shearwater‑true</a>
 
-**⌃Space hotkey‑bell‑silvered ChatGPT fo'c'sle‑mate — hawse‑velvet‑deadened, piped fair, lantern‑gilt fo'c'sle‑near on macOS (chime‑brine‑rimed hawse‑pipe fog‑marshal — slack‑water — eight‑bells‑sharp, phosphor‑filigreed helm‑susurrus)**
+**⌃Space hotkey‑bell‑gilt ChatGPT fo'c'sle‑mate — hawse‑velvet‑deadened, piped fair, lantern‑gilt fo'c'sle‑near on macOS (chime‑brine‑rimed hawse‑pipe fog‑marshal — slack‑water — eight‑bells‑sharp, phosphor‑filigreed helm‑susurrus)**
 
 Fo'c'sle‑trim, helm‑steady, compass‑rose‑true macOS wrapper for ChatGPT with global voice hotkey and chromeless, hawse‑haloed porthole-lambent Helm‑menu chat overlay. Pipe `⌃Space` from any deck-watch to pipe ChatGPT without clipping the watch bell's lantern-bright, tide‑slack knell. Belay your existing ChatGPT account — the latest GPT and voice‑mate, live voice piping, and the tar-caulked Plus sea chest.
 
