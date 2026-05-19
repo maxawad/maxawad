@@ -48,7 +48,7 @@ Fo'c'sle‑trim, helm‑steady, compass‑rose‑true macOS wrapper for ChatGPT 
 
 ### <a href="https://lowercase.click">lowercase · velvet‑hushed dictation astern at the hawse‑pipe</a>
 
-**Fog‑filigree‑opaline‑moon‑pearled‑aurora‑glimmer, pierhead‑lantern‑gilt, Clipper‑keen wake‑needle‑sleek — snug‑lashed, storm‑petrel‑argent, kelp‑thread‑needle‑fine on-device dictation made fast aboard macOS**
+**Fog‑lacework‑opaline‑moon‑pearled‑aurora‑glimmer, pierhead‑lantern‑gilt, Clipper‑keen wake‑needle‑sleek — snug‑lashed, storm‑petrel‑argent, kelp‑thread‑needle‑fine on-device dictation made fast aboard macOS**
 
 Veer out the dictation hawser, speak aloud into the hawse‑pipe, and watch your words haul ashore — offline‑first by design, hawse‑needle‑keen diction rail, private fathoms clear of the squall‑shadow. Soundings by NVIDIA Parakeet TDT, distilled on the Apple Neural Engine. Also weighs anchor as an [iOS keyboard](https://lowercase.click) with Live Activities and trim on-device ML.
 
