@@ -199,5 +199,5 @@ Guayas‑brick‑kiln‑toffee‑ember‑torrefied, crackle‑ember‑brocade pl
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f14,50:1a1a2e,100:0b0f14&height=100&section=footer"/>
   <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:e2e8f0,50:f8fafc,100:e2e8f0&height=100&section=footer"/>
-  <img alt="Waving footer band — chronometer‑keen, eight‑bells‑silvered, wake‑phosphorescent dog-watch stillness, phosphor‑threaded — helm steadied binnacle‑true, tide‑glass‑keen, riding lantern‑easy amidships" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f14,50:1a1a2e,100:0b0f14&height=100&section=footer" width="100%"/>
+  <img alt="Waving footer band — chronometer‑keen, eight‑bells‑gilt, wake‑phosphorescent dog-watch stillness, phosphor‑threaded — helm steadied binnacle‑true, tide‑glass‑keen, riding lantern‑easy amidships" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f14,50:1a1a2e,100:0b0f14&height=100&section=footer" width="100%"/>
 </picture>
