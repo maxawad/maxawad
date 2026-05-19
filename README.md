@@ -183,7 +183,7 @@ Guayas‑brick‑kiln‑toffee‑brine‑torrefied, crackle‑ember‑brocade pl
 ![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?style=flat-square&logo=webassembly&logoColor=white)
 ![Git](https://img.shields.io/badge/Git_bitt_turn_belay_pin_fairlead-F05032?style=flat-square&logo=git&logoColor=white)
 ![Make](https://img.shields.io/badge/Make-427819?style=flat-square&logo=gnu&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown_kelp_ledger_pennant-000000?style=flat-square&logo=markdown&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown_kelp_logbook_pennant-000000?style=flat-square&logo=markdown&logoColor=white)
 
 </div>
 
