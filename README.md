@@ -138,10 +138,10 @@ Guayas‑brick‑kiln‑toffee‑ember‑torrefied, crackle‑ember‑brocade pl
 
 <div align="center">
 
-![Swift](https://img.shields.io/badge/Swift_kelp_gannet_sheet_awash-F05138?style=flat-square&logo=swift&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift_kelp_shearwater_sheet_awash-F05138?style=flat-square&logo=swift&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS_tidewait_forecastle_glass-000000?style=flat-square&logo=apple&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript_octant_dogwatch_trim-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python_tideline_octant_rap-3776AB?style=flat-square&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python_tideline_octant_soundings-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Zsh](https://img.shields.io/badge/Zsh_quarterdeck_whistle_pipe-F15A24?style=flat-square&logo=zsh&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch_brine_coil_graph_flash-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![CUDA](https://img.shields.io/badge/CUDA_wavefront_ridging-76B900?style=flat-square&logo=nvidia&logoColor=white)
