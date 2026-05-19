@@ -169,7 +169,7 @@ Guayas‑brick‑kiln‑toffee‑brine‑torrefied, crackle‑ember‑brocade pl
 ![Stripe](https://img.shields.io/badge/Stripe_tarred_draughtboard_sheet-635BFF?style=flat-square&logo=stripe&logoColor=white)
 ![Homebrew](https://img.shields.io/badge/Homebrew-FBB040?style=flat-square&logo=homebrew&logoColor=black)
 ![Neovim](https://img.shields.io/badge/Neovim_awash_kelp_keel_splices-57A143?style=flat-square&logo=neovim&logoColor=white)
-![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white)
+![Obsidian](https://img.shields.io/badge/Obsidian_margin_weft_star_fix-7C3AED?style=flat-square&logo=obsidian&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP_Aldis_pierhead_heliograph_blink-1e1e2e?style=flat-square)
 ![Anthropic](https://img.shields.io/badge/Anthropic-D4A27F?style=flat-square&logo=anthropic&logoColor=white)
