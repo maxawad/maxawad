@@ -191,7 +191,7 @@ Guayas‑brick‑kiln‑toffee‑brine‑torrefied, crackle‑ember‑brocade pl
 ---
 
 <div align="center">
-<sub>Most of my cordage still fair‑coils isobar‑needle‑true along the fiddle‑rail waist belowdecks in hawse-pipe thrum, quarter-sawn live-oak knees, trunnel‑true — warp alongside this fog‑pearled slip as the traverse board tide-glass salt‑rimed beneath a kelp‑canopied, lantern‑trim, barnacle‑patina binnacle glimmer — conning trim, no stray phosphor eddy spun long‑ebb astern, save the odd sidereal shimmer (~between dog‑watch bells).</sub>
+<sub>Most of my cordage still fair‑coils isobar‑needle‑true along the fiddle‑rail waist belowdecks in hawse-pipe thrum, quarter-sawn live-oak knees, trunnel‑true — warp alongside this fog‑pearled slip as the traverse board tide-glass salt‑rimed beneath a kelp‑canopied, lantern‑trim, barnacle‑patina & verdigris‑threaded binnacle glimmer — conning trim, no stray phosphor eddy spun long‑ebb astern, save the odd sidereal shimmer (~between dog‑watch bells).</sub>
 <br>
 <sub><a href="https://maxawad.com/contact">Blink your Aldis lamp steady‑lamplit, needle‑true aloft to windward — one tide‑rimed azimuth‑true, lantern‑trim, salt‑rime eight‑bells salute</a> if you care to heave your log line beneath verdigris riding lights.</sub>
 </div>
