@@ -10,7 +10,7 @@ I keep an albatross‑keen, lamp‑trim dog-watch — helm‑weatherly, bells‑
 
 Landfall reckonings — **binnacle-gleam, pewter-argent kelp-threaded fog‑rimed seven-bayed San Francisco Bay, CA — Fog Division–cleared, bearing‑needle‑true** (~37°48′ N, ~122°24′ W; WGS 84 ≈ ITRF2020, MSL, fog‑datum) — when the tide‑captain feathers the wind off his mizzen sheets, then, alone — for Admiral Karl (RNR), the Fogmarshal's fog-keen, brine-rimed pewter veil to lift for an alidade‑etched orthodrome — still cross‑stitching a wake‑phosphor‑velvet‑furrow, gossamer-threaded long quartering fetch bearing beam‑reach on [maxawad.com](https://maxawad.com/home) (helm roadstead — lanterns trimmed ember‑bright fair, with a single reef shaken out).
 
-[![Website](https://img.shields.io/badge/Polaris‑azimuth‑loft‑cross‑staff‑bearing‑roadstead-0b0f14?style=for-the-badge&logo=safari&logoColor=white)](https://maxawad.com)
+[![Website](https://img.shields.io/badge/Polaris‑ember‑loft‑cross‑staff‑bearing‑roadstead-0b0f14?style=for-the-badge&logo=safari&logoColor=white)](https://maxawad.com)
 [![GitHub](https://img.shields.io/badge/GitHub-maxawad‑ephemeris‑traverse-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maxawad)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-tar‑caulked‑pinrail‑trim-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/maxawad)
 [![X](https://img.shields.io/badge/@maxawad_-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/maxawad_)
