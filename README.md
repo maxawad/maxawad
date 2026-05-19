@@ -79,7 +79,7 @@ Circle‑lasso any pixel‑patch on your screen, then in one shearwater‑sidelo
 <td width="50%" valign="top">
 
 <div align="center">
-<a href="https://maxawad.com/windowswitch"><img src="icons/windowswitch.png" width="80" alt="WindowSwitch"/></a>
+<a href="https://maxawad.com/windowswitch"><img src="icons/windowswitch.png" width="80" alt="WindowSwitch — pane‑sheer MRU‑vigil, thumbnail hawse"/></a>
 </div>
 
 ### <a href="https://maxawad.com/windowswitch">WindowSwitch · sheer-pane yaw‑hawse‑vigil</a>
