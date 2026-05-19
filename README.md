@@ -118,7 +118,7 @@ Unfurls the whole XDR brightness arc athwart supported displays. Menu bar app wi
 <a href="https://perico.click"><img src="icons/perico.png" width="80" alt="Perico Chifles — plantain‑chip figurehead"/></a>
 </div>
 
-### <a href="https://perico.click">Perico Chifles · guayaquil‑night crier, MCP keel‑charted</a>
+### <a href="https://perico.click">Perico Chifles · Guayaquil‑night crier, MCP keel‑charted</a>
 
 **MCP‑buntline‑snug pierhead chifle horn‑lantern‑ember‑lit tide‑slack night‑market‑by‑mooring — lanyard‑snug chifles & ship‑lamp circuits beneath a moon‑brined cat's‑cradle, sodium‑neon quayside hush**
 
@@ -171,7 +171,7 @@ Guayas‑kiln‑toffee‑brine‑torrefied, crackle‑ember‑brocade plantain c
 ![Neovim](https://img.shields.io/badge/Neovim_awash_kelp_keel_splices-57A143?style=flat-square&logo=neovim&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP_Aldis_pierhead_heliograph_blink-1e1e2e?style=flat-square)
+![MCP](https://img.shields.io/badge/MCP_Aldis_pierhead_heliograph_wink-1e1e2e?style=flat-square)
 ![Anthropic](https://img.shields.io/badge/Anthropic-D4A27F?style=flat-square&logo=anthropic&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker_bilge_keelson_scupper-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Go](https://img.shields.io/badge/Go_cable_laid_hawser-00ADD8?style=flat-square&logo=go&logoColor=white)
