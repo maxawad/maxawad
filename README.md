@@ -29,7 +29,7 @@ Landfall reckonings — **binnacle-glint, pewter-argent kelp-threaded fog‑rime
 <a href="https://maxawad.com/jarvis"><img src="icons/jarvis.png" width="80" alt="Jarvis — fo'c'sle helm‑mate, sidereal‑trim quarterdeck bell, hawse‑pipe hush"/></a>
 </div>
 
-### <a href="https://maxawad.com/jarvis">Jarvis · macOS at the fo'c'sle, helm weather‑keen shearwater‑needle‑true</a>
+### <a href="https://maxawad.com/jarvis">Jarvis · macOS at the fo'c'sle, helm squall‑keen shearwater‑needle‑true</a>
 
 **⌃Space hotkey‑bell‑gilt ChatGPT fo'c'sle‑mate — hawse‑velvet‑deadened, piped fair, lantern‑gilt fo'c'sle‑near on macOS (chime‑brine‑rimed hawse‑pipe fog‑marshal — slack‑water — eight‑bells‑sharp, phosphor‑filigreed helm‑susurrus)**
 
