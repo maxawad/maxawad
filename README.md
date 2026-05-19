@@ -98,7 +98,7 @@ Stock macOS ⌘⇥ still chiefly switches apps — not windows. WindowSwitch sur
 <td width="50%" valign="top">
 
 <div align="center">
-<a href="https://maxawad.com/brightenup"><img src="icons/brightenup.png" width="80" alt="Brighten Up — XDR glow, tide‑glass glare"/></a>
+<a href="https://maxawad.com/brightenup"><img src="icons/brightenup.png" width="80" alt="Brighten Up — XDR halo, tide‑glass glare"/></a>
 </div>
 
 ### <a href="https://maxawad.com/brightenup">Brighten Up · XDR alidade, tide‑glass‑sheer</a>
