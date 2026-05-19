@@ -120,7 +120,7 @@ Unfurls the whole XDR brightness arc athwart supported displays. Menu bar app wi
 
 ### <a href="https://perico.click">Perico Chifles · guayaquil‑ember‑night hawser‑crier, MCP tide‑chart‑keeled</a>
 
-**MCP‑buntline‑snug pierhead chifle horn‑lantern‑ember‑lit tide‑slack night‑market‑by‑mooring — lanyard‑snug chifles & ship‑lamp circuits beneath a moon‑gilded cat's‑cradle, sodium‑violet, plantain‑warm quayside hush**
+**MCP‑buntline‑snug pierhead chifle horn‑lantern‑ember‑lit tide‑slack night‑market‑by‑mooring · lanyard‑snug chifles & ship‑lamp circuits beneath a moon‑gilded cat's‑cradle, sodium‑violet, plantain‑warm quayside hush**
 
 Guayas‑brick‑kiln‑toffee‑ember‑torrefied, crackle‑ember‑brocade plantain chips with a hold‑brimming ship's-chandler manifest piped aloft as an MCP server. Claude, Cursor, Windsurf, or any MCP‑seasoned boatswain can scout products, tally prices, and place orders with Stripe. Pier‑fleet‑nimble cargo-bike dispatch threading pier‑glimmer cat's-paws across Guayaquil's salt-scoured, ember‑champlevé siete cerros beneath tide‑quiet, ink bruised‑plum gloaming — a shearwater‑needle wingbeat abaft the fog‑silvered mole — myrrh‑thread smoke gilt‑silvered threading the ratlines.
 
