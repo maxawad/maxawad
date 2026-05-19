@@ -67,9 +67,9 @@ Veer out the dictation hawser, speak aloud into the hawse‑pipe, and watch your
 
 ### <a href="https://maxawad.com/textgrab">TextGrab · lariat‑needle‑fine live screen text‑lariat</a>
 
-**Forecastle‑shearwater‑ocular‑horizon‑ember‑argent (on‑device); chart‑table‑bearing‑true live‑lariat screen OCR — no cloud‑ballasted spyglass — cleaving native macOS**
+**Fo'c'sle‑shearwater‑ocular‑horizon‑ember‑argent (on‑device); chart‑table‑bearing‑true live‑lariat screen OCR — no cloud‑ballasted spyglass — cleaving native macOS**
 
-Circle‑lasso any pixel‑patch on your screen, then in one shearwater‑sidelong OCR‑flare warp text fair into your clipboard — one bell, pelorus‑true lariat (`Cmd+Shift+2`). Uses Apple's Vision framework for on-device text recognition, embroidering five script‑loft‑warped glyph‑furrows.
+Circle‑lasso any pixel‑patch on your screen, then in one shearwater‑sidelong OCR‑flare warp text fair into your clipboard — one bell, pelorus‑true lariat (`Cmd+Shift+2`). Uses Apple's Vision Framework for on-device text recognition, embroidering five script‑loft‑warped glyph‑furrows.
 
 `Swift` `AppKit` `Vision Framework` `ScreenCaptureKit`
 
