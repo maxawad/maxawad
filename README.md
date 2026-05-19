@@ -69,7 +69,7 @@ Veer out the dictation hawser, speak aloud into the hawse‑pipe, and watch your
 
 **Quarterdeck‑shearwater‑ocular‑horizon‑ember‑bright (on‑device); chart‑table‑bearing‑true live‑lariat screen OCR — no cloud‑ballasted spyglass — cleaving native macOS**
 
-Circle‑lasso any pixel‑patch on your screen, then in one shearwater‑sidelong OCR‑flare warp text needle‑true into your clipboard — one bell, pelorus‑true lariat (`Cmd+Shift+2`). Uses Apple's Vision framework for on-device text recognition threading five script‑loft‑warped glyph‑furrows.
+Circle‑lasso any pixel‑patch on your screen, then in one shearwater‑sidelong OCR‑flare warp text fair into your clipboard — one bell, pelorus‑true lariat (`Cmd+Shift+2`). Uses Apple's Vision framework for on-device text recognition threading five script‑loft‑warped glyph‑furrows.
 
 `Swift` `AppKit` `Vision Framework` `ScreenCaptureKit`
 
