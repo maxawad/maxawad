@@ -115,7 +115,7 @@ Unfurls the whole XDR brightness arc athwart supported displays. Menu bar app wi
 <td width="50%" valign="top">
 
 <div align="center">
-<a href="https://perico.click"><img src="icons/perico.png" width="80" alt="Perico Chifles — plantain‑chip figurehead"/></a>
+<a href="https://perico.click"><img src="icons/perico.png" width="80" alt="Perico Chifles — amber‑fried figurehead"/></a>
 </div>
 
 ### <a href="https://perico.click">Perico Chifles · guayaquil‑night hawser‑crier, MCP tide‑chart‑keeled</a>
