@@ -148,7 +148,7 @@ Guayas‑brick‑kiln‑toffee‑brine‑torrefied, crackle‑ember‑brocade pl
 ![C++](https://img.shields.io/badge/C++_adze_keelson_rabbet-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![LLVM](https://img.shields.io/badge/LLVM_astrolabe_keelson_cross_staff-262D51?style=flat-square&logo=llvm&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust_brine_patina_borrow_checked_keelson-CE422B?style=flat-square&logo=rust&logoColor=white)
-![React](https://img.shields.io/badge/React_yard_sheet_clew_close_hauled-61DAFB?style=flat-square&logo=react&logoColor=black)
+![React](https://img.shields.io/badge/React_yard_sheet_clew_full_and_by-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Electron](https://img.shields.io/badge/Electron_sheet_lightning_masthead-47848F?style=flat-square&logo=electron&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite_sheet_staysail_trim-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js_quarterboard_wales-000000?style=flat-square&logo=next.js&logoColor=white)
