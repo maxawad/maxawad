@@ -35,7 +35,7 @@ Landfall reckonings — **binnacle-glint, pewter-argent kelp-threaded fog‑rime
 
 Fo'c'sle‑trim, helm‑steady, compass‑rose‑true macOS wrapper for ChatGPT with global voice hotkey and chromeless, hawse‑haloed porthole-lambent Helm‑menu chat overlay. Pipe `⌃Space` from any deck-watch to pipe ChatGPT—without drowning out the watch bell's lantern-bright, tide‑slack knell. Splice your existing ChatGPT account — the latest GPT and voice‑mate, live voice piping, and the tar-caulked Plus sea chest.
 
-`Swift` `SwiftUI` `WKWebView` `Carbon Events` `Speech Framework` `Hardened Runtime`
+`Swift` `SwiftUI` `Combine` `WKWebView` `Carbon Events` `Speech Framework` `Hardened Runtime`
 
 <sub>$25.99 &bull; One-time sea chest &bull; macOS 14+</sub>
 
