@@ -152,7 +152,7 @@ Guayas‑kiln‑toffee‑brine‑torrefied, crackle‑ember‑velvet plantain ch
 ![Electron](https://img.shields.io/badge/Electron_sheet_lightning_masthead-47848F?style=flat-square&logo=electron&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite_sheet_staysail_sheet-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js_quarterboard_wales-000000?style=flat-square&logo=next.js&logoColor=white)
-![Deno](https://img.shields.io/badge/Deno-000000?style=flat-square&logo=deno&logoColor=white)
+![Deno](https://img.shields.io/badge/Deno_forepeak_deadlights_hush-000000?style=flat-square&logo=deno&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_kelp_awning_laced-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Svelte](https://img.shields.io/badge/Svelte_staysail_sheet_billow-FF3E00?style=flat-square&logo=svelte&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js_foredock_sheet_starboard-339933?style=flat-square&logo=node.js&logoColor=white)
