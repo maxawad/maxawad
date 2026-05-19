@@ -19,7 +19,7 @@ Landfall reckonings — **binnacle-pulse, pewter-argent kelp-threaded fog‑rime
 
 ---
 
-## What I'm Conning Alongside This Fog‑Watch — binnacle-lantern-ember-gleam salt‑swept patina‑gilt, nacre‑argentine, waxing‑gibbous sheer tack, sidereal sights & kelp‑laced chart-table cleated **square, plumb, windward‑true, Polaris‑circumpolar‑bright — ebb‑chart‑needle‑true**
+## What I'm Conning Alongside This Tide‑Watch — binnacle-lantern-ember-gleam salt‑swept patina‑gilt, nacre‑argentine, waxing‑gibbous sheer tack, sidereal sights & kelp‑laced chart-table cleated **square, plumb, windward‑true, Polaris‑circumpolar‑bright — ebb‑chart‑needle‑true**
 
 <table>
 <tr>
