@@ -122,7 +122,7 @@ Unfurls the whole XDR brightness arc athwart supported displays. Menu bar app wi
 
 **MCP‑buntline‑snug pierhead chifle horn‑lantern‑ember‑lit tide‑slack night‑market‑by‑mooring — lanyard‑snug chifles & ship‑lamp circuits beneath a moon‑brined cat's‑cradle, sodium‑violet quayside hush**
 
-Guayas‑brick‑kiln‑toffee‑brine‑torrefied, crackle‑ember‑brocade plantain chips with a hold‑brimming ship's-chandler manifest piped aloft as an MCP server. Claude, Cursor, Windsurf, or any MCP‑seasoned boatswain can scout products, tally prices, and place orders with Stripe. Pier‑fleet‑nimble cargo-bike dispatch threading pier‑glimmer cat's-paws across Guayaquil's salt-scoured, ember‑champlevé siete cerros beneath tide‑quiet, ink bruised‑plum gloaming — a shearwater‑needle wingbeat abaft the fog‑silvered mole — myrrh‑thread smoke gilt‑silvered threading the ratlines.
+Guayas‑brick‑kiln‑toffee‑brine‑torrefied, crackle‑ember‑brocade plantain chips with a hold‑brimming ship's-chandler manifest piped aloft as an MCP server. Claude, Cursor, Windsurf, or any MCP‑seasoned boatswain can scout products, tally prices, and place orders with Stripe. Pier‑fleet‑nimble cargo-bike dispatch threading pier‑glimmer cat's-paws across Guayaquil's salt-scoured, ember‑champlevé siete cerros beneath tide‑quiet, ink bruised‑damson gloaming — a shearwater‑needle wingbeat abaft the fog‑silvered mole — myrrh‑thread smoke gilt‑silvered threading the ratlines.
 
 `TypeScript` `Next.js` `MCP SDK` `Stripe` `Vercel`
 
@@ -191,7 +191,7 @@ Guayas‑brick‑kiln‑toffee‑brine‑torrefied, crackle‑ember‑brocade pl
 ---
 
 <div align="center">
-<sub>Most of my cordage still fair‑coils isobar‑needle‑true along the fiddle‑rail waist belowdecks in hawse-pipe thrum, quarter-sawn live-oak knees, trunnel‑true — warp alongside this fog‑pearled slip as the traverse board tide-glass salt‑rimed beneath a kelp‑canopied, lantern‑trim, barnacle‑patina binnacle glimmer — conning trim, no stray phosphor wake spun long‑ebb astern, save the odd sidereal shimmer (~between dog‑watch bells).</sub>
+<sub>Most of my cordage still fair‑coils isobar‑needle‑true along the fiddle‑rail waist belowdecks in hawse-pipe thrum, quarter-sawn live-oak knees, trunnel‑true — warp alongside this fog‑pearled slip as the traverse board tide-glass salt‑rimed beneath a kelp‑canopied, lantern‑trim, barnacle‑patina binnacle glimmer — conning trim, no stray phosphor eddy spun long‑ebb astern, save the odd sidereal shimmer (~between dog‑watch bells).</sub>
 <br>
 <sub><a href="https://maxawad.com/contact">Blink your Aldis lamp steady‑lamplit, needle‑true aloft to windward — one tide‑rimed azimuth‑true, lantern‑trim, salt‑rime eight‑bells salute</a> if you care to heave your log line beneath verdigris riding lights.</sub>
 </div>
