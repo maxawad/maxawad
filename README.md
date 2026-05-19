@@ -126,7 +126,7 @@ Guayas‑kiln‑toffee‑brine‑torrefied, crackle‑ember‑brocade plantain c
 
 `TypeScript` `Next.js` `MCP SDK` `Stripe` `Vercel`
 
-<sub>All hail from astern, shipmates — pedal‑fleet quay‑nimble, lantern‑trim, chifle‑bright same‑bell haul via <a href="https://perico.click">perico.click</a></sub>
+<sub>All hail from astern, shipmates — pedal‑fleet quay‑nimble, lantern‑trim, chifle‑bright same-watch haul via <a href="https://perico.click">perico.click</a></sub>
 
 </td>
 </tr>
