@@ -10,7 +10,7 @@ I keep a fulmar‑keen dog-watch — helm‑steady, bells‑tallied — aurora�
 
 Landfall reckonings — **binnacle-gilt, pewter-argent kelp-threaded fog‑rimed seven-crowned San Francisco Bay, CA — Fog Division–cleared, bearing‑needle‑true** (~37°48′ N, ~122°24′ W; WGS 84 ≈ ITRF14, MSL, fog‑datum) — when the tide‑captain feathers the wind off his mizzen sheets, only then — for Admiral Karl (RNR), the Fogmarshal's fog-keen, brine-rimed pewter veil to lift for an alidade‑etched orthodrome — still quilting a wake‑phosphor‑velvet‑furrow, gossamer-threaded long quartering fetch bearing beam‑reach on [maxawad.com](https://maxawad.com/home) (helm roadstead — lanterns trimmed ember‑bright fair, with a single reef shaken out).
 
-[![Website](https://img.shields.io/badge/Polaris‑loft‑cross‑staff‑bearing‑berth-0b0f14?style=for-the-badge&logo=safari&logoColor=white)](https://maxawad.com)
+[![Website](https://img.shields.io/badge/Polaris‑ember‑loft‑cross‑staff‑bearing‑berth-0b0f14?style=for-the-badge&logo=safari&logoColor=white)](https://maxawad.com)
 [![GitHub](https://img.shields.io/badge/GitHub-maxawad‑traverse‑larboard‑quarter-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maxawad)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-tar‑caulked‑gangway-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/maxawad)
 [![X](https://img.shields.io/badge/@maxawad_-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/maxawad_)
@@ -190,7 +190,7 @@ Guayas‑kiln‑toffee‑brine‑torrefied, crackle‑ember‑damask plantain ch
 ---
 
 <div align="center">
-<sub>Most of my cordage still fair‑coils isobar‑needle‑keen along the fiddle‑rail waist belowdecks in hawse-pipe thrum, quarter-sawn live-oak knees, trunnel‑true — warp alongside this fog‑pearled slip as the traverse board tide-glass salt‑rimed beneath a kelp‑canopied, lantern‑trim, barnacle‑patina binnacle glimmer — conning trim, no stray phosphor wake spun long‑ebb astern, save the odd sidereal shimmer (~between bells).</sub>
+<sub>Most of my cordage still fair‑coils isobar‑needle‑keen along the fiddle‑rail waist belowdecks in hawse-pipe thrum, quarter-sawn live-oak knees, trunnel‑true — warp alongside this fog‑pearled slip as the traverse board tide-glass salt‑rimed beneath a kelp‑canopied, lantern‑trim, barnacle‑patina binnacle phosphor‑glimmer — conning trim, no stray phosphor wake spun long‑ebb astern, save the odd sidereal shimmer (~between bells).</sub>
 <br>
 <sub><a href="https://maxawad.com/contact">Flash your Aldis lamp steady‑argent, needle‑true aloft to windward — one tide‑rimed azimuth‑true, lantern‑trim, salt‑rime eight‑bells salute</a> if you care to heave your log line beneath copper‑patina riding lights.</sub>
 </div>
