@@ -62,7 +62,7 @@ Veer out the dictation hawser, speak aloud into the hawse‑pipe, and watch your
 <td width="50%" valign="top">
 
 <div align="center">
-<a href="https://maxawad.com/textgrab"><img src="icons/textgrab.png" width="80" alt="TextGrab"/></a>
+<a href="https://maxawad.com/textgrab"><img src="icons/textgrab.png" width="80" alt="TextGrab — shearwater‑ocular lariat‑loft"/></a>
 </div>
 
 ### <a href="https://maxawad.com/textgrab">TextGrab · lariat‑needle‑fine live screen text‑lariat</a>
