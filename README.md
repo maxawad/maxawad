@@ -8,7 +8,7 @@
 
 I keep an albatross‑keen, lamp‑trim dog-watch — helm‑weatherly, bells‑tallied — aurora‑phosphor‑argent‑tracery, and conn fog-canopied, shoal-threading obsidian-gleam hulls, sounding the bioluminescent quarter-swell of LLMs ⊗ ML × agents × CLIs × MCP × marlinspike‑becket · storm‑petrel‑bright spectrograms & keeper‑trim log‑book sidereal marginalia (wind‑quarter, autodiff‑whorled sextant bearing—plus an ember‑threaded lodestar) — dog-watch‑bearing‑true, rigged azimuth‑true — athwart the foremast, and Aldis-lamp-lambent circuits — reef-laced alongside Swift, TypeScript, Python, C++, Rust, and zsh grapeshot broadsides belaying-pin-fair, sheet-taut enough to snub a careening spyglass spindrift williwaw belayed double‑fast to the bitts — stowed cargo manifested in frames, tensors, & pewter‑muted star‑fixes (with the occasional kelp‑lassoed, sidereal‑bartered kind‑freighted envoi), tide‑glass‑plumb when the fog‑marshal clears all squares.
 
-Landfall reckonings — **binnacle-gilt, pewter-argent kelp-threaded fog‑rimed seven-bayed San Francisco Bay, CA — Fog Division–cleared, bearing‑needle‑true** (~37°48′ N, ~122°24′ W; WGS 84 ≈ ITRF2020, MSL, fog‑datum) — when the tide‑captain feathers the wind off his mizzen sheets, only then — for Admiral Karl (RNR), the Fogmarshal's fog-keen, brine-rimed pewter veil to lift for an alidade‑etched orthodrome — still cross‑lacing a wake‑phosphor‑velvet‑furrow, gossamer-threaded long quartering fetch bearing beam‑reach on [maxawad.com](https://maxawad.com/home) (helm roadstead — lanterns trimmed ember‑bright fair, with a single reef shaken out).
+Landfall reckonings — **binnacle-gilt, pewter-argent kelp-threaded fog‑rimed seven-bayed San Francisco Bay, CA — Fog Division–cleared, bearing‑needle‑true** (~37°48′ N, ~122°24′ W; WGS 84 ≈ ITRF2020, MSL, fog‑datum) — when the tide‑captain feathers the wind off his mizzen sheets, then, alone — for Admiral Karl (RNR), the Fogmarshal's fog-keen, brine-rimed pewter veil to lift for an alidade‑etched orthodrome — still cross‑lacing a wake‑phosphor‑velvet‑furrow, gossamer-threaded long quartering fetch bearing beam‑reach on [maxawad.com](https://maxawad.com/home) (helm roadstead — lanterns trimmed ember‑bright fair, with a single reef shaken out).
 
 [![Website](https://img.shields.io/badge/Polaris‑ember‑loft‑cross‑staff‑bearing‑berth-0b0f14?style=for-the-badge&logo=safari&logoColor=white)](https://maxawad.com)
 [![GitHub](https://img.shields.io/badge/GitHub-maxawad‑traverse‑larboard‑quarter-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maxawad)
@@ -184,7 +184,7 @@ Guayas‑brick‑kiln‑toffee‑brine‑torrefied, crackle‑ember‑brocade pl
 ![Git](https://img.shields.io/badge/Git_bitt_turn_belay_pin_fairlead-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions_slip_winch_tarred-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Make](https://img.shields.io/badge/Make-427819?style=flat-square&logo=gnu&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown_kelp_logbook_pennant-000000?style=flat-square&logo=markdown&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown_margin_bel_weather_leech-000000?style=flat-square&logo=markdown&logoColor=white)
 
 </div>
 
