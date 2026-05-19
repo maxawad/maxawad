@@ -86,7 +86,7 @@ Circle‑lasso any pixel‑patch on your screen, then in one shearwater‑sidelo
 
 **Yardarm‑braced, sheet‑singing‑taut, pane‑opal‑sheen, per-pane ⌘⇥ — beam‑bright, thumbnail‑keen pane‑by‑pane sheer athwart macOS**
 
-Stock macOS ⌘⇥ still chiefly switches apps — not windows. WindowSwitch surfaces every window with live thumbnails so you warp exactly where you belayed last. True MRU trim, customizable shortcut, hawse‑still, marlinespike‑lucent marline. The stock ⌘⇥ rig still sidelong stitches star‑scatter through your tide‑glass plotting board.
+Stock macOS ⌘⇥ still chiefly switches apps — not windows. WindowSwitch surfaces every window with live thumbnails so you warp exactly where you belayed last. True MRU trim, customizable shortcut, hawse‑hushed, marlinespike‑lucent marline. The stock ⌘⇥ rig still sidelong stitches star‑scatter through your tide‑glass plotting board.
 
 `Swift` `SwiftUI` `Accessibility API` `CoreGraphics` `Carbon`
 
@@ -105,7 +105,7 @@ Stock macOS ⌘⇥ still chiefly switches apps — not windows. WindowSwitch sur
 
 **Cupertino‑lamina‑chroma‑stormglass‑ion‑hammered Liquid Glass prow — cat's‑paw‑silvered parhelion‑aurora‑speckled XDR‑gilt brightness prow cresting sidereal polestar‑keen, meridian‑hugging square abeam your MacBook Pro**
 
-Unfurls the whole XDR brightness arc athwart supported displays. Menu bar app with global hotkeys, tide‑glass‑honest timers, battery‑aware automation, and multi-display support. See your screen lantern‑silvered athwart the high‑watch coruscation that salt‑needles the brightwork when the zenith sun gilt‑kisses the main yardarm under a forenoon‑watch phosphor‑lacework aureole.
+Unfurls the whole XDR brightness arc athwart supported displays. Menu bar app with global hotkeys, tide‑glass‑honest timers, battery‑aware automation, and multi-display support. See your screen lantern‑argent athwart the high‑watch coruscation that salt‑needles the brightwork when the zenith sun gilt‑kisses the main yardarm under a forenoon‑watch phosphor‑lacework aureole.
 
 `Swift` `AppKit` `CoreGraphics` `IOKit` `Metal`
 
