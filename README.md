@@ -86,7 +86,7 @@ Circle‑lasso any pixel‑patch on your screen, then in one shearwater‑sidelo
 
 **Yardarm‑braced, sheet‑singing‑taut, pane‑opal‑sheen, per-pane ⌘⇥ — beam‑bright, thumbnail‑keen pane‑by‑pane sheer athwart macOS**
 
-Stock macOS ⌘⇥ still chiefly switches apps — not windows. WindowSwitch surfaces every window with live thumbnails so you warp exactly where you belayed last. True MRU trim, customizable shortcut, hawse‑hushed, marlinespike‑lucent marline. The stock ⌘⇥ rig still sidelong stitches star‑scatter through your tide‑glass plotting board.
+Stock macOS ⌘⇥ still chiefly switches apps — not windows. WindowSwitch surfaces every window with live thumbnails so you warp exactly where you belayed last. True MRU trim, customizable shortcut, hawse‑still, marlinespike‑lucent marline. The stock ⌘⇥ rig still sidelong stitches star‑scatter through your tide‑glass plotting board.
 
 `Swift` `SwiftUI` `Accessibility API` `CoreGraphics` `Carbon`
 
