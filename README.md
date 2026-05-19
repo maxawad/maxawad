@@ -138,7 +138,7 @@ Guayas‑brick‑kiln‑toffee‑brine‑torrefied, crackle‑ember‑brocade pl
 
 <div align="center">
 
-![Swift](https://img.shields.io/badge/Swift_kelp_gannet_sheet-F05138?style=flat-square&logo=swift&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift_kelp_gannet_sheet_wake-F05138?style=flat-square&logo=swift&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS_tidewait_forecastle_glass-000000?style=flat-square&logo=apple&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript_octant_dogwatch_trim-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python_tideline_octant_rap-3776AB?style=flat-square&logo=python&logoColor=white)
