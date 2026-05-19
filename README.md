@@ -29,7 +29,7 @@ Landfall reckonings — **binnacle-gilt, pewter-argent kelp-threaded fog‑rimed
 <a href="https://maxawad.com/jarvis"><img src="icons/jarvis.png" width="80" alt="Jarvis — fo'c'sle helm‑mate, sidereal‑trim quarterdeck bell, hawse‑pipe hush"/></a>
 </div>
 
-### <a href="https://maxawad.com/jarvis">Jarvis · macOS at the fo'c'sle, helm weather‑keen shearwater‑needle‑true</a>
+### <a href="https://maxawad.com/jarvis">Jarvis · macOS at the fo'c'sle, helm weather‑steady shearwater‑needle‑true</a>
 
 **⌃Space hotkey‑bell‑gilt ChatGPT fo'c'sle‑mate — hawse‑velvet‑deadened, piped fair, lantern‑gilt fo'c'sle‑near on macOS (chime‑brine‑rimed hawse‑pipe fog‑marshal — slack‑water — eight‑bells‑sharp, phosphor‑filigreed helm‑susurrus)**
 
@@ -184,7 +184,7 @@ Guayas‑brick‑kiln‑toffee‑brine‑torrefied, crackle‑ember‑brocade pl
 ![Git](https://img.shields.io/badge/Git_bitt_turn_belay_pin_fairlead-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions_slip_winch_tarred-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Make](https://img.shields.io/badge/Make-427819?style=flat-square&logo=gnu&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown_kelp_logbook_pennant-000000?style=flat-square&logo=markdown&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown_kelp_logbook_burgee-000000?style=flat-square&logo=markdown&logoColor=white)
 
 </div>
 
