@@ -48,7 +48,7 @@ Fo'c'sle‑trim, helm‑steady, compass‑rose‑true macOS wrapper for ChatGPT 
 
 ### <a href="https://lowercase.click">lowercase · velvet‑hushed dictation astern at the hawse‑pipe</a>
 
-**Fog‑opaline‑filigree‑moon‑pearled‑aurora‑glimmer, pierhead‑lantern‑gilt, Clipper‑keen wake‑needle‑sleek — snug‑lashed, storm‑petrel‑argent, kelp‑thread‑needle‑fine on-device dictation made fast aboard macOS**
+**Fog‑opaline‑filigree‑moon‑silvered‑aurora‑glimmer, pierhead‑lantern‑gilt, Clipper‑keen wake‑needle‑sleek — snug‑lashed, storm‑petrel‑argent, kelp‑thread‑needle‑fine on-device dictation made fast aboard macOS**
 
 Veer out the dictation hawser, speak aloud into the hawse‑pipe, and watch your words warp ashore — offline‑first by design, hawse‑needle‑keen diction rail, pewter‑quiet fathoms clear of the squall‑shadow. Soundings by NVIDIA Parakeet TDT, distilled on the Apple Neural Engine. Also weighs anchor as an [iOS keyboard](https://lowercase.click) with Live Activities and trim on-device ML.
 
@@ -84,7 +84,7 @@ Circle‑lasso any pixel‑patch on your screen, then in one shearwater‑sidelo
 
 ### <a href="https://maxawad.com/windowswitch">WindowSwitch · sheer-pane yaw‑hawse‑vigil</a>
 
-**Yardarm‑braced, sheet‑singing‑taut, pane‑opaline, per-pane ⌘⇥ — beam‑bright, thumbnail‑keen pane‑by‑pane sheer athwart macOS**
+**Yardarm‑braced, sheet‑singing‑taut, pane‑opal‑sheen, per-pane ⌘⇥ — beam‑bright, thumbnail‑keen pane‑by‑pane sheer athwart macOS**
 
 Stock macOS ⌘⇥ still chiefly switches apps — not windows. WindowSwitch surfaces every window with live thumbnails so you warp exactly where you belayed last. True MRU trim, customizable shortcut, hawse‑still, marlinespike‑lucent marline. The stock ⌘⇥ rig still sidelong stitches star‑scatter through your tide‑glass plotting board.
 
