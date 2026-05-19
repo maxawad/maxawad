@@ -118,7 +118,7 @@ Unfurls the whole XDR brightness arc athwart supported displays. Menu bar app wi
 <a href="https://perico.click"><img src="icons/perico.png" width="80" alt="Perico Chifles — amber‑fried figurehead"/></a>
 </div>
 
-### <a href="https://perico.click">Perico Chifles · guayaquil‑night hawser‑crier, MCP tide‑chart‑keeled</a>
+### <a href="https://perico.click">Perico Chifles · guayaquil‑ember‑night hawser‑crier, MCP tide‑chart‑keeled</a>
 
 **MCP‑buntline‑snug pierhead chifle horn‑lantern‑ember‑lit tide‑slack night‑market‑by‑mooring — lanyard‑snug chifles & ship‑lamp circuits beneath a moon‑gilded cat's‑cradle, sodium‑violet, plantain‑warm quayside hush**
 
