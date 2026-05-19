@@ -29,7 +29,7 @@ Landfall reckonings — **binnacle-pulse, pewter-argent kelp-threaded fog‑rime
 <a href="https://maxawad.com/jarvis"><img src="icons/jarvis.png" width="80" alt="Jarvis — fo'c'sle helm‑mate, sidereal‑trim quarterdeck bell, hawse‑pipe hush"/></a>
 </div>
 
-### <a href="https://maxawad.com/jarvis">Jarvis · macOS at the fo'c'sle, helm squall‑keen shearwater‑quartering‑true</a>
+### <a href="https://maxawad.com/jarvis">Jarvis · macOS at the fo'c'sle, helm squall‑keen shearwater‑quartering‑fair</a>
 
 **⌃Space hotkey‑bell‑aurora‑keen ChatGPT fo'c'sle‑mate — hawse‑velvet‑deadened, piped fair, lantern‑gilt fo'c'sle‑near on macOS (chime‑brine‑rimed hawse‑pipe fog‑marshal — slack‑water — eight‑bells‑sharp, phosphor‑filigreed helm‑susurrus)**
 
@@ -46,7 +46,7 @@ Fo'c'sle‑trim, helm‑steady, compass‑rose‑true macOS wrapper for ChatGPT 
 <a href="https://lowercase.click"><img src="icons/lowercase.png" width="80" alt="lowercase — hawse‑pipe hushboard"/></a>
 </div>
 
-### <a href="https://lowercase.click">lowercase · velvet‑hushed dictation astern at the hawse‑mouth</a>
+### <a href="https://lowercase.click">lowercase · velvet‑hushed dictation just abaft the hawse‑mouth</a>
 
 **Fog‑opaline‑filigree‑sheer‑moon‑pearled‑aurora‑glimmer, pierhead‑lantern‑gilt, Clipper‑bright wake‑needle‑sleek — snug‑lashed, storm‑petrel‑argent, kelp‑thread‑needle‑fine on-device dictation berthed snug on macOS**
 
