@@ -8,9 +8,9 @@
 
 I build native apps, AI tools, and infra — mostly in Swift, TypeScript, Python, and C++.
 
-Currently based in **San Francisco, CA**. Shipping products at [maxawad.com](https://maxawad.com).
+Brooklyn-born. Shipping products at [maxawad.imake.lol](https://maxawad.imake.lol).
 
-[![Website](https://img.shields.io/badge/maxawad.com-0b0f14?style=for-the-badge&logo=safari&logoColor=white)](https://maxawad.com)
+[![Website](https://img.shields.io/badge/maxawad.imake.lol-0b0f14?style=for-the-badge&logo=safari&logoColor=white)](https://maxawad.imake.lol)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/maxawad)
 [![X](https://img.shields.io/badge/@maxawad__-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/maxawad_)
 
@@ -25,10 +25,10 @@ Currently based in **San Francisco, CA**. Shipping products at [maxawad.com](htt
 <td width="50%" valign="top">
 
 <div align="center">
-<a href="https://maxawad.com/jarvis"><img src="icons/jarvis.png" width="80" alt="Jarvis"/></a>
+<a href="https://maxawad.imake.lol/jarvis"><img src="icons/jarvis.png" width="80" alt="Jarvis"/></a>
 </div>
 
-### <a href="https://maxawad.com/jarvis">Jarvis</a>
+### <a href="https://maxawad.imake.lol/jarvis">Jarvis</a>
 
 **ChatGPT voice chat for macOS**
 
@@ -61,10 +61,10 @@ Press the dictation key, speak, and watch your words appear — offline, fast, p
 <td width="50%" valign="top">
 
 <div align="center">
-<a href="https://maxawad.com/textgrab"><img src="icons/textgrab.png" width="80" alt="TextGrab"/></a>
+<a href="https://maxawad.imake.lol/textgrab"><img src="icons/textgrab.png" width="80" alt="TextGrab"/></a>
 </div>
 
-### <a href="https://maxawad.com/textgrab">TextGrab</a>
+### <a href="https://maxawad.imake.lol/textgrab">TextGrab</a>
 
 **Screen OCR for macOS**
 
@@ -78,10 +78,10 @@ Select any region on your screen and instantly extract text to your clipboard. O
 <td width="50%" valign="top">
 
 <div align="center">
-<a href="https://maxawad.com/windowswitch"><img src="icons/windowswitch.png" width="80" alt="WindowSwitch"/></a>
+<a href="https://maxawad.imake.lol/windowswitch"><img src="icons/windowswitch.png" width="80" alt="WindowSwitch"/></a>
 </div>
 
-### <a href="https://maxawad.com/windowswitch">WindowSwitch</a>
+### <a href="https://maxawad.imake.lol/windowswitch">WindowSwitch</a>
 
 **Per-window Cmd+Tab for macOS**
 
@@ -97,10 +97,10 @@ macOS Cmd+Tab only switches apps. WindowSwitch shows every window with live thum
 <td width="50%" valign="top">
 
 <div align="center">
-<a href="https://maxawad.com/brightenup"><img src="icons/brightenup.png" width="80" alt="Brighten Up"/></a>
+<a href="https://maxawad.imake.lol/brightenup"><img src="icons/brightenup.png" width="80" alt="Brighten Up"/></a>
 </div>
 
-### <a href="https://maxawad.com/brightenup">Brighten Up</a>
+### <a href="https://maxawad.imake.lol/brightenup">Brighten Up</a>
 
 **Push MacBook Pro beyond max brightness**
 
@@ -159,7 +159,7 @@ Ecuadorian plantain chips with a full product catalog exposed as an MCP server. 
 <div align="center">
 <sub>Most of my work lives in private repos — this profile highlights recent shipped products.</sub>
 <br>
-<sub><a href="https://maxawad.com/contact">Book a call</a> if you'd like to work together.</sub>
+<sub><a href="https://maxawad.imake.lol/contact">Book a call</a> if you'd like to work together.</sub>
 </div>
 
 <picture>
